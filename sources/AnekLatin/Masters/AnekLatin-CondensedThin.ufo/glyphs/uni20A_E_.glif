@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20AE" format="2">
+  <advance width="533"/>
+  <unicode hex="20AE"/>
+  <anchor x="267" y="0" name="bottom"/>
+  <anchor x="267" y="639" name="center"/>
+  <anchor x="267" y="1278" name="top"/>
+  <outline>
+    <contour>
+      <point x="462" y="923" type="line"/>
+      <point x="71" y="689" type="line"/>
+      <point x="71" y="652" type="line"/>
+      <point x="462" y="886" type="line"/>
+    </contour>
+    <contour>
+      <point x="462" y="616" type="line"/>
+      <point x="71" y="382" type="line"/>
+      <point x="71" y="345" type="line"/>
+      <point x="462" y="579" type="line"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

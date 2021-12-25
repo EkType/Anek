@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="500">
+      <map input="100" output="100"/>
+      <map input="200" output="206"/>
+      <map input="300" output="312"/>
+      <map input="400" output="414"/>
+      <map input="500" output="500"/>
+      <map input="600" output="615"/>
+      <map input="700" output="709"/>
+      <map input="800" output="800"/>
+    </axis>
+    <axis tag="wdth" name="Width" minimum="75" maximum="125" default="100"/>
+  </axes>
+  <sources>
+    <source filename="AnekLatin-CondensedThin.ufo" name="Anek Latin Condensed Thin" familyname="Anek Latin" stylename="Condensed Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekLatin-CondensedMedium.ufo" name="Anek Latin Condensed Medium" familyname="Anek Latin" stylename="Condensed Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekLatin-CondensedExtraBold.ufo" name="Anek Latin Condensed ExtraBold" familyname="Anek Latin" stylename="Condensed ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekLatin-Thin.ufo" name="Anek Latin Thin" familyname="Anek Latin" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekLatin-Medium.ufo" name="Anek Latin Medium" familyname="Anek Latin" stylename="Medium">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekLatin-ExtraBold.ufo" name="Anek Latin ExtraBold" familyname="Anek Latin" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekLatin-ExpandedThin.ufo" name="Anek Latin Expanded Thin" familyname="Anek Latin" stylename="Expanded Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+    <source filename="AnekLatin-ExpandedMedium.ufo" name="Anek Latin Expanded Medium" familyname="Anek Latin" stylename="Expanded Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+    <source filename="AnekLatin-ExpandedExtraBold.ufo" name="Anek Latin Expanded ExtraBold" familyname="Anek Latin" stylename="Expanded ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Anek Latin Condensed Thin" familyname="Anek Latin" stylename="Condensed Thin" filename="instance_ufo/AnekLatin-CondensedThin.ufo" stylemapfamilyname="Anek Latin Condensed Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Condensed ExtraLight" familyname="Anek Latin" stylename="Condensed ExtraLight" filename="instance_ufo/AnekLatin-CondensedExtraLight.ufo" stylemapfamilyname="Anek Latin Condensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Condensed Light" familyname="Anek Latin" stylename="Condensed Light" filename="instance_ufo/AnekLatin-CondensedLight.ufo" stylemapfamilyname="Anek Latin Condensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Condensed" familyname="Anek Latin" stylename="Condensed" filename="instance_ufo/AnekLatin-Condensed.ufo" stylemapfamilyname="Anek Latin Condensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Condensed Medium" familyname="Anek Latin" stylename="Condensed Medium" filename="instance_ufo/AnekLatin-CondensedMedium.ufo" stylemapfamilyname="Anek Latin Condensed Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Condensed SemiBold" familyname="Anek Latin" stylename="Condensed SemiBold" filename="instance_ufo/AnekLatin-CondensedSemiBold.ufo" stylemapfamilyname="Anek Latin Condensed SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Condensed Bold" familyname="Anek Latin" stylename="Condensed Bold" filename="instance_ufo/AnekLatin-CondensedBold.ufo" stylemapfamilyname="Anek Latin Condensed Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Condensed ExtraBold" familyname="Anek Latin" stylename="Condensed ExtraBold" filename="instance_ufo/AnekLatin-CondensedExtraBold.ufo" stylemapfamilyname="Anek Latin Condensed ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiCondensed Thin" familyname="Anek Latin" stylename="SemiCondensed Thin" filename="instance_ufo/AnekLatin-SemiCondensedThin.ufo" stylemapfamilyname="Anek Latin SemiCondensed Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiCondensed ExtraLight" familyname="Anek Latin" stylename="SemiCondensed ExtraLight" filename="instance_ufo/AnekLatin-SemiCondensedExtraLight.ufo" stylemapfamilyname="Anek Latin SemiCondensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiCondensed Light" familyname="Anek Latin" stylename="SemiCondensed Light" filename="instance_ufo/AnekLatin-SemiCondensedLight.ufo" stylemapfamilyname="Anek Latin SemiCondensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiCondensed" familyname="Anek Latin" stylename="SemiCondensed" filename="instance_ufo/AnekLatin-SemiCondensed.ufo" stylemapfamilyname="Anek Latin SemiCondensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiCondensed Medium" familyname="Anek Latin" stylename="SemiCondensed Medium" filename="instance_ufo/AnekLatin-SemiCondensedMedium.ufo" stylemapfamilyname="Anek Latin SemiCondensed Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiCondensed SemiBold" familyname="Anek Latin" stylename="SemiCondensed SemiBold" filename="instance_ufo/AnekLatin-SemiCondensedSemiBold.ufo" stylemapfamilyname="Anek Latin SemiCondensed Regular" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiCondensed Bold" familyname="Anek Latin" stylename="SemiCondensed Bold" filename="instance_ufo/AnekLatin-SemiCondensedBold.ufo" stylemapfamilyname="Anek Latin SemiCondensed Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiCondensed ExtraBold" familyname="Anek Latin" stylename="SemiCondensed ExtraBold" filename="instance_ufo/AnekLatin-SemiCondensedExtraBold.ufo" stylemapfamilyname="Anek Latin SemiCondensed ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Thin" familyname="Anek Latin" stylename="Thin" filename="instance_ufo/AnekLatin-Thin.ufo" stylemapfamilyname="Anek Latin Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin ExtraLight" familyname="Anek Latin" stylename="ExtraLight" filename="instance_ufo/AnekLatin-ExtraLight.ufo" stylemapfamilyname="Anek Latin ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Light" familyname="Anek Latin" stylename="Light" filename="instance_ufo/AnekLatin-Light.ufo" stylemapfamilyname="Anek Latin Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Regular" familyname="Anek Latin" stylename="Regular" filename="instance_ufo/AnekLatin-Regular.ufo" stylemapfamilyname="Anek Latin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Medium" familyname="Anek Latin" stylename="Medium" filename="instance_ufo/AnekLatin-Medium.ufo" stylemapfamilyname="Anek Latin Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiBold" familyname="Anek Latin" stylename="SemiBold" filename="instance_ufo/AnekLatin-SemiBold.ufo" stylemapfamilyname="Anek Latin SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Bold" familyname="Anek Latin" stylename="Bold" filename="instance_ufo/AnekLatin-Bold.ufo" stylemapfamilyname="Anek Latin" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin ExtraBold" familyname="Anek Latin" stylename="ExtraBold" filename="instance_ufo/AnekLatin-ExtraBold.ufo" stylemapfamilyname="Anek Latin ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiExpanded Thin" familyname="Anek Latin" stylename="SemiExpanded Thin" filename="instance_ufo/AnekLatin-SemiExpandedThin.ufo" stylemapfamilyname="Anek Latin SemiExpanded Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiExpanded ExtraLight" familyname="Anek Latin" stylename="SemiExpanded ExtraLight" filename="instance_ufo/AnekLatin-SemiExpandedExtraLight.ufo" stylemapfamilyname="Anek Latin SemiExpanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiExpanded Light" familyname="Anek Latin" stylename="SemiExpanded Light" filename="instance_ufo/AnekLatin-SemiExpandedLight.ufo" stylemapfamilyname="Anek Latin SemiExpanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiExpanded" familyname="Anek Latin" stylename="SemiExpanded" filename="instance_ufo/AnekLatin-SemiExpanded.ufo" stylemapfamilyname="Anek Latin SemiExpanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiExpanded Medium" familyname="Anek Latin" stylename="SemiExpanded Medium" filename="instance_ufo/AnekLatin-SemiExpandedMedium.ufo" stylemapfamilyname="Anek Latin SemiExpanded Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiExpanded SemiBold" familyname="Anek Latin" stylename="SemiExpanded SemiBold" filename="instance_ufo/AnekLatin-SemiExpandedSemiBold.ufo" stylemapfamilyname="Anek Latin SemiExpanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiExpanded Bold" familyname="Anek Latin" stylename="SemiExpanded Bold" filename="instance_ufo/AnekLatin-SemiExpandedBold.ufo" stylemapfamilyname="Anek Latin SemiExpanded Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin SemiExpanded ExtraBold" familyname="Anek Latin" stylename="SemiExpanded ExtraBold" filename="instance_ufo/AnekLatin-SemiExpandedExtraBold.ufo" stylemapfamilyname="Anek Latin SemiExpanded ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Expanded Thin" familyname="Anek Latin" stylename="Expanded Thin" filename="instance_ufo/AnekLatin-ExpandedThin.ufo" stylemapfamilyname="Anek Latin Expanded Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Expanded ExtraLight" familyname="Anek Latin" stylename="Expanded ExtraLight" filename="instance_ufo/AnekLatin-ExpandedExtraLight.ufo" stylemapfamilyname="Anek Latin Expanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Expanded Light" familyname="Anek Latin" stylename="Expanded Light" filename="instance_ufo/AnekLatin-ExpandedLight.ufo" stylemapfamilyname="Anek Latin Expanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Expanded" familyname="Anek Latin" stylename="Expanded" filename="instance_ufo/AnekLatin-Expanded.ufo" stylemapfamilyname="Anek Latin Expanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Expanded Medium" familyname="Anek Latin" stylename="Expanded Medium" filename="instance_ufo/AnekLatin-ExpandedMedium.ufo" stylemapfamilyname="Anek Latin Expanded Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Expanded SemiBold" familyname="Anek Latin" stylename="Expanded SemiBold" filename="instance_ufo/AnekLatin-ExpandedSemiBold.ufo" stylemapfamilyname="Anek Latin Expanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Expanded Bold" familyname="Anek Latin" stylename="Expanded Bold" filename="instance_ufo/AnekLatin-ExpandedBold.ufo" stylemapfamilyname="Anek Latin Expanded Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Latin Expanded ExtraBold" familyname="Anek Latin" stylename="Expanded ExtraBold" filename="instance_ufo/AnekLatin-ExpandedExtraBold.ufo" stylemapfamilyname="Anek Latin Expanded ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>__hookabovecombsmall</string>
+        <string>__hookabovecombsmall.case</string>
+        <string>_acutecombsmall</string>
+        <string>_acutecombsmall.case</string>
+        <string>_gravecombsmall</string>
+        <string>_gravecombsmall.case</string>
+        <string>_tildecombsmall</string>
+        <string>_tildecombsmall.case</string>
+        <string>jbottom</string>
+      </array>
+    </dict>
+  </lib>
+  <rules>
+  <rule>
+   <!-- Latin Lighter Variants -->
+   <sub with="question_alt" name="question"/>
+   <conditionset>
+    <condition name="Weight" maximum="450" minimum="100"/>
+    <condition name="Width" maximum="125" minimum="75"/>
+   </conditionset>
+  </rule>
+  </rules>
+</designspace>

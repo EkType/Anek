@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance width="598"/>
+  <unicode hex="01A1"/>
+  <anchor x="299" y="0" name="bottom"/>
+  <anchor x="299" y="495" name="center"/>
+  <anchor x="427" y="0" name="ogonek"/>
+  <anchor x="299" y="990" name="top"/>
+  <anchor x="581" y="1235" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="horncomb_o" xOffset="310" yOffset="1"/>
+  </outline>
+</glyph>

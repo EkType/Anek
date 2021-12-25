@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otildedieresis" format="2">
+  <advance width="912"/>
+  <unicode hex="1E4E"/>
+  <anchor x="456" y="1937.28" name="top"/>
+  <anchor x="456" y="0" name="bottom"/>
+  <anchor x="456" y="639" name="center"/>
+  <anchor x="672" y="0" name="ogonek"/>
+  <anchor x="20" y="1278" name="topleft"/>
+  <anchor x="910" y="1278" name="topright"/>
+  <outline>
+    <contour>
+      <point x="303" y="1669" type="curve" smooth="yes"/>
+      <point x="390" y="1669"/>
+      <point x="434" y="1717"/>
+      <point x="434" y="1809" type="curve" smooth="yes"/>
+      <point x="434" y="1820" type="line" smooth="yes"/>
+      <point x="434" y="1912"/>
+      <point x="390" y="1960"/>
+      <point x="303" y="1960" type="curve" smooth="yes"/>
+      <point x="217" y="1960"/>
+      <point x="174" y="1912"/>
+      <point x="174" y="1820" type="curve" smooth="yes"/>
+      <point x="174" y="1809" type="line" smooth="yes"/>
+      <point x="174" y="1717"/>
+      <point x="217" y="1669"/>
+    </contour>
+    <contour>
+      <point x="607" y="1669" type="curve" smooth="yes"/>
+      <point x="693" y="1669"/>
+      <point x="737" y="1717"/>
+      <point x="737" y="1809" type="curve" smooth="yes"/>
+      <point x="737" y="1820" type="line" smooth="yes"/>
+      <point x="737" y="1912"/>
+      <point x="693" y="1960"/>
+      <point x="607" y="1960" type="curve" smooth="yes"/>
+      <point x="520" y="1960"/>
+      <point x="478" y="1912"/>
+      <point x="478" y="1820" type="curve" smooth="yes"/>
+      <point x="478" y="1809" type="line" smooth="yes"/>
+      <point x="478" y="1717"/>
+      <point x="520" y="1669"/>
+    </contour>
+    <component base="O"/>
+    <component base="tildecomb.case" xOffset="76"/>
+  </outline>
+</glyph>

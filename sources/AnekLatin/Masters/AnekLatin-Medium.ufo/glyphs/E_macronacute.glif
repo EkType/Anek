@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emacronacute" format="2">
+  <advance width="1055"/>
+  <unicode hex="1E16"/>
+  <anchor x="556" y="0" name="bottom"/>
+  <anchor x="987" y="0" name="ogonek"/>
+  <anchor x="556" y="1925" name="top"/>
+  <anchor x="20" y="1278" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="macroncomb.case" xOffset="166"/>
+    <component base="acutecomb.case" xOffset="367" yOffset="310"/>
+  </outline>
+</glyph>

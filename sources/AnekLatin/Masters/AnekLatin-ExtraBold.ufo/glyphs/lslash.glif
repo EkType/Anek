@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash" format="2">
+  <advance width="558"/>
+  <unicode hex="0142"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="280" y="657" name="center"/>
+  <anchor x="280" y="1319" name="top"/>
+  <anchor x="541" y="1319" name="topright"/>
+  <outline>
+    <contour>
+      <point x="-11" y="403" type="line"/>
+      <point x="569" y="766" type="line"/>
+      <point x="569" y="988" type="line"/>
+      <point x="-11" y="625" type="line"/>
+    </contour>
+    <component base="l" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

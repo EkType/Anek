@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani" format="2">
+  <advance width="1282"/>
+  <unicode hex="20B2"/>
+  <outline>
+    <contour>
+      <point x="829" y="1123" type="line"/>
+      <point x="829" y="1474" type="line"/>
+      <point x="532" y="1474" type="line"/>
+      <point x="532" y="1123" type="line"/>
+    </contour>
+    <contour>
+      <point x="829" y="-200" type="line"/>
+      <point x="829" y="162" type="line"/>
+      <point x="532" y="162" type="line"/>
+      <point x="532" y="-200" type="line"/>
+    </contour>
+    <contour>
+      <point x="648" y="-34" type="curve" smooth="yes"/>
+      <point x="918" y="-34"/>
+      <point x="1082" y="48"/>
+      <point x="1186" y="140" type="curve"/>
+      <point x="1186" y="762" type="line"/>
+      <point x="657" y="762" type="line"/>
+      <point x="657" y="487" type="line"/>
+      <point x="915" y="489" type="line"/>
+      <point x="841" y="600" type="line"/>
+      <point x="841" y="318" type="line"/>
+      <point x="811" y="297"/>
+      <point x="760" y="273"/>
+      <point x="675" y="273" type="curve" smooth="yes"/>
+      <point x="511" y="273"/>
+      <point x="437" y="361"/>
+      <point x="437" y="512" type="curve" smooth="yes"/>
+      <point x="437" y="710" type="line" smooth="yes"/>
+      <point x="437" y="907"/>
+      <point x="534" y="1004"/>
+      <point x="769" y="1004" type="curve" smooth="yes"/>
+      <point x="928" y="1004"/>
+      <point x="1049" y="966"/>
+      <point x="1153" y="925" type="curve"/>
+      <point x="1123" y="1226" type="line"/>
+      <point x="1022" y="1274"/>
+      <point x="875" y="1311"/>
+      <point x="698" y="1311" type="curve" smooth="yes"/>
+      <point x="283" y="1311"/>
+      <point x="68" y="1103"/>
+      <point x="68" y="717" type="curve" smooth="yes"/>
+      <point x="68" y="513" type="line" smooth="yes"/>
+      <point x="68" y="168"/>
+      <point x="233" y="-34"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>G</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>G</string>
+    </dict>
+  </lib>
+</glyph>

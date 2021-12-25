@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslashacute" format="2">
+  <advance width="1409"/>
+  <unicode hex="01FF"/>
+  <anchor x="705" y="0" name="bottom"/>
+  <anchor x="705" y="479" name="center"/>
+  <anchor x="1268" y="10" name="ogonek"/>
+  <anchor x="705" y="1348" name="top"/>
+  <anchor x="1389" y="958" name="topright"/>
+  <outline>
+    <component base="oslash"/>
+    <component base="acutecomb" xOffset="513"/>
+  </outline>
+</glyph>

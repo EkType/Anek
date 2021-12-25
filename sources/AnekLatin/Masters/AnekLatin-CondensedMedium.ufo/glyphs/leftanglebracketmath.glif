@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftanglebracketmath" format="2">
+  <advance width="449"/>
+  <unicode hex="27E8"/>
+  <outline>
+    <contour>
+      <point x="255" y="556" type="line"/>
+      <point x="431" y="1352" type="line"/>
+      <point x="272" y="1352" type="line"/>
+      <point x="92" y="578" type="line"/>
+      <point x="92" y="535" type="line"/>
+      <point x="272" y="-240" type="line"/>
+      <point x="431" y="-240" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>parenleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>parenleft</string>
+    </dict>
+  </lib>
+</glyph>

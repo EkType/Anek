@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="summation" format="2">
+  <advance width="1310"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="84" y="1116" type="line"/>
+      <point x="223" y="1103" type="line"/>
+      <point x="1200" y="1103" type="line"/>
+      <point x="1200" y="1278" type="line"/>
+      <point x="84" y="1278" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="-185" type="line"/>
+      <point x="1200" y="-185" type="line"/>
+      <point x="1200" y="-10" type="line"/>
+      <point x="206" y="-10" type="line"/>
+      <point x="84" y="-21" type="line"/>
+    </contour>
+    <contour>
+      <point x="678" y="556" type="line"/>
+      <point x="678" y="541" type="line"/>
+      <point x="84" y="-21" type="line"/>
+      <point x="244" y="-125" type="line"/>
+      <point x="905" y="477" type="line"/>
+      <point x="905" y="619" type="line"/>
+      <point x="244" y="1219" type="line"/>
+      <point x="84" y="1116" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>F</string>
+    </dict>
+  </lib>
+</glyph>

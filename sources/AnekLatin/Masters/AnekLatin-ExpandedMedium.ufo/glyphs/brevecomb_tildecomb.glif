@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb" format="2">
+  <anchor x="447" y="958" name="_top"/>
+  <anchor x="447" y="1348" name="top"/>
+  <outline>
+    <contour>
+      <point x="602" y="1511" type="curve" smooth="yes"/>
+      <point x="744" y="1511"/>
+      <point x="785" y="1597"/>
+      <point x="785" y="1711" type="curve" smooth="yes"/>
+      <point x="785" y="1743" type="line"/>
+      <point x="659" y="1743" type="line"/>
+      <point x="659" y="1727" type="line" smooth="yes"/>
+      <point x="658" y="1677"/>
+      <point x="640" y="1648"/>
+      <point x="589" y="1648" type="curve" smooth="yes"/>
+      <point x="500" y="1648"/>
+      <point x="411" y="1723"/>
+      <point x="293" y="1723" type="curve" smooth="yes"/>
+      <point x="152" y="1723"/>
+      <point x="111" y="1635"/>
+      <point x="111" y="1523" type="curve" smooth="yes"/>
+      <point x="111" y="1491" type="line"/>
+      <point x="237" y="1491" type="line"/>
+      <point x="237" y="1507" type="line" smooth="yes"/>
+      <point x="238" y="1557"/>
+      <point x="256" y="1586"/>
+      <point x="305" y="1586" type="curve" smooth="yes"/>
+      <point x="394" y="1586"/>
+      <point x="483" y="1511"/>
+    </contour>
+    <component base="brevecomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>brevecomb</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>894</integer>
+    </dict>
+  </lib>
+</glyph>

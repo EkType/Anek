@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi" format="2">
+  <advance width="1495"/>
+  <unicode hex="03C0"/>
+  <outline>
+    <contour>
+      <point x="64" y="660" type="line"/>
+      <point x="1391" y="660" type="line"/>
+      <point x="1431" y="963" type="line"/>
+      <point x="64" y="963" type="line"/>
+    </contour>
+    <contour>
+      <point x="224" y="0" type="line"/>
+      <point x="621" y="0" type="line"/>
+      <point x="621" y="776" type="line"/>
+      <point x="224" y="776" type="line"/>
+    </contour>
+    <contour>
+      <point x="850" y="0" type="line"/>
+      <point x="1247" y="0" type="line"/>
+      <point x="1247" y="776" type="line"/>
+      <point x="850" y="776" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

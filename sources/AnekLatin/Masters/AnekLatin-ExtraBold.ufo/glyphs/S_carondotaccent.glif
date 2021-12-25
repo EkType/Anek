@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scarondotaccent" format="2">
+  <advance width="1093"/>
+  <unicode hex="1E66"/>
+  <anchor x="537" y="1982.34" name="top"/>
+  <anchor x="538" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="537" y="1720" type="curve" smooth="yes"/>
+      <point x="651" y="1720"/>
+      <point x="706" y="1777"/>
+      <point x="706" y="1869" type="curve" smooth="yes"/>
+      <point x="706" y="1875" type="line" smooth="yes"/>
+      <point x="706" y="1967"/>
+      <point x="651" y="2024"/>
+      <point x="537" y="2024" type="curve" smooth="yes"/>
+      <point x="425" y="2024"/>
+      <point x="370" y="1967"/>
+      <point x="370" y="1875" type="curve" smooth="yes"/>
+      <point x="370" y="1869" type="line" smooth="yes"/>
+      <point x="370" y="1777"/>
+      <point x="425" y="1720"/>
+    </contour>
+    <component base="S"/>
+    <component base="caroncomb.case" xOffset="62"/>
+  </outline>
+</glyph>

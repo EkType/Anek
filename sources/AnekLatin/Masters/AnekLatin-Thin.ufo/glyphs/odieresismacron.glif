@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresismacron" format="2">
+  <advance width="998"/>
+  <unicode hex="022B"/>
+  <anchor x="500" y="1604" name="top"/>
+  <anchor x="499" y="0" name="bottom"/>
+  <anchor x="508" y="307" name="center"/>
+  <anchor x="691" y="0" name="ogonek"/>
+  <anchor x="823" y="971" name="topright"/>
+  <outline>
+    <contour>
+      <point x="259" y="1541" type="line"/>
+      <point x="739" y="1541" type="line"/>
+      <point x="739" y="1573" type="line"/>
+      <point x="259" y="1573" type="line"/>
+    </contour>
+    <component base="o"/>
+    <component base="dieresiscomb" xOffset="217"/>
+  </outline>
+</glyph>

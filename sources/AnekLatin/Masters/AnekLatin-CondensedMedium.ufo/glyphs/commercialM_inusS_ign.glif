@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialMinusSign" format="2">
+  <advance width="564"/>
+  <unicode hex="2052"/>
+  <outline>
+    <contour>
+      <point x="58" y="0" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="506" y="1278" type="line"/>
+      <point x="373" y="1278" type="line"/>
+    </contour>
+    <component base="period" xOffset="-17" yOffset="1058"/>
+    <component base="period" xOffset="283"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorntilde" format="2">
+  <advance width="1294"/>
+  <unicode hex="1EE0"/>
+  <anchor x="646.65" y="1640" name="top"/>
+  <anchor x="647" y="0" name="bottom"/>
+  <anchor x="647" y="639" name="center"/>
+  <anchor x="992" y="5" name="ogonek"/>
+  <anchor x="5" y="1278" name="topleft"/>
+  <anchor x="1356" y="1494" name="topright"/>
+  <outline>
+    <contour>
+      <point x="776" y="1380" type="curve" smooth="yes"/>
+      <point x="924" y="1380"/>
+      <point x="976" y="1479"/>
+      <point x="976" y="1621" type="curve" smooth="yes"/>
+      <point x="976" y="1655" type="line"/>
+      <point x="794" y="1655" type="line"/>
+      <point x="794" y="1654" type="line"/>
+      <point x="793" y="1613"/>
+      <point x="782" y="1593"/>
+      <point x="745" y="1593" type="curve" smooth="yes"/>
+      <point x="688" y="1593"/>
+      <point x="615" y="1642"/>
+      <point x="519" y="1642" type="curve" smooth="yes"/>
+      <point x="369" y="1642"/>
+      <point x="317" y="1542"/>
+      <point x="317" y="1406" type="curve" smooth="yes"/>
+      <point x="317" y="1367" type="line"/>
+      <point x="498" y="1367" type="line"/>
+      <point x="498" y="1368" type="line"/>
+      <point x="499" y="1409"/>
+      <point x="511" y="1429"/>
+      <point x="548" y="1429" type="curve" smooth="yes"/>
+      <point x="607" y="1429"/>
+      <point x="685" y="1380"/>
+    </contour>
+    <component base="Ohorn"/>
+  </outline>
+</glyph>

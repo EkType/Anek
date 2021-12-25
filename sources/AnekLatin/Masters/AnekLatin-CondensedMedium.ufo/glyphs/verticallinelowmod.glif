@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinelowmod" format="2">
+  <advance width="334"/>
+  <unicode hex="02CC"/>
+  <anchor x="168" y="0" name="_bottom"/>
+  <anchor x="168" y="-407" name="bottom"/>
+  <outline>
+    <component base="verticallinemod" yOffset="-1495"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>verticallinemod</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

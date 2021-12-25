@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eogonek" format="2">
+  <advance width="950"/>
+  <unicode hex="0119"/>
+  <anchor x="489" y="0" name="bottom"/>
+  <anchor x="713" y="5" name="ogonek"/>
+  <anchor x="482" y="971" name="top"/>
+  <outline>
+    <contour>
+      <point x="700" y="-365" type="curve" smooth="yes"/>
+      <point x="740" y="-365"/>
+      <point x="786" y="-355"/>
+      <point x="810" y="-341" type="curve"/>
+      <point x="817" y="-306" type="line"/>
+      <point x="779" y="-325"/>
+      <point x="744" y="-331"/>
+      <point x="706" y="-331" type="curve" smooth="yes"/>
+      <point x="625" y="-331"/>
+      <point x="572" y="-293"/>
+      <point x="572" y="-212" type="curve" smooth="yes"/>
+      <point x="572" y="-211" type="line" smooth="yes"/>
+      <point x="572" y="-119"/>
+      <point x="634" y="-42"/>
+      <point x="726" y="27" type="curve"/>
+      <point x="726" y="34" type="line"/>
+      <point x="683" y="22" type="line"/>
+      <point x="683" y="22" type="line"/>
+      <point x="602" y="-37"/>
+      <point x="536" y="-115"/>
+      <point x="536" y="-215" type="curve" smooth="yes"/>
+      <point x="536" y="-216" type="line" smooth="yes"/>
+      <point x="536" y="-308"/>
+      <point x="596" y="-365"/>
+    </contour>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

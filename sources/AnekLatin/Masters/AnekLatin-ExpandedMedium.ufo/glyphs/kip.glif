@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="1563"/>
+  <unicode hex="20AD"/>
+  <anchor x="794" y="0" name="bottom"/>
+  <anchor x="794" y="1278" name="top"/>
+  <outline>
+    <contour>
+      <point x="659" y="731" type="line"/>
+      <point x="646" y="570" type="line"/>
+      <point x="1377" y="570" type="line"/>
+      <point x="1392" y="731" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="570" type="line"/>
+      <point x="386" y="731" type="line"/>
+      <point x="31" y="732" type="line"/>
+      <point x="16" y="570" type="line"/>
+    </contour>
+    <component base="K" xOffset="24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>K</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>K</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorntilde" format="2">
+  <advance width="1309"/>
+  <unicode hex="1EEE"/>
+  <anchor x="654.65" y="1640" name="top"/>
+  <anchor x="655" y="0" name="bottom"/>
+  <anchor x="978" y="5" name="ogonek"/>
+  <anchor x="1397" y="1494" name="topright"/>
+  <outline>
+    <contour>
+      <point x="784" y="1380" type="curve" smooth="yes"/>
+      <point x="932" y="1380"/>
+      <point x="984" y="1479"/>
+      <point x="984" y="1621" type="curve" smooth="yes"/>
+      <point x="984" y="1655" type="line"/>
+      <point x="802" y="1655" type="line"/>
+      <point x="802" y="1654" type="line"/>
+      <point x="801" y="1613"/>
+      <point x="790" y="1593"/>
+      <point x="753" y="1593" type="curve" smooth="yes"/>
+      <point x="696" y="1593"/>
+      <point x="623" y="1642"/>
+      <point x="527" y="1642" type="curve" smooth="yes"/>
+      <point x="377" y="1642"/>
+      <point x="325" y="1542"/>
+      <point x="325" y="1406" type="curve" smooth="yes"/>
+      <point x="325" y="1367" type="line"/>
+      <point x="506" y="1367" type="line"/>
+      <point x="506" y="1368" type="line"/>
+      <point x="507" y="1409"/>
+      <point x="519" y="1429"/>
+      <point x="556" y="1429" type="curve" smooth="yes"/>
+      <point x="615" y="1429"/>
+      <point x="693" y="1380"/>
+    </contour>
+    <component base="Uhorn"/>
+  </outline>
+</glyph>

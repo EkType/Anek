@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="876"/>
+  <unicode hex="0127"/>
+  <anchor x="440" y="0" name="bottom"/>
+  <anchor x="440" y="667" name="center"/>
+  <anchor x="224" y="1324" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="1072" type="line"/>
+      <point x="578" y="1072" type="line"/>
+      <point x="578" y="1224" type="line"/>
+      <point x="0" y="1224" type="line"/>
+    </contour>
+    <component base="h" xOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

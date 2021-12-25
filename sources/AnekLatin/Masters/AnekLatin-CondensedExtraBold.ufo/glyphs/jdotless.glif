@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="447"/>
+  <unicode hex="0237"/>
+  <anchor x="224" y="-350" name="bottom"/>
+  <anchor x="224" y="1006" name="top"/>
+  <outline>
+    <contour>
+      <point x="70" y="172" type="line"/>
+      <point x="381" y="172" type="line"/>
+      <point x="381" y="1006" type="line"/>
+      <point x="70" y="1006" type="line"/>
+    </contour>
+    <component base="jbottom"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>jbottom</string>
+    </dict>
+  </lib>
+</glyph>

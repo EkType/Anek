@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="1119"/>
+  <unicode hex="0165"/>
+  <anchor x="621" y="0" name="bottom"/>
+  <anchor x="560" y="476" name="center"/>
+  <anchor x="279" y="1203" name="top"/>
+  <anchor x="890" y="1402" name="topright"/>
+  <outline>
+    <contour>
+      <point x="926" y="1402" type="curve"/>
+      <point x="892" y="1402" type="line"/>
+      <point x="897" y="1376"/>
+      <point x="900" y="1350"/>
+      <point x="900" y="1319" type="curve" smooth="yes"/>
+      <point x="900" y="1220"/>
+      <point x="872" y="1142"/>
+      <point x="786" y="1064" type="curve"/>
+      <point x="808" y="1049" type="line"/>
+      <point x="902" y="1131"/>
+      <point x="934" y="1215"/>
+      <point x="934" y="1320" type="curve" smooth="yes"/>
+      <point x="934" y="1356"/>
+      <point x="929" y="1386"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+</glyph>

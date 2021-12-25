@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonsign" format="2">
+  <advance width="674"/>
+  <unicode hex="20A1"/>
+  <anchor x="382" y="0" name="bottom"/>
+  <anchor x="382" y="1278" name="top"/>
+  <outline>
+    <contour>
+      <point x="179" y="-165" type="line"/>
+      <point x="305" y="-165" type="line"/>
+      <point x="329" y="183" type="line"/>
+      <point x="203" y="183" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="-165" type="line"/>
+      <point x="475" y="-165" type="line"/>
+      <point x="499" y="183" type="line"/>
+      <point x="373" y="183" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="1134" type="line"/>
+      <point x="356" y="1134" type="line"/>
+      <point x="377" y="1434" type="line"/>
+      <point x="251" y="1434" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="1134" type="line"/>
+      <point x="526" y="1134" type="line"/>
+      <point x="547" y="1434" type="line"/>
+      <point x="421" y="1434" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>C</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>C</string>
+    </dict>
+  </lib>
+</glyph>

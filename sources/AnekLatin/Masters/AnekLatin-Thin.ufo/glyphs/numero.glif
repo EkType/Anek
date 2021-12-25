@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="1836"/>
+  <unicode hex="2116"/>
+  <anchor x="595.0952" y="0" name="bottom"/>
+  <anchor x="595.0952" y="1278" name="top"/>
+  <outline>
+    <contour>
+      <point x="1253" y="415" type="line"/>
+      <point x="1737" y="415" type="line"/>
+      <point x="1737" y="447" type="line"/>
+      <point x="1253" y="447" type="line"/>
+    </contour>
+    <contour>
+      <point x="1495" y="627" type="curve" smooth="yes"/>
+      <point x="1656" y="627"/>
+      <point x="1744" y="723"/>
+      <point x="1744" y="908" type="curve" smooth="yes"/>
+      <point x="1744" y="1005" type="line" smooth="yes"/>
+      <point x="1744" y="1190"/>
+      <point x="1656" y="1285"/>
+      <point x="1495" y="1285" type="curve" smooth="yes"/>
+      <point x="1334" y="1285"/>
+      <point x="1245" y="1190"/>
+      <point x="1245" y="1005" type="curve" smooth="yes"/>
+      <point x="1245" y="908" type="line" smooth="yes"/>
+      <point x="1245" y="723"/>
+      <point x="1333" y="627"/>
+    </contour>
+    <contour>
+      <point x="1495" y="659" type="curve" smooth="yes"/>
+      <point x="1356" y="659"/>
+      <point x="1281" y="745"/>
+      <point x="1281" y="907" type="curve" smooth="yes"/>
+      <point x="1281" y="1006" type="line" smooth="yes"/>
+      <point x="1281" y="1168"/>
+      <point x="1356" y="1253"/>
+      <point x="1495" y="1253" type="curve" smooth="yes"/>
+      <point x="1634" y="1253"/>
+      <point x="1708" y="1169"/>
+      <point x="1708" y="1006" type="curve" smooth="yes"/>
+      <point x="1708" y="907" type="line" smooth="yes"/>
+      <point x="1708" y="744"/>
+      <point x="1633" y="659"/>
+    </contour>
+    <component base="N" xScale="1.00016"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>N</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="increment" format="2">
+  <advance width="864"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="570" y="156" type="line"/>
+      <point x="834" y="275" type="line"/>
+      <point x="612" y="1278" type="line"/>
+      <point x="372" y="1278" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="275" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="555" y="285" type="line"/>
+      <point x="266" y="285" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="156" type="line"/>
+      <point x="492" y="1278" type="line"/>
+      <point x="252" y="1278" type="line"/>
+      <point x="30" y="275" type="line"/>
+    </contour>
+    <contour>
+      <point x="834" y="275" type="line"/>
+      <point x="598" y="285" type="line"/>
+      <point x="309" y="285" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="834" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

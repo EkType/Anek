@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="manat" format="2">
+  <advance width="1360"/>
+  <unicode hex="20BC"/>
+  <outline>
+    <contour>
+      <point x="680" y="1296" type="curve" smooth="yes"/>
+      <point x="356" y="1296"/>
+      <point x="174" y="1119"/>
+      <point x="174" y="793" type="curve"/>
+      <point x="174" y="0" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="214" y="792" type="line" smooth="yes"/>
+      <point x="214" y="1093"/>
+      <point x="378" y="1260"/>
+      <point x="680" y="1260" type="curve" smooth="yes"/>
+      <point x="981" y="1260"/>
+      <point x="1147" y="1093"/>
+      <point x="1147" y="792" type="curve" smooth="yes"/>
+      <point x="1147" y="0" type="line"/>
+      <point x="1186" y="0" type="line"/>
+      <point x="1186" y="793" type="line"/>
+      <point x="1186" y="1119"/>
+      <point x="1004" y="1296"/>
+    </contour>
+    <contour>
+      <point x="700" y="0" type="line"/>
+      <point x="700" y="1500" type="line"/>
+      <point x="661" y="1500" type="line"/>
+      <point x="661" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>U</string>
+    </dict>
+  </lib>
+</glyph>
