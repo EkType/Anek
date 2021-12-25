@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="MaNa.dv" format="2">
+  <advance width="1576"/>
+  <anchor x="1259" y="-44" name="bottom"/>
+  <anchor x="1254" y="-44" name="bottom2"/>
+  <anchor x="1277" y="-44" name="bottom3"/>
+  <anchor x="1259" y="1221" name="top"/>
+  <outline>
+    <contour>
+      <point x="1619" y="1200" type="line"/>
+      <point x="-32" y="1200" type="line"/>
+      <point x="-39" y="1230" type="line"/>
+      <point x="1612" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="1257" y="639" type="line"/>
+      <point x="1257" y="607" type="line"/>
+      <point x="321" y="607" type="line"/>
+      <point x="321" y="639" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="1210" type="line"/>
+      <point x="339" y="612" type="line"/>
+      <point x="303" y="612" type="line"/>
+      <point x="303" y="1210" type="line"/>
+    </contour>
+    <contour>
+      <point x="1241" y="888" type="line"/>
+      <point x="1241" y="1210" type="line"/>
+      <point x="1277" y="1210" type="line"/>
+      <point x="1277" y="888" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="233" type="line"/>
+      <point x="273" y="379"/>
+      <point x="260" y="459"/>
+      <point x="239" y="605" type="curve"/>
+      <point x="303" y="635" type="line"/>
+      <point x="339" y="635" type="line"/>
+      <point x="339" y="233" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="74" type="line"/>
+      <point x="488" y="91" type="line"/>
+      <point x="590" y="-194" type="line"/>
+      <point x="552" y="-208" type="line"/>
+      <point x="499" y="-107"/>
+      <point x="469" y="-52"/>
+      <point x="415" y="50" type="curve"/>
+      <point x="444" y="98" type="line"/>
+      <point x="1254" y="479" type="line"/>
+      <point x="1254" y="443" type="line"/>
+    </contour>
+    <contour>
+      <point x="1277" y="906" type="line"/>
+      <point x="1277" y="-53" type="line"/>
+      <point x="1241" y="-53" type="line"/>
+      <point x="1241" y="906" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1259" y="0"/>
+  <guideline angle="90" x="1277" y="0"/>
+  <guideline angle="90" x="1259" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ma.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a35bc16cf005f445443e48a6209692916fb824c356eb586699228c33bdc3abfbaae5078e5df3d6e856de4eb9b80bdff0afb302690cd63f15cb21af02efb158ea</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1718 2356</string>
+          <string>vstem 1060.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

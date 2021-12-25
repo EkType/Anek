@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nya.dv" format="2">
+  <advance width="1853"/>
+  <unicode hex="091E"/>
+  <anchor x="1536" y="9" name="bottom"/>
+  <anchor x="1531" y="9" name="bottom2"/>
+  <anchor x="1554" y="9" name="bottom3"/>
+  <anchor x="1536" y="30" name="bottom5"/>
+  <anchor x="1536" y="1221" name="top"/>
+  <outline>
+    <contour>
+      <point x="-36" y="1200" type="line"/>
+      <point x="-43" y="1230" type="line"/>
+      <point x="1889" y="1230" type="line"/>
+      <point x="1896" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="863" type="line"/>
+      <point x="293" y="908"/>
+      <point x="415" y="931"/>
+      <point x="568" y="931" type="curve" smooth="yes"/>
+      <point x="881" y="931"/>
+      <point x="1057" y="805"/>
+      <point x="1057" y="568" type="curve" smooth="yes"/>
+      <point x="1057" y="561" type="line" smooth="yes"/>
+      <point x="1057" y="315"/>
+      <point x="870" y="190"/>
+      <point x="562" y="190" type="curve" smooth="yes"/>
+      <point x="378" y="190"/>
+      <point x="232" y="231"/>
+      <point x="144" y="285" type="curve"/>
+      <point x="139" y="324" type="line"/>
+      <point x="236" y="267"/>
+      <point x="374" y="224"/>
+      <point x="562" y="224" type="curve" smooth="yes"/>
+      <point x="849" y="224"/>
+      <point x="1020" y="340"/>
+      <point x="1020" y="561" type="curve" smooth="yes"/>
+      <point x="1020" y="566" type="line" smooth="yes"/>
+      <point x="1020" y="789"/>
+      <point x="858" y="897"/>
+      <point x="568" y="897" type="curve" smooth="yes"/>
+      <point x="421" y="897"/>
+      <point x="303" y="878"/>
+      <point x="187" y="826" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1038" y="595" type="line"/>
+      <point x="1534" y="595" type="line"/>
+      <point x="1534" y="563" type="line"/>
+      <point x="1037" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="1554" y="1209" type="line"/>
+      <point x="1554" y="0" type="line"/>
+      <point x="1518" y="0" type="line"/>
+      <point x="1518" y="1209" type="line"/>
+    </contour>
+    <contour>
+      <point x="1344" y="1200" type="line"/>
+      <point x="1337" y="1230" type="line"/>
+      <point x="1889" y="1230" type="line"/>
+      <point x="1896" y="1200" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1536" y="0"/>
+  <guideline angle="90" x="1554" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="0" x="0" y="1221"/>
+  <guideline angle="90" x="1531" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>97d3a4e5ad127fb3784b799e3ddd43019be59d01b1306cd1169f5573bbbce5a2ff2b00c5d3069a4b25c5342ce1d661c2f7eeb1456b1e56a5d94f4427fc3b90ab</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1665 2356</string>
+          <string>vstem 1337.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

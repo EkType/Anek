@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PaHalant.dv" format="2">
+  <advance width="490"/>
+  <outline>
+    <contour>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="616" y="1308" type="line"/>
+      <point x="631" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="230" type="curve" smooth="yes"/>
+      <point x="162" y="230"/>
+      <point x="74" y="340"/>
+      <point x="74" y="596" type="curve" smooth="yes"/>
+      <point x="74" y="1159" type="line"/>
+      <point x="378" y="1159" type="line"/>
+      <point x="378" y="626" type="line" smooth="yes"/>
+      <point x="378" y="528"/>
+      <point x="406.713" y="495"/>
+      <point x="470.032" y="495" type="curve" smooth="yes"/>
+      <point x="537.785" y="495"/>
+      <point x="573.498" y="536.663"/>
+      <point x="588" y="596" type="curve"/>
+      <point x="589" y="486" type="line"/>
+      <point x="577.335" y="330.151"/>
+      <point x="520" y="230"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="191"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Pa.dv</string>
+  </dict>
+  </lib>
+</glyph>

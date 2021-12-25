@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Na.dv" format="2">
+  <advance width="944"/>
+  <unicode hex="0928"/>
+  <anchor x="711" y="37" name="bottom"/>
+  <anchor x="701" y="37" name="bottom2"/>
+  <anchor x="863" y="37" name="bottom3"/>
+  <anchor x="711" y="55" name="bottom5"/>
+  <anchor x="711" y="1255" name="top"/>
+  <outline>
+    <contour>
+      <point x="863" y="1156" type="line"/>
+      <point x="863" y="0" type="line"/>
+      <point x="559" y="0" type="line"/>
+      <point x="559" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="1067" type="line"/>
+      <point x="522" y="1308" type="line"/>
+      <point x="972" y="1308" type="line"/>
+      <point x="986" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="986" y="1067" type="line"/>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="972" y="1308" type="line"/>
+    </contour>
+    <contour>
+      <point x="672" y="830" type="line"/>
+      <point x="672" y="570" type="line"/>
+      <point x="344" y="570" type="line"/>
+      <point x="344" y="830" type="line"/>
+    </contour>
+    <contour>
+      <point x="166" y="237" type="line"/>
+      <point x="92" y="377"/>
+      <point x="39" y="546"/>
+      <point x="24" y="732" type="curve"/>
+      <point x="144" y="830" type="line"/>
+      <point x="397" y="830" type="line"/>
+      <point x="397" y="237" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="711" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1255"/>
+  <guideline angle="90" x="701" y="0"/>
+  <guideline angle="90" x="863" y="0"/>
+  <guideline angle="0" x="0" y="55"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2909ba7dde785d8b95a25e1efd21973fcbe1527dcf77f12e2b8d0cd16b2d5f841202484ed1fecf386445e8492a1192d795c4474c79aa8cd12d3e6bb5a49e5f7d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 525 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

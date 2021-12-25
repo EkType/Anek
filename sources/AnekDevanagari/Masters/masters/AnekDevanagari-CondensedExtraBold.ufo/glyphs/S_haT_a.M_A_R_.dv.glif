@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ShaTa.MAR.dv" format="2">
+  <advance width="1685"/>
+  <anchor x="1452" y="37" name="bottom"/>
+  <anchor x="1442" y="37" name="bottom2"/>
+  <anchor x="1604" y="37" name="bottom3"/>
+  <anchor x="1452" y="55" name="bottom5"/>
+  <anchor x="1452" y="1255" name="top"/>
+  <outline>
+    <contour>
+      <point x="1604" y="1156" type="line"/>
+      <point x="1604" y="0" type="line"/>
+      <point x="1300" y="0" type="line"/>
+      <point x="1300" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="1277" y="1067" type="line"/>
+      <point x="1263" y="1308" type="line"/>
+      <point x="1713" y="1308" type="line"/>
+      <point x="1727" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="726" y="1067" type="line"/>
+      <point x="712" y="1308" type="line"/>
+      <point x="1713" y="1308" type="line"/>
+      <point x="1727" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="892" y="0" type="line"/>
+      <point x="840" y="202"/>
+      <point x="804" y="392"/>
+      <point x="804" y="550" type="curve" smooth="yes"/>
+      <point x="804" y="778"/>
+      <point x="907" y="907"/>
+      <point x="1166" y="907" type="curve" smooth="yes"/>
+      <point x="1381" y="907" type="line"/>
+      <point x="1381" y="646" type="line"/>
+      <point x="1225" y="646" type="line" smooth="yes"/>
+      <point x="1133" y="646"/>
+      <point x="1108" y="607"/>
+      <point x="1108" y="508" type="curve" smooth="yes"/>
+      <point x="1108" y="389"/>
+      <point x="1140" y="214"/>
+      <point x="1191" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-42" y="1308" type="line"/>
+      <point x="814" y="1308" type="line"/>
+      <point x="828" y="1067" type="line"/>
+      <point x="-28" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="909" type="line"/>
+      <point x="239" y="1122" type="line"/>
+      <point x="530" y="1122" type="line"/>
+      <point x="530" y="909" type="line"/>
+    </contour>
+    <contour>
+      <point x="651" y="-63" type="line"/>
+      <point x="304" y="-63" type="line"/>
+      <point x="138" y="232" type="line"/>
+      <point x="48" y="250" type="line"/>
+      <point x="48" y="499" type="line"/>
+      <point x="326" y="355" type="line"/>
+      <point x="326" y="263" type="line"/>
+      <point x="432" y="221"/>
+      <point x="488" y="174"/>
+      <point x="563" y="72" type="curve" smooth="yes"/>
+      <point x="651" y="-48" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="979" type="curve" smooth="yes"/>
+      <point x="591" y="979"/>
+      <point x="701" y="859"/>
+      <point x="701" y="615" type="curve" smooth="yes"/>
+      <point x="701" y="581" type="line" smooth="yes"/>
+      <point x="701" y="342"/>
+      <point x="574" y="237"/>
+      <point x="302" y="237" type="curve" smooth="yes"/>
+      <point x="248" y="237"/>
+      <point x="188" y="247"/>
+      <point x="145" y="254" type="curve"/>
+      <point x="48" y="499" type="line"/>
+      <point x="116" y="488"/>
+      <point x="166" y="482"/>
+      <point x="232" y="482" type="curve" smooth="yes"/>
+      <point x="350" y="482"/>
+      <point x="397" y="517"/>
+      <point x="397" y="596" type="curve" smooth="yes"/>
+      <point x="397" y="613" type="line" smooth="yes"/>
+      <point x="397" y="683"/>
+      <point x="368" y="718"/>
+      <point x="287" y="718" type="curve" smooth="yes"/>
+      <point x="213" y="718"/>
+      <point x="142" y="689"/>
+      <point x="66" y="651" type="curve"/>
+      <point x="85" y="918" type="line"/>
+      <point x="155" y="954"/>
+      <point x="236" y="979"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1452" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1255"/>
+  <guideline angle="90" x="1442" y="0"/>
+  <guideline angle="90" x="1604" y="0"/>
+  <guideline angle="0" x="0" y="55"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Sha.MAR.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>35c29c7ef274cf9735f72a8e5b0d67303d4fa5e36c379c719384fb473e8b2feae51e48e247f05ad4eda0aa4cd000f24c501d07a58d0aaf362ab2d8e5510c6c15</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 1266 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

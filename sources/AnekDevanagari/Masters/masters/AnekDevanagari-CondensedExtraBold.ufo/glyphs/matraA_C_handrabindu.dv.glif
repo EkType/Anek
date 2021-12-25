@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="matraAChandrabindu.dv" format="2">
+  <advance width="466"/>
+  <outline>
+    <contour>
+      <point x="11" y="1632" type="curve" smooth="yes"/>
+      <point x="-59" y="1632"/>
+      <point x="-85" y="1679"/>
+      <point x="-85" y="1759" type="curve" smooth="yes"/>
+      <point x="-85" y="1770" type="line" smooth="yes"/>
+      <point x="-85" y="1847"/>
+      <point x="-59" y="1897"/>
+      <point x="11" y="1897" type="curve" smooth="yes"/>
+      <point x="81" y="1897"/>
+      <point x="107" y="1847"/>
+      <point x="107" y="1770" type="curve" smooth="yes"/>
+      <point x="107" y="1759" type="line" smooth="yes"/>
+      <point x="107" y="1679"/>
+      <point x="81" y="1632"/>
+    </contour>
+    <contour>
+      <point x="362" y="1763" type="line"/>
+      <point x="366" y="1731"/>
+      <point x="366" y="1711"/>
+      <point x="366" y="1695" type="curve" smooth="yes"/>
+      <point x="366" y="1483"/>
+      <point x="244.283" y="1389"/>
+      <point x="10.9928" y="1389" type="curve" smooth="yes"/>
+      <point x="-222.298" y="1389"/>
+      <point x="-343" y="1483"/>
+      <point x="-343" y="1695" type="curve" smooth="yes"/>
+      <point x="-343" y="1715"/>
+      <point x="-342" y="1735"/>
+      <point x="-338" y="1763" type="curve"/>
+      <point x="-148" y="1763" type="line"/>
+      <point x="-148" y="1726" type="line" smooth="yes"/>
+      <point x="-148" y="1617"/>
+      <point x="-102.576" y="1570"/>
+      <point x="10.9838" y="1570" type="curve" smooth="yes"/>
+      <point x="125.576" y="1570"/>
+      <point x="171" y="1617"/>
+      <point x="171" y="1726" type="curve" smooth="yes"/>
+      <point x="171" y="1763" type="line"/>
+    </contour>
+    <contour>
+      <point x="385" y="0" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="81" y="1156" type="line"/>
+      <point x="385" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="508" y="1067" type="line"/>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="494" y="1308" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="81" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>4ff2211c1b83c36613096015451968e3a1d14137b54e55b107a163e58a36949932876cec84843166aa1ed57f646d54fc0199d060a2965f3c88bada08e1478b86</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 45 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

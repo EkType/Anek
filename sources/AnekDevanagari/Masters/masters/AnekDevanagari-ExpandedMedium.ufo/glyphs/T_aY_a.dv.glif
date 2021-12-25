@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TaYa.dv" format="2">
+  <advance width="2602"/>
+  <anchor x="2272" y="23" name="bottom"/>
+  <anchor x="2267.5" y="23" name="bottom2"/>
+  <anchor x="2377" y="23" name="bottom3"/>
+  <anchor x="2272" y="42.5" name="bottom5"/>
+  <anchor x="2272" y="1217.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="2377" y="1145.5" type="line"/>
+      <point x="2377" y="0" type="line"/>
+      <point x="2167" y="0" type="line"/>
+      <point x="2167" y="1145.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="2043.5" y="1092.5" type="line"/>
+      <point x="2029.5" y="1248" type="line"/>
+      <point x="2637.5" y="1248" type="line"/>
+      <point x="2651.5" y="1092.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="888.5" y="1248" type="line"/>
+      <point x="2536.5" y="1248" type="line"/>
+      <point x="2550.5" y="1092.5" type="line"/>
+      <point x="902.5" y="1092.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="1604" y="1134.5" type="line"/>
+      <point x="1685.5" y="1077.47"/>
+      <point x="1733" y="999.714"/>
+      <point x="1733" y="900" type="curve" smooth="yes"/>
+      <point x="1733" y="893.5" type="line" smooth="yes"/>
+      <point x="1733" y="701.931"/>
+      <point x="1581.97" y="590.123"/>
+      <point x="1260.5" y="585" type="curve" smooth="yes"/>
+      <point x="1135" y="583" type="line"/>
+      <point x="1072" y="736" type="line"/>
+      <point x="1151" y="736" type="line" smooth="yes"/>
+      <point x="1412.5" y="736"/>
+      <point x="1516" y="794.598"/>
+      <point x="1516" y="921" type="curve" smooth="yes"/>
+      <point x="1516" y="925" type="line" smooth="yes"/>
+      <point x="1516" y="1010.22"/>
+      <point x="1477.5" y="1076.67"/>
+      <point x="1377" y="1134.5" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1063" y="627" type="line" smooth="yes"/>
+      <point x="1063" y="660.5"/>
+      <point x="1065.5" y="696"/>
+      <point x="1072" y="736" type="curve"/>
+      <point x="1268.5" y="694" type="line"/>
+      <point x="1268.5" y="603.5" type="line" smooth="yes"/>
+      <point x="1268.5" y="435.5"/>
+      <point x="1417.03" y="329.5"/>
+      <point x="1698" y="329.5" type="curve" smooth="yes"/>
+      <point x="1977.39" y="329.5"/>
+      <point x="2128.07" y="416.5"/>
+      <point x="2172" y="557.5" type="curve"/>
+      <point x="2174.5" y="386" type="line"/>
+      <point x="2157.5" y="386" type="line"/>
+      <point x="2106.3" y="255.605"/>
+      <point x="1957.85" y="157.5"/>
+      <point x="1666.5" y="157.5" type="curve" smooth="yes"/>
+      <point x="1282.69" y="157.5"/>
+      <point x="1063" y="328.5"/>
+      <point x="1063" y="620" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-33" y="1092.5" type="line"/>
+      <point x="-47" y="1248" type="line"/>
+      <point x="959.5" y="1248" type="line"/>
+      <point x="973.5" y="1092.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="697.5" y="670" type="line" smooth="yes"/>
+      <point x="463.6" y="670"/>
+      <point x="359.506" y="585.634"/>
+      <point x="359.5" y="445.261" type="curve" smooth="yes"/>
+      <point x="359.495" y="292.676"/>
+      <point x="447.999" y="162.848"/>
+      <point x="616.999" y="-0.387894" type="curve"/>
+      <point x="366.944" y="0" type="line"/>
+      <point x="218.33" y="144.454"/>
+      <point x="140.004" y="283.761"/>
+      <point x="139.5" y="452.314" type="curve" smooth="yes"/>
+      <point x="138.793" y="688.467"/>
+      <point x="295" y="836.5"/>
+      <point x="687" y="836.5" type="curve" smooth="yes"/>
+      <point x="728.5" y="836.5" type="line" smooth="yes"/>
+      <point x="1013" y="836.5"/>
+      <point x="1118.37" y="785.183"/>
+      <point x="1182" y="657" type="curve"/>
+      <point x="1074.5" y="546" type="line"/>
+      <point x="1036.2" y="636.693"/>
+      <point x="958" y="670"/>
+      <point x="741.5" y="670" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1036" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ta.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="matraItwentysix.dv" format="2">
+  <advance width="634"/>
+  <outline>
+    <contour>
+      <point x="335" y="0" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="299" y="1209" type="line"/>
+      <point x="335" y="1209" type="line"/>
+    </contour>
+    <contour>
+      <point x="677" y="1200" type="line"/>
+      <point x="-36" y="1200" type="line"/>
+      <point x="-43" y="1230" type="line"/>
+      <point x="670" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="1375.13" y="1766" type="curve" smooth="yes"/>
+      <point x="1990" y="1766"/>
+      <point x="2704" y="1636.99"/>
+      <point x="3159.49" y="1403" type="curve"/>
+      <point x="3188" y="1361" type="line"/>
+      <point x="3183" y="1356" type="line"/>
+      <point x="2704.33" y="1601"/>
+      <point x="1990.61" y="1732"/>
+      <point x="1374.25" y="1732" type="curve" smooth="yes"/>
+      <point x="609.356" y="1732"/>
+      <point x="334" y="1565.58"/>
+      <point x="334" y="1244.93" type="curve" smooth="yes"/>
+      <point x="334" y="1220" type="line"/>
+      <point x="299" y="1220" type="line"/>
+      <point x="299" y="1247.93" type="line" smooth="yes"/>
+      <point x="299" y="1591.61"/>
+      <point x="590.327" y="1766"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="335" y="0"/>
+  <guideline angle="90" x="75" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>matraA.dv</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>03b452a0f02091c7d7e9c5968cd33ae32de7c1fca1f27b77a753ebac32779bf0e601e7b90cf9b15e5cbfcbfa362656a38a755d722a8e0fe23cfaafef42664d63</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1665 2356</string>
+          <string>vstem 118.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

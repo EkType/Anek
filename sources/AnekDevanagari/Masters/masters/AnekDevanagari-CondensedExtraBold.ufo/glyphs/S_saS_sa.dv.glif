@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SsaSsa.dv" format="2">
+  <advance width="1472"/>
+  <anchor x="1239" y="37" name="bottom"/>
+  <anchor x="1229" y="37" name="bottom2"/>
+  <anchor x="1391" y="37" name="bottom3"/>
+  <anchor x="1239" y="55" name="bottom5"/>
+  <anchor x="1239" y="1255" name="top"/>
+  <outline>
+    <contour>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="696" y="1308" type="line"/>
+      <point x="710" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="230" type="curve" smooth="yes"/>
+      <point x="171" y="230"/>
+      <point x="74" y="340"/>
+      <point x="74" y="591" type="curve" smooth="yes"/>
+      <point x="74" y="1159" type="line"/>
+      <point x="359" y="1159" type="line"/>
+      <point x="359" y="626" type="line" smooth="yes"/>
+      <point x="359" y="523"/>
+      <point x="399" y="484"/>
+      <point x="473" y="484" type="curve" smooth="yes"/>
+      <point x="539" y="484"/>
+      <point x="580" y="519"/>
+      <point x="587" y="585" type="curve"/>
+      <point x="629" y="397" type="line"/>
+      <point x="598" y="397" type="line"/>
+      <point x="573" y="304"/>
+      <point x="507" y="230"/>
+    </contour>
+    <contour>
+      <point x="287" y="1032" type="curve"/>
+      <point x="348" y="1113" type="line"/>
+      <point x="512" y="865" type="line" smooth="yes"/>
+      <point x="575" y="769"/>
+      <point x="599" y="720"/>
+      <point x="654" y="578" type="curve"/>
+      <point x="574" y="493" type="line"/>
+      <point x="425" y="730" type="line" smooth="yes"/>
+      <point x="365" y="825"/>
+      <point x="333" y="893"/>
+    </contour>
+    <contour>
+      <point x="1391" y="1156" type="line"/>
+      <point x="1391" y="0" type="line"/>
+      <point x="1087" y="0" type="line"/>
+      <point x="1087" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="1064" y="1067" type="line"/>
+      <point x="1050" y="1308" type="line"/>
+      <point x="1500" y="1308" type="line"/>
+      <point x="1514" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="1067" type="line"/>
+      <point x="462" y="1308" type="line"/>
+      <point x="1500" y="1308" type="line"/>
+      <point x="1514" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="852" y="230" type="curve" smooth="yes"/>
+      <point x="677" y="230"/>
+      <point x="578" y="340"/>
+      <point x="578" y="591" type="curve" smooth="yes"/>
+      <point x="578" y="1159" type="line"/>
+      <point x="863" y="1159" type="line"/>
+      <point x="863" y="626" type="line" smooth="yes"/>
+      <point x="863" y="523"/>
+      <point x="903" y="484"/>
+      <point x="977" y="484" type="curve" smooth="yes"/>
+      <point x="1043" y="484"/>
+      <point x="1084" y="519"/>
+      <point x="1091" y="585" type="curve"/>
+      <point x="1113" y="397" type="line"/>
+      <point x="1078" y="397" type="line"/>
+      <point x="1056" y="298"/>
+      <point x="995" y="230"/>
+    </contour>
+    <contour>
+      <point x="791" y="1032" type="curve"/>
+      <point x="852" y="1123" type="line"/>
+      <point x="1023" y="854" type="line" smooth="yes"/>
+      <point x="1074.89" y="772.37"/>
+      <point x="1103.94" y="711.564"/>
+      <point x="1154" y="558" type="curve"/>
+      <point x="1078" y="493" type="line"/>
+      <point x="929" y="730" type="line" smooth="yes"/>
+      <point x="876.355" y="813.738"/>
+      <point x="840" y="902"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="74" y="0"/>
+  <guideline angle="90" x="1239" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1255"/>
+  <guideline angle="90" x="1229" y="0"/>
+  <guideline angle="90" x="1391" y="0"/>
+  <guideline angle="0" x="0" y="55"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ssa.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2c57f594610abad8c7f6c8610733c2c346a990033c106ca0196be00043b52e4083019347d28d54e7ec93e11e62651bb8e4a2dd8f45b1a568a9b823b59daf581b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 1053 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

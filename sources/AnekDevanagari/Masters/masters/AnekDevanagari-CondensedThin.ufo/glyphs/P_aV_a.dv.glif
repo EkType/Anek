@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PaVa.dv" format="2">
+  <advance width="1052"/>
+  <anchor x="883" y="9" name="bottom"/>
+  <anchor x="878" y="9" name="bottom2"/>
+  <anchor x="901" y="9" name="bottom3"/>
+  <anchor x="883" y="30" name="bottom5"/>
+  <anchor x="883" y="1262" name="top"/>
+  <outline>
+    <contour>
+      <point x="-20" y="1242" type="line"/>
+      <point x="-25" y="1271" type="line"/>
+      <point x="512" y="1271" type="line"/>
+      <point x="518" y="1242" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="366" type="curve" smooth="yes"/>
+      <point x="402" y="366"/>
+      <point x="458" y="404"/>
+      <point x="481" y="495" type="curve"/>
+      <point x="487" y="446" type="line"/>
+      <point x="485" y="446" type="line"/>
+      <point x="464" y="369"/>
+      <point x="407" y="333"/>
+      <point x="325" y="333" type="curve" smooth="yes"/>
+      <point x="200" y="333"/>
+      <point x="131" y="413"/>
+      <point x="131" y="598" type="curve" smooth="yes"/>
+      <point x="131" y="1251" type="line"/>
+      <point x="166" y="1251" type="line"/>
+      <point x="166" y="602" type="line" smooth="yes"/>
+      <point x="166" y="436"/>
+      <point x="220" y="366"/>
+    </contour>
+    <contour>
+      <point x="901" y="1251" type="line"/>
+      <point x="901" y="0" type="line"/>
+      <point x="866" y="0" type="line"/>
+      <point x="866" y="1251" type="line"/>
+    </contour>
+    <contour>
+      <point x="766" y="1242" type="line"/>
+      <point x="760" y="1271" type="line"/>
+      <point x="1070" y="1271" type="line"/>
+      <point x="1076" y="1242" type="line"/>
+    </contour>
+    <contour>
+      <point x="348" y="1242" type="line"/>
+      <point x="342" y="1271" type="line"/>
+      <point x="1070" y="1271" type="line"/>
+      <point x="1076" y="1242" type="line"/>
+    </contour>
+    <contour>
+      <point x="473" y="475" type="curve" smooth="yes"/>
+      <point x="473" y="736" type="line" smooth="yes"/>
+      <point x="473" y="924"/>
+      <point x="541" y="1016"/>
+      <point x="682" y="1016" type="curve" smooth="yes"/>
+      <point x="726" y="1016"/>
+      <point x="756" y="1009"/>
+      <point x="778" y="999" type="curve"/>
+      <point x="784" y="964" type="line"/>
+      <point x="754" y="976"/>
+      <point x="726" y="983"/>
+      <point x="684" y="983" type="curve" smooth="yes"/>
+      <point x="563" y="983"/>
+      <point x="509" y="900"/>
+      <point x="509" y="732" type="curve" smooth="yes"/>
+      <point x="509" y="478" type="line" smooth="yes"/>
+      <point x="509" y="311"/>
+      <point x="565" y="228"/>
+      <point x="684" y="228" type="curve" smooth="yes"/>
+      <point x="773" y="228"/>
+      <point x="844" y="278"/>
+      <point x="868" y="401" type="curve"/>
+      <point x="875" y="342" type="line"/>
+      <point x="871" y="342" type="line"/>
+      <point x="855" y="256"/>
+      <point x="788" y="195"/>
+      <point x="684" y="195" type="curve" smooth="yes"/>
+      <point x="543" y="195"/>
+      <point x="473" y="287"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="191"/>
+  <guideline angle="90" x="878" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="90" x="883" y="0"/>
+  <guideline angle="90" x="866" y="0"/>
+  <guideline angle="0" x="0" y="1262"/>
+  <guideline angle="90" x="901" y="0"/>
+  <guideline angle="0" x="0" y="-125"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Pa.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b4939ee8663faade41b06b473c5da27965aa0b5ef9fc7ecd3cdafb26a67a79643c9d359364cfb89112f76aa3a3b8708a640fdd995145eb5ce96187d84661bf7d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 799 19</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

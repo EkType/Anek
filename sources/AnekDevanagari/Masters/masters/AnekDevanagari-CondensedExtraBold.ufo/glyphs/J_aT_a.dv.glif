@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="JaTa.dv" format="2">
+  <advance width="1590"/>
+  <anchor x="1357" y="37" name="bottom"/>
+  <anchor x="1347" y="37" name="bottom2"/>
+  <anchor x="1509" y="37" name="bottom3"/>
+  <anchor x="1357" y="55" name="bottom5"/>
+  <anchor x="1357" y="1255" name="top"/>
+  <outline>
+    <contour>
+      <point x="615" y="905" type="line"/>
+      <point x="782" y="905" type="line" smooth="yes"/>
+      <point x="870" y="905"/>
+      <point x="914" y="901"/>
+      <point x="970" y="883" type="curve"/>
+      <point x="970" y="647" type="line"/>
+      <point x="615" y="647" type="line"/>
+    </contour>
+    <contour>
+      <point x="1509" y="1156" type="line"/>
+      <point x="1509" y="0" type="line"/>
+      <point x="1205" y="0" type="line"/>
+      <point x="1205" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="1182" y="1067" type="line"/>
+      <point x="1168" y="1308" type="line"/>
+      <point x="1618" y="1308" type="line"/>
+      <point x="1632" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="631" y="1067" type="line"/>
+      <point x="617" y="1308" type="line"/>
+      <point x="1618" y="1308" type="line"/>
+      <point x="1632" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="797" y="0" type="line"/>
+      <point x="745" y="202"/>
+      <point x="709" y="392"/>
+      <point x="709" y="550" type="curve" smooth="yes"/>
+      <point x="709" y="778"/>
+      <point x="812" y="907"/>
+      <point x="1071" y="907" type="curve" smooth="yes"/>
+      <point x="1286" y="907" type="line"/>
+      <point x="1286" y="646" type="line"/>
+      <point x="1130" y="646" type="line" smooth="yes"/>
+      <point x="1038" y="646"/>
+      <point x="1013" y="607"/>
+      <point x="1013" y="508" type="curve" smooth="yes"/>
+      <point x="1013" y="389"/>
+      <point x="1045" y="214"/>
+      <point x="1096" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="852" y="1067" type="line"/>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="838" y="1308" type="line"/>
+    </contour>
+    <contour>
+      <point x="629" y="647" type="line"/>
+      <point x="596" y="647" type="line"/>
+      <point x="396" y="655" type="line"/>
+      <point x="99" y="655" type="line"/>
+      <point x="99" y="905" type="line"/>
+      <point x="629" y="905" type="line"/>
+    </contour>
+    <contour>
+      <point x="436" y="732" type="line"/>
+      <point x="436" y="646" type="line"/>
+      <point x="532" y="613"/>
+      <point x="578" y="537"/>
+      <point x="578" y="399" type="curve" smooth="yes"/>
+      <point x="578" y="375" type="line" smooth="yes"/>
+      <point x="578" y="166"/>
+      <point x="480" y="61"/>
+      <point x="269" y="61" type="curve" smooth="yes"/>
+      <point x="178" y="61"/>
+      <point x="108" y="79"/>
+      <point x="52" y="112" type="curve"/>
+      <point x="44" y="372" type="line"/>
+      <point x="86" y="344"/>
+      <point x="129" y="328"/>
+      <point x="175" y="328" type="curve" smooth="yes"/>
+      <point x="244.091" y="328"/>
+      <point x="270" y="366"/>
+      <point x="270" y="466" type="curve" smooth="yes"/>
+      <point x="270" y="500" type="line" smooth="yes"/>
+      <point x="270" y="609"/>
+      <point x="244.318" y="641.959"/>
+      <point x="177" y="648" type="curve" smooth="yes"/>
+      <point x="99" y="655" type="line"/>
+      <point x="99" y="732" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1357" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1255"/>
+  <guideline angle="90" x="1347" y="0"/>
+  <guideline angle="90" x="1509" y="0"/>
+  <guideline angle="0" x="0" y="55"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ja.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>765cdcc371609a16ac8cf32b11f05aec4fed91c1f34e5c321980069d074df3f61b117c01a66d49cccf5aac88aa4370c68d4177214c85fde6267a7f0f2e7a0e8d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 1171 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

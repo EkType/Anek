@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="MaBha.dv" format="2">
+  <advance width="1472"/>
+  <anchor x="1239" y="37" name="bottom"/>
+  <anchor x="1229" y="37" name="bottom2"/>
+  <anchor x="1391" y="37" name="bottom3"/>
+  <anchor x="1239" y="55" name="bottom5"/>
+  <anchor x="1239" y="1255" name="top"/>
+  <outline>
+    <contour>
+      <point x="598.823" y="416" type="line"/>
+      <point x="598.823" y="673" type="line"/>
+      <point x="727.632" y="673" type="line"/>
+      <point x="727.632" y="416" type="line"/>
+    </contour>
+    <contour>
+      <point x="591" y="1067" type="line"/>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="576" y="1308" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="416" type="line"/>
+      <point x="187" y="673" type="line"/>
+      <point x="673" y="673" type="line"/>
+      <point x="673" y="416" type="line"/>
+    </contour>
+    <contour>
+      <point x="421" y="1159" type="line"/>
+      <point x="421" y="534" type="line"/>
+      <point x="121" y="534" type="line"/>
+      <point x="121" y="1159" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="125" type="line"/>
+      <point x="92" y="247"/>
+      <point x="38" y="408"/>
+      <point x="29" y="583" type="curve"/>
+      <point x="121" y="650" type="line"/>
+      <point x="421" y="650" type="line"/>
+      <point x="421" y="599.702"/>
+      <point x="421" y="168.478"/>
+      <point x="421" y="125" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1391" y="1156" type="line"/>
+      <point x="1391" y="0" type="line"/>
+      <point x="1087" y="0" type="line"/>
+      <point x="1087" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="1064" y="1067" type="line"/>
+      <point x="1050" y="1308" type="line"/>
+      <point x="1500" y="1308" type="line"/>
+      <point x="1514" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="1019" y="1067" type="line"/>
+      <point x="1005" y="1308" type="line"/>
+      <point x="1400" y="1308" type="line"/>
+      <point x="1414" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="673" y="415" type="line"/>
+      <point x="673" y="673" type="line"/>
+      <point x="1207" y="673" type="line"/>
+      <point x="1207" y="415" type="line"/>
+    </contour>
+    <contour>
+      <point x="660" y="127" type="line"/>
+      <point x="578" y="250"/>
+      <point x="524" y="410"/>
+      <point x="515" y="587" type="curve"/>
+      <point x="607" y="650" type="line"/>
+      <point x="907" y="650" type="line"/>
+      <point x="907" y="127" type="line"/>
+    </contour>
+    <contour>
+      <point x="607" y="535" type="line"/>
+      <point x="607" y="966" type="line" smooth="yes"/>
+      <point x="607" y="1043"/>
+      <point x="589" y="1067"/>
+      <point x="524" y="1067" type="curve" smooth="yes"/>
+      <point x="458" y="1067" type="line"/>
+      <point x="444" y="1308" type="line"/>
+      <point x="567" y="1308" type="line" smooth="yes"/>
+      <point x="822" y="1308"/>
+      <point x="907" y="1211"/>
+      <point x="907" y="970" type="curve" smooth="yes"/>
+      <point x="907" y="535" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="370"/>
+  <guideline angle="0" x="0" y="370"/>
+  <guideline angle="90" x="1239" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1255"/>
+  <guideline angle="90" x="1229" y="0"/>
+  <guideline angle="90" x="1391" y="0"/>
+  <guideline angle="0" x="0" y="55"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ma.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ac3feba44bbff141e2fcdaed3bb2b416dc3d694c300ed7df0ac4d1f428a6ea8569991b3c9fe189b0b4a94f4887840f026c3ec99bc8544172393f052ba8f8d7de</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 1053 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

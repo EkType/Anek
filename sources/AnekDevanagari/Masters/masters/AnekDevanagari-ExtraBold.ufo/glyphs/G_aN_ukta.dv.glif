@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="GaNukta.dv" format="2">
+  <advance width="1284"/>
+  <unicode hex="095A"/>
+  <anchor x="997.5" y="37" name="bottom"/>
+  <anchor x="990" y="37" name="bottom2"/>
+  <anchor x="1169" y="37" name="bottom3"/>
+  <anchor x="997" y="55" name="bottom5"/>
+  <anchor x="997" y="1234.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="1234.5" y="1033" type="line"/>
+      <point x="-32" y="1033" type="line"/>
+      <point x="-49.5" y="1287" type="line"/>
+      <point x="1217" y="1287" type="line"/>
+    </contour>
+    <contour>
+      <point x="183.5" y="1063" type="curve"/>
+      <point x="543.5" y="1063" type="line"/>
+      <point x="602.5" y="996.471"/>
+      <point x="627" y="902.175"/>
+      <point x="627" y="763.204" type="curve" smooth="yes"/>
+      <point x="627" y="731.587" type="line" smooth="yes"/>
+      <point x="627" y="438.64"/>
+      <point x="487.229" y="305"/>
+      <point x="215" y="305" type="curve" smooth="yes"/>
+      <point x="158.566" y="305"/>
+      <point x="107.622" y="311.03"/>
+      <point x="63" y="324.5" type="curve"/>
+      <point x="41.5" y="617" type="line"/>
+      <point x="61.8666" y="613.821"/>
+      <point x="86.4216" y="611"/>
+      <point x="109.5" y="611" type="curve" smooth="yes"/>
+      <point x="227.962" y="611"/>
+      <point x="279.5" y="653.347"/>
+      <point x="279.5" y="787.079" type="curve" smooth="yes"/>
+      <point x="279.5" y="814.985" type="line" smooth="yes"/>
+      <point x="279.5" y="925.206"/>
+      <point x="252.5" y="1004.61"/>
+    </contour>
+    <contour>
+      <point x="1169" y="1119" type="line"/>
+      <point x="1169" y="0" type="line"/>
+      <point x="825" y="0" type="line"/>
+      <point x="825" y="1119" type="line"/>
+    </contour>
+    <contour>
+      <point x="777" y="1033" type="line"/>
+      <point x="759.5" y="1287" type="line"/>
+      <point x="1316.5" y="1287" type="line"/>
+      <point x="1334" y="1033" type="line"/>
+    </contour>
+    <contour>
+      <point x="307.5" y="-113.5" type="curve" smooth="yes"/>
+      <point x="189.5" y="-113.5"/>
+      <point x="129" y="-48.5"/>
+      <point x="129" y="55" type="curve"/>
+      <point x="129" y="56.4362"/>
+      <point x="129" y="60.2559"/>
+      <point x="129" y="61.5" type="curve"/>
+      <point x="129" y="165.5"/>
+      <point x="189.5" y="230.5"/>
+      <point x="307.5" y="230.5" type="curve" smooth="yes"/>
+      <point x="425.5" y="230.5"/>
+      <point x="485" y="164.5"/>
+      <point x="485" y="61.5" type="curve"/>
+      <point x="485" y="60.0638"/>
+      <point x="485" y="56.2441"/>
+      <point x="485" y="55" type="curve"/>
+      <point x="485" y="-48.5"/>
+      <point x="425" y="-113.5"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="119"/>
+  <guideline angle="90" x="872.5" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="90" x="877.5" y="0"/>
+  <guideline angle="90" x="860.5" y="0"/>
+  <guideline angle="0" x="0" y="1262"/>
+  <guideline angle="90" x="997.5" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ga.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

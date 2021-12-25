@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="BaNa.dv" format="2">
+  <advance width="1323"/>
+  <anchor x="1036" y="-35" name="bottom"/>
+  <anchor x="1028.5" y="-35" name="bottom2"/>
+  <anchor x="1207.5" y="-35" name="bottom3"/>
+  <anchor x="1035" y="1234.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="-31.5" y="1033" type="line"/>
+      <point x="-49" y="1287" type="line"/>
+      <point x="1355" y="1287" type="line"/>
+      <point x="1372.5" y="1033" type="line"/>
+    </contour>
+    <contour>
+      <point x="1207.5" y="1089" type="line"/>
+      <point x="1207.5" y="862.5" type="line"/>
+      <point x="863.5" y="862.5" type="line"/>
+      <point x="863.5" y="1089" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="682" type="line"/>
+      <point x="500" y="780" type="line"/>
+      <point x="880" y="367" type="line"/>
+      <point x="774" y="252" type="line"/>
+    </contour>
+    <contour>
+      <point x="573.5" y="243.5" type="line"/>
+      <point x="644.5" y="155.5" type="line"/>
+      <point x="603.5" y="138.5"/>
+      <point x="543" y="128.622"/>
+      <point x="475" y="128.622" type="curve" smooth="yes"/>
+      <point x="220.453" y="128.622"/>
+      <point x="69" y="277.173"/>
+      <point x="69" y="502.202" type="curve" smooth="yes"/>
+      <point x="69" y="513" type="line" smooth="yes"/>
+      <point x="69" y="791"/>
+      <point x="228.431" y="933"/>
+      <point x="523.026" y="933" type="curve" smooth="yes"/>
+      <point x="607.805" y="933"/>
+      <point x="678" y="925"/>
+      <point x="749" y="908" type="curve"/>
+      <point x="773" y="674" type="line"/>
+      <point x="720" y="684"/>
+      <point x="665.358" y="690"/>
+      <point x="603.885" y="690" type="curve" smooth="yes"/>
+      <point x="463.421" y="690"/>
+      <point x="398" y="635"/>
+      <point x="398" y="516" type="curve" smooth="yes"/>
+      <point x="398" y="509" type="line" smooth="yes"/>
+      <point x="398" y="387"/>
+      <point x="468.105" y="336"/>
+      <point x="607" y="336" type="curve" smooth="yes"/>
+      <point x="712" y="336"/>
+      <point x="777.5" y="366.5"/>
+      <point x="846.5" y="405.5" type="curve" smooth="yes"/>
+      <point x="889" y="430.5" type="line"/>
+      <point x="889" y="145.5" type="line"/>
+      <point x="410.5" y="-71" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="563" y="-200.5" type="line"/>
+      <point x="335.5" y="-311" type="line"/>
+      <point x="227" y="-257.5"/>
+      <point x="144" y="-180"/>
+      <point x="94" y="-75.5" type="curve"/>
+      <point x="169" y="71" type="line"/>
+    </contour>
+    <contour>
+      <point x="1207.5" y="892" type="line"/>
+      <point x="1207.5" y="-72" type="line"/>
+      <point x="863.5" y="-72" type="line"/>
+      <point x="863.5" y="892" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="544" y="0"/>
+  <guideline angle="90" x="1035" y="0"/>
+  <guideline angle="90" x="916" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Va.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.805,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

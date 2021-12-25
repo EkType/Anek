@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PhaNukta.dv" format="2">
+  <advance width="2201"/>
+  <unicode hex="095E"/>
+  <anchor x="1113" y="37" name="bottom"/>
+  <anchor x="1109" y="37" name="bottom2"/>
+  <anchor x="1687" y="37" name="bottom3"/>
+  <anchor x="1113" y="55" name="bottom5"/>
+  <anchor x="1113" y="1214" name="top"/>
+  <outline>
+    <contour>
+      <point x="-36" y="999" type="line"/>
+      <point x="-57" y="1266" type="line"/>
+      <point x="2236" y="1266" type="line"/>
+      <point x="2257" y="999" type="line"/>
+    </contour>
+    <contour>
+      <point x="573" y="222" type="curve" smooth="yes"/>
+      <point x="308" y="222"/>
+      <point x="137" y="356"/>
+      <point x="137" y="680" type="curve" smooth="yes"/>
+      <point x="137" y="1080" type="line"/>
+      <point x="521" y="1080" type="line"/>
+      <point x="521" y="726" type="line" smooth="yes"/>
+      <point x="521" y="573"/>
+      <point x="589" y="525"/>
+      <point x="728" y="525" type="curve" smooth="yes"/>
+      <point x="833" y="525"/>
+      <point x="902" y="568"/>
+      <point x="926" y="627" type="curve"/>
+      <point x="940" y="429" type="line"/>
+      <point x="908" y="429" type="line"/>
+      <point x="872" y="306"/>
+      <point x="767" y="222"/>
+    </contour>
+    <contour>
+      <point x="1554" y="602" type="curve" smooth="yes"/>
+      <point x="1428" y="602"/>
+      <point x="1333" y="550"/>
+      <point x="1292" y="470" type="curve"/>
+      <point x="1282" y="682" type="line"/>
+      <point x="1315" y="682" type="line"/>
+      <point x="1367" y="808"/>
+      <point x="1485" y="894"/>
+      <point x="1695" y="894" type="curve" smooth="yes"/>
+      <point x="1967" y="894"/>
+      <point x="2124" y="728"/>
+      <point x="2124" y="484" type="curve" smooth="yes"/>
+      <point x="2124" y="475" type="line" smooth="yes"/>
+      <point x="2124" y="215"/>
+      <point x="1963" y="75"/>
+      <point x="1663" y="75" type="curve" smooth="yes"/>
+      <point x="1583" y="75"/>
+      <point x="1515" y="82"/>
+      <point x="1461" y="96" type="curve"/>
+      <point x="1438" y="376" type="line"/>
+      <point x="1474" y="368"/>
+      <point x="1511" y="363"/>
+      <point x="1557" y="363" type="curve" smooth="yes"/>
+      <point x="1682" y="363"/>
+      <point x="1735" y="402"/>
+      <point x="1735" y="481" type="curve" smooth="yes"/>
+      <point x="1735" y="484" type="line" smooth="yes"/>
+      <point x="1735" y="557"/>
+      <point x="1684" y="602"/>
+    </contour>
+    <contour>
+      <point x="1305" y="1082" type="line"/>
+      <point x="1305" y="0" type="line"/>
+      <point x="921" y="0" type="line"/>
+      <point x="921" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="-203" type="curve" smooth="yes"/>
+      <point x="237" y="-203"/>
+      <point x="162" y="-132"/>
+      <point x="162" y="-21" type="curve"/>
+      <point x="162" y="-19.4533"/>
+      <point x="162" y="-15.3398"/>
+      <point x="162" y="-14" type="curve"/>
+      <point x="162" y="98"/>
+      <point x="237" y="169"/>
+      <point x="372" y="169" type="curve" smooth="yes"/>
+      <point x="507" y="169"/>
+      <point x="580" y="96"/>
+      <point x="580" y="-14" type="curve"/>
+      <point x="580" y="-15.5467"/>
+      <point x="580" y="-19.6602"/>
+      <point x="580" y="-21" type="curve"/>
+      <point x="580" y="-132"/>
+      <point x="506" y="-203"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="178" y="0"/>
+  <guideline angle="0" x="0" y="-101"/>
+  <guideline angle="90" x="1113" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1214"/>
+  <guideline angle="90" x="1109" y="0"/>
+  <guideline angle="90" x="1305" y="0"/>
+  <guideline angle="0" x="0" y="55"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Pha.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Pha.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3fa97255bd16aac3aaeb9c18e0ce2e0e979f5fa99a2a9ed8dacced4d962b571ea55f12cf1c25f541cd86a0aa4c9134628321d3b16c76c389aae190e3e76b2bc0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 845.67 216.32</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

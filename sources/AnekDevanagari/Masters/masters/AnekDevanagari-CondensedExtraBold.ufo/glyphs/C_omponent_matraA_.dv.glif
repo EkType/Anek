@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Component_matraA.dv" format="2">
+  <advance width="466"/>
+  <anchor x="233" y="37" name="bottom"/>
+  <anchor x="223" y="37" name="bottom2"/>
+  <anchor x="385" y="37" name="bottom3"/>
+  <anchor x="233" y="55" name="bottom5"/>
+  <anchor x="233" y="1255" name="top"/>
+  <outline>
+    <contour>
+      <point x="385" y="1156" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="81" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="1067" type="line"/>
+      <point x="44" y="1308" type="line"/>
+      <point x="494" y="1308" type="line"/>
+      <point x="508" y="1067" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="233" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1255"/>
+  <guideline angle="90" x="223" y="0"/>
+  <guideline angle="90" x="385" y="0"/>
+  <guideline angle="0" x="0" y="55"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w466m383,1156l383,0l79,0l79,1156m56,1067l42,1308l492,1308l506,1067</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 47 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

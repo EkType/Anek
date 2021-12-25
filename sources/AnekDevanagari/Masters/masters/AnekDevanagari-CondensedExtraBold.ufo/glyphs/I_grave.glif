@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igrave" format="2">
+  <advance width="468"/>
+  <unicode hex="00CC"/>
+  <anchor x="234" y="0" name="bottom"/>
+  <anchor x="409" y="0" name="ogonek"/>
+  <anchor x="165" y="1618" name="top"/>
+  <anchor x="20" y="1278" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="394" y="1278" type="line"/>
+      <point x="74" y="1278" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="394" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-88" y="1618" type="line"/>
+      <point x="-88" y="1618" type="line"/>
+      <point x="125" y="1348" type="line"/>
+      <point x="366" y="1348" type="line"/>
+      <point x="366" y="1348" type="line"/>
+      <point x="210" y="1618" type="line"/>
+    </contour>
+  </outline>
+</glyph>

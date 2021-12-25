@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="2">
+  <advance width="449"/>
+  <unicode hex="00EE"/>
+  <anchor x="225" y="0" name="bottom"/>
+  <anchor x="361" y="0" name="ogonek"/>
+  <anchor x="225" y="1327" name="top"/>
+  <outline>
+    <contour>
+      <point x="323" y="0" type="line"/>
+      <point x="323" y="978" type="line"/>
+      <point x="127" y="978" type="line"/>
+      <point x="127" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-27" y="1095" type="line"/>
+      <point x="-27" y="1093" type="line"/>
+      <point x="120" y="1093" type="line"/>
+      <point x="221" y="1259" type="line"/>
+      <point x="228" y="1259" type="line"/>
+      <point x="330" y="1093" type="line"/>
+      <point x="477" y="1093" type="line"/>
+      <point x="477" y="1095" type="line"/>
+      <point x="327" y="1368" type="line"/>
+      <point x="123" y="1368" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SsaRa.dv" format="2">
+  <advance width="968"/>
+  <anchor x="735" y="37" name="bottom"/>
+  <anchor x="725" y="37" name="bottom2"/>
+  <anchor x="887" y="37" name="bottom3"/>
+  <anchor x="735" y="55" name="bottom5"/>
+  <anchor x="735" y="1255" name="top"/>
+  <outline>
+    <contour>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="996" y="1308" type="line"/>
+      <point x="1010" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="1032" type="curve"/>
+      <point x="348" y="1113" type="line"/>
+      <point x="512" y="865" type="line" smooth="yes"/>
+      <point x="569" y="776"/>
+      <point x="598" y="712"/>
+      <point x="650" y="578" type="curve"/>
+      <point x="574" y="493" type="line"/>
+      <point x="425" y="730" type="line" smooth="yes"/>
+      <point x="374" y="811"/>
+      <point x="337" y="896"/>
+    </contour>
+    <contour>
+      <point x="351" y="283" type="curve" smooth="yes"/>
+      <point x="190" y="283"/>
+      <point x="74" y="375"/>
+      <point x="74" y="615" type="curve" smooth="yes"/>
+      <point x="74" y="1159" type="line"/>
+      <point x="359" y="1159" type="line"/>
+      <point x="359" y="620" type="line" smooth="yes"/>
+      <point x="359" y="534"/>
+      <point x="397" y="500"/>
+      <point x="464" y="500" type="curve" smooth="yes"/>
+      <point x="515" y="500"/>
+      <point x="545" y="517"/>
+      <point x="574" y="545" type="curve"/>
+      <point x="594" y="563" type="line"/>
+      <point x="594" y="309" type="line"/>
+      <point x="379" y="0" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="24" y="46" type="line"/>
+      <point x="361" y="368" type="line"/>
+      <point x="489" y="316" type="line"/>
+      <point x="456" y="298"/>
+      <point x="408" y="283"/>
+    </contour>
+    <contour>
+      <point x="887" y="1156" type="line"/>
+      <point x="887" y="0" type="line"/>
+      <point x="583" y="0" type="line"/>
+      <point x="583" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="1067" type="line"/>
+      <point x="546" y="1308" type="line"/>
+      <point x="996" y="1308" type="line"/>
+      <point x="1010" y="1067" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="735" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1255"/>
+  <guideline angle="90" x="725" y="0"/>
+  <guideline angle="90" x="887" y="0"/>
+  <guideline angle="0" x="0" y="55"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ssa.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>723b1e29552c8fdb606bd9b53e0e06bd2dd196f9f8d66f7b2ed0c19586c4a741173cc459aeead962271da1d06c85558717f48a15fbe2c4c1561712e01738b844</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 549 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

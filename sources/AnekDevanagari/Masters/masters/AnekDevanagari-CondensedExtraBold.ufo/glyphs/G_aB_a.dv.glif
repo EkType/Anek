@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="GaBa.dv" format="2">
+  <advance width="1472"/>
+  <anchor x="1239" y="37" name="bottom"/>
+  <anchor x="1229" y="37" name="bottom2"/>
+  <anchor x="1391" y="37" name="bottom3"/>
+  <anchor x="1239" y="55" name="bottom5"/>
+  <anchor x="1239" y="1255" name="top"/>
+  <outline>
+    <contour>
+      <point x="1391" y="1156" type="line"/>
+      <point x="1391" y="0" type="line"/>
+      <point x="1087" y="0" type="line"/>
+      <point x="1087" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="1064" y="1067" type="line"/>
+      <point x="1050" y="1308" type="line"/>
+      <point x="1500" y="1308" type="line"/>
+      <point x="1514" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="1067" type="line"/>
+      <point x="466" y="1308" type="line"/>
+      <point x="1400" y="1308" type="line"/>
+      <point x="1414" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="780" y="723" type="line"/>
+      <point x="898" y="802" type="line"/>
+      <point x="1130" y="372" type="line"/>
+      <point x="1020" y="287" type="line"/>
+    </contour>
+    <contour>
+      <point x="561" y="484" type="curve" smooth="yes"/>
+      <point x="561" y="574" type="line" smooth="yes"/>
+      <point x="561" y="850"/>
+      <point x="683" y="966"/>
+      <point x="889" y="966" type="curve" smooth="yes"/>
+      <point x="942" y="966"/>
+      <point x="977" y="960"/>
+      <point x="1008" y="949" type="curve"/>
+      <point x="1027" y="734" type="line"/>
+      <point x="1005" y="738"/>
+      <point x="983" y="740"/>
+      <point x="953" y="740" type="curve" smooth="yes"/>
+      <point x="863" y="740"/>
+      <point x="828" y="690"/>
+      <point x="828" y="572" type="curve" smooth="yes"/>
+      <point x="828" y="499" type="line" smooth="yes"/>
+      <point x="828" y="374"/>
+      <point x="872" y="328"/>
+      <point x="950" y="328" type="curve" smooth="yes"/>
+      <point x="1038" y="328"/>
+      <point x="1080" y="362"/>
+      <point x="1091" y="432" type="curve"/>
+      <point x="1112" y="256" type="line"/>
+      <point x="1077" y="256" type="line"/>
+      <point x="1053" y="162"/>
+      <point x="990" y="94"/>
+      <point x="852" y="94" type="curve" smooth="yes"/>
+      <point x="664" y="94"/>
+      <point x="561" y="202"/>
+    </contour>
+    <contour>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="547" y="1308" type="line"/>
+      <point x="561" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="421" y="1095" type="line"/>
+      <point x="450" y="1038"/>
+      <point x="457" y="957"/>
+      <point x="457" y="795" type="curve" smooth="yes"/>
+      <point x="457" y="673" type="line" smooth="yes"/>
+      <point x="457" y="351"/>
+      <point x="360.563" y="243"/>
+      <point x="160" y="243" type="curve" smooth="yes"/>
+      <point x="118.056" y="243"/>
+      <point x="80.7536" y="247.747"/>
+      <point x="47" y="258" type="curve"/>
+      <point x="31" y="538" type="line"/>
+      <point x="41.6652" y="536.433"/>
+      <point x="55.6677" y="534"/>
+      <point x="70" y="534" type="curve" smooth="yes"/>
+      <point x="131.28" y="534"/>
+      <point x="153" y="561.9"/>
+      <point x="153" y="714" type="curve" smooth="yes"/>
+      <point x="153" y="830" type="line" smooth="yes"/>
+      <point x="153" y="960"/>
+      <point x="147" y="1040"/>
+      <point x="118" y="1095" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1239" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1255"/>
+  <guideline angle="90" x="1229" y="0"/>
+  <guideline angle="90" x="1391" y="0"/>
+  <guideline angle="0" x="0" y="55"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ga.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>cbf7916e6a31b1ca77a0c2c7e8cd71fa9761543354e6bb2c644bf62b70eba9c8bb325e72c591d02db8cc048e40ca837dc0c422fbf9b543c9f8e133be0bf09dc7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 1053 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="La.MAR.dv" format="2">
+  <advance width="1179"/>
+  <anchor x="854" y="47" name="bottom"/>
+  <anchor x="837" y="37" name="bottom2"/>
+  <anchor x="924" y="37" name="bottom3"/>
+  <anchor x="593" y="55" name="bottom5"/>
+  <anchor x="848" y="1255" name="top"/>
+  <outline>
+    <contour>
+      <point x="657" y="1067" type="line"/>
+      <point x="643" y="1308" type="line"/>
+      <point x="1104" y="1308" type="line"/>
+      <point x="1118" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="995" y="1156" type="line"/>
+      <point x="995" y="961" type="line"/>
+      <point x="701" y="961" type="line"/>
+      <point x="701" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="1208" y="1308" type="line"/>
+      <point x="1222" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="995" y="1102" type="line"/>
+      <point x="995" y="857" type="line"/>
+      <point x="700" y="857" type="line"/>
+      <point x="700" y="1102" type="line"/>
+    </contour>
+    <contour>
+      <point x="368" y="922" type="curve" smooth="yes"/>
+      <point x="495" y="922"/>
+      <point x="563" y="867"/>
+      <point x="591" y="769" type="curve"/>
+      <point x="598" y="769" type="line"/>
+      <point x="627" y="865"/>
+      <point x="697" y="922"/>
+      <point x="828" y="922" type="curve" smooth="yes"/>
+      <point x="1027" y="922"/>
+      <point x="1124" y="804"/>
+      <point x="1124" y="534" type="curve" smooth="yes"/>
+      <point x="1124" y="440" type="line" smooth="yes"/>
+      <point x="1124" y="226"/>
+      <point x="1089" y="112"/>
+      <point x="1008" y="0" type="curve"/>
+      <point x="684" y="0" type="line"/>
+      <point x="684" y="4" type="line"/>
+      <point x="786" y="131"/>
+      <point x="828" y="241"/>
+      <point x="828" y="438" type="curve" smooth="yes"/>
+      <point x="828" y="528" type="line" smooth="yes"/>
+      <point x="828" y="626"/>
+      <point x="811" y="655"/>
+      <point x="775" y="655" type="curve" smooth="yes"/>
+      <point x="740" y="655"/>
+      <point x="725" y="637"/>
+      <point x="721" y="546" type="curve" smooth="yes"/>
+      <point x="708" y="241" type="line"/>
+      <point x="475" y="241" type="line"/>
+      <point x="462" y="546" type="line" smooth="yes"/>
+      <point x="458" y="637"/>
+      <point x="447" y="657"/>
+      <point x="410" y="657" type="curve" smooth="yes"/>
+      <point x="372" y="657"/>
+      <point x="355" y="624"/>
+      <point x="355" y="528" type="curve" smooth="yes"/>
+      <point x="355" y="438" type="line" smooth="yes"/>
+      <point x="355" y="241"/>
+      <point x="399" y="131"/>
+      <point x="500" y="4" type="curve"/>
+      <point x="500" y="0" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="92" y="112"/>
+      <point x="59" y="226"/>
+      <point x="59" y="440" type="curve" smooth="yes"/>
+      <point x="59" y="534" type="line" smooth="yes"/>
+      <point x="59" y="802"/>
+      <point x="167" y="922"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="837" y="0"/>
+  <guideline angle="90" x="923" y="0"/>
+  <guideline angle="90" x="848" y="0"/>
+  <guideline angle="90" x="1095" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>243e8d9d2ce5753d737efaae09a3f95493f3dc02d9f581681287601f354c3b23450f77f7389d608b8380993450688ca0dabdd8f6502e5410ed0d9792f97ff65a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 662 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

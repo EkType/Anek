@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NaNa.dv" format="2">
+  <advance width="1008"/>
+  <anchor x="775" y="0" name="bottom"/>
+  <anchor x="765" y="0" name="bottom2"/>
+  <anchor x="927" y="0" name="bottom3"/>
+  <anchor x="775" y="1255" name="top"/>
+  <outline>
+    <contour>
+      <point x="1050" y="1067" type="line"/>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="1036" y="1308" type="line"/>
+    </contour>
+    <contour>
+      <point x="718" y="926" type="line"/>
+      <point x="718" y="666" type="line"/>
+      <point x="340" y="666" type="line"/>
+      <point x="340" y="926" type="line"/>
+    </contour>
+    <contour>
+      <point x="927" y="1156" type="line"/>
+      <point x="927" y="-37" type="line"/>
+      <point x="637" y="-37" type="line"/>
+      <point x="637" y="283" type="line"/>
+      <point x="623" y="329" type="line"/>
+      <point x="623" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="453" type="line"/>
+      <point x="66" y="578"/>
+      <point x="33" y="680"/>
+      <point x="20" y="824" type="curve"/>
+      <point x="149" y="926" type="line"/>
+      <point x="390" y="926" type="line"/>
+      <point x="390" y="453" type="line"/>
+    </contour>
+    <contour>
+      <point x="364" y="109" type="line"/>
+      <point x="394" y="208" type="line"/>
+      <point x="497" y="-29" type="line"/>
+      <point x="298" y="-129" type="line"/>
+      <point x="188" y="-61"/>
+      <point x="116" y="15"/>
+      <point x="59" y="129" type="curve"/>
+      <point x="131" y="283" type="line"/>
+      <point x="758" y="559" type="line"/>
+      <point x="758" y="293" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="775" y="0"/>
+  <guideline angle="0" x="0" y="0"/>
+  <guideline angle="0" x="0" y="1255"/>
+  <guideline angle="90" x="765" y="0"/>
+  <guideline angle="90" x="927" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7eb5e5f6bf7c5c0c5026c13ee17b4b24371dd5a5697e3a675ed8164cf30d405f3cc5d13379768f54ebd61ab1693a09ff65bea3fdec711b12b55824ab3aa19d29</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 589 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

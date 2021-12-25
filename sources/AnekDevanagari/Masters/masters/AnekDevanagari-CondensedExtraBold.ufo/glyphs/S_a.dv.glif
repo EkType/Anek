@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sa.dv" format="2">
+  <advance width="1056"/>
+  <unicode hex="0938"/>
+  <anchor x="823" y="37" name="bottom"/>
+  <anchor x="813" y="37" name="bottom2"/>
+  <anchor x="975" y="37" name="bottom3"/>
+  <anchor x="823" y="55" name="bottom5"/>
+  <anchor x="823" y="1255" name="top"/>
+  <note>Moved the link up.</note>
+  <outline>
+    <contour>
+      <point x="975" y="1156" type="line"/>
+      <point x="975" y="0" type="line"/>
+      <point x="671" y="0" type="line"/>
+      <point x="671" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="648" y="1067" type="line"/>
+      <point x="634" y="1308" type="line"/>
+      <point x="1084" y="1308" type="line"/>
+      <point x="1098" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="1098" y="1067" type="line"/>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="1084" y="1308" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="686" type="line"/>
+      <point x="753" y="686" type="line"/>
+      <point x="753" y="428" type="line"/>
+      <point x="478" y="428" type="line"/>
+    </contour>
+    <contour>
+      <point x="568" y="0" type="line"/>
+      <point x="232" y="0" type="line"/>
+      <point x="105" y="421" type="line"/>
+      <point x="31" y="431" type="line"/>
+      <point x="31" y="694" type="line"/>
+      <point x="256" y="605" type="line"/>
+      <point x="256" y="537" type="line"/>
+      <point x="364" y="466"/>
+      <point x="420" y="379"/>
+      <point x="473" y="245" type="curve" smooth="yes"/>
+      <point x="568" y="6" type="line"/>
+    </contour>
+    <contour>
+      <point x="458" y="1110" type="line"/>
+      <point x="489" y="1064"/>
+      <point x="504" y="992"/>
+      <point x="504" y="889" type="curve" smooth="yes"/>
+      <point x="504" y="839" type="line" smooth="yes"/>
+      <point x="504" y="580"/>
+      <point x="425" y="467"/>
+      <point x="204" y="443" type="curve" smooth="yes"/>
+      <point x="155" y="438" type="line"/>
+      <point x="31" y="694" type="line"/>
+      <point x="64" y="694" type="line" smooth="yes"/>
+      <point x="175" y="694"/>
+      <point x="202" y="756"/>
+      <point x="202" y="887" type="curve" smooth="yes"/>
+      <point x="202" y="922" type="line" smooth="yes"/>
+      <point x="202" y="1016"/>
+      <point x="193" y="1065"/>
+      <point x="158" y="1110" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="377"/>
+  <guideline angle="90" x="53" y="0"/>
+  <guideline angle="90" x="628" y="0"/>
+  <guideline angle="90" x="823" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1255"/>
+  <guideline angle="90" x="813" y="0"/>
+  <guideline angle="90" x="975" y="0"/>
+  <guideline angle="0" x="0" y="55"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9bf6ba74f6531594ed709bef86017fb0a13cb3c887329c7c6b13bcaa647e2dbf90e7ea35fe3b9b1615deb20dc3c4afbb4674c72dedc55927c3790315d49b4b72</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 637 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

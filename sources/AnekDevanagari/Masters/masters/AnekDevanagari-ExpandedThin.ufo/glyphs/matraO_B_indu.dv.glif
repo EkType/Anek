@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="matraOBindu.dv" format="2">
+  <advance width="634"/>
+  <outline>
+    <contour>
+      <point x="335" y="0" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="299" y="1209" type="line"/>
+      <point x="335" y="1209" type="line"/>
+    </contour>
+    <contour>
+      <point x="677" y="1200" type="line"/>
+      <point x="-36" y="1200" type="line"/>
+      <point x="-43" y="1230" type="line"/>
+      <point x="670" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="-553" y="1798" type="line"/>
+      <point x="-503" y="1798" type="line"/>
+      <point x="-336.041" y="1684.44"/>
+      <point x="176.929" y="1335.52"/>
+      <point x="335" y="1228" type="curve"/>
+      <point x="335" y="1221" type="line"/>
+      <point x="290" y="1221" type="line"/>
+      <point x="290" y="1230" type="line"/>
+      <point x="146" y="1316"/>
+      <point x="6" y="1412"/>
+      <point x="-150" y="1518" type="curve" smooth="yes"/>
+      <point x="-553" y="1791" type="line"/>
+    </contour>
+    <contour>
+      <point x="344.5" y="1567.28" type="curve" smooth="yes"/>
+      <point x="304.107" y="1567.28"/>
+      <point x="286.155" y="1591.32"/>
+      <point x="286.155" y="1619.92" type="curve" smooth="yes"/>
+      <point x="286.155" y="1623.29" type="line" smooth="yes"/>
+      <point x="286.155" y="1653.05"/>
+      <point x="304.107" y="1677.3"/>
+      <point x="344.5" y="1677.3" type="curve" smooth="yes"/>
+      <point x="384.893" y="1677.3"/>
+      <point x="402.845" y="1653.05"/>
+      <point x="402.845" y="1623.29" type="curve" smooth="yes"/>
+      <point x="402.845" y="1619.92" type="line" smooth="yes"/>
+      <point x="402.845" y="1591.32"/>
+      <point x="384.893" y="1567.28"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="329" y="0"/>
+  <guideline angle="90" x="335" y="0"/>
+  <guideline angle="90" x="75" y="0"/>
+  <guideline angle="90" x="79" y="0"/>
+  <guideline angle="0" x="0" y="660"/>
+  <guideline angle="90" x="317" y="0"/>
+  <guideline angle="0" x="0" y="1221"/>
+  <guideline angle="0" x="0" y="1408"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3ee59631929ee51e8977a8c5fa2dc7b39f3a98a3f950da2914bf7162fc9f55243e32f890aa53907496557682a0ee5811c9469935408ffadbae518711a4ac3aa9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1665 2356</string>
+          <string>vstem 118.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

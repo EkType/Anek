@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dha.dv" format="2">
+  <advance width="1741"/>
+  <unicode hex="0927"/>
+  <anchor x="1424" y="9" name="bottom"/>
+  <anchor x="1419" y="9" name="bottom2"/>
+  <anchor x="1442" y="9" name="bottom3"/>
+  <anchor x="1424" y="30" name="bottom5"/>
+  <anchor x="1424" y="1221" name="top"/>
+  <outline>
+    <contour>
+      <point x="1442" y="1209" type="line"/>
+      <point x="1442" y="0" type="line"/>
+      <point x="1406" y="0" type="line"/>
+      <point x="1406" y="1209" type="line"/>
+    </contour>
+    <contour>
+      <point x="1232" y="1200" type="line"/>
+      <point x="1225" y="1230" type="line"/>
+      <point x="1777" y="1230" type="line"/>
+      <point x="1784" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="1182" y="1200" type="line"/>
+      <point x="1175" y="1230" type="line"/>
+      <point x="1777" y="1230" type="line"/>
+      <point x="1784" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="457" type="line" smooth="yes"/>
+      <point x="205" y="603"/>
+      <point x="299" y="690"/>
+      <point x="639" y="696" type="curve"/>
+      <point x="639" y="700" type="line"/>
+      <point x="304" y="711"/>
+      <point x="189" y="816"/>
+      <point x="189" y="974" type="curve" smooth="yes"/>
+      <point x="189" y="981" type="line" smooth="yes"/>
+      <point x="189" y="1152"/>
+      <point x="338" y="1257"/>
+      <point x="602" y="1257" type="curve" smooth="yes"/>
+      <point x="865" y="1257"/>
+      <point x="1000" y="1166"/>
+      <point x="1000" y="1002" type="curve" smooth="yes"/>
+      <point x="1000" y="981"/>
+      <point x="998" y="961"/>
+      <point x="993" y="943" type="curve"/>
+      <point x="963" y="943" type="line"/>
+      <point x="963" y="990" type="line" smooth="yes"/>
+      <point x="963" y="1147"/>
+      <point x="838" y="1223"/>
+      <point x="603" y="1223" type="curve" smooth="yes"/>
+      <point x="363" y="1223"/>
+      <point x="227" y="1132"/>
+      <point x="227" y="979" type="curve" smooth="yes"/>
+      <point x="227" y="974" type="line" smooth="yes"/>
+      <point x="227" y="811"/>
+      <point x="357" y="722"/>
+      <point x="785" y="716" type="curve" smooth="yes"/>
+      <point x="933" y="714" type="line"/>
+      <point x="933" y="682" type="line"/>
+      <point x="790" y="680" type="line" smooth="yes"/>
+      <point x="333" y="674"/>
+      <point x="243" y="599"/>
+      <point x="243" y="457" type="curve" smooth="yes"/>
+      <point x="243" y="453" type="line" smooth="yes"/>
+      <point x="243" y="296"/>
+      <point x="435" y="212"/>
+      <point x="797" y="212" type="curve" smooth="yes"/>
+      <point x="1158" y="212"/>
+      <point x="1344" y="320"/>
+      <point x="1410" y="489" type="curve"/>
+      <point x="1413" y="444" type="line"/>
+      <point x="1412" y="444" type="line"/>
+      <point x="1361" y="303"/>
+      <point x="1182" y="178"/>
+      <point x="799" y="178" type="curve" smooth="yes"/>
+      <point x="408" y="178"/>
+      <point x="205" y="271"/>
+      <point x="205" y="453" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1182" y="0"/>
+  <guideline angle="90" x="1424" y="0"/>
+  <guideline angle="90" x="1442" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="0" x="0" y="1221"/>
+  <guideline angle="90" x="1419" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>4eecd50a92147f8701e65a4a37751feabd80050a67cd1965109cb969ec13e07de2ffb87e674f1863991b25ea628df3787acbd6267c053593bbbf09b128dab135</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1665 2356</string>
+          <string>vstem 1225.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

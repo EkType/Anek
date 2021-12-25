@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="matraIsix.dv" format="2">
+  <advance width="466"/>
+  <outline>
+    <contour>
+      <point x="385" y="0" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="81" y="1156" type="line"/>
+      <point x="385" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="508" y="1067" type="line"/>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="494" y="1308" type="line"/>
+    </contour>
+    <contour>
+      <point x="568.104" y="1763" type="curve" smooth="yes"/>
+      <point x="758.041" y="1763"/>
+      <point x="917.298" y="1713.61"/>
+      <point x="1053" y="1625" type="curve"/>
+      <point x="1084" y="1348" type="line"/>
+      <point x="1076.11" y="1346" type="line"/>
+      <point x="904.906" y="1449"/>
+      <point x="754.365" y="1501"/>
+      <point x="601.715" y="1501" type="curve" smooth="yes"/>
+      <point x="442.605" y="1501"/>
+      <point x="381" y="1433"/>
+      <point x="381" y="1315.23" type="curve" smooth="yes"/>
+      <point x="381" y="1257" type="line"/>
+      <point x="87" y="1257" type="line"/>
+      <point x="87" y="1340" type="line" smooth="yes"/>
+      <point x="87" y="1611.91"/>
+      <point x="243.172" y="1763"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1084" y="0"/>
+  <guideline angle="90" x="81" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>matraA.dv</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7aeabf81473c87e72fd61566f876205c54027c8181f9ccbb52312df5a2ffddd822e51e367a289359285b062e5a6298dafe678ac27e6a81cd4e23cb90b6cb8693</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 45 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

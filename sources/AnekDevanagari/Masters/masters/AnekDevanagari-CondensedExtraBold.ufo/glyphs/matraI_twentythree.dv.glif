@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="matraItwentythree.dv" format="2">
+  <advance width="466"/>
+  <outline>
+    <contour>
+      <point x="385" y="0" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="81" y="1156" type="line"/>
+      <point x="385" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="508" y="1067" type="line"/>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="494" y="1308" type="line"/>
+    </contour>
+    <contour>
+      <point x="802.398" y="1763" type="curve" smooth="yes"/>
+      <point x="1129.22" y="1763"/>
+      <point x="1449.49" y="1702.54"/>
+      <point x="1682.37" y="1618" type="curve"/>
+      <point x="1716" y="1348" type="line"/>
+      <point x="1707.82" y="1346" type="line"/>
+      <point x="1420.23" y="1450"/>
+      <point x="1100.82" y="1501"/>
+      <point x="815.316" y="1501" type="curve" smooth="yes"/>
+      <point x="486.026" y="1501"/>
+      <point x="381" y="1430.63"/>
+      <point x="381" y="1290.9" type="curve" smooth="yes"/>
+      <point x="381" y="1257" type="line"/>
+      <point x="87" y="1257" type="line"/>
+      <point x="87" y="1313.41" type="line" smooth="yes"/>
+      <point x="87" y="1616.91"/>
+      <point x="284.175" y="1763"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1721" y="0"/>
+  <guideline angle="90" x="81" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>matraA.dv</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>43fadea7defe976d55d45a90551a61e01314675940d74c9bcf71803378751aa16b4059df6af512e125be39fe203ce3aad0c350c6a09a442cfa24b26984266dad</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 45 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

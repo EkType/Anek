@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vowelRuu.dv" format="2">
+  <advance width="1000"/>
+  <unicode hex="0960"/>
+  <anchor x="726" y="9" name="bottom3"/>
+  <anchor x="512" y="30" name="bottom5"/>
+  <anchor x="511" y="1262" name="top"/>
+  <outline>
+    <contour>
+      <point x="529" y="0" type="line"/>
+      <point x="494" y="0" type="line"/>
+      <point x="494" y="1248" type="line"/>
+      <point x="529" y="1248" type="line"/>
+    </contour>
+    <contour>
+      <point x="509" y="443" type="line"/>
+      <point x="68" y="110" type="line"/>
+      <point x="68" y="151" type="line"/>
+      <point x="209" y="259" type="line"/>
+      <point x="226" y="263" type="line"/>
+      <point x="257" y="294"/>
+      <point x="284" y="315"/>
+      <point x="323" y="344" type="curve" smooth="yes"/>
+      <point x="504" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="235" y="258" type="line"/>
+      <point x="198" y="245" type="line"/>
+      <point x="257" y="333"/>
+      <point x="270" y="408"/>
+      <point x="270" y="583" type="curve" smooth="yes"/>
+      <point x="270" y="745" type="line" smooth="yes"/>
+      <point x="270" y="918"/>
+      <point x="233" y="975"/>
+      <point x="156" y="975" type="curve" smooth="yes"/>
+      <point x="118" y="975"/>
+      <point x="89" y="963"/>
+      <point x="57" y="942" type="curve"/>
+      <point x="60" y="982" type="line"/>
+      <point x="86" y="998"/>
+      <point x="119" y="1008"/>
+      <point x="156" y="1008" type="curve" smooth="yes"/>
+      <point x="257" y="1008"/>
+      <point x="305" y="939"/>
+      <point x="305" y="749" type="curve" smooth="yes"/>
+      <point x="305" y="581" type="line" smooth="yes"/>
+      <point x="305" y="386"/>
+      <point x="277" y="320"/>
+      <point x="235" y="263" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1017" y="1242" type="line"/>
+      <point x="-19" y="1242" type="line"/>
+      <point x="-24" y="1271" type="line"/>
+      <point x="1011" y="1271" type="line"/>
+    </contour>
+    <contour>
+      <point x="795" y="696" type="line"/>
+      <point x="800" y="659" type="line"/>
+      <point x="524" y="454" type="line"/>
+      <point x="517" y="489" type="line"/>
+    </contour>
+    <contour>
+      <point x="801" y="1005" type="line"/>
+      <point x="811" y="911"/>
+      <point x="817" y="858"/>
+      <point x="827" y="764" type="curve"/>
+      <point x="800" y="663" type="line"/>
+      <point x="769" y="657" type="line"/>
+      <point x="769" y="1005" type="line"/>
+    </contour>
+    <contour>
+      <point x="879" y="-6" type="curve" smooth="yes"/>
+      <point x="789" y="-6"/>
+      <point x="734" y="39"/>
+      <point x="734" y="223" type="curve" smooth="yes"/>
+      <point x="734" y="243" type="line" smooth="yes"/>
+      <point x="734" y="401"/>
+      <point x="778.377" y="469"/>
+      <point x="881" y="486" type="curve"/>
+      <point x="881" y="488" type="line"/>
+      <point x="832.836" y="536"/>
+      <point x="795.31" y="594.107"/>
+      <point x="766" y="668" type="curve"/>
+      <point x="796" y="681" type="line"/>
+      <point x="820.426" y="605.912"/>
+      <point x="862.401" y="548.461"/>
+      <point x="918" y="490" type="curve"/>
+      <point x="918" y="461" type="line"/>
+      <point x="817.033" y="455.977"/>
+      <point x="769" y="405.747"/>
+      <point x="769" y="243" type="curve" smooth="yes"/>
+      <point x="769" y="226" type="line" smooth="yes"/>
+      <point x="769" y="64"/>
+      <point x="805" y="28"/>
+      <point x="881" y="28" type="curve" smooth="yes"/>
+      <point x="912" y="28"/>
+      <point x="938" y="37"/>
+      <point x="958" y="48" type="curve"/>
+      <point x="954" y="13" type="line"/>
+      <point x="936" y="2"/>
+      <point x="910" y="-6"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="511" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>vowelRu.dv</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

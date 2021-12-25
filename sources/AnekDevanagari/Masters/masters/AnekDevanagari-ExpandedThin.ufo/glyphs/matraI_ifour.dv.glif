@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="matraIifour.dv" format="2">
+  <advance width="634"/>
+  <outline>
+    <contour>
+      <point x="335" y="0" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="299" y="1209" type="line"/>
+      <point x="335" y="1209" type="line"/>
+    </contour>
+    <contour>
+      <point x="677" y="1200" type="line"/>
+      <point x="-36" y="1200" type="line"/>
+      <point x="-43" y="1230" type="line"/>
+      <point x="670" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="-72.1981" y="1789" type="curve" smooth="yes"/>
+      <point x="195.304" y="1789"/>
+      <point x="335" y="1663.04"/>
+      <point x="335" y="1400" type="curve" smooth="yes"/>
+      <point x="335" y="1223" type="line"/>
+      <point x="300" y="1223" type="line"/>
+      <point x="300" y="1396" type="line" smooth="yes"/>
+      <point x="300" y="1638.05"/>
+      <point x="176.258" y="1755"/>
+      <point x="-72.2162" y="1755" type="curve" smooth="yes"/>
+      <point x="-298.755" y="1755"/>
+      <point x="-433" y="1654"/>
+      <point x="-433" y="1457" type="curve" smooth="yes"/>
+      <point x="-433" y="1360" type="line"/>
+      <point x="-463" y="1369" type="line"/>
+      <point x="-466" y="1410"/>
+      <point x="-468" y="1438"/>
+      <point x="-468" y="1471" type="curve" smooth="yes"/>
+      <point x="-468" y="1674"/>
+      <point x="-320.809" y="1789"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="-497" y="0"/>
+  <guideline angle="90" x="335" y="0"/>
+  <guideline angle="90" x="75" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>6a8a4d51ab81be454a61f154669e93adbbf5708982599f3dde87837c1b1c6321ce3c69f0c6e1d74973ec774bce008141d9bcc3aa7d214ac6734f0a5cbc200b10</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1665 2356</string>
+          <string>vstem 118.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

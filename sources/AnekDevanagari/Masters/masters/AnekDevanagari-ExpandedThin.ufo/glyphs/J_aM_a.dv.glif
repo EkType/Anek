@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="JaMa.dv" format="2">
+  <advance width="2844"/>
+  <anchor x="2527" y="9" name="bottom"/>
+  <anchor x="2522" y="9" name="bottom2"/>
+  <anchor x="2545" y="9" name="bottom3"/>
+  <anchor x="2527" y="30" name="bottom5"/>
+  <anchor x="2527" y="1221" name="top"/>
+  <outline>
+    <contour>
+      <point x="311" y="796" type="line"/>
+      <point x="311" y="826" type="line"/>
+      <point x="1335" y="826" type="line" smooth="yes"/>
+      <point x="1461" y="826"/>
+      <point x="1501" y="825"/>
+      <point x="1595" y="818" type="curve"/>
+      <point x="1595" y="794" type="line"/>
+      <point x="888" y="794" type="line"/>
+      <point x="650" y="795" type="line"/>
+    </contour>
+    <contour>
+      <point x="1117" y="1200" type="line"/>
+      <point x="-36" y="1200" type="line"/>
+      <point x="-43" y="1230" type="line"/>
+      <point x="1110" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="684" y="817" type="line"/>
+      <point x="684" y="801" type="line"/>
+      <point x="912" y="782"/>
+      <point x="1056" y="669"/>
+      <point x="1056" y="470" type="curve" smooth="yes"/>
+      <point x="1056" y="463" type="line" smooth="yes"/>
+      <point x="1056" y="256"/>
+      <point x="903" y="114"/>
+      <point x="600" y="114" type="curve" smooth="yes"/>
+      <point x="380" y="114"/>
+      <point x="223" y="179"/>
+      <point x="112" y="271" type="curve"/>
+      <point x="107" y="317" type="line"/>
+      <point x="233" y="212"/>
+      <point x="386" y="148"/>
+      <point x="598" y="148" type="curve" smooth="yes"/>
+      <point x="876" y="148"/>
+      <point x="1018" y="277"/>
+      <point x="1018" y="464" type="curve" smooth="yes"/>
+      <point x="1018" y="467" type="line" smooth="yes"/>
+      <point x="1018" y="664"/>
+      <point x="890" y="789"/>
+      <point x="489" y="794" type="curve" smooth="yes"/>
+      <point x="311" y="796" type="line"/>
+      <point x="311" y="817" type="line"/>
+    </contour>
+    <contour>
+      <point x="2545" y="1209" type="line"/>
+      <point x="2545" y="0" type="line"/>
+      <point x="2509" y="0" type="line"/>
+      <point x="2509" y="1209" type="line"/>
+    </contour>
+    <contour>
+      <point x="2335" y="1200" type="line"/>
+      <point x="2328" y="1230" type="line"/>
+      <point x="2880" y="1230" type="line"/>
+      <point x="2887" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="1026" y="1230" type="line"/>
+      <point x="2780" y="1230" type="line"/>
+      <point x="2787" y="1200" type="line"/>
+      <point x="1033" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="1590" y="600" type="line"/>
+      <point x="2526" y="600" type="line"/>
+      <point x="2526" y="568" type="line"/>
+      <point x="1590" y="568" type="line"/>
+    </contour>
+    <contour>
+      <point x="1572" y="1210" type="line"/>
+      <point x="1607" y="1210" type="line"/>
+      <point x="1607" y="573" type="line"/>
+      <point x="1572" y="573" type="line"/>
+    </contour>
+    <contour>
+      <point x="1572" y="596" type="line"/>
+      <point x="1607" y="596" type="line"/>
+      <point x="1607" y="185" type="line"/>
+      <point x="1563" y="185" type="line"/>
+      <point x="1541" y="333"/>
+      <point x="1529" y="418"/>
+      <point x="1508" y="566" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="2527" y="0"/>
+  <guideline angle="90" x="2545" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="0" x="0" y="1221"/>
+  <guideline angle="90" x="2522" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ja.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>dd965c4fa4314a7dfb056d36f466d29e8770b2be6163fb11764ae659f2e3cf6668e3a9291dcfbb08b08deb1c9db8a25401e14f438b4b4a682c70667c5b826d3b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1665 2356</string>
+          <string>vstem 2328.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

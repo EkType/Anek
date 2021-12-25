@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="GaNukta.dv" format="2">
+  <advance width="972"/>
+  <unicode hex="095A"/>
+  <anchor x="739" y="37" name="bottom"/>
+  <anchor x="729" y="37" name="bottom2"/>
+  <anchor x="891" y="37" name="bottom3"/>
+  <anchor x="739" y="55" name="bottom5"/>
+  <anchor x="739" y="1255" name="top"/>
+  <outline>
+    <contour>
+      <point x="915" y="1067" type="line"/>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="901" y="1308" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="1095" type="curve"/>
+      <point x="421" y="1095" type="line"/>
+      <point x="450" y="1038"/>
+      <point x="457" y="957"/>
+      <point x="457" y="795" type="curve" smooth="yes"/>
+      <point x="457" y="725" type="line" smooth="yes"/>
+      <point x="457" y="403"/>
+      <point x="360.563" y="295"/>
+      <point x="160" y="295" type="curve" smooth="yes"/>
+      <point x="118.056" y="295"/>
+      <point x="80.7536" y="299.747"/>
+      <point x="47" y="310" type="curve"/>
+      <point x="31" y="590" type="line"/>
+      <point x="41.6652" y="588.433"/>
+      <point x="55.6677" y="586"/>
+      <point x="70" y="586" type="curve" smooth="yes"/>
+      <point x="131.28" y="586"/>
+      <point x="153" y="613.9"/>
+      <point x="153" y="766" type="curve" smooth="yes"/>
+      <point x="153" y="830" type="line" smooth="yes"/>
+      <point x="153" y="960"/>
+      <point x="147" y="1040"/>
+    </contour>
+    <contour>
+      <point x="891" y="1156" type="line"/>
+      <point x="891" y="0" type="line"/>
+      <point x="587" y="0" type="line"/>
+      <point x="587" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="564" y="1067" type="line"/>
+      <point x="550" y="1308" type="line"/>
+      <point x="1000" y="1308" type="line"/>
+      <point x="1014" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="-86" type="curve" smooth="yes"/>
+      <point x="126" y="-86"/>
+      <point x="80" y="-27"/>
+      <point x="80" y="69" type="curve"/>
+      <point x="80" y="70.3258"/>
+      <point x="80" y="73.8517"/>
+      <point x="80" y="75" type="curve"/>
+      <point x="80" y="171"/>
+      <point x="126" y="230"/>
+      <point x="227" y="230" type="curve" smooth="yes"/>
+      <point x="328" y="230"/>
+      <point x="374" y="171"/>
+      <point x="374" y="75" type="curve"/>
+      <point x="374" y="73.6742"/>
+      <point x="374" y="70.1483"/>
+      <point x="374" y="69" type="curve"/>
+      <point x="374" y="-27"/>
+      <point x="328" y="-86"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="739" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1255"/>
+  <guideline angle="90" x="729" y="0"/>
+  <guideline angle="90" x="891" y="0"/>
+  <guideline angle="0" x="0" y="55"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ga.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fc9d45c0058d21788823b9b207b469bb51e4eb80d3303336fffd46ebbf668b7fb9813668887eb1d743663e2b030d338934d7ff4dce99dad3a3fd6f372c602f6e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 553 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

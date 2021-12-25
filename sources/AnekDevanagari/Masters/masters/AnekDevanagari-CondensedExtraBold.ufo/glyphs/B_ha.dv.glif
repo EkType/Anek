@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Bha.dv" format="2">
+  <advance width="986"/>
+  <unicode hex="092D"/>
+  <anchor x="753" y="37" name="bottom"/>
+  <anchor x="743" y="37" name="bottom2"/>
+  <anchor x="905" y="37" name="bottom3"/>
+  <anchor x="753" y="55" name="bottom5"/>
+  <anchor x="753" y="1255" name="top"/>
+  <outline>
+    <contour>
+      <point x="905" y="1156" type="line"/>
+      <point x="905" y="0" type="line"/>
+      <point x="601" y="0" type="line"/>
+      <point x="601" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="578" y="1067" type="line"/>
+      <point x="564" y="1308" type="line"/>
+      <point x="1014" y="1308" type="line"/>
+      <point x="1028" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="533" y="1067" type="line"/>
+      <point x="519" y="1308" type="line"/>
+      <point x="914" y="1308" type="line"/>
+      <point x="928" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="415" type="line"/>
+      <point x="187" y="673" type="line"/>
+      <point x="721" y="673" type="line"/>
+      <point x="721" y="415" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="127" type="line"/>
+      <point x="92" y="250"/>
+      <point x="38" y="410"/>
+      <point x="29" y="587" type="curve"/>
+      <point x="121" y="650" type="line"/>
+      <point x="421" y="650" type="line"/>
+      <point x="421" y="127" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="535" type="line"/>
+      <point x="121" y="966" type="line" smooth="yes"/>
+      <point x="121" y="1043"/>
+      <point x="103" y="1067"/>
+      <point x="38" y="1067" type="curve" smooth="yes"/>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="81" y="1308" type="line" smooth="yes"/>
+      <point x="336" y="1308"/>
+      <point x="421" y="1211"/>
+      <point x="421" y="970" type="curve" smooth="yes"/>
+      <point x="421" y="535" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="370"/>
+  <guideline angle="90" x="753" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1255"/>
+  <guideline angle="90" x="743" y="0"/>
+  <guideline angle="90" x="905" y="0"/>
+  <guideline angle="0" x="0" y="55"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2e941fd1165892f22bdc8a27a7c693de6e8ae98614415452492a88025491951b8154c2cc5c7538956fccc1ff9a6f85e40929796af52efa5faacfd8fd8707fbd6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 567 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

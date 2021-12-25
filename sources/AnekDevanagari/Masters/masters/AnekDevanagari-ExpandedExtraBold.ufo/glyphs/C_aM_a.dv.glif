@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CaMa.dv" format="2">
+  <advance width="2747"/>
+  <anchor x="2405" y="37" name="bottom"/>
+  <anchor x="2401" y="37" name="bottom2"/>
+  <anchor x="2597" y="37" name="bottom3"/>
+  <anchor x="2405" y="55" name="bottom5"/>
+  <anchor x="2405" y="1214" name="top"/>
+  <outline>
+    <contour>
+      <point x="-36" y="999" type="line"/>
+      <point x="-57" y="1266" type="line"/>
+      <point x="1215" y="1266" type="line"/>
+      <point x="1236" y="999" type="line"/>
+    </contour>
+    <contour>
+      <point x="1075" y="865" type="line"/>
+      <point x="1075" y="589" type="line"/>
+      <point x="441" y="589" type="line"/>
+      <point x="315" y="584" type="line"/>
+      <point x="68" y="584" type="line"/>
+      <point x="68" y="865" type="line"/>
+    </contour>
+    <contour>
+      <point x="778" y="62" type="curve" smooth="yes"/>
+      <point x="442" y="62"/>
+      <point x="242" y="183"/>
+      <point x="242" y="374" type="curve" smooth="yes"/>
+      <point x="242" y="381" type="line" smooth="yes"/>
+      <point x="242" y="482"/>
+      <point x="297" y="552"/>
+      <point x="418" y="580" type="curve"/>
+      <point x="418" y="650" type="line"/>
+      <point x="1075" y="648" type="line"/>
+      <point x="1075" y="589" type="line"/>
+      <point x="849" y="582" type="line" smooth="yes"/>
+      <point x="701" y="577"/>
+      <point x="637" y="548"/>
+      <point x="637" y="479" type="curve" smooth="yes"/>
+      <point x="637" y="475" type="line" smooth="yes"/>
+      <point x="637" y="404"/>
+      <point x="699" y="365"/>
+      <point x="901" y="365" type="curve" smooth="yes"/>
+      <point x="1098" y="365"/>
+      <point x="1205" y="424"/>
+      <point x="1233" y="522" type="curve"/>
+      <point x="1286" y="304" type="line"/>
+      <point x="1252" y="304" type="line"/>
+      <point x="1206" y="166"/>
+      <point x="1084" y="62"/>
+    </contour>
+    <contour>
+      <point x="2597" y="1082" type="line"/>
+      <point x="2597" y="0" type="line"/>
+      <point x="2213" y="0" type="line"/>
+      <point x="2213" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="2140" y="999" type="line"/>
+      <point x="2119" y="1266" type="line"/>
+      <point x="2783" y="1266" type="line"/>
+      <point x="2804" y="999" type="line"/>
+    </contour>
+    <contour>
+      <point x="2804" y="999" type="line"/>
+      <point x="1082" y="999" type="line"/>
+      <point x="1061" y="1266" type="line"/>
+      <point x="2783" y="1266" type="line"/>
+    </contour>
+    <contour>
+      <point x="2352" y="673" type="line"/>
+      <point x="2352" y="388" type="line"/>
+      <point x="1506" y="388" type="line"/>
+      <point x="1506" y="673" type="line"/>
+    </contour>
+    <contour>
+      <point x="1746" y="1088" type="line"/>
+      <point x="1746" y="516" type="line"/>
+      <point x="1365" y="516" type="line"/>
+      <point x="1365" y="1088" type="line"/>
+    </contour>
+    <contour>
+      <point x="1365" y="146" type="line"/>
+      <point x="1276" y="251"/>
+      <point x="1207" y="393"/>
+      <point x="1191" y="562" type="curve"/>
+      <point x="1367" y="659" type="line"/>
+      <point x="1746" y="659" type="line"/>
+      <point x="1746" y="146" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="2405" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1214"/>
+  <guideline angle="90" x="2401" y="0"/>
+  <guideline angle="90" x="2597" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ca.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>491c351e384b82d72939a58693bba60e0355b87590c0c5741b8269e87ee03fcc27147bde72487fd80d4cad699105e807b60459f1dd206552ac4dd34a585ff8ba</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 2137.67 216.32</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

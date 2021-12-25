@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nna.dv" format="2">
+  <advance width="965"/>
+  <unicode hex="0923"/>
+  <anchor x="796" y="9" name="bottom"/>
+  <anchor x="791" y="9" name="bottom2"/>
+  <anchor x="814" y="9" name="bottom3"/>
+  <anchor x="796" y="30" name="bottom5"/>
+  <anchor x="796" y="1262" name="top"/>
+  <outline>
+    <contour>
+      <point x="814" y="1251" type="line"/>
+      <point x="814" y="0" type="line"/>
+      <point x="779" y="0" type="line"/>
+      <point x="779" y="1251" type="line"/>
+    </contour>
+    <contour>
+      <point x="679" y="1242" type="line"/>
+      <point x="673" y="1271" type="line"/>
+      <point x="983" y="1271" type="line"/>
+      <point x="989" y="1242" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="1242" type="line"/>
+      <point x="-25" y="1271" type="line"/>
+      <point x="983" y="1271" type="line"/>
+      <point x="988" y="1242" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="296" type="curve" smooth="yes"/>
+      <point x="197" y="296"/>
+      <point x="131" y="379"/>
+      <point x="131" y="545" type="curve" smooth="yes"/>
+      <point x="131" y="1253" type="line"/>
+      <point x="166" y="1253" type="line"/>
+      <point x="166" y="548" type="line" smooth="yes"/>
+      <point x="166" y="399"/>
+      <point x="219" y="329"/>
+      <point x="324" y="329" type="curve" smooth="yes"/>
+      <point x="427" y="329"/>
+      <point x="477" y="399"/>
+      <point x="477" y="548" type="curve" smooth="yes"/>
+      <point x="477" y="1253" type="line"/>
+      <point x="512" y="1253" type="line"/>
+      <point x="512" y="545" type="line" smooth="yes"/>
+      <point x="512" y="379"/>
+      <point x="453" y="296"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="791" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="90" x="796" y="0"/>
+  <guideline angle="90" x="779" y="0"/>
+  <guideline angle="0" x="0" y="1262"/>
+  <guideline angle="90" x="814" y="0"/>
+  <guideline angle="0" x="0" y="-125"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b0c76e79980a97399d2c69c5c20e159fa397c9d0414a0ebecedd3f67b83d980aeb45f7cdf260ee2d2e343c16bb6ecc31c877ed1a046ef6d6f10cfaef4f912864</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 712 19</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

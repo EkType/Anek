@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TaMa.dv" format="2">
+  <advance width="1479"/>
+  <anchor x="1246" y="37" name="bottom"/>
+  <anchor x="1236" y="37" name="bottom2"/>
+  <anchor x="1398" y="37" name="bottom3"/>
+  <anchor x="1246" y="55" name="bottom5"/>
+  <anchor x="1246" y="1255" name="top"/>
+  <outline>
+    <contour>
+      <point x="458" y="907" type="line"/>
+      <point x="482" y="907" type="line" smooth="yes"/>
+      <point x="552" y="907"/>
+      <point x="598" y="901"/>
+      <point x="655" y="885" type="curve"/>
+      <point x="655" y="646" type="line"/>
+      <point x="486" y="646" type="line"/>
+    </contour>
+    <contour>
+      <point x="1398" y="1156" type="line"/>
+      <point x="1398" y="0" type="line"/>
+      <point x="1094" y="0" type="line"/>
+      <point x="1094" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="1071" y="1067" type="line"/>
+      <point x="1057" y="1308" type="line"/>
+      <point x="1507" y="1308" type="line"/>
+      <point x="1521" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="1520" y="1067" type="line"/>
+      <point x="459" y="1067" type="line"/>
+      <point x="445" y="1308" type="line"/>
+      <point x="1506" y="1308" type="line"/>
+    </contour>
+    <contour>
+      <point x="1213" y="668" type="line"/>
+      <point x="1213" y="410" type="line"/>
+      <point x="674" y="410" type="line"/>
+      <point x="674" y="668" type="line"/>
+    </contour>
+    <contour>
+      <point x="908" y="1159" type="line"/>
+      <point x="908" y="528" type="line"/>
+      <point x="608" y="528" type="line"/>
+      <point x="608" y="1159" type="line"/>
+    </contour>
+    <contour>
+      <point x="661" y="120" type="line"/>
+      <point x="578" y="241"/>
+      <point x="525" y="403"/>
+      <point x="516" y="578" type="curve"/>
+      <point x="608" y="644" type="line"/>
+      <point x="908" y="644" type="line"/>
+      <point x="908" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="684" y="1308" type="line"/>
+      <point x="699" y="1067" type="line"/>
+    </contour>
+    <contour>
+      <point x="502" y="646" type="line"/>
+      <point x="474" y="646" type="line" smooth="yes"/>
+      <point x="379" y="646"/>
+      <point x="354" y="607"/>
+      <point x="354" y="508" type="curve" smooth="yes"/>
+      <point x="354" y="385"/>
+      <point x="386" y="215"/>
+      <point x="437" y="0" type="curve"/>
+      <point x="138" y="0" type="line"/>
+      <point x="86" y="202"/>
+      <point x="50" y="392"/>
+      <point x="50" y="550" type="curve" smooth="yes"/>
+      <point x="50" y="778"/>
+      <point x="153" y="907"/>
+      <point x="412" y="907" type="curve" smooth="yes"/>
+      <point x="474" y="907" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="356" y="0"/>
+  <guideline angle="90" x="1246" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1255"/>
+  <guideline angle="90" x="1236" y="0"/>
+  <guideline angle="90" x="1398" y="0"/>
+  <guideline angle="0" x="0" y="55"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ta.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>db7073f4cd1333042d65627ebcfaebed4584092f566f52f056fc9a7d1f44a0e686100f8198bd28d409b9208515be15c822c70f651ed0b827b3e36a3eb89b1f5c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 1060 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

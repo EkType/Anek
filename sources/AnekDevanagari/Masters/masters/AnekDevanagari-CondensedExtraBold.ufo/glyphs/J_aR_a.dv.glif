@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="JaRa.dv" format="2">
+  <advance width="1133"/>
+  <anchor x="900" y="-27" name="bottom"/>
+  <anchor x="890" y="-27" name="bottom2"/>
+  <anchor x="1052" y="-27" name="bottom3"/>
+  <anchor x="900" y="1255" name="top"/>
+  <outline>
+    <contour>
+      <point x="1175" y="1067" type="line"/>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="1161" y="1308" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="-103" type="line"/>
+      <point x="294" y="-74" type="line"/>
+      <point x="846" y="438" type="line"/>
+      <point x="846" y="204" type="line"/>
+      <point x="604" y="-103" type="line"/>
+    </contour>
+    <contour>
+      <point x="843" y="918" type="line"/>
+      <point x="843" y="660" type="line"/>
+      <point x="596" y="660" type="line"/>
+      <point x="396" y="668" type="line"/>
+      <point x="99" y="668" type="line"/>
+      <point x="99" y="918" type="line"/>
+    </contour>
+    <contour>
+      <point x="762" y="-64" type="line"/>
+      <point x="762" y="219" type="line"/>
+      <point x="748" y="269" type="line"/>
+      <point x="748" y="1159" type="line"/>
+      <point x="1052" y="1159" type="line"/>
+      <point x="1052" y="-64" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="745" type="line"/>
+      <point x="453" y="659" type="line"/>
+      <point x="550" y="626"/>
+      <point x="596" y="565"/>
+      <point x="596" y="425" type="curve" smooth="yes"/>
+      <point x="596" y="410" type="line" smooth="yes"/>
+      <point x="596" y="208"/>
+      <point x="476.741" y="109"/>
+      <point x="274" y="109" type="curve" smooth="yes"/>
+      <point x="178.136" y="109"/>
+      <point x="106.491" y="128"/>
+      <point x="52" y="160" type="curve"/>
+      <point x="44" y="420" type="line"/>
+      <point x="86" y="392"/>
+      <point x="129" y="375"/>
+      <point x="182" y="375" type="curve" smooth="yes"/>
+      <point x="253.622" y="375"/>
+      <point x="288" y="412"/>
+      <point x="288" y="497" type="curve" smooth="yes"/>
+      <point x="288" y="521" type="line" smooth="yes"/>
+      <point x="288" y="624"/>
+      <point x="252.614" y="654.214"/>
+      <point x="177" y="661" type="curve" smooth="yes"/>
+      <point x="99" y="668" type="line"/>
+      <point x="99" y="745" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="900" y="0"/>
+  <guideline angle="0" x="0" y="-27"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ja.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

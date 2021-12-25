@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NaHalant.dv" format="2">
+  <advance width="526"/>
+  <outline>
+    <contour>
+      <point x="670" y="1067" type="line"/>
+      <point x="-27" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="656" y="1308" type="line"/>
+    </contour>
+    <contour>
+      <point x="165" y="237" type="line"/>
+      <point x="92" y="377"/>
+      <point x="38" y="546"/>
+      <point x="24" y="732" type="curve"/>
+      <point x="143" y="830" type="line"/>
+      <point x="167.608" y="830"/>
+      <point x="374.042" y="830"/>
+      <point x="397" y="830" type="curve"/>
+      <point x="397" y="237" type="line"/>
+    </contour>
+    <contour>
+      <point x="629" y="810" type="curve"/>
+      <point x="629" y="570" type="line"/>
+      <point x="344" y="570" type="line"/>
+      <point x="344" y="595.35"/>
+      <point x="344" y="804.65"/>
+      <point x="344" y="830" type="curve"/>
+      <point x="472" y="830" type="line" smooth="yes"/>
+      <point x="535" y="830"/>
+      <point x="583" y="824"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="567" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Na.dv</string>
+  </dict>
+  </lib>
+</glyph>

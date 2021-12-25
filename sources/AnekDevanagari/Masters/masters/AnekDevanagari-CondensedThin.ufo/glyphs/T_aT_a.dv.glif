@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TaTa.dv" format="2">
+  <advance width="731"/>
+  <anchor x="562" y="9" name="bottom"/>
+  <anchor x="557" y="9" name="bottom2"/>
+  <anchor x="580" y="9" name="bottom3"/>
+  <anchor x="562" y="30" name="bottom5"/>
+  <anchor x="562" y="1262" name="top"/>
+  <outline>
+    <contour>
+      <point x="-14" y="1242" type="line"/>
+      <point x="-19" y="1271" type="line"/>
+      <point x="650" y="1271" type="line"/>
+      <point x="655" y="1242" type="line"/>
+    </contour>
+    <contour>
+      <point x="451" y="924" type="line"/>
+      <point x="451" y="894" type="line"/>
+      <point x="263" y="894" type="line"/>
+      <point x="160" y="892" type="line"/>
+      <point x="29" y="892" type="line"/>
+      <point x="24" y="924" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="659" type="curve" smooth="yes"/>
+      <point x="138" y="808"/>
+      <point x="186" y="871"/>
+      <point x="253" y="896" type="curve"/>
+      <point x="366" y="924" type="line"/>
+      <point x="569" y="924" type="line"/>
+      <point x="569" y="892" type="line"/>
+      <point x="370" y="892" type="line" smooth="yes"/>
+      <point x="230" y="892"/>
+      <point x="174" y="821"/>
+      <point x="174" y="659" type="curve" smooth="yes"/>
+      <point x="174" y="482"/>
+      <point x="211" y="276"/>
+      <point x="292" y="0" type="curve"/>
+      <point x="256" y="0" type="line"/>
+      <point x="178" y="268"/>
+      <point x="138" y="482"/>
+    </contour>
+    <contour>
+      <point x="580" y="1251" type="line"/>
+      <point x="580" y="0" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="545" y="1251" type="line"/>
+    </contour>
+    <contour>
+      <point x="445" y="1242" type="line"/>
+      <point x="439" y="1271" type="line"/>
+      <point x="749" y="1271" type="line"/>
+      <point x="755" y="1242" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="557" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="90" x="562" y="0"/>
+  <guideline angle="90" x="545" y="0"/>
+  <guideline angle="0" x="0" y="1262"/>
+  <guideline angle="90" x="580" y="0"/>
+  <guideline angle="0" x="0" y="-125"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>868626da02e85f17ab99b4a95d4a12f2528053c22d159c2174c56530a1c59184894dd9bb9777d46c25a848e8f2be628131870ec188be10812aea2328f2abd26f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 478 19</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

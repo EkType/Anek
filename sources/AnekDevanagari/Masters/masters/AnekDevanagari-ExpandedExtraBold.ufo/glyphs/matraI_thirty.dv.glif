@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="matraIthirty.dv" format="2">
+  <advance width="684"/>
+  <outline>
+    <contour>
+      <point x="534" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="1082" type="line"/>
+      <point x="534" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="741" y="999" type="line"/>
+      <point x="-36" y="999" type="line"/>
+      <point x="-57" y="1266" type="line"/>
+      <point x="720" y="1266" type="line"/>
+    </contour>
+    <contour>
+      <point x="1504.63" y="1791" type="curve" smooth="yes"/>
+      <point x="2304.64" y="1791"/>
+      <point x="3286.14" y="1712.06"/>
+      <point x="3916" y="1600" type="curve"/>
+      <point x="3979" y="1312" type="line"/>
+      <point x="3973" y="1310" type="line"/>
+      <point x="3298.68" y="1421.46"/>
+      <point x="2290.81" y="1496"/>
+      <point x="1513.13" y="1496" type="curve" smooth="yes"/>
+      <point x="733.781" y="1496"/>
+      <point x="529" y="1415.99"/>
+      <point x="529" y="1249.26" type="curve" smooth="yes"/>
+      <point x="529" y="1216" type="line"/>
+      <point x="151" y="1216" type="line"/>
+      <point x="151" y="1247.85" type="line" smooth="yes"/>
+      <point x="151" y="1614.6"/>
+      <point x="414.571" y="1791"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="534" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>matraA.dv</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3931703fdaf64baf5783a1b0e74a1a313b63975eb665b603f16a3db9ec6ec5f2c4abf95bb9de11fdb78b6c9f3f6320396558331a90f2aa39b070e3f2f0933e67</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 76.67 216.32</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

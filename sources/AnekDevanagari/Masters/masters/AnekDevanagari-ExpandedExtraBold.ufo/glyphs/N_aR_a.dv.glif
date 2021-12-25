@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NaRa.dv" format="2">
+  <advance width="1547"/>
+  <anchor x="1205" y="37" name="bottom"/>
+  <anchor x="1201" y="37" name="bottom2"/>
+  <anchor x="1397" y="37" name="bottom3"/>
+  <anchor x="1205" y="1214" name="top"/>
+  <outline>
+    <contour>
+      <point x="1604" y="999" type="line"/>
+      <point x="-47" y="999" type="line"/>
+      <point x="-68" y="1266" type="line"/>
+      <point x="1583" y="1266" type="line"/>
+    </contour>
+    <contour>
+      <point x="1030" y="0" type="line"/>
+      <point x="1030" y="328" type="line"/>
+      <point x="1013" y="370" type="line"/>
+      <point x="1013" y="1088" type="line"/>
+      <point x="1397" y="1088" type="line"/>
+      <point x="1397" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1173" y="803" type="line"/>
+      <point x="1173" y="511" type="line"/>
+      <point x="397" y="511" type="line"/>
+      <point x="397" y="803" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="274" type="line"/>
+      <point x="144" y="386"/>
+      <point x="82" y="525"/>
+      <point x="66" y="691" type="curve"/>
+      <point x="254" y="803" type="line"/>
+      <point x="591" y="803" type="line"/>
+      <point x="591" y="274" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="-36" type="line"/>
+      <point x="217" y="11" type="line"/>
+      <point x="1173" y="543" type="line"/>
+      <point x="1173" y="292" type="line"/>
+      <point x="729" y="-36" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1205" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Na.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Na.dv</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>
