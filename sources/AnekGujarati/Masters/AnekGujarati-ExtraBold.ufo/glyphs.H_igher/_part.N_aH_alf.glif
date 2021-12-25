@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.NaHalf" format="2">
+  <advance width="784"/>
+  <outline>
+    <contour>
+      <point x="204" y="343" type="curve"/>
+      <point x="508" y="343" type="line"/>
+      <point x="508" y="922" type="line"/>
+      <point x="209" y="922" type="line"/>
+      <point x="63" y="832" type="line"/>
+      <point x="71" y="642"/>
+      <point x="126" y="471"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>Higher</key>
+        <integer>2</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Higher</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

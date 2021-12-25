@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraARephBindu.gj" format="2">
+  <advance width="624"/>
+  <guideline x="238" y="1327" angle="270"/>
+  <anchor x="281" y="-87" name="Bottom"/>
+  <anchor x="261" y="1259" name="Top"/>
+  <anchor x="312" y="1259" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="205" y="481" type="line"/>
+      <point x="420" y="481" type="line"/>
+      <point x="420" y="1172" type="line"/>
+      <point x="205" y="1172" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="420" y="590" type="line"/>
+      <point x="205" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="512" y="1421" type="curve" smooth="yes"/>
+      <point x="583" y="1421"/>
+      <point x="613" y="1455"/>
+      <point x="613" y="1505" type="curve" smooth="yes"/>
+      <point x="613" y="1508" type="line" smooth="yes"/>
+      <point x="613" y="1558"/>
+      <point x="581" y="1591"/>
+      <point x="512" y="1591" type="curve" smooth="yes"/>
+      <point x="443" y="1591"/>
+      <point x="410" y="1556"/>
+      <point x="410" y="1508" type="curve" smooth="yes"/>
+      <point x="410" y="1505" type="line" smooth="yes"/>
+      <point x="410" y="1455"/>
+      <point x="441" y="1421"/>
+    </contour>
+    <contour>
+      <point x="378" y="1323" type="line"/>
+      <point x="286" y="1385"/>
+      <point x="244" y="1455"/>
+      <point x="244" y="1539" type="curve" smooth="yes"/>
+      <point x="244" y="1545" type="line" smooth="yes"/>
+      <point x="244" y="1648"/>
+      <point x="315" y="1716"/>
+      <point x="454" y="1716" type="curve" smooth="yes"/>
+      <point x="516" y="1716"/>
+      <point x="570" y="1710"/>
+      <point x="638" y="1690" type="curve"/>
+      <point x="615" y="1844" type="line"/>
+      <point x="541" y="1863"/>
+      <point x="476" y="1870"/>
+      <point x="394" y="1870" type="curve" smooth="yes"/>
+      <point x="154" y="1870"/>
+      <point x="25" y="1753"/>
+      <point x="25" y="1577" type="curve" smooth="yes"/>
+      <point x="25" y="1570" type="line" smooth="yes"/>
+      <point x="25" y="1428"/>
+      <point x="98" y="1326"/>
+      <point x="238" y="1259" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

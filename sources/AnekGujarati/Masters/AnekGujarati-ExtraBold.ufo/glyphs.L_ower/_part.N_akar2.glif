@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Nakar2" format="2">
+  <advance width="1681"/>
+  <guideline x="909" y="-147" angle="25.9629"/>
+  <guideline x="1416" y="-84" angle="0"/>
+  <guideline x="1416" y="-93" angle="0"/>
+  <guideline x="1416" y="-20" angle="0"/>
+  <guideline x="1416" y="-29" angle="0"/>
+  <anchor x="1377" y="-93" name="Bottom"/>
+  <anchor x="1356" y="1277" name="Top"/>
+  <anchor x="1408" y="1277" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="1232" y="237" type="line"/>
+      <point x="1585" y="237" type="line"/>
+      <point x="1585" y="1207" type="line"/>
+      <point x="1232" y="1207" type="line"/>
+    </contour>
+    <contour>
+      <point x="687" y="-318" type="curve"/>
+      <point x="917" y="-198" type="line"/>
+      <point x="806" y="36" type="line"/>
+      <point x="757" y="-90" type="line"/>
+      <point x="1273" y="188" type="line"/>
+      <point x="1274" y="342" type="line"/>
+      <point x="909" y="211" type="line"/>
+      <point x="802" y="182" type="line" smooth="yes"/>
+      <point x="702" y="155"/>
+      <point x="616" y="121"/>
+      <point x="525" y="82" type="curve"/>
+      <point x="441" y="-79" type="line"/>
+      <point x="499" y="-190"/>
+      <point x="573" y="-259"/>
+    </contour>
+    <contour>
+      <point x="1246" y="-29" type="line"/>
+      <point x="1585" y="-29" type="line"/>
+      <point x="1585" y="355" type="line"/>
+      <point x="1246" y="355" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>LowerRakar</key>
+        <integer>2</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>LowerRakar</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

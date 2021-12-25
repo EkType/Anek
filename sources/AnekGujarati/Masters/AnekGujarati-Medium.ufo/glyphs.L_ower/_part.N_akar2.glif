@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Nakar2" format="2">
+  <advance width="1570"/>
+  <anchor x="1298" y="-97" name="Bottom"/>
+  <anchor x="1279" y="1266" name="Top"/>
+  <anchor x="1319" y="1266" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="1222" y="275" type="line"/>
+      <point x="1417" y="275" type="line"/>
+      <point x="1417" y="1192" type="line"/>
+      <point x="1222" y="1192" type="line"/>
+    </contour>
+    <contour>
+      <point x="660" y="-276" type="curve"/>
+      <point x="797" y="-207" type="line"/>
+      <point x="681" y="28" type="line"/>
+      <point x="640" y="-48" type="line"/>
+      <point x="1248" y="266" type="line"/>
+      <point x="1248" y="361" type="line"/>
+      <point x="946" y="244" type="line"/>
+      <point x="866" y="216" type="line"/>
+      <point x="741" y="170"/>
+      <point x="628" y="114"/>
+      <point x="512" y="58" type="curve"/>
+      <point x="460" y="-50" type="line"/>
+      <point x="518" y="-147"/>
+      <point x="573" y="-205"/>
+    </contour>
+    <contour>
+      <point x="1226" y="-22" type="line"/>
+      <point x="1417" y="-22" type="line"/>
+      <point x="1417" y="315" type="line"/>
+      <point x="1226" y="315" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>LowerRakar</key>
+        <integer>2</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>LowerRakar</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

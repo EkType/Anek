@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ssa.gj" format="2">
+  <advance width="1127"/>
+  <unicode hex="0AB7"/>
+  <anchor x="885" y="-86" name="Bottom"/>
+  <anchor x="869" y="1263" name="Top"/>
+  <anchor x="898" y="1263" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="874" y="453" type="line"/>
+      <point x="888" y="486" type="line"/>
+      <point x="199" y="1145" type="line"/>
+      <point x="175" y="1126" type="line"/>
+      <point x="202" y="1094"/>
+      <point x="242" y="1050"/>
+      <point x="295" y="999" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="556" y="253" type="curve" smooth="yes"/>
+      <point x="738" y="253"/>
+      <point x="850" y="344"/>
+      <point x="882" y="444" type="curve"/>
+      <point x="886" y="444" type="line"/>
+      <point x="882" y="507" type="line"/>
+      <point x="842" y="372"/>
+      <point x="728" y="288"/>
+      <point x="556" y="288" type="curve" smooth="yes"/>
+      <point x="351" y="288"/>
+      <point x="239" y="382"/>
+      <point x="239" y="617" type="curve" smooth="yes"/>
+      <point x="239" y="812" type="line"/>
+      <point x="201" y="812" type="line"/>
+      <point x="201" y="614" type="line" smooth="yes"/>
+      <point x="201" y="358"/>
+      <point x="328" y="253"/>
+    </contour>
+    <contour>
+      <point x="201" y="749" type="line"/>
+      <point x="239" y="749" type="line"/>
+      <point x="239" y="1020" type="line" smooth="yes"/>
+      <point x="239" y="1124"/>
+      <point x="196" y="1177"/>
+      <point x="105" y="1177" type="curve" smooth="yes"/>
+      <point x="80" y="1177"/>
+      <point x="51" y="1173"/>
+      <point x="30" y="1162" type="curve"/>
+      <point x="26" y="1127" type="line"/>
+      <point x="49" y="1136"/>
+      <point x="76" y="1142"/>
+      <point x="101" y="1142" type="curve" smooth="yes"/>
+      <point x="170" y="1142"/>
+      <point x="201" y="1104"/>
+      <point x="201" y="1019" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="879" y="539" type="line"/>
+      <point x="917" y="539" type="line"/>
+      <point x="917" y="1177" type="line"/>
+      <point x="879" y="1177" type="line"/>
+    </contour>
+    <contour>
+      <point x="879" y="0" type="line"/>
+      <point x="917" y="0" type="line"/>
+      <point x="917" y="710" type="line"/>
+      <point x="879" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

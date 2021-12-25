@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Nakar" format="2">
+  <advance width="1570"/>
+  <guideline x="870" y="-171" angle="26.2167"/>
+  <guideline x="940" y="-174" angle="26.5651"/>
+  <anchor x="1297" y="-97" name="Bottom"/>
+  <anchor x="1279" y="1266" name="Top"/>
+  <anchor x="1319" y="1266" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="878" y="-205" type="curve"/>
+      <point x="1015" y="-135" type="line"/>
+      <point x="895" y="94" type="line"/>
+      <point x="859" y="28" type="line"/>
+      <point x="1295" y="276" type="line"/>
+      <point x="1284" y="415" type="line"/>
+      <point x="1181" y="373"/>
+      <point x="1108" y="337"/>
+      <point x="1024" y="292" type="curve" smooth="yes"/>
+      <point x="724" y="128" type="line"/>
+      <point x="672" y="22" type="line"/>
+      <point x="733" y="-76"/>
+      <point x="790" y="-136"/>
+    </contour>
+    <contour>
+      <point x="1230" y="-22" type="line"/>
+      <point x="1417" y="-22" type="line"/>
+      <point x="1417" y="347" type="line"/>
+      <point x="1230" y="347" type="line"/>
+    </contour>
+    <contour>
+      <point x="1222" y="325" type="line"/>
+      <point x="1417" y="325" type="line"/>
+      <point x="1417" y="1192" type="line"/>
+      <point x="1222" y="1192" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>NarrowNakar</key>
+        <integer>2</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>NarrowNakar</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>HigherNakar</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

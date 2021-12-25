@@ -1,0 +1,518 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="500">
+      <map input="100" output="100"/>
+      <map input="200" output="206"/>
+      <map input="300" output="312"/>
+      <map input="400" output="414"/>
+      <map input="500" output="500"/>
+      <map input="600" output="615"/>
+      <map input="700" output="709"/>
+      <map input="800" output="800"/>
+    </axis>
+    <axis tag="wdth" name="Width" minimum="75" maximum="125" default="100"/>
+  </axes>
+  <sources>
+    <source filename="AnekGujarati-CondensedThin.ufo" name="Anek Gujarati Condensed Thin" familyname="Anek Gujarati" stylename="Condensed Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekGujarati-CondensedMedium.ufo" name="Anek Gujarati Condensed Medium" familyname="Anek Gujarati" stylename="Condensed Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekGujarati-CondensedExtraBold.ufo" name="Anek Gujarati Condensed ExtraBold" familyname="Anek Gujarati" stylename="Condensed ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekGujarati-Thin.ufo" name="Anek Gujarati Thin" familyname="Anek Gujarati" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekGujarati-Medium.ufo" name="Anek Gujarati Medium" familyname="Anek Gujarati" stylename="Medium">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekGujarati-ExtraBold.ufo" name="Anek Gujarati ExtraBold" familyname="Anek Gujarati" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekGujarati-ExpandedThin.ufo" name="Anek Gujarati Expanded Thin" familyname="Anek Gujarati" stylename="Expanded Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+    <source filename="AnekGujarati-ExpandedMedium.ufo" name="Anek Gujarati Expanded Medium" familyname="Anek Gujarati" stylename="Expanded Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+    <source filename="AnekGujarati-ExpandedExtraBold.ufo" name="Anek Gujarati Expanded ExtraBold" familyname="Anek Gujarati" stylename="Expanded ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Anek Gujarati Condensed Thin" familyname="Anek Gujarati" stylename="Condensed Thin" filename="instance_ufo/AnekGujarati-CondensedThin.ufo" stylemapfamilyname="Anek Gujarati Condensed Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Condensed ExtraLight" familyname="Anek Gujarati" stylename="Condensed ExtraLight" filename="instance_ufo/AnekGujarati-CondensedExtraLight.ufo" stylemapfamilyname="Anek Gujarati Condensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Condensed Light" familyname="Anek Gujarati" stylename="Condensed Light" filename="instance_ufo/AnekGujarati-CondensedLight.ufo" stylemapfamilyname="Anek Gujarati Condensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Condensed" familyname="Anek Gujarati" stylename="Condensed" filename="instance_ufo/AnekGujarati-Condensed.ufo" stylemapfamilyname="Anek Gujarati Condensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Condensed Medium" familyname="Anek Gujarati" stylename="Condensed Medium" filename="instance_ufo/AnekGujarati-CondensedMedium.ufo" stylemapfamilyname="Anek Gujarati Condensed Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Condensed SemiBold" familyname="Anek Gujarati" stylename="Condensed SemiBold" filename="instance_ufo/AnekGujarati-CondensedSemiBold.ufo" stylemapfamilyname="Anek Gujarati Condensed SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Condensed Bold" familyname="Anek Gujarati" stylename="Condensed Bold" filename="instance_ufo/AnekGujarati-CondensedBold.ufo" stylemapfamilyname="Anek Gujarati Condensed Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Condensed ExtraBold" familyname="Anek Gujarati" stylename="Condensed ExtraBold" filename="instance_ufo/AnekGujarati-CondensedExtraBold.ufo" stylemapfamilyname="Anek Gujarati Condensed ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiCondensed Thin" familyname="Anek Gujarati" stylename="SemiCondensed Thin" filename="instance_ufo/AnekGujarati-SemiCondensedThin.ufo" stylemapfamilyname="Anek Gujarati SemiCondensed Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiCondensed ExtraLight" familyname="Anek Gujarati" stylename="SemiCondensed ExtraLight" filename="instance_ufo/AnekGujarati-SemiCondensedExtraLight.ufo" stylemapfamilyname="Anek Gujarati SemiCondensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiCondensed Light" familyname="Anek Gujarati" stylename="SemiCondensed Light" filename="instance_ufo/AnekGujarati-SemiCondensedLight.ufo" stylemapfamilyname="Anek Gujarati SemiCondensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiCondensed" familyname="Anek Gujarati" stylename="SemiCondensed" filename="instance_ufo/AnekGujarati-SemiCondensed.ufo" stylemapfamilyname="Anek Gujarati SemiCondensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiCondensed Medium" familyname="Anek Gujarati" stylename="SemiCondensed Medium" filename="instance_ufo/AnekGujarati-SemiCondensedMedium.ufo" stylemapfamilyname="Anek Gujarati SemiCondensed Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiCondensed SemiBold" familyname="Anek Gujarati" stylename="SemiCondensed SemiBold" filename="instance_ufo/AnekGujarati-SemiCondensedSemiBold.ufo" stylemapfamilyname="Anek Gujarati SemiCondensed Regular" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiCondensed Bold" familyname="Anek Gujarati" stylename="SemiCondensed Bold" filename="instance_ufo/AnekGujarati-SemiCondensedBold.ufo" stylemapfamilyname="Anek Gujarati SemiCondensed Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiCondensed ExtraBold" familyname="Anek Gujarati" stylename="SemiCondensed ExtraBold" filename="instance_ufo/AnekGujarati-SemiCondensedExtraBold.ufo" stylemapfamilyname="Anek Gujarati SemiCondensed ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Thin" familyname="Anek Gujarati" stylename="Thin" filename="instance_ufo/AnekGujarati-Thin.ufo" stylemapfamilyname="Anek Gujarati Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati ExtraLight" familyname="Anek Gujarati" stylename="ExtraLight" filename="instance_ufo/AnekGujarati-ExtraLight.ufo" stylemapfamilyname="Anek Gujarati ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Light" familyname="Anek Gujarati" stylename="Light" filename="instance_ufo/AnekGujarati-Light.ufo" stylemapfamilyname="Anek Gujarati Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Regular" familyname="Anek Gujarati" stylename="Regular" filename="instance_ufo/AnekGujarati-Regular.ufo" stylemapfamilyname="Anek Gujarati" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Medium" familyname="Anek Gujarati" stylename="Medium" filename="instance_ufo/AnekGujarati-Medium.ufo" stylemapfamilyname="Anek Gujarati Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiBold" familyname="Anek Gujarati" stylename="SemiBold" filename="instance_ufo/AnekGujarati-SemiBold.ufo" stylemapfamilyname="Anek Gujarati SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Bold" familyname="Anek Gujarati" stylename="Bold" filename="instance_ufo/AnekGujarati-Bold.ufo" stylemapfamilyname="Anek Gujarati" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati ExtraBold" familyname="Anek Gujarati" stylename="ExtraBold" filename="instance_ufo/AnekGujarati-ExtraBold.ufo" stylemapfamilyname="Anek Gujarati ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiExpanded Thin" familyname="Anek Gujarati" stylename="SemiExpanded Thin" filename="instance_ufo/AnekGujarati-SemiExpandedThin.ufo" stylemapfamilyname="Anek Gujarati SemiExpanded Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiExpanded ExtraLight" familyname="Anek Gujarati" stylename="SemiExpanded ExtraLight" filename="instance_ufo/AnekGujarati-SemiExpandedExtraLight.ufo" stylemapfamilyname="Anek Gujarati SemiExpanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiExpanded Light" familyname="Anek Gujarati" stylename="SemiExpanded Light" filename="instance_ufo/AnekGujarati-SemiExpandedLight.ufo" stylemapfamilyname="Anek Gujarati SemiExpanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiExpanded" familyname="Anek Gujarati" stylename="SemiExpanded" filename="instance_ufo/AnekGujarati-SemiExpanded.ufo" stylemapfamilyname="Anek Gujarati SemiExpanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiExpanded Medium" familyname="Anek Gujarati" stylename="SemiExpanded Medium" filename="instance_ufo/AnekGujarati-SemiExpandedMedium.ufo" stylemapfamilyname="Anek Gujarati SemiExpanded Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiExpanded SemiBold" familyname="Anek Gujarati" stylename="SemiExpanded SemiBold" filename="instance_ufo/AnekGujarati-SemiExpandedSemiBold.ufo" stylemapfamilyname="Anek Gujarati SemiExpanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiExpanded Bold" familyname="Anek Gujarati" stylename="SemiExpanded Bold" filename="instance_ufo/AnekGujarati-SemiExpandedBold.ufo" stylemapfamilyname="Anek Gujarati SemiExpanded Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati SemiExpanded ExtraBold" familyname="Anek Gujarati" stylename="SemiExpanded ExtraBold" filename="instance_ufo/AnekGujarati-SemiExpandedExtraBold.ufo" stylemapfamilyname="Anek Gujarati SemiExpanded ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Expanded Thin" familyname="Anek Gujarati" stylename="Expanded Thin" filename="instance_ufo/AnekGujarati-ExpandedThin.ufo" stylemapfamilyname="Anek Gujarati Expanded Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Expanded ExtraLight" familyname="Anek Gujarati" stylename="Expanded ExtraLight" filename="instance_ufo/AnekGujarati-ExpandedExtraLight.ufo" stylemapfamilyname="Anek Gujarati Expanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Expanded Light" familyname="Anek Gujarati" stylename="Expanded Light" filename="instance_ufo/AnekGujarati-ExpandedLight.ufo" stylemapfamilyname="Anek Gujarati Expanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Expanded" familyname="Anek Gujarati" stylename="Expanded" filename="instance_ufo/AnekGujarati-Expanded.ufo" stylemapfamilyname="Anek Gujarati Expanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Expanded Medium" familyname="Anek Gujarati" stylename="Expanded Medium" filename="instance_ufo/AnekGujarati-ExpandedMedium.ufo" stylemapfamilyname="Anek Gujarati Expanded Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Expanded SemiBold" familyname="Anek Gujarati" stylename="Expanded SemiBold" filename="instance_ufo/AnekGujarati-ExpandedSemiBold.ufo" stylemapfamilyname="Anek Gujarati Expanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Expanded Bold" familyname="Anek Gujarati" stylename="Expanded Bold" filename="instance_ufo/AnekGujarati-ExpandedBold.ufo" stylemapfamilyname="Anek Gujarati Expanded Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gujarati Expanded ExtraBold" familyname="Anek Gujarati" stylename="Expanded ExtraBold" filename="instance_ufo/AnekGujarati-ExpandedExtraBold.ufo" stylemapfamilyname="Anek Gujarati Expanded ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>_BaComponent.gj</string>
+        <string>_BhaComponent.gj</string>
+        <string>_CaComponent.gj</string>
+        <string>_CaPart1</string>
+        <string>_ChaComponent.gj</string>
+        <string>_DaComponent.gj</string>
+        <string>_DdaComponent.gj</string>
+        <string>_DdhaBelow</string>
+        <string>_DdhaComponent.gj</string>
+        <string>_DhaComponent.gj</string>
+        <string>_GaBelow</string>
+        <string>_GaComponent.gj</string>
+        <string>_GaSmall</string>
+        <string>_GhaComponent.gj</string>
+        <string>_HaComponent.gj</string>
+        <string>_HaMaHalf</string>
+        <string>_HaPart1</string>
+        <string>_JaComponent.gj</string>
+        <string>_JaNyaPart</string>
+        <string>_JaPart</string>
+        <string>_JhaComponent.gj</string>
+        <string>_JhaPart1</string>
+        <string>_JhaPart2</string>
+        <string>_Ka.bottom</string>
+        <string>_KaComponant.gj</string>
+        <string>_KaPart1</string>
+        <string>_KaPart2</string>
+        <string>_KaPha.top</string>
+        <string>_KaPhaConnector</string>
+        <string>_KaSsaComponant</string>
+        <string>_KhaComponent.gj</string>
+        <string>_KhaStart</string>
+        <string>_LaComponent.gj</string>
+        <string>_Lapart1</string>
+        <string>_MaComponent.gj</string>
+        <string>_NaComponent.gj</string>
+        <string>_NaSmall</string>
+        <string>_NgaSmall</string>
+        <string>_NnaComponent.gj</string>
+        <string>_NnaPart1</string>
+        <string>_PaComponent.gj</string>
+        <string>_Pabottom2</string>
+        <string>_PhaComponent.gj</string>
+        <string>_PhaPart1</string>
+        <string>_PhaPart2</string>
+        <string>_PhaTail</string>
+        <string>_RakarKa</string>
+        <string>_SaComponent.gj</string>
+        <string>_SaPart1</string>
+        <string>_Sha.half</string>
+        <string>_ShaComponent.gj</string>
+        <string>_ShaRaHalf</string>
+        <string>_SsaComponent.gj</string>
+        <string>_TaComponent.gj</string>
+        <string>_TaHalfalt</string>
+        <string>_TaRaHalf.gj</string>
+        <string>_ThaComponent.gj</string>
+        <string>_TtaComponent.gj</string>
+        <string>_TtaSmall</string>
+        <string>_TthaBelow</string>
+        <string>_TthaComponent.gj</string>
+        <string>_VaBelow</string>
+        <string>_VaComponent.gj</string>
+        <string>_VaPart.gj</string>
+        <string>_VowelIcomponent.gj</string>
+        <string>_VowelUcomponent.gj</string>
+        <string>_YaComponent.gj</string>
+        <string>_cafront_Rakar</string>
+        <string>_danda</string>
+        <string>_dhafront_Rakar</string>
+        <string>_ghafront_Rakar</string>
+        <string>_pabottom_Rakar</string>
+        <string>_part.Ba</string>
+        <string>_part.Bha</string>
+        <string>_part.DaConjuncts</string>
+        <string>_part.DdaSmall</string>
+        <string>_part.Kaconnector.left</string>
+        <string>_part.Kaconnector2</string>
+        <string>_part.Kaconnector3</string>
+        <string>_part.KhaLower</string>
+        <string>_part.Khaconnector</string>
+        <string>_part.LaConnector2</string>
+        <string>_part.Laconnector</string>
+        <string>_part.MaHalf</string>
+        <string>_part.NaHalf</string>
+        <string>_part.Nakar</string>
+        <string>_part.Nakar2</string>
+        <string>_part.PaBottom</string>
+        <string>_part.Rakar1</string>
+        <string>_part.Rakar2</string>
+        <string>_part.Saconnector</string>
+        <string>_part.Sha1</string>
+        <string>_part.Ta</string>
+        <string>_part.TaTa</string>
+        <string>_part.Ya1.comp</string>
+        <string>_part.Ya2.comp</string>
+        <string>_part.YaHalf</string>
+        <string>_part_Kaconnector1</string>
+        <string>_reph_forbindu</string>
+        <string>_thaFront_Rakar</string>
+        <string>_vowelRu</string>
+        <string>jbottom</string>
+        <string>jbottom.001</string>
+      </array>
+    </dict>
+  </lib>
+  <rules>
+  <rule>
+   <!-- Latin Lighter Variants -->
+   <sub with="question_alt" name="question"/>
+   <conditionset>
+    <condition name="Weight" maximum="450" minimum="100"/>
+    <condition name="Width" maximum="125" minimum="75"/>
+   </conditionset>
+  </rule>
+  </rules>
+</designspace>

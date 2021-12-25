@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Ba" format="2">
+  <advance width="920"/>
+  <guideline x="475" y="1032" angle="0"/>
+  <guideline x="475" y="1012" angle="0"/>
+  <outline>
+    <contour>
+      <point x="294" y="280" type="curve" smooth="yes"/>
+      <point x="423" y="280"/>
+      <point x="482" y="358"/>
+      <point x="482" y="521" type="curve" smooth="yes"/>
+      <point x="482" y="1012" type="line"/>
+      <point x="445" y="1012" type="line"/>
+      <point x="445" y="521" type="line" smooth="yes"/>
+      <point x="445" y="382"/>
+      <point x="397" y="315"/>
+      <point x="294" y="315" type="curve" smooth="yes"/>
+      <point x="191" y="315"/>
+      <point x="144" y="382"/>
+      <point x="144" y="521" type="curve" smooth="yes"/>
+      <point x="144" y="896" type="line" smooth="yes"/>
+      <point x="144" y="1040"/>
+      <point x="160" y="1115"/>
+      <point x="243" y="1196" type="curve"/>
+      <point x="197" y="1196" type="line"/>
+      <point x="131" y="1132"/>
+      <point x="107" y="1052"/>
+      <point x="107" y="902" type="curve" smooth="yes"/>
+      <point x="107" y="521" type="line" smooth="yes"/>
+      <point x="107" y="358"/>
+      <point x="166" y="280"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>Higher</key>
+        <integer>2</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Higher</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Ta" format="2">
+  <advance width="458"/>
+  <guideline x="609" y="873" angle="90"/>
+  <outline>
+    <contour>
+      <point x="155" y="0" type="curve"/>
+      <point x="327" y="0" type="line"/>
+      <point x="290" y="168"/>
+      <point x="250" y="438"/>
+      <point x="250" y="602" type="curve" smooth="yes"/>
+      <point x="250" y="743"/>
+      <point x="303" y="799"/>
+      <point x="417" y="799" type="curve" smooth="yes"/>
+      <point x="609" y="799" type="line"/>
+      <point x="609" y="946" type="line"/>
+      <point x="369" y="946" type="line" smooth="yes"/>
+      <point x="173" y="946"/>
+      <point x="72" y="844"/>
+      <point x="72" y="610" type="curve" smooth="yes"/>
+      <point x="72" y="432"/>
+      <point x="115" y="170"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>HeightShort</key>
+        <integer>1</integer>
+        <key>HeightTall</key>
+        <integer>1</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>HeightShort</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>-50</integer>
+          <key>name</key>
+          <string>HeightTall</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

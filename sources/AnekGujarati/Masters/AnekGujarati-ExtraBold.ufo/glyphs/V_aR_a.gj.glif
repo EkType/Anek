@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VaRa.gj" format="2">
+  <advance width="1236"/>
+  <guideline x="787" y="401" angle="90"/>
+  <guideline x="597" y="499" angle="0"/>
+  <guideline x="1296" y="261" angle="0"/>
+  <guideline x="477" y="238" angle="0"/>
+  <anchor x="932" y="-64" name="Bottom"/>
+  <anchor x="911" y="1277" name="Top"/>
+  <anchor x="963" y="1277" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="447" y="256" type="curve" smooth="yes"/>
+      <point x="515" y="256"/>
+      <point x="589" y="274"/>
+      <point x="635" y="310" type="curve"/>
+      <point x="802" y="416" type="line"/>
+      <point x="802" y="609" type="line"/>
+      <point x="761" y="573" type="line" smooth="yes"/>
+      <point x="707" y="525"/>
+      <point x="654" y="496"/>
+      <point x="588" y="496" type="curve" smooth="yes"/>
+      <point x="479" y="496"/>
+      <point x="419" y="558"/>
+      <point x="419" y="691" type="curve" smooth="yes"/>
+      <point x="419" y="721" type="line" smooth="yes"/>
+      <point x="419" y="853"/>
+      <point x="469" y="915"/>
+      <point x="584" y="915" type="curve" smooth="yes"/>
+      <point x="627" y="915"/>
+      <point x="662" y="909"/>
+      <point x="694" y="901" type="curve"/>
+      <point x="668" y="1171" type="line"/>
+      <point x="621" y="1193"/>
+      <point x="549" y="1207"/>
+      <point x="473" y="1207" type="curve" smooth="yes"/>
+      <point x="196" y="1207"/>
+      <point x="56" y="1055"/>
+      <point x="56" y="743" type="curve" smooth="yes"/>
+      <point x="56" y="678" type="line" smooth="yes"/>
+      <point x="56" y="390"/>
+      <point x="210" y="256"/>
+    </contour>
+    <contour>
+      <point x="87" y="-8" type="line"/>
+      <point x="543" y="-8" type="line"/>
+      <point x="814" y="286" type="line"/>
+      <point x="811" y="537" type="line"/>
+      <point x="87" y="47" type="line"/>
+    </contour>
+    <contour>
+      <point x="787" y="341" type="line"/>
+      <point x="1140" y="341" type="line"/>
+      <point x="1140" y="1207" type="line"/>
+      <point x="787" y="1207" type="line"/>
+    </contour>
+    <contour>
+      <point x="795" y="0" type="line"/>
+      <point x="1140" y="0" type="line"/>
+      <point x="1140" y="436" type="line"/>
+      <point x="795" y="436" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

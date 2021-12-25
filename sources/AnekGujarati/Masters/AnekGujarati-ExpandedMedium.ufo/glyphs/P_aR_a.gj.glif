@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="PaRa.gj" format="2">
+  <advance width="1543"/>
+  <anchor x="1199" y="-87" name="Bottom"/>
+  <anchor x="1179" y="1259" name="Top"/>
+  <anchor x="1230" y="1259" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="232" y="775" type="line"/>
+      <point x="448" y="775" type="line"/>
+      <point x="448" y="907" type="line" smooth="yes"/>
+      <point x="448" y="1097"/>
+      <point x="367" y="1183"/>
+      <point x="207" y="1183" type="curve" smooth="yes"/>
+      <point x="146" y="1183"/>
+      <point x="94" y="1175"/>
+      <point x="52" y="1163" type="curve"/>
+      <point x="38" y="1004" type="line"/>
+      <point x="66" y="1011"/>
+      <point x="96" y="1016"/>
+      <point x="124" y="1016" type="curve" smooth="yes"/>
+      <point x="200" y="1016"/>
+      <point x="232" y="970"/>
+      <point x="232" y="881" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="204" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="1140" y="379" type="line"/>
+      <point x="1139" y="545" type="line"/>
+      <point x="204" y="39" type="line"/>
+    </contour>
+    <contour>
+      <point x="1123" y="461" type="line"/>
+      <point x="1338" y="461" type="line"/>
+      <point x="1338" y="1172" type="line"/>
+      <point x="1123" y="1172" type="line"/>
+    </contour>
+    <contour>
+      <point x="1127" y="0" type="line"/>
+      <point x="1338" y="0" type="line"/>
+      <point x="1338" y="490" type="line"/>
+      <point x="1127" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="715" y="289" type="curve" smooth="yes"/>
+      <point x="821" y="289"/>
+      <point x="897" y="337"/>
+      <point x="968" y="375" type="curve"/>
+      <point x="1132" y="495" type="line"/>
+      <point x="1134" y="580" type="line"/>
+      <point x="1053" y="536" type="line" smooth="yes"/>
+      <point x="967" y="489"/>
+      <point x="884" y="452"/>
+      <point x="766" y="452" type="curve" smooth="yes"/>
+      <point x="560" y="452"/>
+      <point x="448" y="549"/>
+      <point x="448" y="774" type="curve" smooth="yes"/>
+      <point x="448" y="824" type="line"/>
+      <point x="232" y="824" type="line"/>
+      <point x="232" y="758" type="line" smooth="yes"/>
+      <point x="232" y="436"/>
+      <point x="406" y="289"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

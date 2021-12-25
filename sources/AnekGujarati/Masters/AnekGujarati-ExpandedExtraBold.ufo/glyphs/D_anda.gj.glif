@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Danda.gj" format="2">
+  <advance width="648"/>
+  <unicode hex="0964"/>
+  <anchor x="280" y="-69" name="Bottom"/>
+  <anchor x="260" y="1264" name="Top"/>
+  <anchor x="324" y="1264" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="128" y="422" type="line"/>
+      <point x="520" y="422" type="line"/>
+      <point x="520" y="1187" type="line"/>
+      <point x="128" y="1187" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="507" type="line"/>
+      <point x="128" y="507" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

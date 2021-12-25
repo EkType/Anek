@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.TaTa" format="2">
+  <advance width="1036"/>
+  <anchor x="184" y="-59" name="_Bottom"/>
+  <outline>
+    <contour>
+      <point x="18" y="701" type="line"/>
+      <point x="232" y="727" type="line"/>
+      <point x="535" y="962" type="line"/>
+      <point x="18" y="962" type="line"/>
+    </contour>
+    <contour>
+      <point x="224" y="0" type="curve"/>
+      <point x="530" y="0" type="line"/>
+      <point x="506" y="140"/>
+      <point x="469" y="402"/>
+      <point x="469" y="569" type="curve" smooth="yes"/>
+      <point x="469" y="659"/>
+      <point x="500" y="701"/>
+      <point x="576" y="701" type="curve" smooth="yes"/>
+      <point x="810" y="701" type="line"/>
+      <point x="810" y="962" type="line"/>
+      <point x="484" y="962" type="line" smooth="yes"/>
+      <point x="420" y="962"/>
+      <point x="371" y="888"/>
+      <point x="320" y="851" type="curve" smooth="yes"/>
+      <point x="243" y="796"/>
+      <point x="151" y="726"/>
+      <point x="151" y="585" type="curve" smooth="yes"/>
+      <point x="151" y="391"/>
+      <point x="193" y="144"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>Shorter</key>
+        <integer>1</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Shorter</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

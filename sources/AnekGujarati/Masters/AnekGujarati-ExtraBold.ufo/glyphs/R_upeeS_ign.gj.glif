@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="RupeeSign.gj" format="2">
+  <advance width="2020"/>
+  <unicode hex="0AF1"/>
+  <anchor x="574" y="-376" name="Bottom"/>
+  <anchor x="492" y="1277" name="Top"/>
+  <anchor x="502" y="1277" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="1476" y="762" type="curve" smooth="yes"/>
+      <point x="1196" y="762"/>
+      <point x="1033" y="619"/>
+      <point x="1033" y="376" type="curve" smooth="yes"/>
+      <point x="1033" y="364" type="line"/>
+      <point x="1356" y="364" type="line"/>
+      <point x="1356" y="373" type="line" smooth="yes"/>
+      <point x="1356" y="463"/>
+      <point x="1398" y="508"/>
+      <point x="1476" y="508" type="curve" smooth="yes"/>
+      <point x="1551" y="508"/>
+      <point x="1596" y="463"/>
+      <point x="1596" y="373" type="curve" smooth="yes"/>
+      <point x="1596" y="364" type="line"/>
+      <point x="1919" y="364" type="line"/>
+      <point x="1919" y="376" type="line" smooth="yes"/>
+      <point x="1919" y="619"/>
+      <point x="1756" y="762"/>
+    </contour>
+    <contour>
+      <point x="1476" y="-29" type="curve" smooth="yes"/>
+      <point x="1756" y="-29"/>
+      <point x="1919" y="114"/>
+      <point x="1919" y="354" type="curve" smooth="yes"/>
+      <point x="1919" y="369" type="line"/>
+      <point x="1596" y="369" type="line"/>
+      <point x="1596" y="359" type="line" smooth="yes"/>
+      <point x="1596" y="271"/>
+      <point x="1551" y="225"/>
+      <point x="1476" y="225" type="curve" smooth="yes"/>
+      <point x="1398" y="225"/>
+      <point x="1356" y="271"/>
+      <point x="1356" y="359" type="curve" smooth="yes"/>
+      <point x="1356" y="370" type="line"/>
+      <point x="1033" y="370" type="line"/>
+      <point x="1033" y="354" type="line" smooth="yes"/>
+      <point x="1033" y="114"/>
+      <point x="1196" y="-29"/>
+    </contour>
+    <contour>
+      <point x="428" y="-29" type="curve" smooth="yes"/>
+      <point x="756" y="-29"/>
+      <point x="934" y="92"/>
+      <point x="934" y="309" type="curve" smooth="yes"/>
+      <point x="934" y="318" type="line" smooth="yes"/>
+      <point x="934" y="486"/>
+      <point x="848" y="585"/>
+      <point x="666" y="610" type="curve"/>
+      <point x="666" y="617" type="line"/>
+      <point x="841" y="635"/>
+      <point x="922" y="726"/>
+      <point x="922" y="895" type="curve" smooth="yes"/>
+      <point x="922" y="905" type="line" smooth="yes"/>
+      <point x="922" y="1129"/>
+      <point x="742" y="1239"/>
+      <point x="440" y="1239" type="curve" smooth="yes"/>
+      <point x="305" y="1239"/>
+      <point x="190" y="1212"/>
+      <point x="112" y="1179" type="curve"/>
+      <point x="82" y="894" type="line"/>
+      <point x="166" y="927"/>
+      <point x="272" y="949"/>
+      <point x="372" y="949" type="curve" smooth="yes"/>
+      <point x="494" y="949"/>
+      <point x="557" y="916"/>
+      <point x="557" y="853" type="curve" smooth="yes"/>
+      <point x="557" y="849" type="line" smooth="yes"/>
+      <point x="557" y="796"/>
+      <point x="517" y="761"/>
+      <point x="426" y="759" type="curve" smooth="yes"/>
+      <point x="174" y="753" type="line"/>
+      <point x="174" y="477" type="line"/>
+      <point x="424" y="468" type="line" smooth="yes"/>
+      <point x="525" y="464"/>
+      <point x="569" y="433"/>
+      <point x="569" y="367" type="curve" smooth="yes"/>
+      <point x="569" y="362" type="line" smooth="yes"/>
+      <point x="569" y="297"/>
+      <point x="503" y="265"/>
+      <point x="370" y="265" type="curve" smooth="yes"/>
+      <point x="252" y="265"/>
+      <point x="159" y="292"/>
+      <point x="61" y="331" type="curve"/>
+      <point x="89" y="37" type="line"/>
+      <point x="171" y="-2"/>
+      <point x="294" y="-29"/>
+    </contour>
+    <contour>
+      <point x="373" y="-330" type="line"/>
+      <point x="806" y="-330" type="line"/>
+      <point x="806" y="-321" type="line"/>
+      <point x="693" y="-189" type="line" smooth="yes"/>
+      <point x="636" y="-117"/>
+      <point x="545" y="-33"/>
+      <point x="384" y="48" type="curve"/>
+      <point x="166" y="43" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>RaMatraUu.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>AbbreviationSign.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

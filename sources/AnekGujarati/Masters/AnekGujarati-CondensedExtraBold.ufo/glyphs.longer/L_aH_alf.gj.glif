@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LaHalf.gj" format="2">
+  <advance width="662"/>
+  <guideline x="865" y="735" angle="270"/>
+  <guideline x="708" y="735" angle="270"/>
+  <guideline x="1021" y="735" angle="270"/>
+  <outline>
+    <contour>
+      <point x="448" y="433" type="line"/>
+      <point x="865" y="604" type="line"/>
+      <point x="865" y="920" type="line"/>
+      <point x="448" y="746" type="line"/>
+    </contour>
+    <component base="_Lapart1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

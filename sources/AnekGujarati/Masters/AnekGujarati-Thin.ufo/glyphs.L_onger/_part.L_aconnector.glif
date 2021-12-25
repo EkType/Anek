@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Laconnector" format="2">
+  <advance width="907"/>
+  <guideline x="1126" y="787" angle="90"/>
+  <guideline x="782" y="663" angle="197.6858"/>
+  <guideline x="779" y="624" angle="17.7172"/>
+  <outline>
+    <contour>
+      <point x="514" y="539" type="line"/>
+      <point x="1122" y="734" type="line"/>
+      <point x="1126" y="773" type="line"/>
+      <point x="517" y="578" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>Longer</key>
+        <integer>2</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Longer</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otilde" format="2">
+  <advance width="1409"/>
+  <unicode hex="00F5"/>
+  <anchor x="705" y="0" name="bottom"/>
+  <anchor x="705" y="479" name="center"/>
+  <anchor x="1017" y="5" name="ogonek"/>
+  <anchor x="705" y="1343" name="top"/>
+  <anchor x="1251" y="958" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildecomb" xOffset="250"/>
+  </outline>
+</glyph>

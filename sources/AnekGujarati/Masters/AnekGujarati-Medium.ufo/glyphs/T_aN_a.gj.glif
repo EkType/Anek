@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaNa.gj" format="2">
+  <advance width="1753"/>
+  <guideline x="95" y="682" angle="90"/>
+  <anchor x="1480" y="-75" name="Bottom"/>
+  <anchor x="1462" y="1266" name="Top"/>
+  <anchor x="1502" y="1266" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="261" y="0" type="curve"/>
+      <point x="470" y="0" type="line"/>
+      <point x="375" y="141"/>
+      <point x="297" y="332"/>
+      <point x="297" y="480" type="curve" smooth="yes"/>
+      <point x="297" y="618"/>
+      <point x="368" y="684"/>
+      <point x="526" y="684" type="curve" smooth="yes"/>
+      <point x="895" y="684" type="line"/>
+      <point x="895" y="846" type="line"/>
+      <point x="467" y="846" type="line" smooth="yes"/>
+      <point x="212" y="846"/>
+      <point x="95" y="727"/>
+      <point x="95" y="500" type="curve" smooth="yes"/>
+      <point x="95" y="333"/>
+      <point x="170" y="137"/>
+    </contour>
+    <contour>
+      <point x="826" y="241" type="curve"/>
+      <point x="995" y="241" type="line"/>
+      <point x="995" y="846" type="line"/>
+      <point x="822" y="846" type="line"/>
+      <point x="724" y="785" type="line"/>
+      <point x="739" y="573"/>
+      <point x="775" y="413"/>
+    </contour>
+    <contour>
+      <point x="938" y="684" type="line"/>
+      <point x="1494" y="684" type="line"/>
+      <point x="1479" y="846" type="line"/>
+      <point x="938" y="846" type="line"/>
+    </contour>
+    <contour>
+      <point x="1405" y="495" type="line"/>
+      <point x="1600" y="495" type="line"/>
+      <point x="1600" y="1192" type="line"/>
+      <point x="1405" y="1192" type="line"/>
+    </contour>
+    <contour>
+      <point x="1405" y="0" type="line"/>
+      <point x="1600" y="0" type="line"/>
+      <point x="1600" y="628" type="line"/>
+      <point x="1405" y="628" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ta.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

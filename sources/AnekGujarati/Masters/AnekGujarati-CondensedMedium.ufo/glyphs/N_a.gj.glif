@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Na.gj" format="2">
+  <advance width="752"/>
+  <unicode hex="0AA8"/>
+  <anchor x="551" y="-63" name="Bottom"/>
+  <anchor x="534" y="1273" name="Top"/>
+  <anchor x="563" y="1273" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="476" y="508" type="line"/>
+      <point x="651" y="508" type="line"/>
+      <point x="651" y="1212" type="line"/>
+      <point x="476" y="1212" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="0" type="line"/>
+      <point x="651" y="0" type="line"/>
+      <point x="651" y="666" type="line"/>
+      <point x="476" y="666" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="232" type="curve"/>
+      <point x="276" y="232" type="line"/>
+      <point x="276" y="851" type="line"/>
+      <point x="125" y="851" type="line"/>
+      <point x="49" y="794" type="line"/>
+      <point x="62" y="578"/>
+      <point x="92" y="413"/>
+    </contour>
+    <contour>
+      <point x="229" y="704" type="line"/>
+      <point x="582" y="704" type="line"/>
+      <point x="570" y="851" type="line"/>
+      <point x="229" y="851" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

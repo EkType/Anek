@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ba.gj" format="2">
+  <advance width="1532"/>
+  <unicode hex="0AAC"/>
+  <anchor x="1259" y="-75" name="Bottom"/>
+  <anchor x="1241" y="1266" name="Top"/>
+  <anchor x="1281" y="1266" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="1184" y="495" type="line"/>
+      <point x="1379" y="495" type="line"/>
+      <point x="1379" y="1192" type="line"/>
+      <point x="1184" y="1192" type="line"/>
+    </contour>
+    <contour>
+      <point x="1184" y="0" type="line"/>
+      <point x="1379" y="0" type="line"/>
+      <point x="1379" y="628" type="line"/>
+      <point x="1184" y="628" type="line"/>
+    </contour>
+    <contour>
+      <point x="802" y="547" type="line"/>
+      <point x="1306" y="547" type="line"/>
+      <point x="1291" y="709" type="line"/>
+      <point x="802" y="709" type="line"/>
+    </contour>
+    <contour>
+      <point x="503" y="137" type="curve" smooth="yes"/>
+      <point x="756" y="137"/>
+      <point x="883" y="265"/>
+      <point x="883" y="530" type="curve" smooth="yes"/>
+      <point x="883" y="1001" type="line"/>
+      <point x="689" y="1001" type="line"/>
+      <point x="689" y="528" type="line" smooth="yes"/>
+      <point x="689" y="377"/>
+      <point x="629" y="304"/>
+      <point x="505" y="304" type="curve" smooth="yes"/>
+      <point x="375" y="304"/>
+      <point x="313" y="390"/>
+      <point x="313" y="562" type="curve" smooth="yes"/>
+      <point x="313" y="731" type="line" smooth="yes"/>
+      <point x="313" y="924"/>
+      <point x="367" y="1057"/>
+      <point x="482" y="1192" type="curve"/>
+      <point x="268" y="1192" type="line"/>
+      <point x="168" y="1084"/>
+      <point x="111" y="941"/>
+      <point x="111" y="733" type="curve" smooth="yes"/>
+      <point x="111" y="564" type="line" smooth="yes"/>
+      <point x="111" y="275"/>
+      <point x="241" y="137"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>BaHalf.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

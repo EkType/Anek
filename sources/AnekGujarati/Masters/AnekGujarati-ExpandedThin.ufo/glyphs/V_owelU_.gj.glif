@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelU.gj" format="2">
+  <advance width="1691"/>
+  <unicode hex="0A89"/>
+  <guideline x="6385" y="2145" angle="90"/>
+  <guideline x="5020" y="2145" angle="90"/>
+  <guideline x="-2372" y="4903" angle="277.4314"/>
+  <guideline x="1007" y="1657" angle="90"/>
+  <guideline x="1097" y="1697" angle="0"/>
+  <guideline x="1397" y="1626" angle="0"/>
+  <anchor x="1032" y="1657" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="200" y="757" type="line"/>
+      <point x="241" y="757" type="line"/>
+      <point x="241" y="764" type="line" smooth="yes"/>
+      <point x="241" y="1315"/>
+      <point x="496" y="1590"/>
+      <point x="1007" y="1590" type="curve" smooth="yes"/>
+      <point x="1086" y="1590"/>
+      <point x="1151" y="1583"/>
+      <point x="1205" y="1571" type="curve"/>
+      <point x="1201" y="1608" type="line"/>
+      <point x="1148" y="1619"/>
+      <point x="1086" y="1626"/>
+      <point x="1007" y="1626" type="curve" smooth="yes"/>
+      <point x="469" y="1626"/>
+      <point x="200" y="1339"/>
+      <point x="200" y="764" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="942" y="-14" type="curve" smooth="yes"/>
+      <point x="1293" y="-14"/>
+      <point x="1495" y="91"/>
+      <point x="1495" y="336" type="curve" smooth="yes"/>
+      <point x="1495" y="338" type="line" smooth="yes"/>
+      <point x="1495" y="516"/>
+      <point x="1373" y="600"/>
+      <point x="1170" y="618" type="curve"/>
+      <point x="1170" y="619" type="line"/>
+      <point x="1362" y="634"/>
+      <point x="1476" y="710"/>
+      <point x="1476" y="881" type="curve" smooth="yes"/>
+      <point x="1476" y="888" type="line" smooth="yes"/>
+      <point x="1476" y="1079"/>
+      <point x="1321" y="1182"/>
+      <point x="1052" y="1182" type="curve" smooth="yes"/>
+      <point x="899" y="1182"/>
+      <point x="776" y="1155"/>
+      <point x="682" y="1111" type="curve"/>
+      <point x="675" y="1068" type="line"/>
+      <point x="778" y="1118"/>
+      <point x="904" y="1146"/>
+      <point x="1052" y="1146" type="curve" smooth="yes"/>
+      <point x="1296" y="1146"/>
+      <point x="1435" y="1052"/>
+      <point x="1435" y="888" type="curve" smooth="yes"/>
+      <point x="1435" y="881" type="line" smooth="yes"/>
+      <point x="1435" y="701"/>
+      <point x="1293" y="637"/>
+      <point x="1031" y="635" type="curve" smooth="yes"/>
+      <point x="769" y="634" type="line"/>
+      <point x="769" y="602" type="line"/>
+      <point x="1031" y="600" type="line" smooth="yes"/>
+      <point x="1305" y="598"/>
+      <point x="1454" y="525"/>
+      <point x="1454" y="338" type="curve" smooth="yes"/>
+      <point x="1454" y="336" type="line" smooth="yes"/>
+      <point x="1454" y="117"/>
+      <point x="1269" y="22"/>
+      <point x="942" y="22" type="curve" smooth="yes"/>
+      <point x="475" y="22"/>
+      <point x="241" y="235"/>
+      <point x="241" y="752" type="curve" smooth="yes"/>
+      <point x="241" y="760" type="line"/>
+      <point x="200" y="760" type="line"/>
+      <point x="200" y="752" type="line" smooth="yes"/>
+      <point x="200" y="213"/>
+      <point x="450" y="-14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>com.schriftgestaltung.annotations</key>
+      <array>
+        <dict>
+          <key>position</key>
+          <array>
+            <integer>83</integer>
+            <integer>961</integer>
+          </array>
+          <key>text</key>
+          <string>Not Very happy with this</string>
+          <key>type</key>
+          <string>Text</string>
+          <key>width</key>
+          <integer>78</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

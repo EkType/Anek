@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Rakar2" format="2">
+  <advance width="1984"/>
+  <anchor x="1665" y="-105" name="Bottom"/>
+  <anchor x="1644" y="1253" name="Top"/>
+  <anchor x="1683" y="1253" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="715" y="0" type="line"/>
+      <point x="777" y="0" type="line"/>
+      <point x="1675" y="478" type="line"/>
+      <point x="1675" y="509" type="line"/>
+      <point x="715" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="1664" y="488" type="line"/>
+      <point x="1703" y="488" type="line"/>
+      <point x="1703" y="1157" type="line"/>
+      <point x="1664" y="1157" type="line"/>
+    </contour>
+    <contour>
+      <point x="1666" y="0" type="line"/>
+      <point x="1703" y="0" type="line"/>
+      <point x="1703" y="495" type="line"/>
+      <point x="1666" y="495" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>LowerRakar</key>
+        <integer>1</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>LowerRakar</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

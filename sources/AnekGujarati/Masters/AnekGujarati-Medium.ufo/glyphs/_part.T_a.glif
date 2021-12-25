@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Ta" format="2">
+  <advance width="715"/>
+  <guideline x="699" y="902" angle="180"/>
+  <guideline x="378" y="508" angle="0"/>
+  <guideline x="548" y="702" angle="90"/>
+  <guideline x="489" y="702" angle="90"/>
+  <guideline x="378" y="528" angle="0"/>
+  <outline>
+    <contour>
+      <point x="271" y="0" type="curve"/>
+      <point x="480" y="0" type="line"/>
+      <point x="385" y="149"/>
+      <point x="307" y="351"/>
+      <point x="307" y="508" type="curve" smooth="yes"/>
+      <point x="307" y="665"/>
+      <point x="382" y="740"/>
+      <point x="548" y="740" type="curve" smooth="yes"/>
+      <point x="905" y="740" type="line"/>
+      <point x="905" y="902" type="line"/>
+      <point x="489" y="902" type="line" smooth="yes"/>
+      <point x="226" y="902"/>
+      <point x="105" y="773"/>
+      <point x="105" y="528" type="curve" smooth="yes"/>
+      <point x="105" y="351"/>
+      <point x="180" y="145"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>HeightShort</key>
+        <integer>1</integer>
+        <key>HeightTall</key>
+        <integer>2</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>HeightShort</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>-50</integer>
+          <key>name</key>
+          <string>HeightTall</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

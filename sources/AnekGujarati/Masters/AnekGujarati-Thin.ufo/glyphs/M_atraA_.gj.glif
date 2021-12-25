@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraA.gj" format="2">
+  <advance width="458"/>
+  <unicode hex="0ABE"/>
+  <guideline x="210" y="1298" angle="270"/>
+  <guideline x="200" y="1298" angle="270"/>
+  <anchor x="216" y="-86" name="Bottom"/>
+  <anchor x="200" y="1263" name="Top"/>
+  <anchor x="228" y="1263" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="210" y="539" type="line"/>
+      <point x="248" y="539" type="line"/>
+      <point x="248" y="1177" type="line"/>
+      <point x="210" y="1177" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="248" y="710" type="line"/>
+      <point x="210" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

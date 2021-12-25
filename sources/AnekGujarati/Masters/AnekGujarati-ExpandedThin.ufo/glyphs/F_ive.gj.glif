@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Five.gj" format="2">
+  <advance width="1539"/>
+  <unicode hex="0AEB"/>
+  <guideline x="3708" y="915" angle="0"/>
+  <guideline x="4915" y="2868" angle="90"/>
+  <guideline x="1259" y="886" angle="90"/>
+  <guideline x="1540" y="886" angle="90"/>
+  <outline>
+    <contour>
+      <point x="764" y="338" type="curve" smooth="yes"/>
+      <point x="1027" y="338"/>
+      <point x="1180" y="471"/>
+      <point x="1223" y="623" type="curve"/>
+      <point x="1227" y="623" type="line"/>
+      <point x="1221" y="687" type="line"/>
+      <point x="1162" y="494"/>
+      <point x="1015" y="374"/>
+      <point x="764" y="374" type="curve" smooth="yes"/>
+      <point x="483" y="374"/>
+      <point x="321" y="494"/>
+      <point x="321" y="779" type="curve" smooth="yes"/>
+      <point x="321" y="848" type="line"/>
+      <point x="282" y="848" type="line"/>
+      <point x="282" y="777" type="line" smooth="yes"/>
+      <point x="282" y="468"/>
+      <point x="460" y="338"/>
+    </contour>
+    <contour>
+      <point x="1394" y="-4" type="curve" smooth="yes"/>
+      <point x="1426" y="-4"/>
+      <point x="1465" y="1"/>
+      <point x="1494" y="10" type="curve"/>
+      <point x="1499" y="47" type="line"/>
+      <point x="1465" y="37"/>
+      <point x="1430" y="31"/>
+      <point x="1396" y="31" type="curve" smooth="yes"/>
+      <point x="1304" y="31"/>
+      <point x="1259" y="87"/>
+      <point x="1259" y="204" type="curve" smooth="yes"/>
+      <point x="1259" y="649" type="line"/>
+      <point x="1222" y="649" type="line"/>
+      <point x="1222" y="204" type="line" smooth="yes"/>
+      <point x="1222" y="65"/>
+      <point x="1277" y="-4"/>
+    </contour>
+    <contour>
+      <point x="1220" y="645" type="line"/>
+      <point x="1259" y="645" type="line"/>
+      <point x="1259" y="1157" type="line"/>
+      <point x="1220" y="1157" type="line"/>
+    </contour>
+    <contour>
+      <point x="282" y="781" type="line"/>
+      <point x="321" y="781" type="line"/>
+      <point x="321" y="956" type="line" smooth="yes"/>
+      <point x="321" y="1095"/>
+      <point x="266" y="1164"/>
+      <point x="149" y="1164" type="curve" smooth="yes"/>
+      <point x="117" y="1164"/>
+      <point x="77" y="1159"/>
+      <point x="49" y="1150" type="curve"/>
+      <point x="44" y="1113" type="line"/>
+      <point x="77" y="1123"/>
+      <point x="113" y="1129"/>
+      <point x="147" y="1129" type="curve" smooth="yes"/>
+      <point x="238" y="1129"/>
+      <point x="282" y="1073"/>
+      <point x="282" y="956" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>311.162</real>
+            <real>9.125</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>316.162</real>
+            <real>9.125</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

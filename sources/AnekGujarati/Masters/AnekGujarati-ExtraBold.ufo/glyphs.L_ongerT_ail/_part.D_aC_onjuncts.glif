@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.DaConjuncts" format="2">
+  <advance width="1245"/>
+  <outline>
+    <contour>
+      <point x="533" y="109" type="curve" smooth="yes"/>
+      <point x="667" y="109"/>
+      <point x="761" y="144"/>
+      <point x="813" y="203" type="curve"/>
+      <point x="771" y="441" type="line"/>
+      <point x="733" y="416"/>
+      <point x="688" y="401"/>
+      <point x="617" y="401" type="curve" smooth="yes"/>
+      <point x="506" y="401"/>
+      <point x="443" y="452"/>
+      <point x="443" y="556" type="curve" smooth="yes"/>
+      <point x="443" y="571" type="line" smooth="yes"/>
+      <point x="443" y="701"/>
+      <point x="519" y="752"/>
+      <point x="740" y="752" type="curve" smooth="yes"/>
+      <point x="845" y="752"/>
+      <point x="963" y="748"/>
+      <point x="1079" y="740" type="curve"/>
+      <point x="1079" y="999" type="line"/>
+      <point x="914" y="1024"/>
+      <point x="765" y="1037"/>
+      <point x="620" y="1037" type="curve" smooth="yes"/>
+      <point x="260" y="1037"/>
+      <point x="78" y="898"/>
+      <point x="78" y="573" type="curve" smooth="yes"/>
+      <point x="78" y="547" type="line" smooth="yes"/>
+      <point x="78" y="252"/>
+      <point x="254" y="109"/>
+    </contour>
+    <contour>
+      <point x="857" y="-342" type="line"/>
+      <point x="1199" y="-342" type="line"/>
+      <point x="1104" y="302" type="line"/>
+      <point x="1102" y="602" type="line"/>
+      <point x="750" y="602" type="line"/>
+      <point x="750" y="331" type="line"/>
+      <point x="779" y="288" type="line"/>
+    </contour>
+    <contour>
+      <point x="729" y="827" type="line"/>
+      <point x="1079" y="749" type="line"/>
+      <point x="1079" y="1207" type="line"/>
+      <point x="729" y="1207" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>longertail</key>
+        <integer>2</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>longertail</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

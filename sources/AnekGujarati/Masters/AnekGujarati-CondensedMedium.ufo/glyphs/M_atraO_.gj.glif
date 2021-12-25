@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraO.gj" format="2">
+  <advance width="377"/>
+  <unicode hex="0ACB"/>
+  <guideline x="101" y="1360" angle="270"/>
+  <guideline x="159" y="1360" angle="270"/>
+  <anchor x="176" y="-63" name="Bottom"/>
+  <anchor x="159" y="1273" name="Top"/>
+  <anchor x="188" y="1273" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="101" y="508" type="line"/>
+      <point x="276" y="508" type="line"/>
+      <point x="276" y="1212" type="line"/>
+      <point x="101" y="1212" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="0" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="276" y="666" type="line"/>
+      <point x="101" y="666" type="line"/>
+    </contour>
+    <contour>
+      <point x="159" y="1273" type="curve"/>
+      <point x="233" y="1370" type="line"/>
+      <point x="79" y="1498"/>
+      <point x="-78" y="1629"/>
+      <point x="-230" y="1756" type="curve"/>
+      <point x="-336" y="1618" type="line"/>
+      <point x="-175" y="1504"/>
+      <point x="-3" y="1387"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

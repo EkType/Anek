@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraI.gj" format="2">
+  <advance width="441"/>
+  <unicode hex="0ABF"/>
+  <guideline x="2367" y="0" angle="0"/>
+  <guideline x="1277" y="1844" angle="90"/>
+  <guideline x="1495" y="1844" angle="90"/>
+  <guideline x="3389" y="4847" angle="90"/>
+  <guideline x="0" y="720" angle="90"/>
+  <guideline x="218" y="1844" angle="90"/>
+  <guideline x="64" y="720" angle="90"/>
+  <guideline x="377" y="720" angle="90"/>
+  <guideline x="441" y="720" angle="90"/>
+  <guideline x="1152" y="1360" angle="28.977"/>
+  <guideline x="578" y="0" angle="0"/>
+  <guideline x="1148" y="1350" angle="33.6302"/>
+  <anchor x="202" y="-59" name="Bottom"/>
+  <anchor x="179" y="1290" name="Top"/>
+  <anchor x="220" y="1290" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="64" y="1183" type="curve"/>
+      <point x="377" y="1183" type="line"/>
+      <point x="377" y="1260"/>
+      <point x="377" y="1307"/>
+      <point x="377" y="1346" type="curve" smooth="yes"/>
+      <point x="377" y="1510"/>
+      <point x="464" y="1567"/>
+      <point x="597" y="1567" type="curve" smooth="yes"/>
+      <point x="761" y="1567"/>
+      <point x="911" y="1463"/>
+      <point x="1037" y="1290" type="curve"/>
+      <point x="1258" y="1437" type="line"/>
+      <point x="1121" y="1667"/>
+      <point x="885" y="1829"/>
+      <point x="597" y="1829" type="curve" smooth="yes"/>
+      <point x="275" y="1829"/>
+      <point x="64" y="1668"/>
+      <point x="64" y="1346" type="curve" smooth="yes"/>
+      <point x="64" y="1275"/>
+      <point x="64" y="1233"/>
+    </contour>
+    <contour>
+      <point x="64" y="477" type="line"/>
+      <point x="377" y="477" type="line"/>
+      <point x="377" y="1227" type="line"/>
+      <point x="64" y="1227" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="377" y="585" type="line"/>
+      <point x="64" y="585" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

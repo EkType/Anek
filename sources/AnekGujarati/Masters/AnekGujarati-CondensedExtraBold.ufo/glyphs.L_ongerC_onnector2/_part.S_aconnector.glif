@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Saconnector" format="2">
+  <advance width="830"/>
+  <guideline x="309" y="769" angle="0"/>
+  <outline>
+    <contour>
+      <point x="591" y="508" type="curve" smooth="yes"/>
+      <point x="1066" y="508" type="line"/>
+      <point x="1088" y="715" type="line"/>
+      <point x="988" y="748"/>
+      <point x="888" y="769"/>
+      <point x="788" y="769" type="curve" smooth="yes"/>
+      <point x="409" y="769" type="line"/>
+      <point x="371" y="548" type="line"/>
+      <point x="424" y="524"/>
+      <point x="505" y="508"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>connectorLength</key>
+        <integer>2</integer>
+        <key>connectorLength2</key>
+        <integer>2</integer>
+        <key>connectorheight</key>
+        <integer>1</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>connectorLength</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>connectorheight</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>connectorLength2</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

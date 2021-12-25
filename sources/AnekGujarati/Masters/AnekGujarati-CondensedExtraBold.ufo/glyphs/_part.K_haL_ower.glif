@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.KhaLower" format="2">
+  <advance width="830"/>
+  <outline>
+    <contour>
+      <point x="445" y="121" type="curve" smooth="yes"/>
+      <point x="688" y="121"/>
+      <point x="804" y="234"/>
+      <point x="804" y="510" type="curve" smooth="yes"/>
+      <point x="804" y="1027" type="line"/>
+      <point x="506" y="1027" type="line"/>
+      <point x="506" y="480" type="line" smooth="yes"/>
+      <point x="506" y="425"/>
+      <point x="491" y="394"/>
+      <point x="453" y="394" type="curve" smooth="yes"/>
+      <point x="414" y="394"/>
+      <point x="399" y="425"/>
+      <point x="399" y="480" type="curve" smooth="yes"/>
+      <point x="399" y="796" type="line"/>
+      <point x="86" y="796" type="line"/>
+      <point x="86" y="510" type="line" smooth="yes"/>
+      <point x="86" y="234"/>
+      <point x="202" y="121"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>BottomHeight</key>
+        <integer>1</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>BottomHeight</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

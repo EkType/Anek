@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraAu.gj" format="2">
+  <advance width="648"/>
+  <unicode hex="0ACC"/>
+  <guideline x="231" y="1771" angle="90"/>
+  <guideline x="463" y="1771" angle="90"/>
+  <guideline x="128" y="1394" angle="90"/>
+  <guideline x="260" y="1394" angle="90"/>
+  <anchor x="280" y="-69" name="Bottom"/>
+  <anchor x="260" y="1264" name="Top"/>
+  <anchor x="324" y="1264" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="128" y="422" type="line"/>
+      <point x="520" y="422" type="line"/>
+      <point x="520" y="1187" type="line"/>
+      <point x="128" y="1187" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="507" type="line"/>
+      <point x="128" y="507" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="1264" type="line"/>
+      <point x="429" y="1528" type="line"/>
+      <point x="-135" y="2150" type="line"/>
+      <point x="-362" y="1909" type="line"/>
+      <point x="117" y="1533" type="line"/>
+      <point x="114" y="1525" type="line"/>
+      <point x="-497" y="1742" type="line"/>
+      <point x="-592" y="1429" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

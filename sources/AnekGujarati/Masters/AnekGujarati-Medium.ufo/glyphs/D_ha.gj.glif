@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dha.gj" format="2">
+  <advance width="1244"/>
+  <unicode hex="0AA7"/>
+  <anchor x="971" y="-75" name="Bottom"/>
+  <anchor x="952" y="1271" name="Top"/>
+  <anchor x="993" y="1271" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="516" y="93" type="curve" smooth="yes"/>
+      <point x="733" y="93"/>
+      <point x="848" y="168"/>
+      <point x="887" y="269" type="curve"/>
+      <point x="912" y="269" type="line"/>
+      <point x="899" y="439" type="line"/>
+      <point x="869" y="326"/>
+      <point x="750" y="257"/>
+      <point x="567" y="257" type="curve" smooth="yes"/>
+      <point x="397" y="257"/>
+      <point x="311" y="312"/>
+      <point x="311" y="439" type="curve" smooth="yes"/>
+      <point x="311" y="446" type="line" smooth="yes"/>
+      <point x="311" y="558"/>
+      <point x="380" y="604"/>
+      <point x="521" y="609" type="curve" smooth="yes"/>
+      <point x="677" y="614" type="line"/>
+      <point x="677" y="768" type="line"/>
+      <point x="519" y="773" type="line" smooth="yes"/>
+      <point x="378" y="777"/>
+      <point x="312" y="816"/>
+      <point x="312" y="919" type="curve" smooth="yes"/>
+      <point x="312" y="924" type="line" smooth="yes"/>
+      <point x="312" y="1038"/>
+      <point x="402" y="1145"/>
+      <point x="549" y="1275" type="curve"/>
+      <point x="549" y="1283" type="line"/>
+      <point x="320" y="1283" type="line"/>
+      <point x="188" y="1163"/>
+      <point x="110" y="1058"/>
+      <point x="110" y="930" type="curve" smooth="yes"/>
+      <point x="110" y="925" type="line" smooth="yes"/>
+      <point x="110" y="778"/>
+      <point x="185" y="708"/>
+      <point x="338" y="693" type="curve"/>
+      <point x="338" y="689" type="line"/>
+      <point x="185" y="669"/>
+      <point x="108" y="584"/>
+      <point x="108" y="425" type="curve" smooth="yes"/>
+      <point x="108" y="411" type="line" smooth="yes"/>
+      <point x="108" y="204"/>
+      <point x="250" y="93"/>
+    </contour>
+    <contour>
+      <point x="896" y="495" type="line"/>
+      <point x="1091" y="495" type="line"/>
+      <point x="1091" y="1192" type="line"/>
+      <point x="896" y="1192" type="line"/>
+    </contour>
+    <contour>
+      <point x="896" y="0" type="line"/>
+      <point x="1091" y="0" type="line"/>
+      <point x="1091" y="628" type="line"/>
+      <point x="896" y="628" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Gha.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>207.75</real>
+            <real>-1.75</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>207.75</real>
+            <real>-1.75</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

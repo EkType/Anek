@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.PaBottom" format="2">
+  <advance width="421"/>
+  <outline>
+    <contour>
+      <point x="353" y="218" type="curve" smooth="yes"/>
+      <point x="543" y="218"/>
+      <point x="591" y="325"/>
+      <point x="605" y="413" type="curve"/>
+      <point x="566" y="490" type="line"/>
+      <point x="546" y="412"/>
+      <point x="497" y="373"/>
+      <point x="415" y="373" type="curve" smooth="yes"/>
+      <point x="323" y="373"/>
+      <point x="279" y="424"/>
+      <point x="279" y="542" type="curve" smooth="yes"/>
+      <point x="279" y="785" type="line"/>
+      <point x="104" y="785" type="line"/>
+      <point x="104" y="526" type="line" smooth="yes"/>
+      <point x="104" y="329"/>
+      <point x="167" y="218"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>Width</key>
+        <integer>2</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Width</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraI7.gj" format="2">
+  <advance width="500"/>
+  <anchor x="229" y="-75" name="Bottom"/>
+  <anchor x="210" y="1266" name="Top"/>
+  <anchor x="250" y="1266" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="153" y="1148" type="curve"/>
+      <point x="348" y="1148" type="line"/>
+      <point x="348" y="1215"/>
+      <point x="348" y="1239"/>
+      <point x="348" y="1292" type="curve" smooth="yes"/>
+      <point x="348" y="1523"/>
+      <point x="496" y="1632"/>
+      <point x="826" y="1632" type="curve" smooth="yes"/>
+      <point x="1272" y="1632"/>
+      <point x="1693" y="1478"/>
+      <point x="1965" y="1266" type="curve"/>
+      <point x="2082" y="1385" type="line"/>
+      <point x="1808" y="1617"/>
+      <point x="1339" y="1792"/>
+      <point x="820" y="1792" type="curve" smooth="yes"/>
+      <point x="383" y="1792"/>
+      <point x="153" y="1630"/>
+      <point x="153" y="1292" type="curve" smooth="yes"/>
+      <point x="153" y="1231"/>
+      <point x="153" y="1209"/>
+    </contour>
+    <contour>
+      <point x="153" y="495" type="line"/>
+      <point x="348" y="495" type="line"/>
+      <point x="348" y="1192" type="line"/>
+      <point x="153" y="1192" type="line"/>
+    </contour>
+    <contour>
+      <point x="153" y="0" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="348" y="628" type="line"/>
+      <point x="153" y="628" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

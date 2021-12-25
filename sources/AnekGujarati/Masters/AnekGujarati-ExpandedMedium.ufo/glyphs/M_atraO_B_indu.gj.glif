@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraOBindu.gj" format="2">
+  <advance width="625"/>
+  <anchor x="281" y="-87" name="Bottom"/>
+  <anchor x="261" y="1259" name="Top"/>
+  <anchor x="312" y="1259" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="205" y="481" type="line"/>
+      <point x="420" y="481" type="line"/>
+      <point x="420" y="1172" type="line"/>
+      <point x="205" y="1172" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="420" y="590" type="line"/>
+      <point x="205" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="261" y="1259" type="curve"/>
+      <point x="338" y="1396" type="line"/>
+      <point x="71" y="1550"/>
+      <point x="-195" y="1705"/>
+      <point x="-462" y="1858" type="curve"/>
+      <point x="-569" y="1661" type="line"/>
+      <point x="-292" y="1526"/>
+      <point x="-15" y="1391"/>
+    </contour>
+    <contour>
+      <point x="336" y="1619" type="curve" smooth="yes"/>
+      <point x="422" y="1619"/>
+      <point x="465" y="1664"/>
+      <point x="465" y="1728" type="curve" smooth="yes"/>
+      <point x="465" y="1733" type="line" smooth="yes"/>
+      <point x="465" y="1799"/>
+      <point x="422" y="1841"/>
+      <point x="336" y="1841" type="curve" smooth="yes"/>
+      <point x="251" y="1841"/>
+      <point x="207" y="1797"/>
+      <point x="207" y="1733" type="curve" smooth="yes"/>
+      <point x="207" y="1728" type="line" smooth="yes"/>
+      <point x="207" y="1664"/>
+      <point x="251" y="1619"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

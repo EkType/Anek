@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nya.gj" format="2">
+  <advance width="771"/>
+  <unicode hex="0A9E"/>
+  <guideline x="2103" y="3754" angle="90"/>
+  <guideline x="407" y="239" angle="0"/>
+  <guideline x="359" y="1169" angle="0"/>
+  <anchor x="607" y="-65" name="Bottom"/>
+  <anchor x="596" y="1274" name="Top"/>
+  <anchor x="614" y="1274" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="193" y="239" type="curve" smooth="yes"/>
+      <point x="308" y="239"/>
+      <point x="368" y="309"/>
+      <point x="368" y="463" type="curve" smooth="yes"/>
+      <point x="368" y="955" type="line" smooth="yes"/>
+      <point x="368" y="1100"/>
+      <point x="311" y="1169"/>
+      <point x="203" y="1169" type="curve" smooth="yes"/>
+      <point x="147" y="1169"/>
+      <point x="107" y="1152"/>
+      <point x="78" y="1130" type="curve"/>
+      <point x="72" y="1089" type="line"/>
+      <point x="109" y="1115"/>
+      <point x="146" y="1134"/>
+      <point x="203" y="1134" type="curve" smooth="yes"/>
+      <point x="287" y="1134"/>
+      <point x="331" y="1080"/>
+      <point x="331" y="953" type="curve" smooth="yes"/>
+      <point x="331" y="465" type="line" smooth="yes"/>
+      <point x="331" y="329"/>
+      <point x="284" y="274"/>
+      <point x="193" y="274" type="curve" smooth="yes"/>
+      <point x="135" y="274"/>
+      <point x="89" y="296"/>
+      <point x="48" y="331" type="curve"/>
+      <point x="54" y="290" type="line"/>
+      <point x="85" y="261"/>
+      <point x="135" y="239"/>
+    </contour>
+    <contour>
+      <point x="343" y="685" type="line"/>
+      <point x="624" y="685" type="line"/>
+      <point x="618" y="718" type="line"/>
+      <point x="343" y="718" type="line"/>
+    </contour>
+    <contour>
+      <point x="596" y="540" type="line"/>
+      <point x="633" y="540" type="line"/>
+      <point x="633" y="1197" type="line"/>
+      <point x="596" y="1197" type="line"/>
+    </contour>
+    <contour>
+      <point x="596" y="1" type="line"/>
+      <point x="633" y="1" type="line"/>
+      <point x="633" y="748" type="line"/>
+      <point x="596" y="748" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>NyaHalf.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

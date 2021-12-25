@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaMa.gj" format="2">
+  <advance width="1776"/>
+  <guideline x="95" y="892" angle="90"/>
+  <anchor x="1503" y="-75" name="Bottom"/>
+  <anchor x="1485" y="1266" name="Top"/>
+  <anchor x="1525" y="1266" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="261" y="0" type="curve"/>
+      <point x="470" y="0" type="line"/>
+      <point x="375" y="143"/>
+      <point x="297" y="337"/>
+      <point x="297" y="487" type="curve" smooth="yes"/>
+      <point x="297" y="630"/>
+      <point x="369" y="699"/>
+      <point x="529" y="699" type="curve" smooth="yes"/>
+      <point x="895" y="699" type="line"/>
+      <point x="895" y="861" type="line"/>
+      <point x="470" y="861" type="line" smooth="yes"/>
+      <point x="213" y="861"/>
+      <point x="95" y="739"/>
+      <point x="95" y="507" type="curve" smooth="yes"/>
+      <point x="95" y="337"/>
+      <point x="170" y="139"/>
+    </contour>
+    <contour>
+      <point x="794" y="575" type="line"/>
+      <point x="989" y="575" type="line"/>
+      <point x="989" y="961" type="line" smooth="yes"/>
+      <point x="989" y="1127"/>
+      <point x="918" y="1204"/>
+      <point x="773" y="1204" type="curve" smooth="yes"/>
+      <point x="724" y="1204"/>
+      <point x="679" y="1197"/>
+      <point x="641" y="1186" type="curve"/>
+      <point x="629" y="1035" type="line"/>
+      <point x="651" y="1042"/>
+      <point x="676" y="1047"/>
+      <point x="701" y="1047" type="curve" smooth="yes"/>
+      <point x="766" y="1047"/>
+      <point x="794" y="1011"/>
+      <point x="794" y="932" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="807" y="130" type="curve"/>
+      <point x="982" y="130" type="line"/>
+      <point x="982" y="643" type="line"/>
+      <point x="800" y="643" type="line"/>
+      <point x="703" y="582" type="line"/>
+      <point x="716" y="405"/>
+      <point x="753" y="275"/>
+    </contour>
+    <contour>
+      <point x="943" y="492" type="line"/>
+      <point x="1471" y="492" type="line"/>
+      <point x="1456" y="654" type="line"/>
+      <point x="943" y="654" type="line"/>
+    </contour>
+    <contour>
+      <point x="1428" y="495" type="line"/>
+      <point x="1623" y="495" type="line"/>
+      <point x="1623" y="1192" type="line"/>
+      <point x="1428" y="1192" type="line"/>
+    </contour>
+    <contour>
+      <point x="1428" y="0" type="line"/>
+      <point x="1623" y="0" type="line"/>
+      <point x="1623" y="628" type="line"/>
+      <point x="1428" y="628" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ta.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

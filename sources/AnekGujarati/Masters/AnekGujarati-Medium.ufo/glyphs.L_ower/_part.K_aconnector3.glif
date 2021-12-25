@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Kaconnector3" format="2">
+  <advance width="1088"/>
+  <guideline x="891" y="670" angle="175.0303"/>
+  <guideline x="942" y="518" angle="352.3354"/>
+  <outline>
+    <contour>
+      <point x="680" y="550" type="line"/>
+      <point x="1183" y="481" type="line"/>
+      <point x="1167" y="642" type="line"/>
+      <point x="595" y="694" type="line"/>
+      <point x="440" y="690" type="line"/>
+      <point x="440" y="568" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>connectorHeight</key>
+        <integer>2</integer>
+        <key>connectorLength</key>
+        <integer>1</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>connectorLength</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>connectorHeight</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

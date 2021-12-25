@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Kaconnector2" format="2">
+  <advance width="802"/>
+  <outline>
+    <contour>
+      <point x="815" y="828" type="line"/>
+      <point x="659" y="828"/>
+      <point x="567" y="816"/>
+      <point x="324" y="738" type="curve"/>
+      <point x="382" y="538" type="line"/>
+      <point x="598" y="579"/>
+      <point x="672" y="587"/>
+      <point x="824" y="587" type="curve"/>
+      <point x="893" y="587" type="line"/>
+      <point x="878" y="828" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>connectorLength</key>
+        <integer>1</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>connectorLength</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

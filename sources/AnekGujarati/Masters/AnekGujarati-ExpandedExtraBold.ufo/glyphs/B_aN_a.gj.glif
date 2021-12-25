@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="BaNa.gj" format="2">
+  <advance width="1986"/>
+  <guideline x="3573" y="-110" angle="0"/>
+  <guideline x="2889" y="1040" angle="0"/>
+  <guideline x="3226" y="872" angle="180"/>
+  <guideline x="2363" y="224" angle="0"/>
+  <guideline x="1198" y="558" angle="0"/>
+  <guideline x="865" y="227" angle="0"/>
+  <anchor x="1618" y="-129" name="Bottom"/>
+  <anchor x="1598" y="1264" name="Top"/>
+  <anchor x="1662" y="1264" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="1014" y="557" type="line"/>
+      <point x="1778" y="557" type="line"/>
+      <point x="1748" y="871" type="line"/>
+      <point x="1014" y="871" type="line"/>
+    </contour>
+    <contour>
+      <point x="650" y="225" type="curve" smooth="yes"/>
+      <point x="997" y="225"/>
+      <point x="1186" y="387"/>
+      <point x="1186" y="683" type="curve" smooth="yes"/>
+      <point x="1186" y="1042" type="line"/>
+      <point x="790" y="1042" type="line"/>
+      <point x="790" y="689" type="line" smooth="yes"/>
+      <point x="790" y="593"/>
+      <point x="742" y="545"/>
+      <point x="650" y="545" type="curve" smooth="yes"/>
+      <point x="536" y="545"/>
+      <point x="483" y="612"/>
+      <point x="483" y="748" type="curve" smooth="yes"/>
+      <point x="483" y="755" type="line" smooth="yes"/>
+      <point x="483" y="905"/>
+      <point x="548" y="1032"/>
+      <point x="666" y="1187" type="curve"/>
+      <point x="255" y="1187" type="line"/>
+      <point x="153" y="1084"/>
+      <point x="70" y="921"/>
+      <point x="70" y="747" type="curve" smooth="yes"/>
+      <point x="70" y="741" type="line" smooth="yes"/>
+      <point x="70" y="400"/>
+      <point x="269" y="225"/>
+    </contour>
+    <contour>
+      <point x="1020" y="-307" type="curve"/>
+      <point x="1300" y="-192" type="line"/>
+      <point x="1196" y="64" type="line"/>
+      <point x="1141" y="-37" type="line"/>
+      <point x="1623" y="156" type="line"/>
+      <point x="1585" y="372" type="line"/>
+      <point x="1366" y="333"/>
+      <point x="1296" y="318"/>
+      <point x="1189" y="275" type="curve" smooth="yes"/>
+      <point x="876" y="148" type="line"/>
+      <point x="759" y="-40" type="line"/>
+      <point x="825" y="-168"/>
+      <point x="898" y="-240"/>
+    </contour>
+    <contour>
+      <point x="1486" y="-60" type="line"/>
+      <point x="1858" y="-60" type="line"/>
+      <point x="1858" y="247" type="line"/>
+      <point x="1486" y="247" type="line"/>
+    </contour>
+    <contour>
+      <point x="1466" y="222" type="line"/>
+      <point x="1858" y="222" type="line"/>
+      <point x="1858" y="1187" type="line"/>
+      <point x="1466" y="1187" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ba.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

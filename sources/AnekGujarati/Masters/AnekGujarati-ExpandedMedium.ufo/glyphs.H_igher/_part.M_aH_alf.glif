@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.MaHalf" format="2">
+  <advance width="1027"/>
+  <guideline x="103" y="1159" angle="0"/>
+  <guideline x="96" y="1084" angle="264.9681"/>
+  <guideline x="696" y="1084" angle="264.9681"/>
+  <guideline x="312" y="178" angle="0"/>
+  <guideline x="212" y="101" angle="0"/>
+  <outline>
+    <contour>
+      <point x="319" y="559" type="line"/>
+      <point x="534" y="559" type="line"/>
+      <point x="534" y="897" type="line" smooth="yes"/>
+      <point x="534" y="1094"/>
+      <point x="444" y="1183"/>
+      <point x="265" y="1183" type="curve" smooth="yes"/>
+      <point x="201" y="1183"/>
+      <point x="147" y="1174"/>
+      <point x="103" y="1161" type="curve"/>
+      <point x="89" y="998" type="line"/>
+      <point x="123" y="1008"/>
+      <point x="159" y="1016"/>
+      <point x="193" y="1016" type="curve" smooth="yes"/>
+      <point x="282" y="1016"/>
+      <point x="319" y="967"/>
+      <point x="319" y="871" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="316" y="177" type="curve"/>
+      <point x="527" y="177" type="line"/>
+      <point x="527" y="645" type="line"/>
+      <point x="325" y="645" type="line"/>
+      <point x="206" y="580" type="line"/>
+      <point x="221" y="420"/>
+      <point x="261" y="303"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>Higher</key>
+        <integer>2</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Higher</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

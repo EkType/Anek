@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KhaRa.gj" format="2">
+  <advance width="1984"/>
+  <guideline x="223" y="216" angle="0"/>
+  <anchor x="1665" y="-105" name="Bottom"/>
+  <anchor x="1644" y="1253" name="Top"/>
+  <anchor x="1683" y="1253" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="702" y="-14" type="line"/>
+      <point x="764" y="-14" type="line"/>
+      <point x="1675" y="406" type="line"/>
+      <point x="1675" y="443" type="line"/>
+      <point x="702" y="-2" type="line"/>
+    </contour>
+    <contour>
+      <point x="1666" y="0" type="line"/>
+      <point x="1703" y="0" type="line"/>
+      <point x="1703" y="423" type="line"/>
+      <point x="1666" y="423" type="line"/>
+    </contour>
+    <contour>
+      <point x="1664" y="416" type="line"/>
+      <point x="1703" y="416" type="line"/>
+      <point x="1703" y="1157" type="line"/>
+      <point x="1664" y="1157" type="line"/>
+    </contour>
+    <contour>
+      <point x="274" y="781" type="line"/>
+      <point x="313" y="781" type="line"/>
+      <point x="313" y="956" type="line" smooth="yes"/>
+      <point x="313" y="1095"/>
+      <point x="258" y="1164"/>
+      <point x="141" y="1164" type="curve" smooth="yes"/>
+      <point x="109" y="1164"/>
+      <point x="69" y="1159"/>
+      <point x="41" y="1150" type="curve"/>
+      <point x="36" y="1113" type="line"/>
+      <point x="69" y="1123"/>
+      <point x="105" y="1129"/>
+      <point x="139" y="1129" type="curve" smooth="yes"/>
+      <point x="230" y="1129"/>
+      <point x="274" y="1073"/>
+      <point x="274" y="956" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="666" y="262.166" type="curve" smooth="yes"/>
+      <point x="927" y="262.166"/>
+      <point x="1057" y="397.166"/>
+      <point x="1057" y="668.166" type="curve" smooth="yes"/>
+      <point x="1057" y="1007.114" type="line"/>
+      <point x="1018" y="1007.114" type="line"/>
+      <point x="1018" y="668.166" type="line" smooth="yes"/>
+      <point x="1018" y="419.166"/>
+      <point x="901" y="298.166"/>
+      <point x="666" y="298.166" type="curve" smooth="yes"/>
+      <point x="431" y="298.166"/>
+      <point x="313" y="419.166"/>
+      <point x="313" y="668.166" type="curve" smooth="yes"/>
+      <point x="313" y="907.229" type="line"/>
+      <point x="274" y="907.229" type="line"/>
+      <point x="274" y="668.166" type="line" smooth="yes"/>
+      <point x="274" y="397.166"/>
+      <point x="404" y="262.166"/>
+    </contour>
+    <contour>
+      <point x="1031" y="653.095" type="line"/>
+      <point x="1695.988" y="653.095" type="line"/>
+      <point x="1688.988" y="687.095" type="line"/>
+      <point x="1031" y="687.095" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Kha.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

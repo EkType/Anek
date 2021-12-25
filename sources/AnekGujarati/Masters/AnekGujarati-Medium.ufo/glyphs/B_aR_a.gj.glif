@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="BaRa.gj" format="2">
+  <advance width="1532"/>
+  <guideline x="1058" y="620" angle="0"/>
+  <guideline x="819" y="288" angle="0"/>
+  <anchor x="1259" y="-75" name="Bottom"/>
+  <anchor x="1240" y="1266" name="Top"/>
+  <anchor x="1281" y="1266" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="802" y="627" type="line"/>
+      <point x="1302" y="627" type="line"/>
+      <point x="1287" y="789" type="line"/>
+      <point x="802" y="789" type="line"/>
+    </contour>
+    <contour>
+      <point x="503" y="287" type="curve" smooth="yes"/>
+      <point x="756" y="287"/>
+      <point x="883" y="415"/>
+      <point x="883" y="680" type="curve" smooth="yes"/>
+      <point x="883" y="1031" type="line"/>
+      <point x="689" y="1031" type="line"/>
+      <point x="689" y="678" type="line" smooth="yes"/>
+      <point x="689" y="527"/>
+      <point x="629" y="454"/>
+      <point x="505" y="454" type="curve" smooth="yes"/>
+      <point x="375" y="454"/>
+      <point x="313" y="540"/>
+      <point x="313" y="712" type="curve" smooth="yes"/>
+      <point x="313" y="761" type="line" smooth="yes"/>
+      <point x="313" y="941"/>
+      <point x="367" y="1066"/>
+      <point x="482" y="1192" type="curve"/>
+      <point x="268" y="1192" type="line"/>
+      <point x="168" y="1091"/>
+      <point x="111" y="957"/>
+      <point x="111" y="763" type="curve" smooth="yes"/>
+      <point x="111" y="714" type="line" smooth="yes"/>
+      <point x="111" y="425"/>
+      <point x="241" y="287"/>
+    </contour>
+    <contour>
+      <point x="500" y="-20" type="line"/>
+      <point x="806" y="-20" type="line"/>
+      <point x="1213" y="288" type="line"/>
+      <point x="1206" y="466" type="line"/>
+      <point x="500" y="6" type="line"/>
+    </contour>
+    <contour>
+      <point x="1194" y="0" type="line"/>
+      <point x="1379" y="0" type="line"/>
+      <point x="1379" y="391" type="line"/>
+      <point x="1194" y="391" type="line"/>
+    </contour>
+    <contour>
+      <point x="1184" y="349" type="line"/>
+      <point x="1379" y="349" type="line"/>
+      <point x="1379" y="1192" type="line"/>
+      <point x="1184" y="1192" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ba.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

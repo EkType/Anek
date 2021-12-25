@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="PaDda.gj" format="2">
+  <advance width="1072"/>
+  <anchor x="762" y="-63" name="Bottom"/>
+  <anchor x="832" y="1273" name="Top"/>
+  <anchor x="756" y="1273" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="375" y="378" type="curve" smooth="yes"/>
+      <point x="561" y="378"/>
+      <point x="643" y="481"/>
+      <point x="674" y="670" type="curve"/>
+      <point x="553" y="723" type="line"/>
+      <point x="533" y="597"/>
+      <point x="486" y="534"/>
+      <point x="396" y="534" type="curve" smooth="yes"/>
+      <point x="316" y="534"/>
+      <point x="279" y="588"/>
+      <point x="279" y="712" type="curve" smooth="yes"/>
+      <point x="279" y="840" type="line"/>
+      <point x="104" y="840" type="line"/>
+      <point x="104" y="696" type="line" smooth="yes"/>
+      <point x="104" y="482"/>
+      <point x="179" y="378"/>
+    </contour>
+    <contour>
+      <point x="104" y="749" type="line"/>
+      <point x="279" y="749" type="line"/>
+      <point x="279" y="1042" type="line" smooth="yes"/>
+      <point x="279" y="1162"/>
+      <point x="227" y="1222"/>
+      <point x="118" y="1222" type="curve" smooth="yes"/>
+      <point x="90" y="1222"/>
+      <point x="62" y="1217"/>
+      <point x="38" y="1207" type="curve"/>
+      <point x="28" y="1074" type="line"/>
+      <point x="35" y="1077"/>
+      <point x="48" y="1079"/>
+      <point x="59" y="1079" type="curve" smooth="yes"/>
+      <point x="91" y="1079"/>
+      <point x="104" y="1061"/>
+      <point x="104" y="1016" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="711" y="-17" type="curve" smooth="yes"/>
+      <point x="912" y="-17"/>
+      <point x="1012" y="86"/>
+      <point x="1012" y="299" type="curve" smooth="yes"/>
+      <point x="1012" y="362" type="line" smooth="yes"/>
+      <point x="1012" y="532"/>
+      <point x="962" y="599"/>
+      <point x="841" y="682" type="curve" smooth="yes"/>
+      <point x="799" y="711" type="line" smooth="yes"/>
+      <point x="705" y="776"/>
+      <point x="678" y="814"/>
+      <point x="678" y="895" type="curve" smooth="yes"/>
+      <point x="678" y="927" type="line" smooth="yes"/>
+      <point x="678" y="1034"/>
+      <point x="724" y="1080"/>
+      <point x="823" y="1080" type="curve" smooth="yes"/>
+      <point x="883" y="1080"/>
+      <point x="931" y="1060"/>
+      <point x="976" y="1033" type="curve"/>
+      <point x="964" y="1186" type="line"/>
+      <point x="925" y="1210"/>
+      <point x="858" y="1232"/>
+      <point x="782" y="1232" type="curve" smooth="yes"/>
+      <point x="595" y="1232"/>
+      <point x="501" y="1133"/>
+      <point x="501" y="942" type="curve" smooth="yes"/>
+      <point x="501" y="899" type="line" smooth="yes"/>
+      <point x="501" y="769"/>
+      <point x="545" y="687"/>
+      <point x="686" y="591" type="curve" smooth="yes"/>
+      <point x="724" y="565" type="line" smooth="yes"/>
+      <point x="810" y="506"/>
+      <point x="835" y="467"/>
+      <point x="835" y="368" type="curve" smooth="yes"/>
+      <point x="835" y="315" type="line" smooth="yes"/>
+      <point x="835" y="195"/>
+      <point x="782" y="138"/>
+      <point x="682" y="138" type="curve" smooth="yes"/>
+      <point x="610" y="138"/>
+      <point x="547" y="165"/>
+      <point x="492" y="208" type="curve"/>
+      <point x="504" y="41" type="line"/>
+      <point x="551" y="11"/>
+      <point x="621" y="-17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Dda.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>161</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraOReph.gj" format="2">
+  <advance width="648"/>
+  <anchor x="280" y="-69" name="Bottom"/>
+  <anchor x="260" y="1264" name="Top"/>
+  <anchor x="324" y="1264" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="128" y="422" type="line"/>
+      <point x="520" y="422" type="line"/>
+      <point x="520" y="1187" type="line"/>
+      <point x="128" y="1187" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="507" type="line"/>
+      <point x="128" y="507" type="line"/>
+    </contour>
+    <contour>
+      <point x="261" y="1264" type="curve"/>
+      <point x="166" y="1553" type="line"/>
+      <point x="181" y="1583" type="line"/>
+      <point x="4" y="1699"/>
+      <point x="-174" y="1814"/>
+      <point x="-351" y="1930" type="curve"/>
+      <point x="-546" y="1568" type="line"/>
+      <point x="-277" y="1465"/>
+      <point x="-8" y="1362"/>
+    </contour>
+    <contour>
+      <point x="261" y="1264" type="line"/>
+      <point x="437" y="1431" type="line"/>
+      <point x="411" y="1460"/>
+      <point x="396" y="1493"/>
+      <point x="396" y="1522" type="curve" smooth="yes"/>
+      <point x="396" y="1527" type="line" smooth="yes"/>
+      <point x="396" y="1607"/>
+      <point x="453" y="1655"/>
+      <point x="582" y="1655" type="curve" smooth="yes"/>
+      <point x="633" y="1655"/>
+      <point x="683" y="1650"/>
+      <point x="740" y="1637" type="curve"/>
+      <point x="701" y="1913" type="line"/>
+      <point x="627" y="1933"/>
+      <point x="565" y="1940"/>
+      <point x="486" y="1940" type="curve" smooth="yes"/>
+      <point x="250" y="1940"/>
+      <point x="133" y="1854"/>
+      <point x="133" y="1725" type="curve" smooth="yes"/>
+      <point x="133" y="1720" type="line" smooth="yes"/>
+      <point x="133" y="1681"/>
+      <point x="147" y="1640"/>
+      <point x="173" y="1604" type="curve"/>
+      <point x="133" y="1551" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

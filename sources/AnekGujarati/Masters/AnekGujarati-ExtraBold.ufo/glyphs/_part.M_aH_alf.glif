@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.MaHalf" format="2">
+  <advance width="784"/>
+  <outline>
+    <contour>
+      <point x="211" y="587" type="line"/>
+      <point x="560" y="590" type="line"/>
+      <point x="560" y="900" type="line" smooth="yes"/>
+      <point x="560" y="1125"/>
+      <point x="464" y="1225"/>
+      <point x="272" y="1225" type="curve" smooth="yes"/>
+      <point x="194" y="1225"/>
+      <point x="130" y="1215"/>
+      <point x="71" y="1197" type="curve"/>
+      <point x="50" y="937" type="line"/>
+      <point x="73" y="942"/>
+      <point x="98" y="946"/>
+      <point x="125" y="946" type="curve" smooth="yes"/>
+      <point x="187" y="946"/>
+      <point x="211" y="912"/>
+      <point x="211" y="843" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="237" y="106" type="curve"/>
+      <point x="547" y="106" type="line"/>
+      <point x="547" y="688" type="line"/>
+      <point x="224" y="688" type="line"/>
+      <point x="77" y="599" type="line"/>
+      <point x="87" y="406"/>
+      <point x="149" y="234"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>Higher</key>
+        <integer>1</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Higher</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

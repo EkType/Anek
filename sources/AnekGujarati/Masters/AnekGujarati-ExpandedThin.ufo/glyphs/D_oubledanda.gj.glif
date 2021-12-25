@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Doubledanda.gj" format="2">
+  <advance width="1202"/>
+  <unicode hex="0965"/>
+  <guideline x="1049" y="3195" angle="90"/>
+  <guideline x="2892" y="3230" angle="90"/>
+  <anchor x="883" y="-105" name="Bottom"/>
+  <anchor x="862" y="1253" name="Top"/>
+  <anchor x="901" y="1253" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="281" y="539" type="line"/>
+      <point x="320" y="539" type="line"/>
+      <point x="320" y="1157" type="line"/>
+      <point x="281" y="1157" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="0" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="320" y="673" type="line"/>
+      <point x="281" y="673" type="line"/>
+    </contour>
+    <contour>
+      <point x="882" y="539" type="line"/>
+      <point x="921" y="539" type="line"/>
+      <point x="921" y="1157" type="line"/>
+      <point x="882" y="1157" type="line"/>
+    </contour>
+    <contour>
+      <point x="882" y="0" type="line"/>
+      <point x="921" y="0" type="line"/>
+      <point x="921" y="673" type="line"/>
+      <point x="882" y="673" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

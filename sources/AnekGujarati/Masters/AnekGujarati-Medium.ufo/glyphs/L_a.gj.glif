@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="La.gj" format="2">
+  <advance width="1383"/>
+  <unicode hex="0AB2"/>
+  <anchor x="1110" y="-75" name="Bottom"/>
+  <anchor x="1092" y="1266" name="Top"/>
+  <anchor x="1132" y="1266" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="1035" y="495" type="line"/>
+      <point x="1230" y="495" type="line"/>
+      <point x="1230" y="1192" type="line"/>
+      <point x="1035" y="1192" type="line"/>
+    </contour>
+    <contour>
+      <point x="1035" y="0" type="line"/>
+      <point x="1230" y="0" type="line"/>
+      <point x="1230" y="628" type="line"/>
+      <point x="1035" y="628" type="line"/>
+    </contour>
+    <contour>
+      <point x="585" y="6" type="curve" smooth="yes"/>
+      <point x="691" y="6"/>
+      <point x="763" y="23"/>
+      <point x="819" y="45" type="curve"/>
+      <point x="835" y="210" type="line"/>
+      <point x="782" y="189"/>
+      <point x="714" y="173"/>
+      <point x="620" y="173" type="curve" smooth="yes"/>
+      <point x="414" y="173"/>
+      <point x="314" y="287"/>
+      <point x="314" y="515" type="curve" smooth="yes"/>
+      <point x="314" y="696" type="line" smooth="yes"/>
+      <point x="314" y="919"/>
+      <point x="412" y="1031"/>
+      <point x="614" y="1031" type="curve" smooth="yes"/>
+      <point x="699" y="1031"/>
+      <point x="765" y="1018"/>
+      <point x="814" y="1002" type="curve"/>
+      <point x="798" y="1161" type="line"/>
+      <point x="746" y="1182"/>
+      <point x="671" y="1198"/>
+      <point x="576" y="1198" type="curve" smooth="yes"/>
+      <point x="270" y="1198"/>
+      <point x="112" y="1032"/>
+      <point x="112" y="706" type="curve" smooth="yes"/>
+      <point x="112" y="505" type="line" smooth="yes"/>
+      <point x="112" y="176"/>
+      <point x="272" y="6"/>
+    </contour>
+    <contour>
+      <point x="557" y="480" type="line"/>
+      <point x="1132" y="641" type="line"/>
+      <point x="1141" y="825" type="line"/>
+      <point x="566" y="664" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

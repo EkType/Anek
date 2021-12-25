@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NaRa.gj" format="2">
+  <advance width="1110"/>
+  <guideline x="82" y="944" angle="90"/>
+  <anchor x="837" y="-75" name="Bottom"/>
+  <anchor x="818" y="1266" name="Top"/>
+  <anchor x="859" y="1266" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="182" y="325" type="curve"/>
+      <point x="353" y="325" type="line"/>
+      <point x="353" y="866" type="line"/>
+      <point x="180" y="866" type="line"/>
+      <point x="82" y="805" type="line"/>
+      <point x="97" y="619"/>
+      <point x="131" y="481"/>
+    </contour>
+    <contour>
+      <point x="296" y="704" type="line"/>
+      <point x="876" y="704" type="line"/>
+      <point x="861" y="866" type="line"/>
+      <point x="296" y="866" type="line"/>
+    </contour>
+    <contour>
+      <point x="177" y="-19" type="line"/>
+      <point x="453" y="-19" type="line"/>
+      <point x="804" y="301" type="line"/>
+      <point x="787" y="476" type="line"/>
+      <point x="177" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="772" y="0" type="line"/>
+      <point x="957" y="0" type="line"/>
+      <point x="957" y="391" type="line"/>
+      <point x="772" y="391" type="line"/>
+    </contour>
+    <contour>
+      <point x="762" y="349" type="line"/>
+      <point x="957" y="349" type="line"/>
+      <point x="957" y="1192" type="line"/>
+      <point x="762" y="1192" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Na.gj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraA.gj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

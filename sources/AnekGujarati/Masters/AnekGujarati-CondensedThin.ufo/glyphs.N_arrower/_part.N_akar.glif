@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Nakar" format="2">
+  <advance width="931"/>
+  <anchor x="767" y="-66" name="Bottom"/>
+  <anchor x="756" y="1273" name="Top"/>
+  <anchor x="774" y="1273" name="Top2"/>
+  <outline>
+    <contour>
+      <point x="628" y="-102" type="curve"/>
+      <point x="656" y="-75" type="line"/>
+      <point x="490" y="115" type="line"/>
+      <point x="483" y="89" type="line"/>
+      <point x="769" y="379" type="line"/>
+      <point x="769" y="421" type="line"/>
+      <point x="724" y="377"/>
+      <point x="680" y="333"/>
+      <point x="635" y="289" type="curve"/>
+      <point x="455" y="111" type="line"/>
+      <point x="446" y="63" type="line"/>
+      <point x="518" y="-1"/>
+      <point x="556" y="-38"/>
+    </contour>
+    <contour>
+      <point x="757" y="0" type="line"/>
+      <point x="793" y="0" type="line"/>
+      <point x="793" y="372" type="line"/>
+      <point x="757" y="372" type="line"/>
+    </contour>
+    <contour>
+      <point x="756" y="369" type="line"/>
+      <point x="793" y="369" type="line"/>
+      <point x="793" y="1196" type="line"/>
+      <point x="756" y="1196" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>NarrowNakar</key>
+        <integer>2</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>NarrowNakar</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>HigherNakar</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>50</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

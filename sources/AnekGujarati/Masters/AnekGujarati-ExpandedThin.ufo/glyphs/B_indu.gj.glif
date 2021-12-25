@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Bindu.gj" format="2">
+  <unicode hex="0A82"/>
+  <guideline x="100" y="1578" angle="90"/>
+  <guideline x="230" y="1478" angle="270"/>
+  <guideline x="165" y="1477" angle="90"/>
+  <guideline x="146" y="1477" angle="90"/>
+  <guideline x="185" y="1477" angle="90"/>
+  <guideline x="165" y="1253" angle="0"/>
+  <anchor x="165" y="1253" name="_Top2"/>
+  <outline>
+    <contour>
+      <point x="165" y="1418" type="curve" smooth="yes"/>
+      <point x="211" y="1418"/>
+      <point x="230" y="1443"/>
+      <point x="230" y="1474" type="curve" smooth="yes"/>
+      <point x="230" y="1479" type="line" smooth="yes"/>
+      <point x="230" y="1510"/>
+      <point x="210" y="1535"/>
+      <point x="165" y="1535" type="curve" smooth="yes"/>
+      <point x="120" y="1535"/>
+      <point x="100" y="1510"/>
+      <point x="100" y="1479" type="curve" smooth="yes"/>
+      <point x="100" y="1474" type="line" smooth="yes"/>
+      <point x="100" y="1443"/>
+      <point x="120" y="1418"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>466</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>
