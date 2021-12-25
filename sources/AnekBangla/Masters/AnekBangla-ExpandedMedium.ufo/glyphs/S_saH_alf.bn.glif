@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SsaHalf.bn" format="2">
+	<advance width="1550"/>
+	<anchor x="1396" y="180" name="bottom1"/>
+	<anchor x="1129" y="1401" name="top"/>
+	<anchor x="862" y="1784" name="top2"/>
+	<outline>
+		<contour>
+			<point x="1196" y="219" type="line"/>
+			<point x="1371" y="219" type="line"/>
+			<point x="1371" y="1181" type="line"/>
+			<point x="1168" y="1181" type="line"/>
+			<point x="1168" y="519" type="line"/>
+			<point x="1178" y="334" type="line"/>
+			<point x="1188" y="378" type="line"/>
+			<point x="354" y="508" type="line"/>
+			<point x="402" y="433" type="line"/>
+			<point x="402" y="636" type="line"/>
+			<point x="354" y="569" type="line"/>
+			<point x="906" y="705" type="line"/>
+			<point x="879" y="757" type="line"/>
+			<point x="804" y="738" type="line"/>
+			<point x="1244" y="572" type="line"/>
+			<point x="1251" y="713" type="line"/>
+			<point x="864" y="877" type="line"/>
+			<point x="617" y="981"/>
+			<point x="418" y="1064"/>
+			<point x="194" y="1151" type="curve"/>
+			<point x="128" y="1127" type="line"/>
+			<point x="128" y="990" type="line"/>
+			<point x="291" y="930"/>
+			<point x="497" y="866"/>
+			<point x="741" y="799" type="curve"/>
+			<point x="690" y="852" type="line"/>
+			<point x="690" y="768" type="line"/>
+			<point x="725" y="811" type="line"/>
+			<point x="211" y="685" type="line"/>
+			<point x="211" y="378" type="line"/>
+		</contour>
+		<contour>
+			<point x="-81" y="1066" type="line"/>
+			<point x="1306" y="1066" type="line"/>
+			<point x="1306" y="1228" type="line"/>
+			<point x="-94" y="1228" type="line"/>
+		</contour>
+		<contour>
+			<point x="1296" y="1160" type="line"/>
+			<point x="1296" y="812" type="line"/>
+			<point x="1371" y="812" type="line"/>
+			<point x="1371" y="1160" type="line"/>
+		</contour>
+		<contour>
+			<point x="1296" y="1066" type="line"/>
+			<point x="1644" y="1066" type="line"/>
+			<point x="1631" y="1228" type="line"/>
+			<point x="1296" y="1228" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Ya.bn</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>BaHalf.bn</string>
+		</dict>
+	</lib>
+</glyph>

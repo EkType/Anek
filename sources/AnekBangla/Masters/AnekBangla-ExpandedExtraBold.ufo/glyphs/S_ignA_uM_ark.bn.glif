@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SignAuMark.bn" format="2">
+	<advance width="675"/>
+	<unicode hex="09D7"/>
+	<anchor x="-36" y="1500" name="top"/>
+	<anchor x="318" y="1528" name="top2"/>
+	<outline>
+		<contour>
+			<point x="157" y="0" type="line"/>
+			<point x="527" y="0" type="line"/>
+			<point x="527" y="1015" type="line"/>
+			<point x="157" y="1015" type="line"/>
+		</contour>
+		<contour>
+			<point x="-8" y="984" type="line"/>
+			<point x="500" y="984" type="line"/>
+			<point x="500" y="1248" type="line"/>
+			<point x="-28" y="1248" type="line"/>
+		</contour>
+		<contour>
+			<point x="400" y="1121" type="line"/>
+			<point x="400" y="712" type="line"/>
+			<point x="527" y="712" type="line"/>
+			<point x="527" y="1121" type="line"/>
+		</contour>
+		<contour>
+			<point x="400" y="984" type="line"/>
+			<point x="712" y="984" type="line"/>
+			<point x="692" y="1248" type="line"/>
+			<point x="400" y="1248" type="line"/>
+		</contour>
+		<contour>
+			<point x="565" y="1331" type="line"/>
+			<point x="565" y="1334"/>
+			<point x="565" y="1336"/>
+			<point x="565" y="1339" type="curve" smooth="yes"/>
+			<point x="565" y="1544"/>
+			<point x="417" y="1667"/>
+			<point x="158" y="1667" type="curve" smooth="yes"/>
+			<point x="-69" y="1667" type="line" smooth="yes"/>
+			<point x="-179" y="1667"/>
+			<point x="-215" y="1689"/>
+			<point x="-224" y="1767" type="curve" smooth="yes"/>
+			<point x="-227" y="1793" type="line"/>
+			<point x="-554" y="1793" type="line"/>
+			<point x="-554" y="1766" type="line" smooth="yes"/>
+			<point x="-554" y="1509"/>
+			<point x="-403" y="1398"/>
+			<point x="-51" y="1398" type="curve" smooth="yes"/>
+			<point x="100" y="1398" type="line" smooth="yes"/>
+			<point x="179" y="1398"/>
+			<point x="211" y="1374"/>
+			<point x="211" y="1317" type="curve" smooth="yes"/>
+			<point x="211" y="1278"/>
+			<point x="196" y="1250"/>
+			<point x="164" y="1232" type="curve"/>
+			<point x="246" y="1223" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>SignAa.bn</string>
+		</dict>
+	</lib>
+</glyph>

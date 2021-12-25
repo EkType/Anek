@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_CompSignAuMark.bn" format="2">
+	<advance width="643"/>
+	<anchor x="7" y="1561" name="top"/>
+	<anchor x="174" y="1519" name="top2"/>
+	<outline>
+		<contour>
+			<point x="307" y="0" type="line"/>
+			<point x="343" y="0" type="line"/>
+			<point x="343" y="1188" type="line"/>
+			<point x="307" y="1188" type="line"/>
+		</contour>
+		<contour>
+			<point x="-49" y="1177" type="line"/>
+			<point x="346" y="1177" type="line"/>
+			<point x="346" y="1208" type="line"/>
+			<point x="-55" y="1208" type="line"/>
+		</contour>
+		<contour>
+			<point x="320" y="1199" type="line"/>
+			<point x="320" y="912" type="line"/>
+			<point x="343" y="912" type="line"/>
+			<point x="343" y="1199" type="line"/>
+		</contour>
+		<contour>
+			<point x="320" y="1177" type="line"/>
+			<point x="705" y="1177" type="line"/>
+			<point x="699" y="1208" type="line"/>
+			<point x="320" y="1208" type="line"/>
+		</contour>
+		<contour>
+			<point x="343" y="1205" type="line"/>
+			<point x="359" y="1238"/>
+			<point x="367" y="1277"/>
+			<point x="367" y="1325" type="curve" smooth="yes"/>
+			<point x="367" y="1492"/>
+			<point x="257" y="1570"/>
+			<point x="46" y="1570" type="curve" smooth="yes"/>
+			<point x="-140" y="1570" type="line" smooth="yes"/>
+			<point x="-316" y="1570"/>
+			<point x="-401" y="1630"/>
+			<point x="-401" y="1756" type="curve" smooth="yes"/>
+			<point x="-401" y="1774" type="line"/>
+			<point x="-432" y="1774" type="line"/>
+			<point x="-432" y="1756" type="line" smooth="yes"/>
+			<point x="-432" y="1611"/>
+			<point x="-335" y="1539"/>
+			<point x="-140" y="1539" type="curve" smooth="yes"/>
+			<point x="46" y="1539" type="line" smooth="yes"/>
+			<point x="244" y="1539"/>
+			<point x="334" y="1474"/>
+			<point x="334" y="1323" type="curve" smooth="yes"/>
+			<point x="334" y="1275"/>
+			<point x="325" y="1232"/>
+			<point x="307" y="1190" type="curve"/>
+			<point x="333" y="1190" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>SignAa.bn</string>
+		</dict>
+	</lib>
+</glyph>

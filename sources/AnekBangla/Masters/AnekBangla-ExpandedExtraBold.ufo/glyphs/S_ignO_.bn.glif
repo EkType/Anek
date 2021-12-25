@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SignO.bn" format="2">
+	<advance width="1908"/>
+	<unicode hex="09CB"/>
+	<anchor x="1345" y="1398" name="top"/>
+	<anchor x="1084" y="1791" name="top2"/>
+	<outline>
+		<contour>
+			<point x="881" y="1248" type="line"/>
+			<point x="881" y="985" type="line"/>
+			<point x="1250" y="985" type="line"/>
+			<point x="1250" y="1248" type="line"/>
+		</contour>
+		<contour>
+			<point x="854" y="988" type="curve"/>
+			<point x="666" y="1164" type="line"/>
+			<point x="285" y="1065"/>
+			<point x="98" y="860"/>
+			<point x="98" y="542" type="curve" smooth="yes"/>
+			<point x="98" y="537" type="line" smooth="yes"/>
+			<point x="98" y="192"/>
+			<point x="346" y="-42"/>
+			<point x="728" y="-57" type="curve" smooth="yes"/>
+			<point x="774" y="-59" type="line"/>
+			<point x="825" y="236" type="line"/>
+			<point x="783" y="239" type="line" smooth="yes"/>
+			<point x="573" y="254"/>
+			<point x="470" y="361"/>
+			<point x="470" y="565" type="curve" smooth="yes"/>
+			<point x="470" y="571" type="line" smooth="yes"/>
+			<point x="470" y="770"/>
+			<point x="596" y="938"/>
+		</contour>
+		<contour>
+			<point x="-90" y="984" type="line"/>
+			<point x="958" y="984" type="line"/>
+			<point x="940" y="1248" type="line"/>
+			<point x="-110" y="1248" type="line"/>
+		</contour>
+		<contour>
+			<point x="1390" y="0" type="line"/>
+			<point x="1760" y="0" type="line"/>
+			<point x="1760" y="1015" type="line"/>
+			<point x="1390" y="1015" type="line"/>
+		</contour>
+		<contour>
+			<point x="1225" y="984" type="line"/>
+			<point x="1733" y="984" type="line"/>
+			<point x="1733" y="1248" type="line"/>
+			<point x="1205" y="1248" type="line"/>
+		</contour>
+		<contour>
+			<point x="1633" y="1121" type="line"/>
+			<point x="1633" y="712" type="line"/>
+			<point x="1760" y="712" type="line"/>
+			<point x="1760" y="1121" type="line"/>
+		</contour>
+		<contour>
+			<point x="1633" y="984" type="line"/>
+			<point x="1945" y="984" type="line"/>
+			<point x="1925" y="1248" type="line"/>
+			<point x="1633" y="1248" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>SignE.bn</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>SignAa.bn</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VowelA.bn" format="2">
+	<advance width="2442"/>
+	<unicode hex="0985"/>
+	<anchor x="2000" y="1401" name="top"/>
+	<anchor x="1691" y="1784" name="top2"/>
+	<note>
+		VowelA.bn
+	</note>
+	<outline>
+		<contour>
+			<point x="1000" y="96" type="curve" smooth="yes"/>
+			<point x="1446" y="96"/>
+			<point x="1678" y="249"/>
+			<point x="1678" y="546" type="curve" smooth="yes"/>
+			<point x="1678" y="551" type="line" smooth="yes"/>
+			<point x="1678" y="800"/>
+			<point x="1497" y="955"/>
+			<point x="1196" y="955" type="curve" smooth="yes"/>
+			<point x="881" y="955"/>
+			<point x="717" y="819"/>
+			<point x="717" y="576" type="curve" smooth="yes"/>
+			<point x="717" y="558"/>
+			<point x="719" y="536"/>
+			<point x="722" y="519" type="curve"/>
+			<point x="937" y="519" type="line"/>
+			<point x="933" y="534"/>
+			<point x="932" y="555"/>
+			<point x="932" y="572" type="curve" smooth="yes"/>
+			<point x="932" y="706"/>
+			<point x="1023" y="784"/>
+			<point x="1204" y="784" type="curve" smooth="yes"/>
+			<point x="1369" y="784"/>
+			<point x="1472" y="700"/>
+			<point x="1472" y="558" type="curve" smooth="yes"/>
+			<point x="1472" y="553" type="line" smooth="yes"/>
+			<point x="1472" y="367"/>
+			<point x="1307" y="270"/>
+			<point x="983" y="270" type="curve" smooth="yes"/>
+			<point x="567" y="270"/>
+			<point x="375" y="431"/>
+			<point x="349" y="725" type="curve" smooth="yes"/>
+			<point x="339" y="836" type="line"/>
+			<point x="141" y="836" type="line"/>
+			<point x="149" y="731" type="line" smooth="yes"/>
+			<point x="180" y="319"/>
+			<point x="455" y="96"/>
+		</contour>
+		<contour>
+			<point x="2052" y="-2" type="line"/>
+			<point x="2228" y="-2" type="line"/>
+			<point x="2228" y="1170" type="line"/>
+			<point x="2025" y="1170" type="line"/>
+			<point x="2025" y="299" type="line"/>
+			<point x="2034" y="112" type="line"/>
+			<point x="2096" y="175" type="line"/>
+			<point x="2051" y="172" type="line"/>
+			<point x="1444" y="366" type="line"/>
+			<point x="1363" y="213" type="line"/>
+		</contour>
+		<contour>
+			<point x="-60" y="1066" type="line"/>
+			<point x="2216" y="1066" type="line"/>
+			<point x="2214" y="1228" type="line"/>
+			<point x="-73" y="1228" type="line"/>
+		</contour>
+		<contour>
+			<point x="2153" y="1160" type="line"/>
+			<point x="2153" y="812" type="line"/>
+			<point x="2228" y="812" type="line"/>
+			<point x="2228" y="1160" type="line"/>
+		</contour>
+		<contour>
+			<point x="2153" y="1066" type="line"/>
+			<point x="2501" y="1066" type="line"/>
+			<point x="2488" y="1228" type="line"/>
+			<point x="2153" y="1228" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>SignAa.bn</string>
+		</dict>
+	</lib>
+</glyph>

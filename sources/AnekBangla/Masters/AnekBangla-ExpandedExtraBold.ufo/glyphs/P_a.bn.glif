@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pa.bn" format="2">
+	<advance width="1770"/>
+	<unicode hex="09AA"/>
+	<anchor x="1622" y="200" name="bottom1"/>
+	<anchor x="1207" y="1398" name="top"/>
+	<anchor x="946" y="1791" name="top2"/>
+	<outline>
+		<contour>
+			<point x="82" y="769" type="curve" smooth="yes"/>
+			<point x="82" y="753" type="line"/>
+			<point x="567" y="536" type="line"/>
+			<point x="845" y="686" type="line"/>
+			<point x="448" y="868" type="line"/>
+			<point x="492" y="752" type="line"/>
+			<point x="492" y="772" type="line" smooth="yes"/>
+			<point x="492" y="917"/>
+			<point x="593" y="988"/>
+			<point x="800" y="988" type="curve" smooth="yes"/>
+			<point x="1003" y="988"/>
+			<point x="1150" y="916"/>
+			<point x="1243" y="762" type="curve"/>
+			<point x="1252" y="669" type="line"/>
+			<point x="1295" y="749" type="line"/>
+			<point x="1309" y="984" type="line"/>
+			<point x="1259" y="984" type="line"/>
+			<point x="1205" y="1184"/>
+			<point x="1023" y="1282"/>
+			<point x="711" y="1282" type="curve" smooth="yes"/>
+			<point x="294" y="1282"/>
+			<point x="82" y="1102"/>
+		</contour>
+		<contour>
+			<point x="409" y="231" type="line"/>
+			<point x="1362" y="619" type="line"/>
+			<point x="1181" y="865" type="line"/>
+			<point x="179" y="447" type="line"/>
+		</contour>
+		<contour>
+			<point x="1252" y="0" type="line"/>
+			<point x="1622" y="0" type="line"/>
+			<point x="1622" y="1248" type="line"/>
+			<point x="1271" y="1248" type="line"/>
+			<point x="1271" y="918" type="line"/>
+			<point x="1252" y="918" type="line"/>
+		</contour>
+		<contour>
+			<point x="1495" y="1121" type="line"/>
+			<point x="1495" y="712" type="line"/>
+			<point x="1622" y="712" type="line"/>
+			<point x="1622" y="1121" type="line"/>
+		</contour>
+		<contour>
+			<point x="1495" y="984" type="line"/>
+			<point x="1807" y="984" type="line"/>
+			<point x="1787" y="1248" type="line"/>
+			<point x="1495" y="1248" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>SignAa.bn</string>
+		</dict>
+	</lib>
+</glyph>
