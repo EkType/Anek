@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vowelAi.mlm" format="2">
+  <advance width="3359"/>
+  <unicode hex="0D10"/>
+  <outline>
+    <component base="matrashortE.mlm"/>
+    <component base="vowelshortE.mlm" xOffset="1230"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Kha.mlm</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>vowelshortE.mlm</string>
+  </dict>
+  </lib>
+</glyph>

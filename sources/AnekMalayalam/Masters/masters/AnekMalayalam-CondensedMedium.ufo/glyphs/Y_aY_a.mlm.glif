@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="YaYa.mlm" format="2">
+  <advance width="1436"/>
+  <outline>
+    <component base="Ya.mlm"/>
+    <contour>
+      <point x="1128" y="119" type="line"/>
+      <point x="1128" y="-420" type="line"/>
+      <point x="1286" y="-420" type="line"/>
+      <point x="1286" y="180" type="line"/>
+    </contour>
+    <contour>
+      <point x="760" y="-297" type="line"/>
+      <point x="866" y="-222"/>
+      <point x="957" y="-113"/>
+      <point x="985" y="10" type="curve"/>
+      <point x="826" y="31" type="line"/>
+      <point x="805" y="-110"/>
+      <point x="679" y="-225"/>
+      <point x="538" y="-305" type="curve"/>
+      <point x="554" y="-420" type="line"/>
+      <point x="1243" y="-420" type="line"/>
+      <point x="1253" y="-297" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ya.mlm</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ya.mlm</string>
+  </dict>
+  </lib>
+</glyph>

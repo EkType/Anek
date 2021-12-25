@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VaVa.mlm" format="2">
+  <advance width="2288"/>
+  <outline>
+    <component base="Va.mlm"/>
+    <contour>
+      <point x="2016" y="26" type="line" name="n31"/>
+      <point x="2016" y="-517" type="line"/>
+      <point x="2053" y="-517" type="line" name="n33"/>
+      <point x="2053" y="25" type="line" name="n32"/>
+    </contour>
+    <contour>
+      <point x="929" y="-484" type="line"/>
+      <point x="1254" y="-396"/>
+      <point x="1532" y="-208"/>
+      <point x="1606" y="18" type="curve"/>
+      <point x="1571" y="25" type="line"/>
+      <point x="1490" y="-209"/>
+      <point x="1203" y="-376"/>
+      <point x="837" y="-484" type="curve"/>
+      <point x="844" y="-517" type="line"/>
+      <point x="2023" y="-517" type="line"/>
+      <point x="2023" y="-484" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Va.mlm</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Va.mlm</string>
+  </dict>
+  </lib>
+</glyph>

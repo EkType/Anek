@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="MaPa.mlm" format="2">
+  <advance width="1347"/>
+  <outline>
+    <component base="three.mlm"/>
+    <contour>
+      <point x="1185" y="1174" type="line"/>
+      <point x="1185" y="0" type="line"/>
+      <point x="1220" y="0" type="line"/>
+      <point x="1220" y="1174" type="line"/>
+    </contour>
+    <contour>
+      <point x="1121" y="31" type="line"/>
+      <point x="1121" y="0" type="line"/>
+      <point x="1213" y="0" type="line"/>
+      <point x="1213" y="31" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Na.mlm</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>La.mlm</string>
+  </dict>
+  </lib>
+</glyph>
