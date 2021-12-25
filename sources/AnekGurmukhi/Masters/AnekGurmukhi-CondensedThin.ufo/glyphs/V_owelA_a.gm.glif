@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelAa.gm" format="2">
+  <advance width="1272"/>
+  <unicode hex="0A06"/>
+  <anchor x="1173" y="1200" name="top"/>
+  <outline>
+    <component base="VowelA.gm"/>
+    <component base="_danda001" xOffset="947"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>VowelA.gm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

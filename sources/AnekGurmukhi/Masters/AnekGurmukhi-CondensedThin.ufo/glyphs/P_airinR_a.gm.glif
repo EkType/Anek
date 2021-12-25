@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="PairinRa.gm" format="2">
+  <anchor x="600" y="100" name="_bottom"/>
+  <anchor x="600" y="400" name="bottom1"/>
+  <outline>
+    <contour>
+      <point x="564" y="-399" type="curve"/>
+      <point x="559" y="-349" type="line"/>
+      <point x="506" y="-294"/>
+      <point x="408" y="-220"/>
+      <point x="327" y="-174" type="curve"/>
+      <point x="302" y="-201" type="line"/>
+      <point x="397" y="-250"/>
+      <point x="505" y="-333"/>
+    </contour>
+    <contour>
+      <point x="81" y="-204" type="line"/>
+      <point x="313" y="-204" type="line"/>
+      <point x="335" y="-190" type="line"/>
+      <point x="348" y="-158"/>
+      <point x="356" y="-97"/>
+      <point x="356" y="-25" type="curve" smooth="yes"/>
+      <point x="356" y="10" type="line"/>
+      <point x="319" y="10" type="line"/>
+      <point x="319" y="-25" type="line" smooth="yes"/>
+      <point x="319" y="-91"/>
+      <point x="314" y="-148"/>
+      <point x="306" y="-179" type="curve"/>
+      <point x="317" y="-170" type="line"/>
+      <point x="89" y="-170" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1000</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fa.gm" format="2">
+  <advance width="1680"/>
+  <unicode hex="0A5E"/>
+  <anchor x="1590" y="100" name="bottom"/>
+  <anchor x="1980" y="100" name="bottom1"/>
+  <anchor x="1699" y="1200" name="top"/>
+  <outline>
+    <component base="Pha.gm"/>
+    <component base="Nukta.gm" xOffset="556" yOffset="-11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pha.gm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pha.gm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

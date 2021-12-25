@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sa.gm" format="2">
+  <advance width="1149"/>
+  <unicode hex="0A38"/>
+  <anchor x="1249" y="100" name="bottom"/>
+  <anchor x="1100" y="100" name="bottom1"/>
+  <anchor x="1049" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="185" y="104" type="curve"/>
+      <point x="224" y="104" type="line"/>
+      <point x="241" y="247"/>
+      <point x="253" y="392"/>
+      <point x="253" y="534" type="curve"/>
+      <point x="253" y="722"/>
+      <point x="239" y="949"/>
+      <point x="210" y="1193" type="curve"/>
+      <point x="33" y="1193" type="line"/>
+      <point x="35" y="1159" type="line"/>
+      <point x="176" y="1159" type="line"/>
+      <point x="203" y="925"/>
+      <point x="216" y="710"/>
+      <point x="216" y="532" type="curve"/>
+      <point x="216" y="395"/>
+      <point x="204" y="243"/>
+    </contour>
+    <contour>
+      <point x="236" y="471" type="line"/>
+      <point x="925" y="471" type="line"/>
+      <point x="925" y="505" type="line"/>
+      <point x="236" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="1159" type="line"/>
+      <point x="1024" y="1159" type="line"/>
+      <point x="1024" y="1193" type="line"/>
+      <point x="106" y="1193" type="line"/>
+    </contour>
+    <component base="_cap.shiro_left"/>
+    <component base="_danda" xOffset="724"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Kha.gm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

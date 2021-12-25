@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Addak.gm" format="2">
+  <unicode hex="0A71"/>
+  <anchor x="400" y="1200" name="_top"/>
+  <outline>
+    <contour>
+      <point x="307" y="1354" type="curve" smooth="yes"/>
+      <point x="455" y="1354"/>
+      <point x="529" y="1450"/>
+      <point x="517" y="1646" type="curve"/>
+      <point x="416" y="1646" type="line"/>
+      <point x="413" y="1550"/>
+      <point x="375" y="1501"/>
+      <point x="304" y="1501" type="curve" smooth="yes"/>
+      <point x="232" y="1501"/>
+      <point x="193" y="1550"/>
+      <point x="191" y="1646" type="curve"/>
+      <point x="90" y="1646" type="line"/>
+      <point x="78" y="1450"/>
+      <point x="153" y="1354"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1000</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

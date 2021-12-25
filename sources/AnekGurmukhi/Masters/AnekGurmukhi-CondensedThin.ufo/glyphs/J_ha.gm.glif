@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jha.gm" format="2">
+  <advance width="661"/>
+  <unicode hex="0A1D"/>
+  <anchor x="600" y="30" name="bottom"/>
+  <anchor x="675" y="0" name="bottom1"/>
+  <anchor x="573" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="316" y="56" type="curve" smooth="yes"/>
+      <point x="470" y="56"/>
+      <point x="544" y="151"/>
+      <point x="544" y="331" type="curve" smooth="yes"/>
+      <point x="544" y="433" type="line" smooth="yes"/>
+      <point x="544" y="573"/>
+      <point x="465" y="663"/>
+      <point x="344" y="663" type="curve"/>
+      <point x="344" y="682" type="line"/>
+      <point x="316" y="682" type="line"/>
+      <point x="289" y="682" type="line"/>
+      <point x="289" y="668" type="line"/>
+      <point x="226" y="668"/>
+      <point x="147" y="653"/>
+      <point x="97" y="632" type="curve"/>
+      <point x="92" y="592" type="line"/>
+      <point x="157" y="620"/>
+      <point x="240" y="644"/>
+      <point x="315" y="644" type="curve"/>
+      <point x="446" y="644"/>
+      <point x="507" y="551"/>
+      <point x="507" y="433" type="curve" smooth="yes"/>
+      <point x="507" y="331" type="line" smooth="yes"/>
+      <point x="507" y="173"/>
+      <point x="449" y="91"/>
+      <point x="316" y="91" type="curve" smooth="yes"/>
+      <point x="230" y="91"/>
+      <point x="150" y="121"/>
+      <point x="98" y="174" type="curve"/>
+      <point x="104" y="122" type="line"/>
+      <point x="147" y="81"/>
+      <point x="227" y="56"/>
+    </contour>
+    <contour>
+      <point x="327" y="-167" type="line"/>
+      <point x="370" y="-169" type="line"/>
+      <point x="309" y="-80"/>
+      <point x="247" y="7"/>
+      <point x="197" y="71" type="curve"/>
+      <point x="208" y="91" type="line"/>
+      <point x="137" y="101" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="659" type="curve"/>
+      <point x="326" y="682" type="line"/>
+      <point x="210" y="682"/>
+      <point x="150" y="759"/>
+      <point x="150" y="902" type="curve" smooth="yes"/>
+      <point x="150" y="1198" type="line"/>
+      <point x="113" y="1198" type="line"/>
+      <point x="113" y="902" type="line" smooth="yes"/>
+      <point x="113" y="742"/>
+      <point x="183" y="659"/>
+    </contour>
+    <contour>
+      <point x="18" y="1179" type="line"/>
+      <point x="130" y="1179" type="line"/>
+      <point x="132" y="1179" type="line"/>
+      <point x="512" y="1179" type="line"/>
+      <point x="514" y="1179" type="line"/>
+      <point x="650" y="1179" type="line"/>
+      <point x="650" y="1213" type="line"/>
+      <point x="18" y="1213" type="line"/>
+    </contour>
+    <contour>
+      <point x="529" y="902" type="curve" smooth="yes"/>
+      <point x="529" y="1198" type="line"/>
+      <point x="492" y="1198" type="line"/>
+      <point x="492" y="902" type="line" smooth="yes"/>
+      <point x="492" y="759"/>
+      <point x="434" y="682"/>
+      <point x="316" y="682" type="curve"/>
+      <point x="328" y="659" type="line"/>
+      <point x="461" y="659"/>
+      <point x="529" y="742"/>
+    </contour>
+    <component base="_cap.shiro_left"/>
+    <component base="_cap.shiro_right" xOffset="469"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_right</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

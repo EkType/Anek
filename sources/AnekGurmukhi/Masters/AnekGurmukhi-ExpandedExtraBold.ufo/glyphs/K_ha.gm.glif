@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kha.gm" format="2">
+  <advance width="1712"/>
+  <unicode hex="0A16"/>
+  <anchor x="1812" y="100" name="bottom"/>
+  <anchor x="1791" y="100" name="bottom1"/>
+  <anchor x="1777" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="784" y="109" type="curve" smooth="yes"/>
+      <point x="923" y="109"/>
+      <point x="1044" y="134"/>
+      <point x="1106" y="152" type="curve"/>
+      <point x="1179" y="380" type="line"/>
+      <point x="1201" y="380" type="line"/>
+      <point x="1194" y="485" type="line"/>
+      <point x="1131" y="448"/>
+      <point x="1005" y="419"/>
+      <point x="877" y="419" type="curve" smooth="yes"/>
+      <point x="710" y="419"/>
+      <point x="592" y="445"/>
+      <point x="502" y="509" type="curve"/>
+      <point x="516" y="472" type="line"/>
+      <point x="555" y="590"/>
+      <point x="581" y="738"/>
+      <point x="581" y="924" type="curve" smooth="yes"/>
+      <point x="581" y="1013"/>
+      <point x="576" y="1112"/>
+      <point x="564" y="1221" type="curve"/>
+      <point x="38" y="1221" type="line"/>
+      <point x="38" y="942" type="line"/>
+      <point x="177" y="942" type="line"/>
+      <point x="181" y="907"/>
+      <point x="182" y="872"/>
+      <point x="182" y="836" type="curve" smooth="yes"/>
+      <point x="182" y="667"/>
+      <point x="143" y="495"/>
+      <point x="80" y="366" type="curve"/>
+      <point x="233" y="216"/>
+      <point x="453" y="109"/>
+    </contour>
+    <contour>
+      <point x="351" y="646" type="line"/>
+      <point x="1368" y="646" type="line"/>
+      <point x="1368" y="926" type="line"/>
+      <point x="351" y="926" type="line"/>
+    </contour>
+    <component base="_danda" xOffset="1019"/>
+    <component base="_cap.shiro_left"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

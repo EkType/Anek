@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Va.gm" format="2">
+  <advance width="1666"/>
+  <unicode hex="0A35"/>
+  <anchor x="1555" y="88" name="bottom"/>
+  <anchor x="1715" y="90" name="bottom1"/>
+  <anchor x="1667" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="468" y="338" type="curve"/>
+      <point x="1428" y="338" type="line"/>
+      <point x="1428" y="502" type="line"/>
+      <point x="490" y="502" type="line" smooth="yes"/>
+      <point x="385" y="502"/>
+      <point x="328" y="536"/>
+      <point x="328" y="599" type="curve" smooth="yes"/>
+      <point x="328" y="661"/>
+      <point x="384" y="690"/>
+      <point x="489" y="690" type="curve" smooth="yes"/>
+      <point x="1483" y="690" type="line"/>
+      <point x="1483" y="1128" type="line"/>
+      <point x="1274" y="1128" type="line"/>
+      <point x="1274" y="854" type="line"/>
+      <point x="467" y="854" type="line" smooth="yes"/>
+      <point x="240" y="854"/>
+      <point x="108" y="769"/>
+      <point x="108" y="599" type="curve" smooth="yes"/>
+      <point x="108" y="428"/>
+      <point x="241" y="341"/>
+    </contour>
+    <contour>
+      <point x="1204" y="-36" type="curve" smooth="yes"/>
+      <point x="1318" y="-36"/>
+      <point x="1404" y="-23"/>
+      <point x="1489" y="2" type="curve"/>
+      <point x="1506" y="171" type="line"/>
+      <point x="1418" y="149"/>
+      <point x="1318" y="136"/>
+      <point x="1226" y="136" type="curve" smooth="yes"/>
+      <point x="977" y="136"/>
+      <point x="788" y="201"/>
+      <point x="742" y="395" type="curve"/>
+      <point x="518" y="395" type="line"/>
+      <point x="608" y="73"/>
+      <point x="854" y="-36"/>
+    </contour>
+    <contour>
+      <point x="79" y="1041" type="line"/>
+      <point x="1308" y="1049" type="line"/>
+      <point x="1330" y="1041" type="line"/>
+      <point x="1635" y="1041" type="line"/>
+      <point x="1635" y="1197" type="line"/>
+      <point x="79" y="1197" type="line"/>
+    </contour>
+    <component base="_cap.shiro_left"/>
+    <component base="_cap.shiro_right" xOffset="1415"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_right</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

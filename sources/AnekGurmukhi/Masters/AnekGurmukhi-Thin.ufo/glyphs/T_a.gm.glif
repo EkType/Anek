@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ta.gm" format="2">
+  <advance width="1046"/>
+  <unicode hex="0A24"/>
+  <anchor x="962" y="100" name="bottom"/>
+  <anchor x="993" y="100" name="bottom1"/>
+  <anchor x="998" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="20" y="1159" type="line"/>
+      <point x="1034" y="1159" type="line"/>
+      <point x="1034" y="1193" type="line"/>
+      <point x="20" y="1193" type="line"/>
+    </contour>
+    <contour>
+      <point x="490" y="-14" type="curve" smooth="yes"/>
+      <point x="757" y="-14"/>
+      <point x="901" y="107"/>
+      <point x="901" y="330" type="curve" smooth="yes"/>
+      <point x="901" y="343" type="line" smooth="yes"/>
+      <point x="901" y="538"/>
+      <point x="804" y="668"/>
+      <point x="603" y="673" type="curve"/>
+      <point x="635" y="652" type="line"/>
+      <point x="635" y="664" type="line"/>
+      <point x="787" y="671"/>
+      <point x="893" y="796"/>
+      <point x="893" y="1008" type="curve" smooth="yes"/>
+      <point x="893" y="1176" type="line"/>
+      <point x="855" y="1176" type="line"/>
+      <point x="855" y="1008" type="line" smooth="yes"/>
+      <point x="855" y="825"/>
+      <point x="783" y="684"/>
+      <point x="570" y="684" type="curve" smooth="yes"/>
+      <point x="179" y="684" type="line"/>
+      <point x="179" y="650" type="line"/>
+      <point x="572" y="650" type="line" smooth="yes"/>
+      <point x="779" y="650"/>
+      <point x="863" y="513"/>
+      <point x="863" y="342" type="curve"/>
+      <point x="863" y="332" type="line" smooth="yes"/>
+      <point x="863" y="128"/>
+      <point x="733" y="21"/>
+      <point x="490" y="21" type="curve" smooth="yes"/>
+      <point x="346" y="21"/>
+      <point x="205" y="56"/>
+      <point x="86" y="121" type="curve"/>
+      <point x="94" y="73" type="line"/>
+      <point x="202" y="17"/>
+      <point x="341" y="-14"/>
+    </contour>
+    <component base="_cap.shiro_left"/>
+    <component base="_cap.shiro_right" xOffset="854"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_right</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

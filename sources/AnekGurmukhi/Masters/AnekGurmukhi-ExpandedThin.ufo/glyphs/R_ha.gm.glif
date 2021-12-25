@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rha.gm" format="2">
+  <advance width="1518"/>
+  <anchor x="1132" y="-242" name="bottom"/>
+  <anchor x="1480" y="-238" name="bottom1"/>
+  <anchor x="1455" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="21" y="1139" type="line"/>
+      <point x="1518" y="1139" type="line"/>
+      <point x="1518" y="1173" type="line"/>
+      <point x="21" y="1173" type="line"/>
+    </contour>
+    <contour>
+      <point x="533" y="-232" type="line"/>
+      <point x="588" y="-232" type="line"/>
+      <point x="157" y="167" type="line"/>
+      <point x="107" y="167" type="line"/>
+    </contour>
+    <contour>
+      <point x="1137" y="-403" type="curve" smooth="yes"/>
+      <point x="1287" y="-403"/>
+      <point x="1414" y="-348"/>
+      <point x="1414" y="-219" type="curve" smooth="yes"/>
+      <point x="1414" y="-149"/>
+      <point x="1385" y="-103"/>
+      <point x="1332" y="-42" type="curve" smooth="yes"/>
+      <point x="1162" y="154" type="line"/>
+      <point x="1132" y="135" type="line"/>
+      <point x="1308" y="-67" type="line" smooth="yes"/>
+      <point x="1351" y="-117"/>
+      <point x="1375" y="-165"/>
+      <point x="1375" y="-218" type="curve" smooth="yes"/>
+      <point x="1375" y="-324"/>
+      <point x="1268" y="-368"/>
+      <point x="1136" y="-368" type="curve" smooth="yes"/>
+      <point x="1014" y="-368"/>
+      <point x="868" y="-321"/>
+      <point x="868" y="-225" type="curve"/>
+      <point x="868" y="-149"/>
+      <point x="934" y="-108"/>
+      <point x="1027" y="-104" type="curve"/>
+      <point x="1011" y="-73" type="line"/>
+      <point x="898" y="-84"/>
+      <point x="830" y="-135"/>
+      <point x="830" y="-224" type="curve"/>
+      <point x="830" y="-343"/>
+      <point x="989" y="-403"/>
+    </contour>
+    <contour>
+      <point x="714" y="49" type="curve" smooth="yes"/>
+      <point x="1097" y="49"/>
+      <point x="1310" y="133"/>
+      <point x="1310" y="366" type="curve" smooth="yes"/>
+      <point x="1310" y="368" type="line" smooth="yes"/>
+      <point x="1310" y="548"/>
+      <point x="1171" y="683"/>
+      <point x="875" y="683" type="curve"/>
+      <point x="898" y="661" type="line"/>
+      <point x="898" y="674" type="line"/>
+      <point x="1132" y="670"/>
+      <point x="1308" y="800"/>
+      <point x="1308" y="1115" type="curve" smooth="yes"/>
+      <point x="1308" y="1153" type="line"/>
+      <point x="1269" y="1153" type="line"/>
+      <point x="1269" y="1115" type="line" smooth="yes"/>
+      <point x="1269" y="862"/>
+      <point x="1140" y="693"/>
+      <point x="864" y="693" type="curve" smooth="yes"/>
+      <point x="228" y="693" type="line"/>
+      <point x="228" y="659" type="line"/>
+      <point x="864" y="659" type="line" smooth="yes"/>
+      <point x="1136" y="659"/>
+      <point x="1271" y="527"/>
+      <point x="1271" y="368" type="curve" smooth="yes"/>
+      <point x="1271" y="366" type="line" smooth="yes"/>
+      <point x="1271" y="157"/>
+      <point x="1073" y="84"/>
+      <point x="714" y="84" type="curve" smooth="yes"/>
+      <point x="463" y="84"/>
+      <point x="251" y="128"/>
+      <point x="97" y="212" type="curve"/>
+      <point x="107" y="167" type="line"/>
+      <point x="245" y="89"/>
+      <point x="453" y="49"/>
+    </contour>
+    <component base="_cap.shiro_left"/>
+    <component base="_cap.shiro_right" xOffset="1317"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_right</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

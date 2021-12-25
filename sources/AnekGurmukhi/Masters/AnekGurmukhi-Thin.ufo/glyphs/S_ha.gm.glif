@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sha.gm" format="2">
+  <advance width="1146"/>
+  <unicode hex="0A36"/>
+  <anchor x="1258" y="100" name="bottom"/>
+  <anchor x="1095" y="100" name="bottom1"/>
+  <anchor x="1058" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="185" y="104" type="curve"/>
+      <point x="223" y="104" type="line"/>
+      <point x="240" y="244"/>
+      <point x="253" y="392"/>
+      <point x="253" y="533" type="curve"/>
+      <point x="253" y="721"/>
+      <point x="241" y="949"/>
+      <point x="214" y="1193" type="curve"/>
+      <point x="33" y="1193" type="line"/>
+      <point x="34" y="1159" type="line"/>
+      <point x="181" y="1159" type="line"/>
+      <point x="205" y="925"/>
+      <point x="216" y="709"/>
+      <point x="216" y="531" type="curve"/>
+      <point x="216" y="395"/>
+      <point x="203" y="243"/>
+    </contour>
+    <contour>
+      <point x="236" y="471" type="line"/>
+      <point x="934" y="471" type="line"/>
+      <point x="934" y="505" type="line"/>
+      <point x="236" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="915" y="0" type="line"/>
+      <point x="952" y="0" type="line"/>
+      <point x="952" y="1159" type="line"/>
+      <point x="1136" y="1159" type="line"/>
+      <point x="1136" y="1193" type="line"/>
+      <point x="915" y="1193" type="line"/>
+      <point x="915" y="492" type="line"/>
+      <point x="915" y="489" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="1159" type="line"/>
+      <point x="932" y="1159" type="line"/>
+      <point x="932" y="1193" type="line"/>
+      <point x="197" y="1193" type="line"/>
+    </contour>
+    <contour>
+      <point x="585" y="121" type="curve" smooth="yes"/>
+      <point x="620" y="121"/>
+      <point x="637" y="141"/>
+      <point x="637" y="180" type="curve" smooth="yes"/>
+      <point x="637" y="190" type="line" smooth="yes"/>
+      <point x="637" y="228"/>
+      <point x="620" y="248"/>
+      <point x="585" y="248" type="curve" smooth="yes"/>
+      <point x="552" y="248"/>
+      <point x="534" y="228"/>
+      <point x="534" y="190" type="curve" smooth="yes"/>
+      <point x="534" y="180" type="line" smooth="yes"/>
+      <point x="534" y="141"/>
+      <point x="552" y="121"/>
+    </contour>
+    <component base="_cap.shiro_right" xOffset="951"/>
+    <component base="_cap.shiro_left"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_cap.shiro_right</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Kha.gm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

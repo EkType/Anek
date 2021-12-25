@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaViramaRa.gm" format="2">
+  <advance width="1262"/>
+  <anchor x="1192" y="-211" name="bottom"/>
+  <anchor x="1360" y="-259" name="bottom1"/>
+  <anchor x="1236" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="591" y="-323" type="line"/>
+      <point x="1016" y="-323" type="line"/>
+      <point x="1116" y="-257" type="line"/>
+      <point x="1136" y="-188"/>
+      <point x="1141" y="-110"/>
+      <point x="1141" y="-38" type="curve"/>
+      <point x="1141" y="19" type="line"/>
+      <point x="1141" y="306"/>
+      <point x="1044" y="484"/>
+      <point x="937" y="598" type="curve"/>
+      <point x="911" y="636" type="line"/>
+      <point x="816" y="784"/>
+      <point x="677" y="892"/>
+      <point x="465" y="892" type="curve" smooth="yes"/>
+      <point x="223" y="892"/>
+      <point x="94" y="773"/>
+      <point x="94" y="565" type="curve" smooth="yes"/>
+      <point x="94" y="520" type="line"/>
+      <point x="94" y="312"/>
+      <point x="232" y="196"/>
+      <point x="478" y="196" type="curve" smooth="yes"/>
+      <point x="689" y="196"/>
+      <point x="839" y="307"/>
+      <point x="922" y="460" type="curve"/>
+      <point x="945" y="500" type="line"/>
+      <point x="1056" y="653"/>
+      <point x="1115" y="829"/>
+      <point x="1135" y="1005" type="curve" smooth="yes"/>
+      <point x="1151" y="1143" type="line"/>
+      <point x="951" y="1141" type="line"/>
+      <point x="937" y="1013" type="line" smooth="yes"/>
+      <point x="920" y="861"/>
+      <point x="880" y="736"/>
+      <point x="826" y="630" type="curve"/>
+      <point x="826" y="578" type="line"/>
+      <point x="767" y="456"/>
+      <point x="651" y="354"/>
+      <point x="505" y="354" type="curve" smooth="yes"/>
+      <point x="360" y="354"/>
+      <point x="290" y="413"/>
+      <point x="290" y="522" type="curve" smooth="yes"/>
+      <point x="290" y="564" type="line" smooth="yes"/>
+      <point x="290" y="672"/>
+      <point x="359" y="734"/>
+      <point x="505" y="734" type="curve" smooth="yes"/>
+      <point x="656" y="734"/>
+      <point x="762" y="630"/>
+      <point x="825" y="517" type="curve"/>
+      <point x="840" y="466" type="line"/>
+      <point x="884" y="392"/>
+      <point x="949" y="232"/>
+      <point x="949" y="20" type="curve"/>
+      <point x="949" y="-33" type="line"/>
+      <point x="949" y="-100"/>
+      <point x="945" y="-159"/>
+      <point x="938" y="-197" type="curve"/>
+      <point x="971" y="-156" type="line"/>
+      <point x="591" y="-156" type="line"/>
+    </contour>
+    <contour>
+      <point x="1429" y="-603" type="curve"/>
+      <point x="1408" y="-415" type="line"/>
+      <point x="1312" y="-340"/>
+      <point x="1138" y="-235"/>
+      <point x="1014" y="-173" type="curve"/>
+      <point x="934" y="-294" type="line"/>
+      <point x="1084" y="-367"/>
+      <point x="1306" y="-508"/>
+    </contour>
+    <contour>
+      <point x="21" y="1072" type="line"/>
+      <point x="1266" y="1072" type="line"/>
+      <point x="1266" y="1218" type="line"/>
+      <point x="21" y="1218" type="line"/>
+    </contour>
+    <component base="_cap.shiro_left"/>
+    <component base="_cap.shiro_right" xOffset="1021"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_right</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

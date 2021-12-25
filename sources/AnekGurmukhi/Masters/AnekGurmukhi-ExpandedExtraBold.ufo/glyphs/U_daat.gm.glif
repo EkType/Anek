@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udaat.gm" format="2">
+  <unicode hex="0A51"/>
+  <anchor x="800" y="100" name="_bottom"/>
+  <anchor x="600" y="260" name="bottom1"/>
+  <outline>
+    <contour>
+      <point x="833" y="-621" type="curve"/>
+      <point x="833" y="-374" type="line"/>
+      <point x="639" y="-374"/>
+      <point x="564" y="-301"/>
+      <point x="564" y="-141" type="curve"/>
+      <point x="180" y="-141" type="line"/>
+      <point x="180" y="-447"/>
+      <point x="392" y="-621"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1400</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

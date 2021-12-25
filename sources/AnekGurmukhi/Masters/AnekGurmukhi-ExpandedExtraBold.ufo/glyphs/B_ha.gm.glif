@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Bha.gm" format="2">
+  <advance width="1621"/>
+  <unicode hex="0A2D"/>
+  <anchor x="1440" y="100" name="bottom"/>
+  <anchor x="1690" y="100" name="bottom1"/>
+  <anchor x="1739" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="718" y="-40" type="curve" smooth="yes"/>
+      <point x="1256" y="-40"/>
+      <point x="1536" y="90"/>
+      <point x="1536" y="340" type="curve" smooth="yes"/>
+      <point x="1536" y="349" type="line"/>
+      <point x="1536" y="500"/>
+      <point x="1391" y="618"/>
+      <point x="1201" y="636" type="curve"/>
+      <point x="1185" y="681" type="line"/>
+      <point x="1066" y="797"/>
+      <point x="856" y="866"/>
+      <point x="596" y="866" type="curve" smooth="yes"/>
+      <point x="323" y="866"/>
+      <point x="145" y="787"/>
+      <point x="145" y="616" type="curve"/>
+      <point x="145" y="615" type="line"/>
+      <point x="145" y="441"/>
+      <point x="331" y="360"/>
+      <point x="598" y="360" type="curve" smooth="yes"/>
+      <point x="895" y="360"/>
+      <point x="1080" y="429"/>
+      <point x="1195" y="527" type="curve"/>
+      <point x="1311" y="527" type="line"/>
+      <point x="1311" y="623" type="line"/>
+      <point x="1457" y="692"/>
+      <point x="1538" y="816"/>
+      <point x="1538" y="972" type="curve"/>
+      <point x="1538" y="1082" type="line"/>
+      <point x="1125" y="1082" type="line"/>
+      <point x="1125" y="988" type="line"/>
+      <point x="1125" y="838"/>
+      <point x="1061" y="767"/>
+      <point x="1004" y="726" type="curve"/>
+      <point x="1002" y="689" type="line"/>
+      <point x="915" y="600"/>
+      <point x="820" y="575"/>
+      <point x="680" y="575" type="curve" smooth="yes"/>
+      <point x="578" y="575"/>
+      <point x="531" y="587"/>
+      <point x="531" y="613" type="curve" smooth="yes"/>
+      <point x="531" y="614" type="line" smooth="yes"/>
+      <point x="531" y="639"/>
+      <point x="578" y="651"/>
+      <point x="680" y="651" type="curve" smooth="yes"/>
+      <point x="820" y="651"/>
+      <point x="892" y="628"/>
+      <point x="1002" y="557" type="curve"/>
+      <point x="1007" y="532" type="line"/>
+      <point x="1071" y="514"/>
+      <point x="1128" y="473"/>
+      <point x="1128" y="416" type="curve"/>
+      <point x="1128" y="415" type="line" smooth="yes"/>
+      <point x="1128" y="302"/>
+      <point x="984" y="243"/>
+      <point x="707" y="243" type="curve" smooth="yes"/>
+      <point x="475" y="243"/>
+      <point x="268" y="279"/>
+      <point x="110" y="342" type="curve"/>
+      <point x="131" y="42" type="line"/>
+      <point x="282" y="-7"/>
+      <point x="484" y="-40"/>
+    </contour>
+    <contour>
+      <point x="111" y="942" type="line"/>
+      <point x="1614" y="942" type="line"/>
+      <point x="1614" y="1221" type="line"/>
+      <point x="111" y="1221" type="line"/>
+    </contour>
+    <component base="_cap.shiro_left"/>
+    <component base="_cap.shiro_right" xOffset="1320"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_right</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

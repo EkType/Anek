@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NyaVirama.gm" format="2">
+  <advance width="1149"/>
+  <anchor x="1135" y="85" name="bottom"/>
+  <anchor x="1178" y="100" name="bottom1"/>
+  <anchor x="1072" y="1200" name="top"/>
+  <outline>
+    <component base="Nya.gm"/>
+    <component base="Virama.gm" xOffset="435" yOffset="-15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,484 @@
+# automatic
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z OE Agrave Aacute Acircumflex Atilde Aring Adieresis AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Germandbls ];
+
+@figures = [ zero one two three four five six seven eight nine ];
+
+@figures_denominator = [ zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom ];
+
+@figures_numerator = [ zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr ];
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem guru dflt;
+languagesystem gur2 dflt;
+
+feature aalt {
+# automatic
+feature subs;
+feature sinf;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature tnum;
+feature case;
+feature zero;
+feature nukt;
+feature akhn;
+feature blwf;
+feature pstf;
+feature abvs;
+feature blws;
+feature haln;
+
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb circumflexcomb dieresiscomb dotaccentcomb gravecomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb];
+	sub [i]' @CombiningTopAccents by [idotless];
+	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [idotless];
+	@Markscomb = [dieresiscomb gravecomb acutecomb circumflexcomb ringcomb tildecomb macroncomb cedillacomb];
+	@MarkscombCase = [dieresiscomb.case gravecomb.case acutecomb.case circumflexcomb.case ringcomb.case tildecomb.case macroncomb.case cedillacomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+lookup ccmp_latn_1 {
+	sub fi by f i;
+	sub fl by f l;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+
+} ccmp;
+
+feature subs {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+
+} subs;
+
+feature sinf {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+
+} sinf;
+
+feature sups {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub zero by zerosuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+
+} sups;
+
+feature numr {
+# automatic
+sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+
+} numr;
+
+feature dnom {
+# automatic
+sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+
+} dnom;
+
+feature frac {
+lookup FractionBar {
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures slash;
+        ignore sub slash @figures @figures slash';
+        ignore sub slash' @figures @figures slash;
+        ignore sub slash @figures slash';
+        ignore sub slash' @figures slash;
+        ignore sub slash slash';
+        ignore sub slash' slash;
+        sub @figures slash' @figures by fraction;
+    } FractionBar;
+    
+    lookup Numerator1 {
+        sub @figures' fraction by @figures_numerator;
+    } Numerator1;
+
+    lookup Numerator2 {
+        sub @figures' @figures_numerator fraction by @figures_numerator;
+    } Numerator2;
+
+    lookup Numerator3 {
+        sub @figures' @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator3;
+
+    lookup Numerator4 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator4;
+
+    lookup Numerator5 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator5;
+
+    lookup Numerator6 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator6;
+
+    lookup Numerator7 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator7;
+
+    lookup Numerator8 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator8;
+
+    lookup Numerator9 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator9;
+
+    lookup Numerator10 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator10;
+
+    lookup Denominator {
+        sub [fraction @figures_denominator] @figures' by @figures_denominator;
+    } Denominator;
+
+    sub @figures space' @figures_numerator by thinspace;
+
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+
+} ordn;
+
+feature tnum {
+# automatic
+sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+
+} tnum;
+
+feature case {
+# automatic
+sub dieresiscomb by dieresiscomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub macroncomb by macroncomb.case;
+sub cedillacomb by cedillacomb.case;
+
+} case;
+
+feature dlig {
+# automatic
+lookupflag IgnoreMarks;
+sub r t by r_t;
+
+} dlig;
+
+feature liga {
+# automatic
+lookupflag IgnoreMarks;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+sub f f by f_f;
+sub f i by fi;
+sub f l by fl;
+
+} liga;
+
+feature zero {
+# automatic
+sub zero by zero.zero;
+sub zero.tf by zero.tf.zero;
+
+} zero;
+
+feature nukt {
+script guru; #Gurmukhi
+lookup lookup1 {
+    sub Kha.gm Nukta.gm by Khha.gm;
+    sub Ga.gm Nukta.gm by Ghha.gm;
+    sub Sa.gm Nukta.gm by Sha.gm;
+    sub La.gm Nukta.gm by Lla.gm;
+    sub Ja.gm Nukta.gm by Za.gm;
+    sub Pha.gm Nukta.gm by Fa.gm;
+    sub Dda.gm Nukta.gm by Rra.gm;
+} lookup1;
+
+script gur2; #Gurmukhi v.2
+lookup lookup1;
+} nukt;
+
+feature akhn {
+  script guru;
+  sub Ka.gm RaVirama.gm by KaViramaRa.gm;
+  sub Na.gm RaVirama.gm by NaViramaRa.gm;
+  sub Rra.gm HaVirama.gm by Rha.gm;
+  sub Na.gm HaVirama.gm by NaHa.gm;
+  sub La.gm HaVirama.gm by LaHa.gm;
+  
+script gur2;
+  sub Ka.gm Virama.gm Ra.gm by KaViramaRa.gm;
+  sub Na.gm Virama.gm Ra.gm by NaViramaRa.gm;
+  sub Rra.gm Virama.gm Ha.gm by Rha.gm;
+  sub Na.gm Virama.gm Ha.gm by NaHa.gm;
+  sub La.gm Virama.gm Ha.gm by LaHa.gm;
+  
+} akhn;
+
+feature blwf {
+#Pairin forms of Ga, Ca, Tta, Ttha, Ta, Da, Na and Tha occur in rare cases in old manuscript texts. 
+
+
+script gur2;
+lookup lookup2 {
+  sub Virama.gm Ra.gm by PairinRa.gm;
+  sub Virama.gm Ha.gm by PairinHa.gm;
+  sub Virama.gm Va.gm by PairinVa.gm;
+} lookup2;
+
+script guru; 
+  sub Ra.gm Virama.gm by PairinRa.gm;
+  sub Ha.gm Virama.gm by PairinHa.gm;
+  sub Va.gm Virama.gm by PairinVa.gm;
+
+
+} blwf;
+
+feature pstf {
+#AddhaMa and AddhaTha forms occur in rare cases in old manuscript texts.
+
+script guru;
+  sub Ya.gm Virama.gm by AddhaYa.gm;
+  sub Ma.gm Virama.gm by AddhaMa.gm;
+  sub Tha.gm Virama.gm by AddhaTha.gm;
+
+script gur2;
+  sub Virama.gm Ya.gm by AddhaYa.gm;
+  sub Virama.gm Ma.gm by AddhaMa.gm;
+  sub Virama.gm Tha.gm by AddhaTha.gm;
+} pstf;
+
+feature abvs {
+script guru;
+lookup lookup3 {
+    sub MatraEe.gm Bindi.gm by MatraEeBindi.gm;
+    sub MatraAi.gm Bindi.gm by MatraAiBindi.gm;
+    sub MatraOo.gm Bindi.gm by MatraOoBindi.gm;
+    sub MatraAu.gm Bindi.gm by MatraAuBindi.gm;
+    sub MatraIi.gm Bindi.gm by MatraIiBindi.gm;
+    sub MatraEe.gm Addak.gm by MatraEeAddak.gm;
+    sub MatraAi.gm Addak.gm by MatraAiAddak.gm;
+    sub MatraOo.gm Addak.gm by MatraOoAddak.gm;
+    sub MatraAu.gm Addak.gm by MatraAuAddak.gm;
+    sub MatraEe.gm AddakBindi.gm by MatraEeAddakBindi.gm;
+    sub MatraAi.gm AddakBindi.gm by MatraAiAddakBindi.gm;
+    sub MatraOo.gm AddakBindi.gm by MatraOoAddakBindi.gm;
+    sub MatraAu.gm AddakBindi.gm by MatraAuAddakBindi.gm;
+  
+} lookup3;
+
+lookup lookup4 {
+  sub [Na.gm Ttha.gm] [MatraEe.gm MatraAi.gm MatraOo.gm MatraAu.gm]' by [MatraEe.gm.alt MatraAi.gm.alt MatraOo.gm.alt MatraAu.gm.alt];
+  sub [Na.gm Ttha.gm] [MatraEeBindi.gm MatraAiBindi.gm MatraOoBindi.gm MatraAuBindi.gm MatraEeAddak.gm MatraAiAddak.gm MatraOoAddak.gm MatraAuAddak.gm MatraEeAddakBindi.gm MatraAiAddakBindi.gm MatraOoAddakBindi.gm MatraAuAddakBindi.gm]' by [MatraEeBindi.gm.alt MatraAiBindi.gm.alt MatraOoBindi.gm.alt MatraAuBindi.gm.alt MatraEeAddak.gm.alt MatraAiAddak.gm.alt MatraOoAddak.gm.alt MatraAuAddak.gm.alt MatraEeAddakBindi.gm.alt MatraAiAddakBindi.gm.alt MatraOoAddakBindi.gm.alt MatraAuAddakBindi.gm.alt];
+  sub [VowelIi.gm VowelU.gm VowelUu.gm VowelEe.gm VowelAi.gm VowelOo.gm VowelAu.gm MatraIi.gm Ura.gm] [Bindi.gm Addak.gm AddakBindi.gm]' by [Bindi.gm.alt Addak.gm.alt AddakBindi.gm.alt];
+  sub Ta.gm MatraEe.gm' by MatraEeTa.gm;
+} lookup4;
+
+lookup lookup5 {
+  sub MatraEe.gm.alt Addak.gm by MatraEeAddak.gm.alt;
+  sub MatraAi.gm.alt Addak.gm by MatraAiAddak.gm.alt;
+  sub MatraOo.gm.alt Addak.gm by MatraOoAddak.gm.alt;
+  sub MatraAu.gm.alt Addak.gm by MatraAuAddak.gm.alt;
+  sub MatraEe.gm.alt AddakBindi.gm by MatraEeAddakBindi.gm.alt;
+  sub MatraAi.gm.alt AddakBindi.gm by MatraAiAddakBindi.gm.alt;
+  sub MatraOo.gm.alt AddakBindi.gm by MatraOoAddakBindi.gm.alt;
+  sub MatraAu.gm.alt AddakBindi.gm by MatraAuAddakBindi.gm.alt;
+} lookup5;
+
+lookup lookup6 {
+  sub [VowelIi.gm VowelU.gm VowelUu.gm VowelOo.gm VowelEe.gm VowelAi.gm VowelAu.gm] Tippi.gm' by Bindi.gm.alt;
+} lookup6;
+
+lookup lookup7 {
+  sub MatraI.gm [Ttha.gm Na.gm TthaVirama.gm NaVirama.gm] Tippi.gm' by TippiDist.gm;
+  sub MatraI.gm [Ttha.gm Na.gm TthaVirama.gm NaVirama.gm] Addak.gm' by AddakDist.gm;
+  sub MatraI.gm [Ttha.gm Na.gm TthaVirama.gm NaVirama.gm] AddakBindi.gm' by AddakBindiDist.gm;
+} lookup7;
+
+script gur2;
+lookup lookup3;
+lookup lookup4;
+lookup lookup5;
+lookup lookup6;
+lookup lookup7;
+
+} abvs;
+
+feature blws {
+script guru;
+lookup blws1 { #Half characters 
+  sub PairinRa.gm Virama.gm by PairinRaVirama.gm;
+  sub PairinHa.gm Virama.gm by PairinHaVirama.gm;
+  sub PairinVa.gm Virama.gm by PairinVaVirama.gm;
+  sub Yakash.gm Virama.gm by YakashVirama.gm;
+  sub Udaat.gm Virama.gm by UdaatVirama.gm;
+  sub PairinRa.gm MatraU.gm by PairinRaMatraU.gm;
+  sub PairinHa.gm MatraU.gm by PairinHaMatraU.gm;
+  sub PairinVa.gm MatraU.gm by PairinVaMatraU.gm;
+  sub Yakash.gm MatraU.gm by YakashMatraU.gm;
+  sub Udaat.gm MatraU.gm by UdaatMatraU.gm;
+  sub PairinRa.gm MatraUu.gm by PairinRaMatraUu.gm;
+  sub PairinHa.gm MatraUu.gm by PairinHaMatraUu.gm;
+  sub PairinVa.gm MatraUu.gm by PairinVaMatraUu.gm;
+  sub Yakash.gm MatraUu.gm by YakashMatraUu.gm;
+  sub Udaat.gm MatraUu.gm by UdaatMatraUu.gm;
+} blws1;
+
+
+script gur2;
+lookup blws1;
+
+} blws;
+
+feature haln {
+script guru; 
+lookup haln1 {
+  sub Ka.gm Virama.gm by KaVirama.gm;
+  sub Kha.gm Virama.gm by KhaVirama.gm;
+  sub Ga.gm Virama.gm by GaVirama.gm;
+  sub Gha.gm Virama.gm by GhaVirama.gm;
+  sub Nga.gm Virama.gm by NgaVirama.gm;
+  sub Ca.gm Virama.gm by CaVirama.gm;
+  sub Cha.gm Virama.gm by ChaVirama.gm;
+  sub Ja.gm Virama.gm by JaVirama.gm;
+  sub Jha.gm Virama.gm by JhaVirama.gm;
+  sub Nya.gm Virama.gm by NyaVirama.gm;
+  sub Tta.gm Virama.gm by TtaVirama.gm;
+  sub Ttha.gm Virama.gm by TthaVirama.gm;
+  sub Dda.gm Virama.gm by DdaVirama.gm;
+  sub Ddha.gm Virama.gm by DdhaVirama.gm;
+  sub Nna.gm Virama.gm by NnaVirama.gm;
+  sub Ta.gm Virama.gm by TaVirama.gm;
+  sub Tha.gm Virama.gm by ThaVirama.gm;
+  sub Da.gm Virama.gm by DaVirama.gm;
+  sub Dha.gm Virama.gm by DhaVirama.gm;
+  sub Na.gm Virama.gm by NaVirama.gm;
+  sub Pa.gm Virama.gm by PaVirama.gm;
+  sub Pha.gm Virama.gm by PhaVirama.gm;
+  sub Ba.gm Virama.gm by BaVirama.gm;
+  sub Bha.gm Virama.gm by BhaVirama.gm;
+  sub Ma.gm Virama.gm by MaVirama.gm;
+  sub Ya.gm Virama.gm by YaVirama.gm;
+  sub Ra.gm Virama.gm by RaVirama.gm;
+  sub La.gm Virama.gm by LaVirama.gm;
+  sub Lla.gm Virama.gm by LlaVirama.gm;
+  sub Va.gm Virama.gm by VaVirama.gm;
+  sub Sha.gm Virama.gm by ShaVirama.gm;
+  sub Sa.gm Virama.gm by SaVirama.gm;
+  sub Ha.gm Virama.gm by HaVirama.gm;
+  sub Khha.gm Virama.gm by KhhaVirama.gm;
+  sub Ghha.gm Virama.gm by GhhaVirama.gm;
+  sub Za.gm Virama.gm by ZaVirama.gm;
+  sub Rra.gm Virama.gm by RraVirama.gm;
+  sub Fa.gm Virama.gm by FaVirama.gm;
+} haln1;
+
+script gur2;
+lookup haln1;
+} haln;
+
+table GDEF {
+  # automatic
+  GlyphClassDef
+    [dollar A B C D E F G H I J K L M N O P Q R S T U V W X Y Z grave a b c d e f g h i k l m n o p q r s t u v w x y z OE oe cent yen Agrave Aacute Acircumflex Atilde Aring Adieresis AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis Germandbls idotless MatraAa.gm MatraIi.gm MatraIiAddak.gm MatraIiAddakBindi.gm MatraIiBindi.gm VowelA.gm VowelAa.gm VowelI.gm VowelIi.gm VowelU.gm VowelUu.gm VowelEe.gm VowelAi.gm VowelAu.gm Ka.gm Kha.gm Ga.gm Gha.gm Nga.gm Ca.gm Cha.gm Ja.gm Jha.gm Nya.gm Tta.gm Ttha.gm Dda.gm Ddha.gm Nna.gm Ta.gm Tha.gm Da.gm Dha.gm Na.gm Pa.gm Pha.gm Ba.gm Bha.gm Ma.gm Ya.gm Ra.gm La.gm Lla.gm Va.gm Sha.gm Sa.gm Ha.gm Khha.gm Ghha.gm Za.gm Rra.gm Fa.gm Iri.gm Ura.gm AddhaMa.gm AddhaTha.gm AddhaYa.gm Rha.gm KaVirama.gm KaViramaRa.gm NaViramaRa.gm KhaVirama.gm GaVirama.gm GhaVirama.gm NgaVirama.gm CaVirama.gm ChaVirama.gm JaVirama.gm JhaVirama.gm NyaVirama.gm TtaVirama.gm TthaVirama.gm DdaVirama.gm DdhaVirama.gm NnaVirama.gm TaVirama.gm ThaVirama.gm DaVirama.gm DhaVirama.gm NaVirama.gm PaVirama.gm PhaVirama.gm BaVirama.gm BhaVirama.gm MaVirama.gm YaVirama.gm RaVirama.gm LaVirama.gm LlaVirama.gm VaVirama.gm ShaVirama.gm SaVirama.gm HaVirama.gm KhhaVirama.gm GhhaVirama.gm ZaVirama.gm RraVirama.gm FaVirama.gm LaHa.gm NaHa.gm], # Base
+    [fi fl r_t f_f f_f_i f_f_l], # Liga
+    [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb ringcomb tildecomb macroncomb cedillacomb dieresiscomb.case gravecomb.case acutecomb.case circumflexcomb.case ringcomb.case tildecomb.case macroncomb.case cedillacomb.case dieresiscomb.narrow gravecomb.narrow acutecomb.narrow circumflexcomb.narrow tildecomb.narrow macroncomb.narrow Visarga.gm AddakBindi.gm Bindi.gm Nukta.gm MatraU.gm MatraUu.gm MatraEe.gm MatraAi.gm MatraOo.gm MatraAu.gm Virama.gm Virama.gm.alt Udaat.gm Tippi.gm Addak.gm Yakash.gm AddakBindi.gm.alt Addak.gm.alt Bindi.gm.alt MatraAi.gm.alt MatraAiAddak.gm MatraAiAddak.gm.alt MatraAiAddakBindi.gm MatraAiAddakBindi.gm.alt MatraAiBindi.gm MatraAiBindi.gm.alt MatraAu.gm.alt MatraAuAddak.gm MatraAuAddak.gm.alt MatraAuAddakBindi.gm MatraAuAddakBindi.gm.alt MatraAuBindi.gm MatraAuBindi.gm.alt MatraEe.gm.alt MatraEeAddak.gm MatraEeAddak.gm.alt MatraEeAddakBindi.gm MatraEeAddakBindi.gm.alt MatraEeBindi.gm MatraEeBindi.gm.alt MatraOo.gm.alt MatraOoAddak.gm MatraOoAddak.gm.alt MatraOoAddakBindi.gm MatraOoAddakBindi.gm.alt MatraOoBindi.gm MatraOoBindi.gm.alt MatraU.gm.alt MatraUu.gm.alt AddakBindiDist.gm AddakDist.gm TippiDist.gm PairinHa.gm PairinHaMatraU.gm PairinHaMatraUu.gm PairinHaVirama.gm PairinRa.gm PairinRaMatraU.gm PairinRaMatraUu.gm PairinRaVirama.gm UdaatMatraU.gm UdaatMatraUu.gm UdaatVirama.gm YakashMatraU.gm YakashMatraUu.gm YakashVirama.gm PairinVa.gm PairinVaMatraU.gm PairinVaMatraUu.gm PairinVaVirama.gm MatraEeTa.gm Nukta.gm.001], # Mark
+    ;
+  LigatureCaretByPos f_f 413;
+  LigatureCaretByPos f_f_i 363 725;
+  LigatureCaretByPos f_f_l 365 730;
+  LigatureCaretByPos fi 357;
+  LigatureCaretByPos fl 360;
+  LigatureCaretByPos r_t 406;
+} GDEF;

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yakash.gm" format="2">
+  <unicode hex="0A75"/>
+  <anchor x="600" y="100" name="_bottom"/>
+  <anchor x="600" y="400" name="bottom1"/>
+  <outline>
+    <contour>
+      <point x="473" y="-497" type="curve" smooth="yes"/>
+      <point x="704" y="-497"/>
+      <point x="803" y="-373"/>
+      <point x="803" y="-195" type="curve"/>
+      <point x="564" y="-195" type="line"/>
+      <point x="564" y="-253"/>
+      <point x="540" y="-284"/>
+      <point x="492" y="-284" type="curve" smooth="yes"/>
+      <point x="443" y="-284"/>
+      <point x="420" y="-253"/>
+      <point x="420" y="-203" type="curve" smooth="yes"/>
+      <point x="420" y="18" type="line"/>
+      <point x="120" y="18" type="line"/>
+      <point x="120" y="-203" type="line" smooth="yes"/>
+      <point x="120" y="-376"/>
+      <point x="219" y="-497"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1000</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

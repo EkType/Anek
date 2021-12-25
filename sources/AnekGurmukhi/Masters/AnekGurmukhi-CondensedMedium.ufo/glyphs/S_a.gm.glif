@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sa.gm" format="2">
+  <advance width="831"/>
+  <unicode hex="0A38"/>
+  <anchor x="931" y="100" name="bottom"/>
+  <anchor x="852" y="100" name="bottom1"/>
+  <anchor x="741" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="96" y="95" type="curve"/>
+      <point x="269" y="95" type="line"/>
+      <point x="285" y="240"/>
+      <point x="295" y="411"/>
+      <point x="295" y="602" type="curve"/>
+      <point x="295" y="802"/>
+      <point x="288" y="1018"/>
+      <point x="271" y="1238" type="curve"/>
+      <point x="34" y="1238" type="line"/>
+      <point x="34" y="1104" type="line"/>
+      <point x="109" y="1104" type="line"/>
+      <point x="120" y="918"/>
+      <point x="125" y="753"/>
+      <point x="125" y="599" type="curve"/>
+      <point x="125" y="419"/>
+      <point x="114" y="240"/>
+    </contour>
+    <contour>
+      <point x="213" y="422" type="line"/>
+      <point x="622" y="422" type="line"/>
+      <point x="622" y="572" type="line"/>
+      <point x="213" y="572" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="1104" type="line"/>
+      <point x="697" y="1104" type="line"/>
+      <point x="697" y="1238" type="line"/>
+      <point x="93" y="1238" type="line"/>
+    </contour>
+    <component base="_cap.shiro_left"/>
+    <component base="_danda" xOffset="365"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Kha.gm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>com.schriftgestaltung.componentsSmartComponentValues</key>
+      <array>
+        <dict>
+          <key>ShiroLength</key>
+          <integer>-2147483648</integer>
+        </dict>
+        <dict/>
+      </array>
+    </dict>
+  </lib>
+</glyph>

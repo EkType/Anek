@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraEe.gm" format="2">
+  <unicode hex="0A47"/>
+  <anchor x="600" y="1200" name="_top"/>
+  <anchor x="830" y="1375" name="top1"/>
+  <outline>
+    <contour>
+      <point x="295" y="1174" type="line"/>
+      <point x="405" y="1174" type="line"/>
+      <point x="356" y="1577"/>
+      <point x="132" y="1735"/>
+      <point x="-347" y="1735" type="curve"/>
+      <point x="-438" y="1735"/>
+      <point x="-514" y="1730"/>
+      <point x="-600" y="1720" type="curve"/>
+      <point x="-621" y="1539" type="line"/>
+      <point x="-534" y="1549"/>
+      <point x="-421" y="1554"/>
+      <point x="-366" y="1554" type="curve"/>
+      <point x="107" y="1554"/>
+      <point x="249" y="1406"/>
+      <point x="293" y="1184" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1400</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

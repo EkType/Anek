@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_danda" format="2">
+  <advance width="564"/>
+  <outline>
+    <contour>
+      <point x="184" y="0" type="line"/>
+      <point x="484" y="0" type="line"/>
+      <point x="484" y="1029" type="line"/>
+      <point x="521" y="1029" type="line"/>
+      <point x="521" y="1262" type="line"/>
+      <point x="184" y="1262" type="line"/>
+    </contour>
+    <component base="_cap.shiro_right" xOffset="231"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_cap.shiro_right</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

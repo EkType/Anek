@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AddhaMa.gm" format="2">
+  <advance width="1086"/>
+  <anchor x="1045" y="100" name="bottom1"/>
+  <anchor x="976" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="57" y="521" type="line"/>
+      <point x="854" y="521" type="line"/>
+      <point x="854" y="554" type="line"/>
+      <point x="57" y="554" type="line"/>
+    </contour>
+    <component base="_danda" xOffset="661"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Kha.gm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

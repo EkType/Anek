@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tha.gm" format="2">
+  <advance width="1026"/>
+  <unicode hex="0A25"/>
+  <anchor x="1126" y="100" name="bottom"/>
+  <anchor x="1060" y="100" name="bottom1"/>
+  <anchor x="948" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="275" y="598" type="line"/>
+      <point x="807" y="598" type="line"/>
+      <point x="807" y="857" type="line"/>
+      <point x="275" y="857" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="1029" type="line"/>
+      <point x="275" y="1029" type="line"/>
+      <point x="285" y="1049" type="line"/>
+      <point x="812" y="1049" type="line"/>
+      <point x="818" y="1030" type="line"/>
+      <point x="856" y="1030" type="line"/>
+      <point x="856" y="1262" type="line"/>
+      <point x="219" y="1262" type="line"/>
+    </contour>
+    <contour>
+      <point x="423" y="160" type="curve" smooth="yes"/>
+      <point x="487" y="160"/>
+      <point x="540" y="170"/>
+      <point x="581" y="189" type="curve"/>
+      <point x="641" y="381" type="line"/>
+      <point x="667" y="381" type="line"/>
+      <point x="652" y="458" type="line"/>
+      <point x="623" y="438"/>
+      <point x="582" y="418"/>
+      <point x="511" y="418" type="curve" smooth="yes"/>
+      <point x="436" y="418"/>
+      <point x="372" y="449"/>
+      <point x="353" y="502" type="curve"/>
+      <point x="359" y="453" type="line"/>
+      <point x="394" y="589"/>
+      <point x="410" y="761"/>
+      <point x="410" y="945" type="curve" smooth="yes"/>
+      <point x="410" y="1049"/>
+      <point x="404" y="1156"/>
+      <point x="393" y="1262" type="curve"/>
+      <point x="34" y="1262" type="line"/>
+      <point x="34" y="1029" type="line"/>
+      <point x="98" y="1029" type="line"/>
+      <point x="102" y="974"/>
+      <point x="104" y="920"/>
+      <point x="104" y="868" type="curve" smooth="yes"/>
+      <point x="104" y="685"/>
+      <point x="82" y="516"/>
+      <point x="40" y="401" type="curve"/>
+      <point x="93" y="249"/>
+      <point x="248" y="160"/>
+    </contour>
+    <component base="_danda" xOffset="462"/>
+    <component base="_cap.shiro_left"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Kha.gm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

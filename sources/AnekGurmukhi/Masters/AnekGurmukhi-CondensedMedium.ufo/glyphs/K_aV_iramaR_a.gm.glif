@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaViramaRa.gm" format="2">
+  <advance width="830"/>
+  <anchor x="820" y="-175" name="bottom"/>
+  <anchor x="904" y="-178" name="bottom1"/>
+  <anchor x="785" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="309" y="-277" type="line"/>
+      <point x="655" y="-277" type="line"/>
+      <point x="722" y="-187" type="line"/>
+      <point x="741" y="-117"/>
+      <point x="747" y="-37"/>
+      <point x="747" y="38" type="curve"/>
+      <point x="747" y="109" type="line"/>
+      <point x="747" y="359"/>
+      <point x="692" y="505"/>
+      <point x="615" y="611" type="curve"/>
+      <point x="563" y="682" type="line"/>
+      <point x="525" y="801"/>
+      <point x="465" y="919"/>
+      <point x="319" y="919" type="curve" smooth="yes"/>
+      <point x="160" y="919"/>
+      <point x="71" y="808"/>
+      <point x="71" y="610" type="curve" smooth="yes"/>
+      <point x="71" y="523" type="line"/>
+      <point x="71" y="329"/>
+      <point x="165" y="221"/>
+      <point x="331" y="221" type="curve" smooth="yes"/>
+      <point x="458" y="221"/>
+      <point x="533" y="342"/>
+      <point x="572" y="466" type="curve"/>
+      <point x="616" y="536" type="line"/>
+      <point x="710" y="710"/>
+      <point x="735" y="876"/>
+      <point x="743" y="1029" type="curve" smooth="yes"/>
+      <point x="751" y="1177" type="line"/>
+      <point x="576" y="1175" type="line"/>
+      <point x="570" y="1039" type="line" smooth="yes"/>
+      <point x="563" y="882"/>
+      <point x="543" y="790"/>
+      <point x="505" y="669" type="curve"/>
+      <point x="508" y="578" type="line"/>
+      <point x="482" y="491"/>
+      <point x="448" y="369"/>
+      <point x="362" y="369" type="curve" smooth="yes"/>
+      <point x="284" y="369"/>
+      <point x="246" y="424"/>
+      <point x="246" y="528" type="curve" smooth="yes"/>
+      <point x="246" y="611" type="line" smooth="yes"/>
+      <point x="246" y="716"/>
+      <point x="284" y="771"/>
+      <point x="362" y="771" type="curve" smooth="yes"/>
+      <point x="446" y="771"/>
+      <point x="485" y="659"/>
+      <point x="508" y="571" type="curve"/>
+      <point x="521" y="486" type="line"/>
+      <point x="544" y="420"/>
+      <point x="579" y="293"/>
+      <point x="579" y="109" type="curve"/>
+      <point x="579" y="42" type="line"/>
+      <point x="579" y="-44"/>
+      <point x="574" y="-113"/>
+      <point x="568" y="-159" type="curve"/>
+      <point x="597" y="-125" type="line"/>
+      <point x="321" y="-125" type="line"/>
+    </contour>
+    <contour>
+      <point x="945" y="-491" type="curve"/>
+      <point x="935" y="-324" type="line"/>
+      <point x="865" y="-264"/>
+      <point x="725" y="-178"/>
+      <point x="634" y="-140" type="curve"/>
+      <point x="551" y="-240" type="line"/>
+      <point x="663" y="-290"/>
+      <point x="870" y="-424"/>
+    </contour>
+    <contour>
+      <point x="19" y="1104" type="line"/>
+      <point x="824" y="1104" type="line"/>
+      <point x="824" y="1238" type="line"/>
+      <point x="19" y="1238" type="line"/>
+    </contour>
+    <component base="_cap.shiro_left"/>
+    <component base="_cap.shiro_right" xOffset="573"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_right</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>com.schriftgestaltung.componentsSmartComponentValues</key>
+      <array>
+        <dict>
+          <key>ShiroLength</key>
+          <integer>-2147483648</integer>
+        </dict>
+        <dict>
+          <key>ShiroLength</key>
+          <integer>-2147483648</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

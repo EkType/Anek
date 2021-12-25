@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghha.gm" format="2">
+  <advance width="1492"/>
+  <unicode hex="0A5A"/>
+  <anchor x="1592" y="100" name="bottom"/>
+  <anchor x="1374" y="100" name="bottom1"/>
+  <anchor x="1392" y="1200" name="top"/>
+  <outline>
+    <component base="Ga.gm"/>
+    <component base="Nukta.gm" xOffset="431" yOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

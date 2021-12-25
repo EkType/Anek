@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.gm" format="2">
+  <advance width="535"/>
+  <unicode hex="0A66"/>
+  <outline>
+    <contour>
+      <point x="277" y="182" type="curve" smooth="yes"/>
+      <point x="399" y="182"/>
+      <point x="466" y="269"/>
+      <point x="466" y="421" type="curve" smooth="yes"/>
+      <point x="466" y="841" type="line" smooth="yes"/>
+      <point x="466" y="994"/>
+      <point x="399" y="1080"/>
+      <point x="277" y="1080" type="curve" smooth="yes"/>
+      <point x="155" y="1080"/>
+      <point x="88" y="994"/>
+      <point x="88" y="841" type="curve" smooth="yes"/>
+      <point x="88" y="421" type="line" smooth="yes"/>
+      <point x="88" y="269"/>
+      <point x="155" y="182"/>
+    </contour>
+    <contour>
+      <point x="277" y="217" type="curve" smooth="yes"/>
+      <point x="177" y="217"/>
+      <point x="125" y="286"/>
+      <point x="125" y="421" type="curve" smooth="yes"/>
+      <point x="125" y="841" type="line" smooth="yes"/>
+      <point x="125" y="976"/>
+      <point x="177" y="1045"/>
+      <point x="277" y="1045" type="curve" smooth="yes"/>
+      <point x="367" y="1045"/>
+      <point x="429" y="976"/>
+      <point x="429" y="841" type="curve" smooth="yes"/>
+      <point x="429" y="421" type="line" smooth="yes"/>
+      <point x="429" y="286"/>
+      <point x="367" y="217"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

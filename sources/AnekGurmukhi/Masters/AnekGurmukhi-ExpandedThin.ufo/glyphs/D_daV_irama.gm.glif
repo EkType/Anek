@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DdaVirama.gm" format="2">
+  <advance width="1571"/>
+  <anchor x="1431" y="100" name="bottom"/>
+  <anchor x="1420" y="100" name="bottom1"/>
+  <anchor x="1551" y="1200" name="top"/>
+  <outline>
+    <component base="Dda.gm"/>
+    <component base="Virama.gm" xOffset="631"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

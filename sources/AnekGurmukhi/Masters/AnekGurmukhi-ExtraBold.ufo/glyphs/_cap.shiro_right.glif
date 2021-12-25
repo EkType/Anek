@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_cap.shiro_right" format="2">
+  <advance width="317"/>
+  <outline>
+    <contour>
+      <point x="181" y="986" type="line"/>
+      <point x="332" y="986" type="line"/>
+      <point x="352" y="1242" type="line"/>
+      <point x="181" y="1242" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>ShiroLength</key>
+        <integer>1</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ShiroLength</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>100</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

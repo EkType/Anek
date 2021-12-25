@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Doubledanda.gm" format="2">
+  <advance width="1162"/>
+  <unicode hex="0965"/>
+  <outline>
+    <contour>
+      <point x="680" y="0" type="line"/>
+      <point x="1017" y="0" type="line"/>
+      <point x="1017" y="1244" type="line"/>
+      <point x="680" y="1244" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="0" type="line"/>
+      <point x="482" y="0" type="line"/>
+      <point x="482" y="1244" type="line"/>
+      <point x="145" y="1244" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

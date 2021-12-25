@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="PairinVa.gm" format="2">
+  <anchor x="700" y="100" name="_bottom"/>
+  <anchor x="600" y="120" name="bottom1"/>
+  <outline>
+    <contour>
+      <point x="-23" y="-500" type="curve" smooth="yes"/>
+      <point x="452" y="-500" type="line"/>
+      <point x="452" y="-334" type="line"/>
+      <point x="28" y="-334" type="line" smooth="yes"/>
+      <point x="-6" y="-334"/>
+      <point x="-24" y="-322"/>
+      <point x="-24" y="-300" type="curve" smooth="yes"/>
+      <point x="-24" y="-274"/>
+      <point x="-5" y="-264"/>
+      <point x="27" y="-264" type="curve" smooth="yes"/>
+      <point x="492" y="-264" type="line"/>
+      <point x="492" y="57" type="line"/>
+      <point x="150" y="57" type="line"/>
+      <point x="150" y="-92" type="line"/>
+      <point x="-24" y="-92" type="line" smooth="yes"/>
+      <point x="-194" y="-92"/>
+      <point x="-281" y="-165"/>
+      <point x="-281" y="-292" type="curve" smooth="yes"/>
+      <point x="-281" y="-424"/>
+      <point x="-184" y="-500"/>
+    </contour>
+    <contour>
+      <point x="348" y="-750" type="curve" smooth="yes"/>
+      <point x="407" y="-750"/>
+      <point x="441" y="-744"/>
+      <point x="489" y="-731" type="curve"/>
+      <point x="505" y="-555" type="line"/>
+      <point x="460" y="-566"/>
+      <point x="425" y="-571"/>
+      <point x="376" y="-571" type="curve" smooth="yes"/>
+      <point x="264" y="-571"/>
+      <point x="203" y="-543"/>
+      <point x="189" y="-439" type="curve"/>
+      <point x="-71" y="-426" type="line"/>
+      <point x="-12" y="-667"/>
+      <point x="129" y="-750"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1200</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

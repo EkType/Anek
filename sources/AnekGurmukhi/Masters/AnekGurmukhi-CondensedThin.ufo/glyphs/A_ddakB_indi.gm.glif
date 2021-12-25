@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AddakBindi.gm" format="2">
+  <unicode hex="0A01"/>
+  <anchor x="404" y="1234" name="_top"/>
+  <outline>
+    <contour>
+      <point x="341" y="1491" type="curve" smooth="yes"/>
+      <point x="367" y="1491"/>
+      <point x="378" y="1510"/>
+      <point x="378" y="1550" type="curve" smooth="yes"/>
+      <point x="378" y="1566" type="line" smooth="yes"/>
+      <point x="378" y="1606"/>
+      <point x="367" y="1624"/>
+      <point x="341" y="1624" type="curve" smooth="yes"/>
+      <point x="315" y="1624"/>
+      <point x="304" y="1606"/>
+      <point x="304" y="1566" type="curve" smooth="yes"/>
+      <point x="304" y="1550" type="line" smooth="yes"/>
+      <point x="304" y="1510"/>
+      <point x="315" y="1491"/>
+    </contour>
+    <component base="Addak.gm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Addak.gm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1000</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

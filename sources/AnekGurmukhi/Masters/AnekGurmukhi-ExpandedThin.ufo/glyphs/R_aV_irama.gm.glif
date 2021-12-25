@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="RaVirama.gm" format="2">
+  <advance width="1670"/>
+  <anchor x="1520" y="100" name="bottom"/>
+  <anchor x="1519" y="100" name="bottom1"/>
+  <anchor x="1592" y="1200" name="top"/>
+  <outline>
+    <component base="Ra.gm"/>
+    <component base="Virama.gm" xOffset="720"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

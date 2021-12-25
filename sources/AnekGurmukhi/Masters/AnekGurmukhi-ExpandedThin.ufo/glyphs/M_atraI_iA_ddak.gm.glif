@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraIiAddak.gm" format="2">
+  <advance width="571"/>
+  <anchor x="838" y="1348" name="top1"/>
+  <outline>
+    <component base="MatraIi.gm"/>
+    <component base="Addak.gm.alt" xOffset="238" yOffset="148"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

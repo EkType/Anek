@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AddhaTha.gm" format="2">
+  <advance width="1069"/>
+  <anchor x="1025" y="100" name="bottom1"/>
+  <anchor x="959" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="443" y="267" type="curve" smooth="yes"/>
+      <point x="583" y="267"/>
+      <point x="727" y="288"/>
+      <point x="838" y="331" type="curve"/>
+      <point x="838" y="366" type="line"/>
+      <point x="727" y="323"/>
+      <point x="583" y="302"/>
+      <point x="443" y="302" type="curve" smooth="yes"/>
+      <point x="309" y="302"/>
+      <point x="169" y="324"/>
+      <point x="57" y="367" type="curve"/>
+      <point x="57" y="329" type="line"/>
+      <point x="169" y="288"/>
+      <point x="309" y="267"/>
+    </contour>
+    <contour>
+      <point x="19" y="1159" type="line"/>
+      <point x="888" y="1159" type="line"/>
+      <point x="888" y="1193" type="line"/>
+      <point x="19" y="1193" type="line"/>
+    </contour>
+    <component base="_danda" xOffset="644"/>
+    <component base="_cap.shiro_left"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Kha.gm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

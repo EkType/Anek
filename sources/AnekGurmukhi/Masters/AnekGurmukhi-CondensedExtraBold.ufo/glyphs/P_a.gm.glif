@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pa.gm" format="2">
+  <advance width="988"/>
+  <unicode hex="0A2A"/>
+  <anchor x="1088" y="100" name="bottom"/>
+  <anchor x="1025" y="100" name="bottom1"/>
+  <anchor x="910" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="407" y="160" type="curve" smooth="yes"/>
+      <point x="461" y="160"/>
+      <point x="505" y="167"/>
+      <point x="539" y="183" type="curve"/>
+      <point x="601" y="381" type="line"/>
+      <point x="627" y="381" type="line"/>
+      <point x="612" y="458" type="line"/>
+      <point x="587" y="438"/>
+      <point x="552" y="418"/>
+      <point x="491" y="418" type="curve" smooth="yes"/>
+      <point x="426" y="418"/>
+      <point x="370" y="449"/>
+      <point x="353" y="502" type="curve"/>
+      <point x="359" y="453" type="line"/>
+      <point x="394" y="589"/>
+      <point x="410" y="761"/>
+      <point x="410" y="945" type="curve" smooth="yes"/>
+      <point x="410" y="1049"/>
+      <point x="404" y="1156"/>
+      <point x="393" y="1262" type="curve"/>
+      <point x="34" y="1262" type="line"/>
+      <point x="34" y="1029" type="line"/>
+      <point x="98" y="1029" type="line"/>
+      <point x="102" y="974"/>
+      <point x="104" y="920"/>
+      <point x="104" y="868" type="curve" smooth="yes"/>
+      <point x="104" y="685"/>
+      <point x="82" y="516"/>
+      <point x="40" y="401" type="curve"/>
+      <point x="91" y="249"/>
+      <point x="239" y="160"/>
+    </contour>
+    <component base="_danda" xOffset="424"/>
+    <component base="_cap.shiro_left"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Kha.gm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

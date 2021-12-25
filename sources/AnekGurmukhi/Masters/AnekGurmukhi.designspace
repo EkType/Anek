@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="500">
+      <map input="100" output="100"/>
+      <map input="200" output="206"/>
+      <map input="300" output="312"/>
+      <map input="400" output="414"/>
+      <map input="500" output="500"/>
+      <map input="600" output="615"/>
+      <map input="700" output="709"/>
+      <map input="800" output="800"/>
+    </axis>
+    <axis tag="wdth" name="Width" minimum="75" maximum="125" default="100"/>
+  </axes>
+  <sources>
+    <source filename="AnekGurmukhi-CondensedThin.ufo" name="Anek Gurmukhi Condensed Thin" familyname="Anek Gurmukhi" stylename="Condensed Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekGurmukhi-CondensedMedium.ufo" name="Anek Gurmukhi Condensed Medium" familyname="Anek Gurmukhi" stylename="Condensed Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekGurmukhi-CondensedExtraBold.ufo" name="Anek Gurmukhi Condensed ExtraBold" familyname="Anek Gurmukhi" stylename="Condensed ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekGurmukhi-Thin.ufo" name="Anek Gurmukhi Thin" familyname="Anek Gurmukhi" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekGurmukhi-Medium.ufo" name="Anek Gurmukhi Medium" familyname="Anek Gurmukhi" stylename="Medium">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekGurmukhi-ExtraBold.ufo" name="Anek Gurmukhi ExtraBold" familyname="Anek Gurmukhi" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekGurmukhi-ExpandedThin.ufo" name="Anek Gurmukhi Expanded Thin" familyname="Anek Gurmukhi" stylename="Expanded Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+    <source filename="AnekGurmukhi-ExpandedMedium.ufo" name="Anek Gurmukhi Expanded Medium" familyname="Anek Gurmukhi" stylename="Expanded Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+    <source filename="AnekGurmukhi-ExpandedExtraBold.ufo" name="Anek Gurmukhi Expanded ExtraBold" familyname="Anek Gurmukhi" stylename="Expanded ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Anek Gurmukhi Condensed Thin" familyname="Anek Gurmukhi" stylename="Condensed Thin" filename="instance_ufo/AnekGurmukhi-CondensedThin.ufo" stylemapfamilyname="Anek Gurmukhi Condensed Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Condensed ExtraLight" familyname="Anek Gurmukhi" stylename="Condensed ExtraLight" filename="instance_ufo/AnekGurmukhi-CondensedExtraLight.ufo" stylemapfamilyname="Anek Gurmukhi Condensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Condensed Light" familyname="Anek Gurmukhi" stylename="Condensed Light" filename="instance_ufo/AnekGurmukhi-CondensedLight.ufo" stylemapfamilyname="Anek Gurmukhi Condensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Condensed" familyname="Anek Gurmukhi" stylename="Condensed" filename="instance_ufo/AnekGurmukhi-Condensed.ufo" stylemapfamilyname="Anek Gurmukhi Condensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Condensed Medium" familyname="Anek Gurmukhi" stylename="Condensed Medium" filename="instance_ufo/AnekGurmukhi-CondensedMedium.ufo" stylemapfamilyname="Anek Gurmukhi Condensed Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Condensed SemiBold" familyname="Anek Gurmukhi" stylename="Condensed SemiBold" filename="instance_ufo/AnekGurmukhi-CondensedSemiBold.ufo" stylemapfamilyname="Anek Gurmukhi Condensed SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Condensed Bold" familyname="Anek Gurmukhi" stylename="Condensed Bold" filename="instance_ufo/AnekGurmukhi-CondensedBold.ufo" stylemapfamilyname="Anek Gurmukhi Condensed Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Condensed ExtraBold" familyname="Anek Gurmukhi" stylename="Condensed ExtraBold" filename="instance_ufo/AnekGurmukhi-CondensedExtraBold.ufo" stylemapfamilyname="Anek Gurmukhi Condensed ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiCondensed Thin" familyname="Anek Gurmukhi" stylename="SemiCondensed Thin" filename="instance_ufo/AnekGurmukhi-SemiCondensedThin.ufo" stylemapfamilyname="Anek Gurmukhi SemiCondensed Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiCondensed ExtraLight" familyname="Anek Gurmukhi" stylename="SemiCondensed ExtraLight" filename="instance_ufo/AnekGurmukhi-SemiCondensedExtraLight.ufo" stylemapfamilyname="Anek Gurmukhi SemiCondensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiCondensed Light" familyname="Anek Gurmukhi" stylename="SemiCondensed Light" filename="instance_ufo/AnekGurmukhi-SemiCondensedLight.ufo" stylemapfamilyname="Anek Gurmukhi SemiCondensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiCondensed" familyname="Anek Gurmukhi" stylename="SemiCondensed" filename="instance_ufo/AnekGurmukhi-SemiCondensed.ufo" stylemapfamilyname="Anek Gurmukhi SemiCondensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiCondensed Medium" familyname="Anek Gurmukhi" stylename="SemiCondensed Medium" filename="instance_ufo/AnekGurmukhi-SemiCondensedMedium.ufo" stylemapfamilyname="Anek Gurmukhi SemiCondensed Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiCondensed SemiBold" familyname="Anek Gurmukhi" stylename="SemiCondensed SemiBold" filename="instance_ufo/AnekGurmukhi-SemiCondensedSemiBold.ufo" stylemapfamilyname="Anek Gurmukhi SemiCondensed Regular" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiCondensed Bold" familyname="Anek Gurmukhi" stylename="SemiCondensed Bold" filename="instance_ufo/AnekGurmukhi-SemiCondensedBold.ufo" stylemapfamilyname="Anek Gurmukhi SemiCondensed Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiCondensed ExtraBold" familyname="Anek Gurmukhi" stylename="SemiCondensed ExtraBold" filename="instance_ufo/AnekGurmukhi-SemiCondensedExtraBold.ufo" stylemapfamilyname="Anek Gurmukhi SemiCondensed ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Thin" familyname="Anek Gurmukhi" stylename="Thin" filename="instance_ufo/AnekGurmukhi-Thin.ufo" stylemapfamilyname="Anek Gurmukhi Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi ExtraLight" familyname="Anek Gurmukhi" stylename="ExtraLight" filename="instance_ufo/AnekGurmukhi-ExtraLight.ufo" stylemapfamilyname="Anek Gurmukhi ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Light" familyname="Anek Gurmukhi" stylename="Light" filename="instance_ufo/AnekGurmukhi-Light.ufo" stylemapfamilyname="Anek Gurmukhi Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Regular" familyname="Anek Gurmukhi" stylename="Regular" filename="instance_ufo/AnekGurmukhi-Regular.ufo" stylemapfamilyname="Anek Gurmukhi" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Medium" familyname="Anek Gurmukhi" stylename="Medium" filename="instance_ufo/AnekGurmukhi-Medium.ufo" stylemapfamilyname="Anek Gurmukhi Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiBold" familyname="Anek Gurmukhi" stylename="SemiBold" filename="instance_ufo/AnekGurmukhi-SemiBold.ufo" stylemapfamilyname="Anek Gurmukhi SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Bold" familyname="Anek Gurmukhi" stylename="Bold" filename="instance_ufo/AnekGurmukhi-Bold.ufo" stylemapfamilyname="Anek Gurmukhi" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi ExtraBold" familyname="Anek Gurmukhi" stylename="ExtraBold" filename="instance_ufo/AnekGurmukhi-ExtraBold.ufo" stylemapfamilyname="Anek Gurmukhi ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiExpanded Thin" familyname="Anek Gurmukhi" stylename="SemiExpanded Thin" filename="instance_ufo/AnekGurmukhi-SemiExpandedThin.ufo" stylemapfamilyname="Anek Gurmukhi SemiExpanded Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiExpanded ExtraLight" familyname="Anek Gurmukhi" stylename="SemiExpanded ExtraLight" filename="instance_ufo/AnekGurmukhi-SemiExpandedExtraLight.ufo" stylemapfamilyname="Anek Gurmukhi SemiExpanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiExpanded Light" familyname="Anek Gurmukhi" stylename="SemiExpanded Light" filename="instance_ufo/AnekGurmukhi-SemiExpandedLight.ufo" stylemapfamilyname="Anek Gurmukhi SemiExpanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiExpanded" familyname="Anek Gurmukhi" stylename="SemiExpanded" filename="instance_ufo/AnekGurmukhi-SemiExpanded.ufo" stylemapfamilyname="Anek Gurmukhi SemiExpanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiExpanded Medium" familyname="Anek Gurmukhi" stylename="SemiExpanded Medium" filename="instance_ufo/AnekGurmukhi-SemiExpandedMedium.ufo" stylemapfamilyname="Anek Gurmukhi SemiExpanded Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiExpanded SemiBold" familyname="Anek Gurmukhi" stylename="SemiExpanded SemiBold" filename="instance_ufo/AnekGurmukhi-SemiExpandedSemiBold.ufo" stylemapfamilyname="Anek Gurmukhi SemiExpanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiExpanded Bold" familyname="Anek Gurmukhi" stylename="SemiExpanded Bold" filename="instance_ufo/AnekGurmukhi-SemiExpandedBold.ufo" stylemapfamilyname="Anek Gurmukhi SemiExpanded Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi SemiExpanded ExtraBold" familyname="Anek Gurmukhi" stylename="SemiExpanded ExtraBold" filename="instance_ufo/AnekGurmukhi-SemiExpandedExtraBold.ufo" stylemapfamilyname="Anek Gurmukhi SemiExpanded ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Expanded Thin" familyname="Anek Gurmukhi" stylename="Expanded Thin" filename="instance_ufo/AnekGurmukhi-ExpandedThin.ufo" stylemapfamilyname="Anek Gurmukhi Expanded Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Expanded ExtraLight" familyname="Anek Gurmukhi" stylename="Expanded ExtraLight" filename="instance_ufo/AnekGurmukhi-ExpandedExtraLight.ufo" stylemapfamilyname="Anek Gurmukhi Expanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Expanded Light" familyname="Anek Gurmukhi" stylename="Expanded Light" filename="instance_ufo/AnekGurmukhi-ExpandedLight.ufo" stylemapfamilyname="Anek Gurmukhi Expanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Expanded" familyname="Anek Gurmukhi" stylename="Expanded" filename="instance_ufo/AnekGurmukhi-Expanded.ufo" stylemapfamilyname="Anek Gurmukhi Expanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Expanded Medium" familyname="Anek Gurmukhi" stylename="Expanded Medium" filename="instance_ufo/AnekGurmukhi-ExpandedMedium.ufo" stylemapfamilyname="Anek Gurmukhi Expanded Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Expanded SemiBold" familyname="Anek Gurmukhi" stylename="Expanded SemiBold" filename="instance_ufo/AnekGurmukhi-ExpandedSemiBold.ufo" stylemapfamilyname="Anek Gurmukhi Expanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Expanded Bold" familyname="Anek Gurmukhi" stylename="Expanded Bold" filename="instance_ufo/AnekGurmukhi-ExpandedBold.ufo" stylemapfamilyname="Anek Gurmukhi Expanded Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Gurmukhi Expanded ExtraBold" familyname="Anek Gurmukhi" stylename="Expanded ExtraBold" filename="instance_ufo/AnekGurmukhi-ExpandedExtraBold.ufo" stylemapfamilyname="Anek Gurmukhi Expanded ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>97B58FCF-3A12-4579-9B1E-E0D00032C06B</key>
+        <dict>
+          <key>HH</key>
+          <string>34</string>
+          <key>HV</key>
+          <string>37</string>
+          <key>OH</key>
+          <string>35</string>
+          <key>OV</key>
+          <string>38</string>
+          <key>oH</key>
+          <string>35</string>
+          <key>oV</key>
+          <string>38</string>
+        </dict>
+      </dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>_EEmatra</string>
+        <string>_Ematra</string>
+        <string>_cap.shiro_left</string>
+        <string>_cap.shiro_right</string>
+        <string>_danda</string>
+        <string>_danda001</string>
+        <string>_part.shiro</string>
+        <string>jbottom</string>
+      </array>
+    </dict>
+  </lib>
+  <rules>
+  <rule>
+   <!-- Latin Lighter Variants -->
+   <sub with="question_alt" name="question"/>
+   <conditionset>
+    <condition name="Weight" maximum="450" minimum="100"/>
+    <condition name="Width" maximum="125" minimum="75"/>
+   </conditionset>
+  </rule>
+  </rules>
+</designspace>

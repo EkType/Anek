@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AddhaTha.gm" format="2">
+  <advance width="804"/>
+  <anchor x="815" y="100" name="bottom1"/>
+  <anchor x="724" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="285" y="220" type="curve" smooth="yes"/>
+      <point x="373" y="220"/>
+      <point x="467" y="239"/>
+      <point x="534" y="275" type="curve"/>
+      <point x="534" y="421" type="line"/>
+      <point x="467" y="385"/>
+      <point x="373" y="366"/>
+      <point x="285" y="366" type="curve" smooth="yes"/>
+      <point x="196" y="366"/>
+      <point x="99" y="386"/>
+      <point x="28" y="422" type="curve"/>
+      <point x="28" y="273" type="line"/>
+      <point x="100" y="238"/>
+      <point x="196" y="220"/>
+    </contour>
+    <contour>
+      <point x="28" y="1104" type="line"/>
+      <point x="725" y="1104" type="line"/>
+      <point x="725" y="1238" type="line"/>
+      <point x="28" y="1238" type="line"/>
+    </contour>
+    <component base="_danda" xOffset="338"/>
+    <component base="_cap.shiro_left"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Kha.gm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>com.schriftgestaltung.componentsSmartComponentValues</key>
+      <array>
+        <dict/>
+        <dict>
+          <key>ShiroLength</key>
+          <integer>-2147483648</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

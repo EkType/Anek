@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelEe.gm" format="2">
+  <advance width="1106"/>
+  <unicode hex="0A0F"/>
+  <anchor x="1263" y="1351" name="top1"/>
+  <outline>
+    <contour>
+      <point x="629" y="-14" type="curve" smooth="yes"/>
+      <point x="773" y="-14"/>
+      <point x="884" y="21"/>
+      <point x="972" y="70" type="curve"/>
+      <point x="981" y="118" type="line"/>
+      <point x="890" y="62"/>
+      <point x="775" y="22"/>
+      <point x="629" y="22" type="curve" smooth="yes"/>
+      <point x="373" y="22"/>
+      <point x="196" y="160"/>
+      <point x="196" y="410" type="curve"/>
+      <point x="196" y="510" type="line"/>
+      <point x="169" y="472" type="line"/>
+      <point x="384" y="569"/>
+      <point x="655" y="631"/>
+      <point x="923" y="660" type="curve"/>
+      <point x="923" y="1177" type="line"/>
+      <point x="886" y="1177" type="line"/>
+      <point x="886" y="687" type="line"/>
+      <point x="765" y="672"/>
+      <point x="646" y="652"/>
+      <point x="533" y="625" type="curve"/>
+      <point x="520" y="622" type="line"/>
+      <point x="390" y="592"/>
+      <point x="269" y="554"/>
+      <point x="159" y="506" type="curve"/>
+      <point x="159" y="410" type="line"/>
+      <point x="159" y="138"/>
+      <point x="350" y="-14"/>
+    </contour>
+    <contour>
+      <point x="524" y="604" type="line"/>
+      <point x="547" y="606" type="line"/>
+      <point x="586" y="627" type="line"/>
+      <point x="324" y="646"/>
+      <point x="206" y="784"/>
+      <point x="206" y="973" type="curve" smooth="yes"/>
+      <point x="206" y="1175" type="line"/>
+      <point x="169" y="1175" type="line"/>
+      <point x="169" y="973" type="line" smooth="yes"/>
+      <point x="169" y="774"/>
+      <point x="295" y="637"/>
+      <point x="518" y="608" type="curve"/>
+    </contour>
+    <contour>
+      <point x="26" y="1159" type="line"/>
+      <point x="186" y="1159" type="line"/>
+      <point x="188" y="1159" type="line"/>
+      <point x="904" y="1159" type="line"/>
+      <point x="906" y="1159" type="line"/>
+      <point x="1097" y="1159" type="line"/>
+      <point x="1097" y="1193" type="line"/>
+      <point x="26" y="1193" type="line"/>
+    </contour>
+    <contour>
+      <point x="888" y="1180" type="line"/>
+      <point x="923" y="1180" type="line"/>
+      <point x="860" y="1518"/>
+      <point x="711" y="1663"/>
+      <point x="364" y="1663" type="curve" smooth="yes"/>
+      <point x="309" y="1663"/>
+      <point x="271" y="1660"/>
+      <point x="212" y="1654" type="curve"/>
+      <point x="205" y="1619" type="line"/>
+      <point x="261" y="1626"/>
+      <point x="311" y="1629"/>
+      <point x="365" y="1629" type="curve" smooth="yes"/>
+      <point x="684" y="1629"/>
+      <point x="824" y="1498"/>
+      <point x="885" y="1195" type="curve" smooth="yes"/>
+    </contour>
+    <component base="_cap.shiro_left"/>
+    <component base="_cap.shiro_right" xOffset="909"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_right</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

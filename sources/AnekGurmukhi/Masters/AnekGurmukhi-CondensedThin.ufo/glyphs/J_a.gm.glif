@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ja.gm" format="2">
+  <advance width="694"/>
+  <unicode hex="0A1C"/>
+  <anchor x="794" y="100" name="bottom"/>
+  <anchor x="706" y="100" name="bottom1"/>
+  <anchor x="594" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="113" y="0" type="curve"/>
+      <point x="150" y="0" type="line"/>
+      <point x="164" y="183"/>
+      <point x="173" y="404"/>
+      <point x="173" y="595" type="curve" smooth="yes"/>
+      <point x="173" y="725"/>
+      <point x="167" y="852"/>
+      <point x="155" y="964" type="curve"/>
+      <point x="119" y="948" type="line"/>
+      <point x="130" y="846"/>
+      <point x="136" y="723"/>
+      <point x="136" y="596" type="curve" smooth="yes"/>
+      <point x="136" y="404"/>
+      <point x="127" y="183"/>
+    </contour>
+    <contour>
+      <point x="154" y="654" type="line"/>
+      <point x="531" y="654" type="line"/>
+      <point x="531" y="688" type="line"/>
+      <point x="154" y="688" type="line"/>
+    </contour>
+    <contour>
+      <point x="18" y="1179" type="line"/>
+      <point x="592" y="1179" type="line"/>
+      <point x="592" y="1213" type="line"/>
+      <point x="18" y="1213" type="line"/>
+    </contour>
+    <component base="_danda" xOffset="327"/>
+    <component base="_cap.shiro_left"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Kha.gm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

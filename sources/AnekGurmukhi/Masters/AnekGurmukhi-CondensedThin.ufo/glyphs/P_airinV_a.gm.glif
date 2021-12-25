@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="PairinVa.gm" format="2">
+  <anchor x="600" y="100" name="_bottom"/>
+  <anchor x="600" y="140" name="bottom1"/>
+  <outline>
+    <contour>
+      <point x="227" y="-297" type="curve"/>
+      <point x="356" y="-297" type="line"/>
+      <point x="356" y="-263" type="line"/>
+      <point x="227" y="-263" type="line" smooth="yes"/>
+      <point x="170" y="-263"/>
+      <point x="124" y="-240"/>
+      <point x="124" y="-170" type="curve" smooth="yes"/>
+      <point x="124" y="-99"/>
+      <point x="162" y="-78"/>
+      <point x="234" y="-78" type="curve" smooth="yes"/>
+      <point x="356" y="-78" type="line"/>
+      <point x="356" y="28" type="line"/>
+      <point x="319" y="28" type="line"/>
+      <point x="319" y="-44" type="line"/>
+      <point x="233" y="-44" type="line" smooth="yes"/>
+      <point x="162" y="-44"/>
+      <point x="87" y="-68"/>
+      <point x="87" y="-170" type="curve" smooth="yes"/>
+      <point x="87" y="-260"/>
+      <point x="151" y="-297"/>
+    </contour>
+    <contour>
+      <point x="330" y="-514" type="curve" smooth="yes"/>
+      <point x="346" y="-514"/>
+      <point x="357" y="-512"/>
+      <point x="368" y="-508" type="curve"/>
+      <point x="374" y="-476" type="line"/>
+      <point x="358" y="-481"/>
+      <point x="349" y="-482"/>
+      <point x="332" y="-482" type="curve" smooth="yes"/>
+      <point x="271" y="-482"/>
+      <point x="237" y="-436"/>
+      <point x="214" y="-272" type="curve"/>
+      <point x="178" y="-269" type="line"/>
+      <point x="205" y="-451"/>
+      <point x="246" y="-514"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1000</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

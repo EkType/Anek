@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ma.gm" format="2">
+  <advance width="1583"/>
+  <unicode hex="0A2E"/>
+  <anchor x="1683" y="100" name="bottom"/>
+  <anchor x="1710" y="100" name="bottom1"/>
+  <anchor x="1648" y="1200" name="top"/>
+  <outline>
+    <contour>
+      <point x="109" y="65" type="curve"/>
+      <point x="511" y="65" type="line"/>
+      <point x="544" y="216"/>
+      <point x="563" y="382"/>
+      <point x="563" y="557" type="curve" smooth="yes"/>
+      <point x="563" y="775"/>
+      <point x="546" y="1004"/>
+      <point x="502" y="1221" type="curve"/>
+      <point x="29" y="1221" type="line"/>
+      <point x="29" y="941" type="line"/>
+      <point x="148" y="941" type="line"/>
+      <point x="162" y="830"/>
+      <point x="170" y="715"/>
+      <point x="170" y="600" type="curve" smooth="yes"/>
+      <point x="170" y="418"/>
+      <point x="151" y="236"/>
+    </contour>
+    <contour>
+      <point x="344" y="319" type="line"/>
+      <point x="1252" y="319" type="line"/>
+      <point x="1252" y="641" type="line"/>
+      <point x="344" y="641" type="line"/>
+    </contour>
+    <component base="_danda" xOffset="890"/>
+    <component base="_cap.shiro_left"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_cap.shiro_left</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Kha.gm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>
