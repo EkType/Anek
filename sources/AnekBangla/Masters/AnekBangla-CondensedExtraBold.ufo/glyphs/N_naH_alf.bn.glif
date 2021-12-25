@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NnaHalf.bn" format="2">
+	<advance width="906"/>
+	<anchor x="855" y="189" name="bottom1"/>
+	<anchor x="523" y="1468" name="top"/>
+	<anchor x="411" y="1763" name="top2"/>
+	<outline>
+		<contour>
+			<point x="553" y="403" type="line"/>
+			<point x="855" y="403" type="line"/>
+			<point x="855" y="1329" type="line"/>
+			<point x="585" y="1329" type="line"/>
+			<point x="585" y="1072" type="line"/>
+			<point x="553" y="1053" type="line"/>
+		</contour>
+		<contour>
+			<point x="389" y="531" type="curve" smooth="yes"/>
+			<point x="401" y="531"/>
+			<point x="422" y="531"/>
+			<point x="452" y="531" type="curve"/>
+			<point x="473" y="810" type="line"/>
+			<point x="461" y="810"/>
+			<point x="455" y="810"/>
+			<point x="437" y="810" type="curve" smooth="yes"/>
+			<point x="381" y="810"/>
+			<point x="360" y="840"/>
+			<point x="360" y="912" type="curve" smooth="yes"/>
+			<point x="360" y="934" type="line" smooth="yes"/>
+			<point x="360" y="1013"/>
+			<point x="388" y="1053"/>
+			<point x="442" y="1053" type="curve" smooth="yes"/>
+			<point x="497" y="1053"/>
+			<point x="532" y="1016"/>
+			<point x="553" y="937" type="curve"/>
+			<point x="626" y="1152" type="line"/>
+			<point x="575" y="1152" type="line"/>
+			<point x="546" y="1275"/>
+			<point x="464" y="1347"/>
+			<point x="341" y="1347" type="curve" smooth="yes"/>
+			<point x="153" y="1347"/>
+			<point x="51" y="1227"/>
+			<point x="51" y="945" type="curve" smooth="yes"/>
+			<point x="51" y="921" type="line" smooth="yes"/>
+			<point x="51" y="660"/>
+			<point x="169" y="531"/>
+		</contour>
+		<contour>
+			<point x="711" y="1196" type="line"/>
+			<point x="711" y="686" type="line"/>
+			<point x="855" y="686" type="line"/>
+			<point x="855" y="1196" type="line"/>
+		</contour>
+		<contour>
+			<point x="711" y="1085" type="line"/>
+			<point x="985" y="1085" type="line"/>
+			<point x="970" y="1329" type="line"/>
+			<point x="711" y="1329" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>BaHalf.bn</string>
+		</dict>
+	</lib>
+</glyph>

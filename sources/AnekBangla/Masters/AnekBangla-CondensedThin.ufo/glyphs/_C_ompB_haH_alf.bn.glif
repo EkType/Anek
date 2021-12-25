@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_CompBhaHalf.bn" format="2">
+	<advance width="798"/>
+	<anchor x="510" y="166" name="bottom1"/>
+	<anchor x="699" y="1085" name="top"/>
+	<anchor x="541" y="1332" name="top2"/>
+	<outline>
+		<contour>
+			<point x="419" y="223" type="curve" smooth="yes"/>
+			<point x="589" y="223"/>
+			<point x="679" y="323"/>
+			<point x="679" y="518" type="curve" smooth="yes"/>
+			<point x="679" y="702"/>
+			<point x="677" y="834"/>
+			<point x="672" y="981" type="curve"/>
+			<point x="645" y="984" type="line"/>
+			<point x="622" y="835"/>
+			<point x="610" y="713"/>
+			<point x="493" y="713" type="curve" smooth="yes"/>
+			<point x="409" y="713"/>
+			<point x="379" y="780"/>
+			<point x="379" y="842" type="curve" smooth="yes"/>
+			<point x="379" y="921" type="line" smooth="yes"/>
+			<point x="379" y="1013"/>
+			<point x="413" y="1068"/>
+			<point x="490" y="1068" type="curve" smooth="yes"/>
+			<point x="497" y="1068"/>
+			<point x="502" y="1068"/>
+			<point x="509" y="1068" type="curve"/>
+			<point x="506" y="1098" type="line"/>
+			<point x="500" y="1098"/>
+			<point x="496" y="1098"/>
+			<point x="490" y="1098" type="curve" smooth="yes"/>
+			<point x="383" y="1098"/>
+			<point x="347" y="1021"/>
+			<point x="347" y="920" type="curve" smooth="yes"/>
+			<point x="347" y="842" type="line" smooth="yes"/>
+			<point x="347" y="761"/>
+			<point x="390" y="681"/>
+			<point x="492" y="681" type="curve" smooth="yes"/>
+			<point x="635" y="681"/>
+			<point x="648" y="807"/>
+			<point x="666" y="951" type="curve"/>
+			<point x="643" y="951" type="line"/>
+			<point x="644" y="824"/>
+			<point x="645" y="656"/>
+			<point x="645" y="518" type="curve" smooth="yes"/>
+			<point x="645" y="344"/>
+			<point x="564" y="256"/>
+			<point x="419" y="256" type="curve" smooth="yes"/>
+			<point x="267" y="256"/>
+			<point x="185" y="351"/>
+			<point x="174" y="524" type="curve" smooth="yes"/>
+			<point x="144" y="992" type="line"/>
+			<point x="110" y="992" type="line"/>
+			<point x="140" y="521" type="line" smooth="yes"/>
+			<point x="152" y="329"/>
+			<point x="248" y="223"/>
+		</contour>
+		<contour>
+			<point x="-16" y="1218" type="line"/>
+			<point x="833" y="1218" type="line"/>
+			<point x="830" y="1248" type="line"/>
+			<point x="-20" y="1248" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>88</integer>
+				<key>width</key>
+				<integer>96</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Ta.bn</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Dda.bn</string>
+		</dict>
+	</lib>
+</glyph>

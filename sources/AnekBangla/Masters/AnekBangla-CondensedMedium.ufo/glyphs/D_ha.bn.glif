@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dha.bn" format="2">
+	<advance width="875"/>
+	<unicode hex="09A7"/>
+	<anchor x="756" y="-1" name="bottom1"/>
+	<anchor x="575" y="1451" name="top"/>
+	<anchor x="448" y="1713" name="top2"/>
+	<outline>
+		<contour>
+			<point x="610" y="-1" type="line"/>
+			<point x="757" y="-1" type="line"/>
+			<point x="757" y="1289" type="line"/>
+			<point x="589" y="1289" type="line"/>
+			<point x="589" y="312" type="line"/>
+			<point x="596" y="128" type="line"/>
+			<point x="608" y="177" type="line"/>
+			<point x="242" y="438" type="line"/>
+			<point x="279" y="364" type="line"/>
+			<point x="279" y="637" type="line"/>
+			<point x="235" y="531" type="line"/>
+			<point x="346" y="617"/>
+			<point x="507" y="718"/>
+			<point x="666" y="801" type="curve"/>
+			<point x="626" y="963" type="line"/>
+			<point x="434" y="863"/>
+			<point x="247" y="749"/>
+			<point x="109" y="650" type="curve"/>
+			<point x="109" y="340" type="line"/>
+		</contour>
+		<contour>
+			<point x="263" y="764" type="curve"/>
+			<point x="263" y="738" type="line"/>
+			<point x="425" y="837" type="line"/>
+			<point x="406" y="832"/>
+			<point x="385" y="831"/>
+			<point x="371" y="831" type="curve" smooth="yes"/>
+			<point x="297" y="831"/>
+			<point x="251" y="876"/>
+			<point x="251" y="950" type="curve" smooth="yes"/>
+			<point x="251" y="1023" type="line" smooth="yes"/>
+			<point x="251" y="1107"/>
+			<point x="283" y="1154"/>
+			<point x="370" y="1154" type="curve" smooth="yes"/>
+			<point x="398" y="1154"/>
+			<point x="421" y="1149"/>
+			<point x="445" y="1142" type="curve"/>
+			<point x="445" y="1289" type="line"/>
+			<point x="413" y="1301"/>
+			<point x="365" y="1308"/>
+			<point x="315" y="1308" type="curve" smooth="yes"/>
+			<point x="155" y="1308"/>
+			<point x="81" y="1214"/>
+			<point x="81" y="1044" type="curve" smooth="yes"/>
+			<point x="81" y="963" type="line" smooth="yes"/>
+			<point x="81" y="850"/>
+			<point x="145" y="772"/>
+		</contour>
+		<contour>
+			<point x="674" y="1219" type="line"/>
+			<point x="674" y="855" type="line"/>
+			<point x="757" y="855" type="line"/>
+			<point x="757" y="1219" type="line"/>
+		</contour>
+		<contour>
+			<point x="674" y="1142" type="line"/>
+			<point x="930" y="1142" type="line"/>
+			<point x="920" y="1289" type="line"/>
+			<point x="674" y="1289" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>SignAa.bn</string>
+		</dict>
+	</lib>
+</glyph>

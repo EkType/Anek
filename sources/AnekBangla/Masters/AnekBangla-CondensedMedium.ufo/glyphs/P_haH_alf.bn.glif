@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PhaHalf.bn" format="2">
+	<advance width="1090"/>
+	<anchor x="707" y="189" name="bottom1"/>
+	<anchor x="460" y="683" name="top"/>
+	<anchor x="329" y="838" name="top2"/>
+	<outline>
+		<contour>
+			<point x="-75" y="1152" type="line"/>
+			<point x="1157" y="1152" type="line"/>
+			<point x="1149" y="1289" type="line"/>
+			<point x="-85" y="1289" type="line"/>
+		</contour>
+		<contour>
+			<point x="807" y="557" type="curve"/>
+			<point x="814" y="416" type="line"/>
+			<point x="821" y="416"/>
+			<point x="825" y="416"/>
+			<point x="832" y="416" type="curve" smooth="yes"/>
+			<point x="984" y="416"/>
+			<point x="1052" y="495"/>
+			<point x="1052" y="678" type="curve" smooth="yes"/>
+			<point x="1052" y="735" type="line" smooth="yes"/>
+			<point x="1052" y="910"/>
+			<point x="939" y="1013"/>
+			<point x="748" y="1013" type="curve" smooth="yes"/>
+			<point x="625" y="1013" type="line"/>
+			<point x="625" y="875" type="line"/>
+			<point x="755" y="875" type="line" smooth="yes"/>
+			<point x="847" y="875"/>
+			<point x="895" y="821"/>
+			<point x="895" y="731" type="curve" smooth="yes"/>
+			<point x="895" y="673" type="line" smooth="yes"/>
+			<point x="895" y="585"/>
+			<point x="867" y="557"/>
+			<point x="823" y="557" type="curve" smooth="yes"/>
+			<point x="817" y="557"/>
+			<point x="813" y="557"/>
+		</contour>
+		<contour>
+			<point x="558" y="264" type="line"/>
+			<point x="702" y="264" type="line"/>
+			<point x="702" y="1013" type="line"/>
+			<point x="535" y="1013" type="line"/>
+			<point x="535" y="549" type="line"/>
+			<point x="543" y="378" type="line"/>
+			<point x="565" y="403" type="line"/>
+			<point x="251" y="611" type="line"/>
+			<point x="265" y="539" type="line"/>
+			<point x="265" y="780" type="line"/>
+			<point x="246" y="687" type="line"/>
+			<point x="406" y="808" type="line"/>
+			<point x="406" y="937" type="line"/>
+			<point x="300" y="1058"/>
+			<point x="219" y="1145"/>
+			<point x="127" y="1243" type="curve"/>
+			<point x="55" y="1239" type="line"/>
+			<point x="55" y="1062" type="line"/>
+			<point x="130" y="1001"/>
+			<point x="203" y="940"/>
+			<point x="278" y="879" type="curve"/>
+			<point x="262" y="931" type="line"/>
+			<point x="262" y="845" type="line"/>
+			<point x="275" y="892" type="line"/>
+			<point x="103" y="769" type="line"/>
+			<point x="103" y="531" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Ya.bn</string>
+		</dict>
+	</lib>
+</glyph>

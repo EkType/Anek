@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ttha.bn" format="2">
+	<advance width="692"/>
+	<unicode hex="09A0"/>
+	<anchor x="410" y="188" name="bottom1"/>
+	<anchor x="435" y="1433" name="top"/>
+	<anchor x="391" y="1659" name="top2"/>
+	<outline>
+		<contour>
+			<point x="338" y="20" type="curve" smooth="yes"/>
+			<point x="499" y="20"/>
+			<point x="579" y="118"/>
+			<point x="579" y="302" type="curve" smooth="yes"/>
+			<point x="579" y="458" type="line" smooth="yes"/>
+			<point x="579" y="767"/>
+			<point x="489" y="924"/>
+			<point x="400" y="1123" type="curve" smooth="yes"/>
+			<point x="347" y="1241" type="line"/>
+			<point x="315" y="1233" type="line"/>
+			<point x="370" y="1110" type="line" smooth="yes"/>
+			<point x="474" y="878"/>
+			<point x="545" y="740"/>
+			<point x="545" y="466" type="curve" smooth="yes"/>
+			<point x="545" y="302" type="line" smooth="yes"/>
+			<point x="545" y="139"/>
+			<point x="475" y="53"/>
+			<point x="340" y="53" type="curve" smooth="yes"/>
+			<point x="204" y="53"/>
+			<point x="138" y="139"/>
+			<point x="138" y="302" type="curve" smooth="yes"/>
+			<point x="138" y="332"/>
+			<point x="138" y="424"/>
+			<point x="138" y="502" type="curve"/>
+			<point x="127" y="473" type="line"/>
+			<point x="259" y="557"/>
+			<point x="342" y="690"/>
+			<point x="342" y="1011" type="curve" smooth="yes"/>
+			<point x="342" y="1231" type="line"/>
+			<point x="310" y="1222" type="line"/>
+			<point x="310" y="1011" type="line" smooth="yes"/>
+			<point x="310" y="701"/>
+			<point x="229" y="575"/>
+			<point x="104" y="500" type="curve"/>
+			<point x="104" y="332"/>
+			<point x="104" y="425"/>
+			<point x="104" y="302" type="curve" smooth="yes"/>
+			<point x="104" y="118"/>
+			<point x="182" y="20"/>
+		</contour>
+		<contour>
+			<point x="-62" y="1218" type="line"/>
+			<point x="728" y="1218" type="line"/>
+			<point x="724" y="1248" type="line"/>
+			<point x="-66" y="1248" type="line"/>
+		</contour>
+		<contour>
+			<point x="302" y="1264" type="curve" smooth="yes"/>
+			<point x="317" y="1230" type="line"/>
+			<point x="343" y="1245" type="line"/>
+			<point x="330" y="1275" type="line" smooth="yes"/>
+			<point x="243" y="1475"/>
+			<point x="227" y="1526"/>
+			<point x="227" y="1626" type="curve" smooth="yes"/>
+			<point x="227" y="1674"/>
+			<point x="234" y="1723"/>
+			<point x="249" y="1777" type="curve"/>
+			<point x="217" y="1777" type="line"/>
+			<point x="202" y="1734"/>
+			<point x="195" y="1685"/>
+			<point x="195" y="1628" type="curve" smooth="yes"/>
+			<point x="195" y="1524"/>
+			<point x="209" y="1476"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>87</integer>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

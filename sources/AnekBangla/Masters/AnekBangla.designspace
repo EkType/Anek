@@ -1,0 +1,642 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="500">
+      <map input="100" output="100"/>
+      <map input="200" output="206"/>
+      <map input="300" output="312"/>
+      <map input="400" output="414"/>
+      <map input="500" output="500"/>
+      <map input="600" output="615"/>
+      <map input="700" output="709"/>
+      <map input="800" output="800"/>
+    </axis>
+    <axis tag="wdth" name="Width" minimum="75" maximum="125" default="100"/>
+  </axes>
+  <sources>
+    <source filename="AnekBangla-CondensedThin.ufo" name="Anek Bangla Condensed Thin" familyname="Anek Bangla" stylename="Condensed Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekBangla-CondensedMedium.ufo" name="Anek Bangla Condensed Medium" familyname="Anek Bangla" stylename="Condensed Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekBangla-CondensedExtraBold.ufo" name="Anek Bangla Condensed ExtraBold" familyname="Anek Bangla" stylename="Condensed ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekBangla-Thin.ufo" name="Anek Bangla Thin" familyname="Anek Bangla" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekBangla-Medium.ufo" name="Anek Bangla Medium" familyname="Anek Bangla" stylename="Medium">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekBangla-ExtraBold.ufo" name="Anek Bangla ExtraBold" familyname="Anek Bangla" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekBangla-ExpandedThin.ufo" name="Anek Bangla Expanded Thin" familyname="Anek Bangla" stylename="Expanded Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+    <source filename="AnekBangla-ExpandedMedium.ufo" name="Anek Bangla Expanded Medium" familyname="Anek Bangla" stylename="Expanded Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+    <source filename="AnekBangla-ExpandedExtraBold.ufo" name="Anek Bangla Expanded ExtraBold" familyname="Anek Bangla" stylename="Expanded ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Anek Bangla Condensed Thin" familyname="Anek Bangla" stylename="Condensed Thin" filename="instance_ufo/AnekBangla-CondensedThin.ufo" stylemapfamilyname="Anek Bangla Condensed Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Condensed ExtraLight" familyname="Anek Bangla" stylename="Condensed ExtraLight" filename="instance_ufo/AnekBangla-CondensedExtraLight.ufo" stylemapfamilyname="Anek Bangla Condensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Condensed Light" familyname="Anek Bangla" stylename="Condensed Light" filename="instance_ufo/AnekBangla-CondensedLight.ufo" stylemapfamilyname="Anek Bangla Condensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Condensed" familyname="Anek Bangla" stylename="Condensed" filename="instance_ufo/AnekBangla-Condensed.ufo" stylemapfamilyname="Anek Bangla Condensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Condensed Medium" familyname="Anek Bangla" stylename="Condensed Medium" filename="instance_ufo/AnekBangla-CondensedMedium.ufo" stylemapfamilyname="Anek Bangla Condensed Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Condensed SemiBold" familyname="Anek Bangla" stylename="Condensed SemiBold" filename="instance_ufo/AnekBangla-CondensedSemiBold.ufo" stylemapfamilyname="Anek Bangla Condensed SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Condensed Bold" familyname="Anek Bangla" stylename="Condensed Bold" filename="instance_ufo/AnekBangla-CondensedBold.ufo" stylemapfamilyname="Anek Bangla Condensed Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Condensed ExtraBold" familyname="Anek Bangla" stylename="Condensed ExtraBold" filename="instance_ufo/AnekBangla-CondensedExtraBold.ufo" stylemapfamilyname="Anek Bangla Condensed ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed Thin" familyname="Anek Bangla" stylename="SemiCondensed Thin" filename="instance_ufo/AnekBangla-SemiCondensedThin.ufo" stylemapfamilyname="Anek Bangla SemiCondensed Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed ExtraLight" familyname="Anek Bangla" stylename="SemiCondensed ExtraLight" filename="instance_ufo/AnekBangla-SemiCondensedExtraLight.ufo" stylemapfamilyname="Anek Bangla SemiCondensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed Light" familyname="Anek Bangla" stylename="SemiCondensed Light" filename="instance_ufo/AnekBangla-SemiCondensedLight.ufo" stylemapfamilyname="Anek Bangla SemiCondensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed" familyname="Anek Bangla" stylename="SemiCondensed" filename="instance_ufo/AnekBangla-SemiCondensed.ufo" stylemapfamilyname="Anek Bangla SemiCondensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed Medium" familyname="Anek Bangla" stylename="SemiCondensed Medium" filename="instance_ufo/AnekBangla-SemiCondensedMedium.ufo" stylemapfamilyname="Anek Bangla SemiCondensed Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed SemiBold" familyname="Anek Bangla" stylename="SemiCondensed SemiBold" filename="instance_ufo/AnekBangla-SemiCondensedSemiBold.ufo" stylemapfamilyname="Anek Bangla SemiCondensed Regular" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed Bold" familyname="Anek Bangla" stylename="SemiCondensed Bold" filename="instance_ufo/AnekBangla-SemiCondensedBold.ufo" stylemapfamilyname="Anek Bangla SemiCondensed Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed ExtraBold" familyname="Anek Bangla" stylename="SemiCondensed ExtraBold" filename="instance_ufo/AnekBangla-SemiCondensedExtraBold.ufo" stylemapfamilyname="Anek Bangla SemiCondensed ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Thin" familyname="Anek Bangla" stylename="Thin" filename="instance_ufo/AnekBangla-Thin.ufo" stylemapfamilyname="Anek Bangla Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla ExtraLight" familyname="Anek Bangla" stylename="ExtraLight" filename="instance_ufo/AnekBangla-ExtraLight.ufo" stylemapfamilyname="Anek Bangla ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Light" familyname="Anek Bangla" stylename="Light" filename="instance_ufo/AnekBangla-Light.ufo" stylemapfamilyname="Anek Bangla Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Regular" familyname="Anek Bangla" stylename="Regular" filename="instance_ufo/AnekBangla-Regular.ufo" stylemapfamilyname="Anek Bangla" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Medium" familyname="Anek Bangla" stylename="Medium" filename="instance_ufo/AnekBangla-Medium.ufo" stylemapfamilyname="Anek Bangla Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiBold" familyname="Anek Bangla" stylename="SemiBold" filename="instance_ufo/AnekBangla-SemiBold.ufo" stylemapfamilyname="Anek Bangla SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Bold" familyname="Anek Bangla" stylename="Bold" filename="instance_ufo/AnekBangla-Bold.ufo" stylemapfamilyname="Anek Bangla" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla ExtraBold" familyname="Anek Bangla" stylename="ExtraBold" filename="instance_ufo/AnekBangla-ExtraBold.ufo" stylemapfamilyname="Anek Bangla ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded Thin" familyname="Anek Bangla" stylename="SemiExpanded Thin" filename="instance_ufo/AnekBangla-SemiExpandedThin.ufo" stylemapfamilyname="Anek Bangla SemiExpanded Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded ExtraLight" familyname="Anek Bangla" stylename="SemiExpanded ExtraLight" filename="instance_ufo/AnekBangla-SemiExpandedExtraLight.ufo" stylemapfamilyname="Anek Bangla SemiExpanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded Light" familyname="Anek Bangla" stylename="SemiExpanded Light" filename="instance_ufo/AnekBangla-SemiExpandedLight.ufo" stylemapfamilyname="Anek Bangla SemiExpanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded" familyname="Anek Bangla" stylename="SemiExpanded" filename="instance_ufo/AnekBangla-SemiExpanded.ufo" stylemapfamilyname="Anek Bangla SemiExpanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded Medium" familyname="Anek Bangla" stylename="SemiExpanded Medium" filename="instance_ufo/AnekBangla-SemiExpandedMedium.ufo" stylemapfamilyname="Anek Bangla SemiExpanded Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded SemiBold" familyname="Anek Bangla" stylename="SemiExpanded SemiBold" filename="instance_ufo/AnekBangla-SemiExpandedSemiBold.ufo" stylemapfamilyname="Anek Bangla SemiExpanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded Bold" familyname="Anek Bangla" stylename="SemiExpanded Bold" filename="instance_ufo/AnekBangla-SemiExpandedBold.ufo" stylemapfamilyname="Anek Bangla SemiExpanded Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded ExtraBold" familyname="Anek Bangla" stylename="SemiExpanded ExtraBold" filename="instance_ufo/AnekBangla-SemiExpandedExtraBold.ufo" stylemapfamilyname="Anek Bangla SemiExpanded ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Expanded Thin" familyname="Anek Bangla" stylename="Expanded Thin" filename="instance_ufo/AnekBangla-ExpandedThin.ufo" stylemapfamilyname="Anek Bangla Expanded Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Expanded ExtraLight" familyname="Anek Bangla" stylename="Expanded ExtraLight" filename="instance_ufo/AnekBangla-ExpandedExtraLight.ufo" stylemapfamilyname="Anek Bangla Expanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Expanded Light" familyname="Anek Bangla" stylename="Expanded Light" filename="instance_ufo/AnekBangla-ExpandedLight.ufo" stylemapfamilyname="Anek Bangla Expanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Expanded" familyname="Anek Bangla" stylename="Expanded" filename="instance_ufo/AnekBangla-Expanded.ufo" stylemapfamilyname="Anek Bangla Expanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Expanded Medium" familyname="Anek Bangla" stylename="Expanded Medium" filename="instance_ufo/AnekBangla-ExpandedMedium.ufo" stylemapfamilyname="Anek Bangla Expanded Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Expanded SemiBold" familyname="Anek Bangla" stylename="Expanded SemiBold" filename="instance_ufo/AnekBangla-ExpandedSemiBold.ufo" stylemapfamilyname="Anek Bangla Expanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Expanded Bold" familyname="Anek Bangla" stylename="Expanded Bold" filename="instance_ufo/AnekBangla-ExpandedBold.ufo" stylemapfamilyname="Anek Bangla Expanded Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Expanded ExtraBold" familyname="Anek Bangla" stylename="Expanded ExtraBold" filename="instance_ufo/AnekBangla-ExpandedExtraBold.ufo" stylemapfamilyname="Anek Bangla Expanded ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>_CompAltMa</string>
+        <string>_CompAltSa.bn</string>
+        <string>_CompBa.bn</string>
+        <string>_CompBaBa.bn</string>
+        <string>_CompBaDa.bn</string>
+        <string>_CompBaDda.bn</string>
+        <string>_CompBaHalf.bn</string>
+        <string>_CompBaphala2Round.bn</string>
+        <string>_CompBaphalaCha.bn</string>
+        <string>_CompBaphalaJa.bn</string>
+        <string>_CompBaphalaRound.bn</string>
+        <string>_CompBha.bn</string>
+        <string>_CompBha2.bn</string>
+        <string>_CompBhaHalf.bn</string>
+        <string>_CompButterfly.bn</string>
+        <string>_CompCa.bn</string>
+        <string>_CompCaCa.bn</string>
+        <string>_CompCaCha.bn</string>
+        <string>_CompCaHalf.bn</string>
+        <string>_CompCandrabindu.bn</string>
+        <string>_CompCha.bn</string>
+        <string>_CompCha2.bn</string>
+        <string>_CompDa.bn</string>
+        <string>_CompDaBa.bn</string>
+        <string>_CompDaBa2.bn</string>
+        <string>_CompDaBhaPart.bn</string>
+        <string>_CompDaDaRa_part.bn</string>
+        <string>_CompDaGha.bn</string>
+        <string>_CompDaRa.bn</string>
+        <string>_CompDanda.bn</string>
+        <string>_CompDda.bn</string>
+        <string>_CompDdaGa.bn</string>
+        <string>_CompDdaHalf.bn</string>
+        <string>_CompDdaSmall.bn</string>
+        <string>_CompDdha.bn</string>
+        <string>_CompDdhaHalf.bn</string>
+        <string>_CompDdhaSmall.bn</string>
+        <string>_CompDha.bn</string>
+        <string>_CompDhaHalf.bn</string>
+        <string>_CompGa.bn</string>
+        <string>_CompGaBaPart.bn</string>
+        <string>_CompGaDha.bn</string>
+        <string>_CompGaGa.bn</string>
+        <string>_CompGaHalf.bn</string>
+        <string>_CompGha.bn</string>
+        <string>_CompGhaHalf.bn</string>
+        <string>_CompGhaRa.bn</string>
+        <string>_CompHa.bn</string>
+        <string>_CompHalfMa</string>
+        <string>_CompHalfSa</string>
+        <string>_CompIsshar.bn</string>
+        <string>_CompJa.bn</string>
+        <string>_CompJaBa.bn</string>
+        <string>_CompJha.bn</string>
+        <string>_CompJhaHalf.bn</string>
+        <string>_CompKa.bn</string>
+        <string>_CompKaHalf.bn</string>
+        <string>_CompKaSsa.bn</string>
+        <string>_CompKaSsa2.bn</string>
+        <string>_CompKaSsaRa.bn</string>
+        <string>_CompKaSsaSmall.com</string>
+        <string>_CompKaTa.bn</string>
+        <string>_CompKaTta.bn</string>
+        <string>_CompKaTtaPart.bn</string>
+        <string>_CompKaphala.bn</string>
+        <string>_CompKaphalaPart.bn</string>
+        <string>_CompKha.bn</string>
+        <string>_CompKhaHalf.bn</string>
+        <string>_CompLa.bn</string>
+        <string>_CompLaDda.bn</string>
+        <string>_CompLaDdha.bn</string>
+        <string>_CompLaHalf.bn</string>
+        <string>_CompLaHalfAlt.bn</string>
+        <string>_CompLaHalfPart.bn</string>
+        <string>_CompLaPha.bn</string>
+        <string>_CompLaPhaPart.bn</string>
+        <string>_CompLaTtaRaPart.bn</string>
+        <string>_CompMa.bn</string>
+        <string>_CompMaPha.bn</string>
+        <string>_CompMaTa.bn</string>
+        <string>_CompMaphala3.bn</string>
+        <string>_CompMaphalaDda.bn</string>
+        <string>_CompMaphalaKaMa.bn</string>
+        <string>_CompMaphala_Long.bn</string>
+        <string>_CompMaphala_Short.bn</string>
+        <string>_CompNa.bn</string>
+        <string>_CompNaDda.bn</string>
+        <string>_CompNaDha.bn</string>
+        <string>_CompNaHalf.bn</string>
+        <string>_CompNaHalfAlt.bn</string>
+        <string>_CompNaHalfPart.bn</string>
+        <string>_CompNaHalfPart2.bn</string>
+        <string>_CompNaTa.bn</string>
+        <string>_CompNaTtaPart.bn</string>
+        <string>_CompNaTtaRaPart.bn</string>
+        <string>_CompNaTthaPart.bn</string>
+        <string>_CompNaphala3.bn</string>
+        <string>_CompNasaTtaPart.bn</string>
+        <string>_CompNga.bn</string>
+        <string>_CompNgaHalf.bn</string>
+        <string>_CompNgaHalfPart.bn</string>
+        <string>_CompNgaKa.bn</string>
+        <string>_CompNna.bn</string>
+        <string>_CompNnaDda.bn</string>
+        <string>_CompNnaDdha.bn</string>
+        <string>_CompNnaDdhara.bn</string>
+        <string>_CompNnaHalf.bn</string>
+        <string>_CompNnaHalfPart.bn</string>
+        <string>_CompNnaTta.bn</string>
+        <string>_CompNnaTtha.bn</string>
+        <string>_CompNnaTthaPart.bn</string>
+        <string>_CompNnaTthaSignIi.bn</string>
+        <string>_CompPa.bn</string>
+        <string>_CompPaHalf.bn</string>
+        <string>_CompPaLa.bn</string>
+        <string>_CompPaPa.bn</string>
+        <string>_CompPaRa_Part.bn</string>
+        <string>_CompPaSmall.bn</string>
+        <string>_CompPaTtaPart.bn</string>
+        <string>_CompPata.bn</string>
+        <string>_CompPha.bn</string>
+        <string>_CompPhaHalf.bn</string>
+        <string>_CompPhaHalfPart.bn</string>
+        <string>_CompPhaHandle.bn</string>
+        <string>_CompPhaPhala2.bn</string>
+        <string>_CompPhaTtaPart.bn</string>
+        <string>_CompPhaphala.bn</string>
+        <string>_CompRa.as</string>
+        <string>_CompRa.bn</string>
+        <string>_CompRaphalaDdha.bn</string>
+        <string>_CompReph.bn</string>
+        <string>_CompRing.bn</string>
+        <string>_CompSa.bn</string>
+        <string>_CompSaTa.bn</string>
+        <string>_CompSaTaSignU.bn</string>
+        <string>_CompSaTha.bn</string>
+        <string>_CompSaTtaPart.bn</string>
+        <string>_CompSaTtaRaPart.bn</string>
+        <string>_CompSerif.bn</string>
+        <string>_CompSha.bn</string>
+        <string>_CompShaHalf.bn</string>
+        <string>_CompShaHalfPart.bn</string>
+        <string>_CompShaRa.bn</string>
+        <string>_CompShiroExtra.bn</string>
+        <string>_CompSignAa.bn</string>
+        <string>_CompSignAuMark.bn</string>
+        <string>_CompSignE.bn</string>
+        <string>_CompSignE.ini.bn</string>
+        <string>_CompSignI.bn</string>
+        <string>_CompSignITta.bn</string>
+        <string>_CompSignITta2.bn</string>
+        <string>_CompSignI_Tta_Ttha1.bn</string>
+        <string>_CompSignI_Tta_Ttha1_Part.bn</string>
+        <string>_CompSignIi.bn</string>
+        <string>_CompSignIi_Tta1.bn</string>
+        <string>_CompSignIi_Tta2.bn</string>
+        <string>_CompSignLru.bn</string>
+        <string>_CompSignLru_Alt.bn</string>
+        <string>_CompSignLruu.bn</string>
+        <string>_CompSignLruu_Alt.bn</string>
+        <string>_CompSignRu.bn</string>
+        <string>_CompSignU.bn</string>
+        <string>_CompSignUu.bn</string>
+        <string>_CompSign_Tta_Ttha2.bn</string>
+        <string>_CompSmallJa</string>
+        <string>_CompSsa.bn</string>
+        <string>_CompSsaHalf.bn</string>
+        <string>_CompSsaHalfAlt.bn</string>
+        <string>_CompSsaHalfAlt2.bn</string>
+        <string>_CompSsaPart.bn</string>
+        <string>_CompSsaTta.bn</string>
+        <string>_CompSsaTtaPart.bn</string>
+        <string>_CompSsaTthaPart.bn</string>
+        <string>_CompStraightMaphala.bn</string>
+        <string>_CompTa.bn</string>
+        <string>_CompTaHalf.bn</string>
+        <string>_CompTaMaPart.bn</string>
+        <string>_CompTaRa.bn</string>
+        <string>_CompTail.bn</string>
+        <string>_CompTail2.bn</string>
+        <string>_CompTata.bn</string>
+        <string>_CompTha.bn</string>
+        <string>_CompThaHalf.bn</string>
+        <string>_CompTtaBa.bn</string>
+        <string>_CompTtaBaPart.bn</string>
+        <string>_CompTtaMaPart.bn</string>
+        <string>_CompTtaRaPart.bn</string>
+        <string>_CompTtaSignI2.bn</string>
+        <string>_CompTtaTta.bn</string>
+        <string>_CompTtaTtaPart.bn</string>
+        <string>_CompTtha.bn</string>
+        <string>_CompTthaHalf.bn</string>
+        <string>_CompTthaHalfPart.bn</string>
+        <string>_CompTthaPart.bn</string>
+        <string>_CompTthaRa.bn</string>
+        <string>_CompTthaSignI.bn</string>
+        <string>_CompTthaSignIi.bn</string>
+        <string>_CompTthaSignIipart.bn</string>
+        <string>_CompTthaStroke.bn</string>
+        <string>_CompVowelA.bn</string>
+        <string>_CompVowelE</string>
+        <string>_CompVowelLru.bn</string>
+        <string>_CompVowelLru_Alt.bn</string>
+        <string>_CompVowelRu.bn</string>
+        <string>_CompWa.as</string>
+        <string>_CompWing.bn</string>
+        <string>_CompYa.bn</string>
+        <string>_CompYaHalf.bn</string>
+        <string>_Comp_TaBaphala.bn</string>
+        <string>_Raphala_TtaRa.bn</string>
+        <string>_part.raphala</string>
+        <string>_part.topswatch</string>
+        <string>_part.topswatchsign</string>
+        <string>jbottom</string>
+      </array>
+    </dict>
+  </lib>
+  <rules>
+  <rule>
+   <!-- Bangla Width Variation -->
+   <sub with="VowelLru_Alt.bn" name="VowelLru.bn"/>
+   <sub with="VowelLruu_Alt.bn" name="VowelLruu.bn"/>
+   <sub with="SignLru_Alt.bn" name="SignLru.bn"/>
+   <sub with="SignLruu_Alt.bn" name="SignLruu.bn"/>
+   <sub with="Nine_Alt.bn" name="Nine.bn"/>
+   <conditionset>
+     <condition name="Weight" maximum="800" minimum="100"/>
+     <condition name="Width" maximum="100" minimum="75"/>
+   </conditionset>
+  </rule>
+  <rule>
+   <!-- Latin Lighter Variants -->
+   <sub with="question_alt" name="question"/>
+   <conditionset>
+    <condition name="Weight" maximum="450" minimum="100"/>
+    <condition name="Width" maximum="125" minimum="75"/>
+   </conditionset>
+  </rule>
+  </rules>
+</designspace>
+ 

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PaHalf.bn" format="2">
+	<advance width="906"/>
+	<anchor x="523" y="1468" name="top"/>
+	<anchor x="411" y="1763" name="top2"/>
+	<outline>
+		<contour>
+			<point x="281" y="415" type="line"/>
+			<point x="713" y="769" type="line"/>
+			<point x="646" y="1040" type="line"/>
+			<point x="79" y="568" type="line"/>
+		</contour>
+		<contour>
+			<point x="265" y="653" type="line"/>
+			<point x="461" y="785" type="line"/>
+			<point x="329" y="918" type="line"/>
+			<point x="359" y="831" type="line"/>
+			<point x="359" y="950" type="line" smooth="yes"/>
+			<point x="359" y="1042"/>
+			<point x="387" y="1078"/>
+			<point x="445" y="1078" type="curve" smooth="yes"/>
+			<point x="500" y="1078"/>
+			<point x="541" y="1038"/>
+			<point x="551" y="957" type="curve"/>
+			<point x="551" y="824" type="line"/>
+			<point x="620" y="824" type="line"/>
+			<point x="623" y="1178" type="line"/>
+			<point x="576" y="1178" type="line"/>
+			<point x="547" y="1286"/>
+			<point x="467" y="1347"/>
+			<point x="351" y="1347" type="curve" smooth="yes"/>
+			<point x="163" y="1347"/>
+			<point x="71" y="1224"/>
+			<point x="71" y="965" type="curve" smooth="yes"/>
+			<point x="71" y="829" type="line"/>
+		</contour>
+		<contour>
+			<point x="553" y="420" type="line"/>
+			<point x="855" y="420" type="line"/>
+			<point x="855" y="1329" type="line"/>
+			<point x="585" y="1329" type="line"/>
+			<point x="585" y="1036" type="line"/>
+			<point x="553" y="1036" type="line"/>
+		</contour>
+		<contour>
+			<point x="711" y="1196" type="line"/>
+			<point x="711" y="686" type="line"/>
+			<point x="855" y="686" type="line"/>
+			<point x="855" y="1196" type="line"/>
+		</contour>
+		<contour>
+			<point x="711" y="1085" type="line"/>
+			<point x="985" y="1085" type="line"/>
+			<point x="970" y="1329" type="line"/>
+			<point x="711" y="1329" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>BaHalf.bn</string>
+		</dict>
+	</lib>
+</glyph>

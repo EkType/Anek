@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TaHasant.bn" format="2">
+	<advance width="844"/>
+	<anchor x="379" y="21" name="_bottom1"/>
+	<anchor x="513" y="188" name="bottom1"/>
+	<anchor x="475" y="1433" name="top"/>
+	<anchor x="389" y="1662" name="top2"/>
+	<outline>
+		<contour>
+			<point x="739" y="-358" type="line"/>
+			<point x="451" y="-45" type="line"/>
+			<point x="446" y="-83" type="line"/>
+			<point x="734" y="-396" type="line"/>
+		</contour>
+		<contour>
+			<point x="446" y="20" type="curve" smooth="yes"/>
+			<point x="620" y="20"/>
+			<point x="716" y="135"/>
+			<point x="716" y="355" type="curve" smooth="yes"/>
+			<point x="716" y="838" type="line" smooth="yes"/>
+			<point x="716" y="978"/>
+			<point x="663" y="1051"/>
+			<point x="553" y="1051" type="curve" smooth="yes"/>
+			<point x="449" y="1051"/>
+			<point x="394" y="981"/>
+			<point x="394" y="844" type="curve" smooth="yes"/>
+			<point x="394" y="756"/>
+			<point x="394" y="659"/>
+			<point x="394" y="528" type="curve"/>
+			<point x="428" y="528" type="line"/>
+			<point x="428" y="659"/>
+			<point x="428" y="756"/>
+			<point x="428" y="844" type="curve" smooth="yes"/>
+			<point x="428" y="957"/>
+			<point x="469" y="1019"/>
+			<point x="555" y="1019" type="curve" smooth="yes"/>
+			<point x="647" y="1019"/>
+			<point x="682" y="955"/>
+			<point x="682" y="838" type="curve" smooth="yes"/>
+			<point x="682" y="355" type="line" smooth="yes"/>
+			<point x="682" y="154"/>
+			<point x="599" y="53"/>
+			<point x="446" y="53" type="curve" smooth="yes"/>
+			<point x="292" y="53"/>
+			<point x="202" y="158"/>
+			<point x="191" y="359" type="curve" smooth="yes"/>
+			<point x="157" y="991" type="line"/>
+			<point x="123" y="991" type="line"/>
+			<point x="157" y="358" type="line" smooth="yes"/>
+			<point x="168" y="147"/>
+			<point x="264" y="20"/>
+		</contour>
+		<contour>
+			<point x="-16" y="1218" type="line"/>
+			<point x="879" y="1218" type="line"/>
+			<point x="875" y="1248" type="line"/>
+			<point x="-20" y="1248" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Dda.bn</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Dda.bn</string>
+		</dict>
+	</lib>
+</glyph>
