@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaSaNa.or" format="2">
+  <advance width="815"/>
+  <guideline x="695"/>
+  <guideline y="-684"/>
+  <anchor x="690" y="-671" name="bottom"/>
+  <anchor x="857" y="-630" name="rasmall"/>
+  <anchor x="396" y="1646" name="top1"/>
+  <anchor x="660" y="1449" name="top2"/>
+  <anchor x="427" y="13" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="335" y="-684" type="line"/>
+      <point x="375" y="-684" type="line"/>
+      <point x="529" y="-405" type="line" smooth="yes"/>
+      <point x="567" y="-335"/>
+      <point x="605" y="-265"/>
+      <point x="640" y="-202" type="curve"/>
+      <point x="658" y="-202" type="line"/>
+      <point x="656" y="-281"/>
+      <point x="656" y="-372"/>
+      <point x="656" y="-447" type="curve" smooth="yes"/>
+      <point x="656" y="-684" type="line"/>
+      <point x="690" y="-684" type="line"/>
+      <point x="690" y="-173" type="line"/>
+      <point x="620" y="-173" type="line"/>
+    </contour>
+    <contour>
+      <point x="613" y="-233" type="line"/>
+      <point x="629" y="-203" type="line"/>
+      <point x="217" y="-28" type="line"/>
+      <point x="217" y="-15" type="line"/>
+      <point x="374" y="142" type="line"/>
+      <point x="350" y="163" type="line"/>
+      <point x="184" y="-4" type="line"/>
+      <point x="184" y="-48" type="line"/>
+    </contour>
+    <component base="Sa.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ga.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

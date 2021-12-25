@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelE.or" format="2">
+  <advance width="1800"/>
+  <unicode hex="0B0F"/>
+  <anchor x="1493" y="1427" name="top2"/>
+  <outline>
+    <contour>
+      <point x="1275" y="0" type="line"/>
+      <point x="1614" y="0" type="line"/>
+      <point x="1614" y="1321" type="line"/>
+      <point x="1299" y="1321" type="line"/>
+      <point x="745" y="814" type="line"/>
+      <point x="1013" y="814" type="line"/>
+      <point x="1396" y="1173" type="line"/>
+      <point x="1417" y="1173" type="line"/>
+      <point x="1414" y="1056"/>
+      <point x="1414" y="957"/>
+      <point x="1414" y="834" type="curve" smooth="yes"/>
+      <point x="1414" y="151" type="line"/>
+      <point x="1390" y="151" type="line"/>
+      <point x="18" y="1103" type="line"/>
+      <point x="18" y="865" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraAa.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rha.or" format="2">
+  <advance width="2160"/>
+  <unicode hex="0B5D"/>
+  <anchor x="1694" y="-321" name="bottom"/>
+  <anchor x="1071" y="1876" name="top1"/>
+  <anchor x="1686" y="1400" name="top2"/>
+  <anchor x="1071" y="106" name="nukta"/>
+  <outline>
+    <component base="Ddha.or"/>
+    <component base="Nukta.or" xOffset="2120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

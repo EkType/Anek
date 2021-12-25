@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ThaI.or" format="2">
+  <advance width="1267"/>
+  <anchor x="1199" y="66" name="bottom"/>
+  <anchor x="653" y="66" name="nukta"/>
+  <anchor x="653" y="1801" name="top1"/>
+  <anchor x="1046" y="1423" name="top2"/>
+  <outline>
+    <contour>
+      <point x="1410" y="-512" type="line"/>
+      <point x="1410" y="-269" type="line"/>
+      <point x="975" y="-195" type="line"/>
+      <point x="975" y="-181" type="line"/>
+      <point x="1199" y="-39" type="line"/>
+      <point x="1199" y="99" type="line"/>
+      <point x="935" y="99" type="line"/>
+      <point x="934" y="26" type="line"/>
+      <point x="729" y="-119" type="line"/>
+      <point x="729" y="-368" type="line"/>
+    </contour>
+    <component base="Tha.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Tha.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Tha.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

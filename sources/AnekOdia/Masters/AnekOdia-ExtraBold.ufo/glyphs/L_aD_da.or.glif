@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LaDda.or" format="2">
+  <advance width="1872"/>
+  <anchor x="891" y="1840" name="top1"/>
+  <anchor x="1432" y="1412" name="top2"/>
+  <anchor x="1003" y="-526" name="bottom"/>
+  <anchor x="1375" y="-543" name="rasmall"/>
+  <outline>
+    <contour>
+      <point x="1929" y="-226" type="line"/>
+      <point x="1929" y="92" type="line"/>
+      <point x="1649" y="166" type="line"/>
+      <point x="1677" y="113" type="line"/>
+      <point x="1752" y="177"/>
+      <point x="1792" y="285"/>
+      <point x="1792" y="421" type="curve" smooth="yes"/>
+      <point x="1792" y="641" type="line" smooth="yes"/>
+      <point x="1792" y="1132"/>
+      <point x="1473" y="1392"/>
+      <point x="893" y="1392" type="curve" smooth="yes"/>
+      <point x="360" y="1392"/>
+      <point x="53" y="1178"/>
+      <point x="53" y="775" type="curve" smooth="yes"/>
+      <point x="53" y="734" type="line" smooth="yes"/>
+      <point x="53" y="522"/>
+      <point x="158" y="387"/>
+      <point x="322" y="338" type="curve"/>
+      <point x="459" y="603" type="line"/>
+      <point x="411" y="632"/>
+      <point x="393" y="677"/>
+      <point x="393" y="741" type="curve" smooth="yes"/>
+      <point x="393" y="770" type="line" smooth="yes"/>
+      <point x="393" y="987"/>
+      <point x="553" y="1097"/>
+      <point x="892" y="1097" type="curve" smooth="yes"/>
+      <point x="1281" y="1097"/>
+      <point x="1461" y="927"/>
+      <point x="1461" y="592" type="curve" smooth="yes"/>
+      <point x="1461" y="315" type="line" smooth="yes"/>
+      <point x="1461" y="210"/>
+      <point x="1442" y="100"/>
+      <point x="1411" y="19" type="curve"/>
+    </contour>
+    <contour>
+      <point x="230" y="0" type="line"/>
+      <point x="537" y="0" type="line"/>
+      <point x="537" y="431" type="line" smooth="yes"/>
+      <point x="537" y="486"/>
+      <point x="552" y="509"/>
+      <point x="590" y="509" type="curve" smooth="yes"/>
+      <point x="627" y="509"/>
+      <point x="641" y="486"/>
+      <point x="641" y="431" type="curve" smooth="yes"/>
+      <point x="641" y="30" type="line"/>
+      <point x="932" y="30" type="line"/>
+      <point x="932" y="431" type="line" smooth="yes"/>
+      <point x="932" y="486"/>
+      <point x="947" y="509"/>
+      <point x="984" y="509" type="curve" smooth="yes"/>
+      <point x="1022" y="509"/>
+      <point x="1036" y="486"/>
+      <point x="1036" y="431" type="curve" smooth="yes"/>
+      <point x="1036" y="0" type="line"/>
+      <point x="1343" y="0" type="line"/>
+      <point x="1343" y="437" type="line" smooth="yes"/>
+      <point x="1343" y="654"/>
+      <point x="1252" y="765"/>
+      <point x="1059" y="765" type="curve" smooth="yes"/>
+      <point x="918" y="765"/>
+      <point x="834" y="700"/>
+      <point x="801" y="594" type="curve"/>
+      <point x="794" y="594" type="line"/>
+      <point x="766" y="705"/>
+      <point x="696" y="765"/>
+      <point x="572" y="765" type="curve" smooth="yes"/>
+      <point x="449" y="765"/>
+      <point x="371" y="711"/>
+      <point x="337" y="606" type="curve"/>
+      <point x="262" y="567" type="line"/>
+      <point x="237" y="520"/>
+      <point x="230" y="455"/>
+      <point x="230" y="383" type="curve" smooth="yes"/>
+    </contour>
+    <component base="DdaSmall.or" xOffset="1352" yOffset="215"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>DdaSmall.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>La.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

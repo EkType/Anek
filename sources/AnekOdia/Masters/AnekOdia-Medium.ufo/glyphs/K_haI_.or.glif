@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KhaI.or" format="2">
+  <advance width="1640"/>
+  <anchor x="1500" y="47" name="bottom"/>
+  <anchor x="836" y="46" name="nukta"/>
+  <anchor x="810" y="1777" name="top1"/>
+  <anchor x="1394" y="1431" name="top2"/>
+  <outline>
+    <contour>
+      <point x="1775" y="-454" type="line"/>
+      <point x="1775" y="-294" type="line"/>
+      <point x="1207" y="-189" type="line"/>
+      <point x="1207" y="-180" type="line"/>
+      <point x="1500" y="-22" type="line"/>
+      <point x="1500" y="71" type="line"/>
+      <point x="1396" y="72" type="line"/>
+      <point x="1370" y="72" type="line"/>
+      <point x="1025" y="-129" type="line"/>
+      <point x="1025" y="-296" type="line"/>
+    </contour>
+    <component base="Kha.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Kha.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ttha.or" format="2">
+  <advance width="1499"/>
+  <unicode hex="0B20"/>
+  <anchor x="954" y="86" name="bottom"/>
+  <anchor x="749" y="86" name="nukta"/>
+  <anchor x="749" y="1840" name="top1"/>
+  <anchor x="1170" y="1412" name="top2"/>
+  <outline>
+    <contour>
+      <point x="749" y="-30" type="curve" smooth="yes"/>
+      <point x="1193" y="-30"/>
+      <point x="1435" y="206"/>
+      <point x="1435" y="623" type="curve" smooth="yes"/>
+      <point x="1435" y="737" type="line" smooth="yes"/>
+      <point x="1435" y="1151"/>
+      <point x="1193" y="1389"/>
+      <point x="749" y="1389" type="curve" smooth="yes"/>
+      <point x="304" y="1389"/>
+      <point x="64" y="1153"/>
+      <point x="64" y="737" type="curve" smooth="yes"/>
+      <point x="64" y="623" type="line" smooth="yes"/>
+      <point x="64" y="206"/>
+      <point x="304" y="-30"/>
+    </contour>
+    <contour>
+      <point x="749" y="263" type="curve" smooth="yes"/>
+      <point x="527" y="263"/>
+      <point x="405" y="387"/>
+      <point x="405" y="615" type="curve" smooth="yes"/>
+      <point x="405" y="745" type="line" smooth="yes"/>
+      <point x="405" y="972"/>
+      <point x="527" y="1096"/>
+      <point x="749" y="1096" type="curve" smooth="yes"/>
+      <point x="971" y="1096"/>
+      <point x="1094" y="972"/>
+      <point x="1094" y="745" type="curve" smooth="yes"/>
+      <point x="1094" y="615" type="line" smooth="yes"/>
+      <point x="1094" y="387"/>
+      <point x="971" y="263"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

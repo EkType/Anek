@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="YyaRa.or" format="2">
+  <advance width="2032"/>
+  <anchor x="1519" y="-673" name="bottom"/>
+  <anchor x="963" y="1876" name="top1"/>
+  <anchor x="1708" y="1400" name="top2"/>
+  <outline>
+    <contour>
+      <point x="447" y="-462" type="line"/>
+      <point x="447" y="-742" type="line"/>
+      <point x="1914" y="-742" type="line"/>
+      <point x="1914" y="-287" type="line"/>
+      <point x="1579" y="-287" type="line"/>
+      <point x="1579" y="-462" type="line"/>
+    </contour>
+    <component base="Yya.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Yya.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ya.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

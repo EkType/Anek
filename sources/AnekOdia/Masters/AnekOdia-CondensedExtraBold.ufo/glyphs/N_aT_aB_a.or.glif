@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NaTaBa.or" format="2">
+  <advance width="1265"/>
+  <anchor x="1206" y="-817" name="bottom"/>
+  <anchor x="1502" y="-830" name="rasmall"/>
+  <anchor x="632" y="1804" name="top1"/>
+  <anchor x="987" y="1423" name="top2"/>
+  <anchor x="632" y="66" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="976" y="-885" type="line"/>
+      <point x="1206" y="-885" type="line"/>
+      <point x="1206" y="-408" type="line"/>
+      <point x="976" y="-408" type="line"/>
+      <point x="976" y="-694" type="line"/>
+      <point x="981" y="-626" type="line"/>
+      <point x="979" y="-646"/>
+      <point x="967" y="-668"/>
+      <point x="940" y="-668" type="curve" smooth="yes"/>
+      <point x="910" y="-668"/>
+      <point x="896" y="-650"/>
+      <point x="896" y="-610" type="curve" smooth="yes"/>
+      <point x="896" y="-544" type="line" smooth="yes"/>
+      <point x="896" y="-490"/>
+      <point x="905" y="-449"/>
+      <point x="917" y="-408" type="curve"/>
+      <point x="709" y="-408" type="line"/>
+      <point x="686" y="-459"/>
+      <point x="670" y="-511"/>
+      <point x="670" y="-576" type="curve" smooth="yes"/>
+      <point x="670" y="-634" type="line" smooth="yes"/>
+      <point x="670" y="-768"/>
+      <point x="725" y="-842"/>
+      <point x="834" y="-842" type="curve" smooth="yes"/>
+      <point x="928" y="-842"/>
+      <point x="963" y="-799"/>
+      <point x="973" y="-737" type="curve"/>
+      <point x="980" y="-737" type="line"/>
+      <point x="976" y="-811" type="line"/>
+    </contour>
+    <component base="NaTa.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>NaTa.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

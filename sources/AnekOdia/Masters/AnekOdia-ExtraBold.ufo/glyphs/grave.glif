@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="729"/>
+  <unicode hex="0060"/>
+  <anchor x="486" y="985" name="_top"/>
+  <anchor x="486" y="1370" name="top"/>
+  <outline>
+    <contour>
+      <point x="475" y="1376" type="line"/>
+      <point x="113" y="1376" type="line"/>
+      <point x="113" y="1372" type="line"/>
+      <point x="357" y="1075" type="line"/>
+      <point x="644" y="1075" type="line"/>
+      <point x="644" y="1078" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>gravecomb</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>gravecomb</string>
+    </dict>
+  </lib>
+</glyph>

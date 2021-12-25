@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SaLa.or" format="2">
+  <advance width="1451"/>
+  <anchor x="701" y="1776" name="top1"/>
+  <anchor x="1205" y="1431" name="top2"/>
+  <anchor x="1414" y="-338" name="bottom"/>
+  <anchor x="1837" y="-330" name="rasmall"/>
+  <outline>
+    <contour>
+      <point x="516" y="479" type="curve"/>
+      <point x="677" y="588" type="line"/>
+      <point x="444" y="610"/>
+      <point x="277" y="702"/>
+      <point x="277" y="899" type="curve" smooth="yes"/>
+      <point x="277" y="928" type="line" smooth="yes"/>
+      <point x="277" y="1114"/>
+      <point x="401" y="1214"/>
+      <point x="668" y="1214" type="curve" smooth="yes"/>
+      <point x="942" y="1214"/>
+      <point x="1125" y="1084"/>
+      <point x="1135" y="801" type="curve"/>
+      <point x="1230" y="801" type="line"/>
+      <point x="1143" y="1058" type="line"/>
+      <point x="1106" y="1253"/>
+      <point x="954" y="1379"/>
+      <point x="641" y="1379" type="curve" smooth="yes"/>
+      <point x="280" y="1379"/>
+      <point x="87" y="1213"/>
+      <point x="87" y="930" type="curve" smooth="yes"/>
+      <point x="87" y="896" type="line" smooth="yes"/>
+      <point x="87" y="617"/>
+      <point x="276" y="509"/>
+    </contour>
+    <contour>
+      <point x="687" y="59" type="line"/>
+      <point x="805" y="201" type="line"/>
+      <point x="403" y="299" type="line"/>
+      <point x="403" y="310" type="line"/>
+      <point x="1171" y="672" type="line"/>
+      <point x="1171" y="849" type="line"/>
+      <point x="593" y="568" type="line"/>
+      <point x="504" y="525" type="line"/>
+      <point x="181" y="370" type="line"/>
+      <point x="181" y="187" type="line"/>
+    </contour>
+    <contour>
+      <point x="1135" y="137" type="line"/>
+      <point x="1312" y="137" type="line"/>
+      <point x="1312" y="1344" type="line"/>
+      <point x="1134" y="1344" type="line"/>
+      <point x="1140" y="1108" type="line"/>
+      <point x="1109" y="1108" type="line"/>
+      <point x="1135" y="961" type="line"/>
+      <point x="1135" y="702" type="line"/>
+    </contour>
+    <component base="LaSmall.or" xOffset="1648" yOffset="143"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>LaSmall.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

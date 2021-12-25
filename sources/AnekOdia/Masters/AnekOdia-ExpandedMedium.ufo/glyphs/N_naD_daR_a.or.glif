@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NnaDdaRa.or" format="2">
+  <advance width="2053"/>
+  <anchor x="1684" y="-875" name="bottom"/>
+  <anchor x="1066" y="1828" name="top1"/>
+  <anchor x="1746" y="1427" name="top2"/>
+  <anchor x="1066" y="53" name="nukta"/>
+  <anchor x="2063" y="-572" name="rasmall"/>
+  <outline>
+    <component base="NnaDda.or"/>
+    <component base="Ra_KaTa.or" xOffset="2425" yOffset="-20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>NnaDda.or</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Ra_KaTa.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Nna.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

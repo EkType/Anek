@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaNa.or" format="2">
+  <advance width="1265"/>
+  <anchor x="864" y="-278" name="bottom"/>
+  <anchor x="907" y="-209" name="rasmall"/>
+  <anchor x="632" y="1804" name="top1"/>
+  <anchor x="987" y="1423" name="top2"/>
+  <anchor x="632" y="66" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="1075" y="-440" type="line"/>
+      <point x="1075" y="-209" type="line"/>
+      <point x="661" y="-140" type="line"/>
+      <point x="661" y="-127" type="line"/>
+      <point x="864" y="-8" type="line"/>
+      <point x="864" y="105" type="line"/>
+      <point x="693" y="115" type="line"/>
+      <point x="427" y="-74" type="line"/>
+      <point x="427" y="-305" type="line"/>
+    </contour>
+    <component base="Na.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Na.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

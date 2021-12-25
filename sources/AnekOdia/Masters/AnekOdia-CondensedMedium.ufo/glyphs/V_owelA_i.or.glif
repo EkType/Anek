@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelAi.or" format="2">
+  <advance width="1237"/>
+  <unicode hex="0B10"/>
+  <anchor x="1202" y="1521" name="top2"/>
+  <outline>
+    <contour>
+      <point x="987" y="0" type="line"/>
+      <point x="1143" y="0" type="line"/>
+      <point x="1143" y="1355" type="line" smooth="yes"/>
+      <point x="1143" y="1574"/>
+      <point x="1050" y="1663"/>
+      <point x="826" y="1666" type="curve" smooth="yes"/>
+      <point x="619" y="1669" type="line" smooth="yes"/>
+      <point x="524" y="1670"/>
+      <point x="479" y="1700"/>
+      <point x="476" y="1772" type="curve" smooth="yes"/>
+      <point x="475" y="1800" type="line"/>
+      <point x="321" y="1800" type="line"/>
+      <point x="321" y="1768" type="line" smooth="yes"/>
+      <point x="321" y="1604"/>
+      <point x="414" y="1533"/>
+      <point x="613" y="1531" type="curve" smooth="yes"/>
+      <point x="821" y="1529" type="line" smooth="yes"/>
+      <point x="947" y="1528"/>
+      <point x="987" y="1474"/>
+      <point x="987" y="1353" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="764" y="673" type="line"/>
+      <point x="1031" y="673" type="line"/>
+      <point x="1031" y="818" type="line"/>
+      <point x="764" y="818" type="line"/>
+    </contour>
+    <component base="VowelE.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>VowelE.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>VowelE.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraAa.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

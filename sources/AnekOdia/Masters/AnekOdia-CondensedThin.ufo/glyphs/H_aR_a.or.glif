@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="HaRa.or" format="2">
+  <advance width="864"/>
+  <anchor x="429" y="-390" name="bottom"/>
+  <anchor x="436" y="-62" name="nukta"/>
+  <anchor x="436" y="1646" name="top1"/>
+  <anchor x="654" y="1449" name="top2"/>
+  <outline>
+    <contour>
+      <point x="106" y="-375" type="line"/>
+      <point x="106" y="-406" type="line"/>
+      <point x="592" y="-406" type="line"/>
+      <point x="592" y="-127" type="line"/>
+      <point x="559" y="-127" type="line"/>
+      <point x="559" y="-375" type="line"/>
+    </contour>
+    <component base="Ha.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ha.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

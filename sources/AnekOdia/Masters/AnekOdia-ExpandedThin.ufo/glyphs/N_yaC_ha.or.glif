@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NyaCha.or" format="2">
+  <advance width="1967"/>
+  <anchor x="1301" y="-537" name="bottom"/>
+  <anchor x="1774" y="-645" name="rasmall"/>
+  <anchor x="1007" y="1780" name="top1"/>
+  <anchor x="1717" y="1453" name="top2"/>
+  <outline>
+    <component base="ThaSmall.or" xOffset="1919" yOffset="-148"/>
+    <component base="NyaCa.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

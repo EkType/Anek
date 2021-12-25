@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Na.or" format="2">
+  <advance width="1662"/>
+  <unicode hex="0B28"/>
+  <anchor x="1154" y="86" name="bottom"/>
+  <anchor x="820" y="86" name="nukta"/>
+  <anchor x="825" y="1840" name="top1"/>
+  <anchor x="1295" y="1412" name="top2"/>
+  <outline>
+    <contour>
+      <point x="183" y="0" type="line"/>
+      <point x="561" y="0" type="line"/>
+      <point x="725" y="276" type="line" smooth="yes"/>
+      <point x="767" y="347"/>
+      <point x="812" y="431"/>
+      <point x="849" y="499" type="curve"/>
+      <point x="868" y="499" type="line"/>
+      <point x="859" y="411"/>
+      <point x="847" y="275"/>
+      <point x="847" y="191" type="curve" smooth="yes"/>
+      <point x="847" y="0" type="line"/>
+      <point x="1154" y="0" type="line"/>
+      <point x="1154" y="723" type="line"/>
+      <point x="704" y="723" type="line"/>
+      <point x="547" y="513" type="line"/>
+      <point x="439" y="378" type="line"/>
+    </contour>
+    <contour>
+      <point x="439" y="309" type="curve"/>
+      <point x="595" y="547" type="line"/>
+      <point x="460" y="579"/>
+      <point x="393" y="653"/>
+      <point x="393" y="781" type="curve" smooth="yes"/>
+      <point x="393" y="803" type="line" smooth="yes"/>
+      <point x="393" y="993"/>
+      <point x="530" y="1097"/>
+      <point x="817" y="1097" type="curve" smooth="yes"/>
+      <point x="1126" y="1097"/>
+      <point x="1278" y="972"/>
+      <point x="1278" y="713" type="curve" smooth="yes"/>
+      <point x="1278" y="692" type="line" smooth="yes"/>
+      <point x="1278" y="588"/>
+      <point x="1268" y="517"/>
+      <point x="1243" y="421" type="curve"/>
+      <point x="1560" y="455" type="line"/>
+      <point x="1594" y="528"/>
+      <point x="1610" y="637"/>
+      <point x="1610" y="723" type="curve" smooth="yes"/>
+      <point x="1610" y="746" type="line" smooth="yes"/>
+      <point x="1610" y="1166"/>
+      <point x="1324" y="1392"/>
+      <point x="817" y="1392" type="curve" smooth="yes"/>
+      <point x="329" y="1392"/>
+      <point x="53" y="1180"/>
+      <point x="53" y="804" type="curve" smooth="yes"/>
+      <point x="53" y="777" type="line" smooth="yes"/>
+      <point x="53" y="510"/>
+      <point x="185" y="371"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

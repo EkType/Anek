@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="HaNa.or" format="2">
+  <advance width="2115"/>
+  <anchor x="1042" y="1876" name="top1"/>
+  <anchor x="1648" y="1400" name="top2"/>
+  <anchor x="1699" y="-585" name="bottom"/>
+  <anchor x="2049" y="-606" name="rasmall"/>
+  <outline>
+    <contour>
+      <point x="529" y="271" type="curve"/>
+      <point x="608" y="573" type="line"/>
+      <point x="500" y="596"/>
+      <point x="448" y="662"/>
+      <point x="448" y="753" type="curve" smooth="yes"/>
+      <point x="448" y="769" type="line" smooth="yes"/>
+      <point x="448" y="947"/>
+      <point x="632" y="1052"/>
+      <point x="1022" y="1052" type="curve" smooth="yes"/>
+      <point x="1455" y="1052"/>
+      <point x="1680" y="910"/>
+      <point x="1680" y="621" type="curve" smooth="yes"/>
+      <point x="1680" y="596" type="line" smooth="yes"/>
+      <point x="1680" y="543"/>
+      <point x="1670" y="465"/>
+      <point x="1648" y="399" type="curve"/>
+      <point x="2017" y="434" type="line"/>
+      <point x="2045" y="495"/>
+      <point x="2058" y="575"/>
+      <point x="2058" y="646" type="curve" smooth="yes"/>
+      <point x="2058" y="669" type="line" smooth="yes"/>
+      <point x="2058" y="1118"/>
+      <point x="1679" y="1376"/>
+      <point x="1024" y="1376" type="curve" smooth="yes"/>
+      <point x="397" y="1376"/>
+      <point x="60" y="1162"/>
+      <point x="60" y="767" type="curve" smooth="yes"/>
+      <point x="60" y="740" type="line" smooth="yes"/>
+      <point x="60" y="491"/>
+      <point x="224" y="319"/>
+    </contour>
+    <contour>
+      <point x="1216" y="-422" type="line"/>
+      <point x="1335" y="-152" type="line"/>
+      <point x="741" y="-46" type="line"/>
+      <point x="741" y="-30" type="line"/>
+      <point x="937" y="96" type="line"/>
+      <point x="705" y="247" type="line"/>
+      <point x="408" y="32" type="line"/>
+      <point x="408" y="-258" type="line"/>
+    </contour>
+    <contour>
+      <point x="1189" y="5" type="line"/>
+      <point x="1533" y="5" type="line"/>
+      <point x="1533" y="724" type="line"/>
+      <point x="1189" y="724" type="line"/>
+      <point x="1189" y="324" type="line"/>
+      <point x="1200" y="434" type="line"/>
+      <point x="1184" y="363"/>
+      <point x="1119" y="301"/>
+      <point x="988" y="301" type="curve" smooth="yes"/>
+      <point x="870" y="301"/>
+      <point x="818" y="338"/>
+      <point x="818" y="409" type="curve" smooth="yes"/>
+      <point x="818" y="417" type="line" smooth="yes"/>
+      <point x="818" y="473"/>
+      <point x="857" y="509"/>
+      <point x="942" y="518" type="curve"/>
+      <point x="942" y="796" type="line"/>
+      <point x="771" y="785"/>
+      <point x="602" y="708"/>
+      <point x="524" y="570" type="curve"/>
+      <point x="488" y="522" type="line"/>
+      <point x="474" y="495"/>
+      <point x="462" y="463"/>
+      <point x="462" y="429" type="curve" smooth="yes"/>
+      <point x="462" y="411" type="line" smooth="yes"/>
+      <point x="462" y="173"/>
+      <point x="605" y="43"/>
+      <point x="855" y="43" type="curve" smooth="yes"/>
+      <point x="1057" y="43"/>
+      <point x="1154" y="107"/>
+      <point x="1184" y="231" type="curve"/>
+      <point x="1195" y="231" type="line"/>
+      <point x="1189" y="110" type="line"/>
+    </contour>
+    <component base="NaSmall.or" xOffset="1819" yOffset="-134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>NaSmall.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

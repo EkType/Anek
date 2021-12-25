@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LlaPha.or" format="2">
+  <advance width="934"/>
+  <anchor x="464" y="1646" name="top1"/>
+  <anchor x="702" y="1449" name="top2"/>
+  <anchor x="705" y="-518" name="bottom"/>
+  <anchor x="872" y="-477" name="rasmall"/>
+  <outline>
+    <contour>
+      <point x="196" y="524" type="curve"/>
+      <point x="206" y="556" type="line"/>
+      <point x="143" y="606"/>
+      <point x="119" y="672"/>
+      <point x="119" y="815" type="curve" smooth="yes"/>
+      <point x="119" y="989" type="line" smooth="yes"/>
+      <point x="119" y="1214"/>
+      <point x="233" y="1347"/>
+      <point x="464" y="1347" type="curve" smooth="yes"/>
+      <point x="695" y="1347"/>
+      <point x="800" y="1214"/>
+      <point x="800" y="989" type="curve" smooth="yes"/>
+      <point x="800" y="769" type="line" smooth="yes"/>
+      <point x="800" y="695"/>
+      <point x="798" y="624"/>
+      <point x="781" y="550" type="curve"/>
+      <point x="816" y="558" type="line"/>
+      <point x="832" y="627"/>
+      <point x="835" y="691"/>
+      <point x="835" y="773" type="curve" smooth="yes"/>
+      <point x="835" y="989" type="line" smooth="yes"/>
+      <point x="835" y="1236"/>
+      <point x="718" y="1378"/>
+      <point x="466" y="1378" type="curve" smooth="yes"/>
+      <point x="212" y="1378"/>
+      <point x="84" y="1238"/>
+      <point x="84" y="989" type="curve" smooth="yes"/>
+      <point x="84" y="813" type="line" smooth="yes"/>
+      <point x="84" y="654"/>
+      <point x="118" y="574"/>
+    </contour>
+    <contour>
+      <point x="184" y="0" type="line"/>
+      <point x="219" y="0" type="line"/>
+      <point x="219" y="562" type="line" smooth="yes"/>
+      <point x="219" y="656"/>
+      <point x="248" y="708"/>
+      <point x="321" y="708" type="curve" smooth="yes"/>
+      <point x="391" y="708"/>
+      <point x="428" y="656"/>
+      <point x="428" y="562" type="curve" smooth="yes"/>
+      <point x="428" y="100" type="line"/>
+      <point x="461" y="100" type="line"/>
+      <point x="461" y="562" type="line" smooth="yes"/>
+      <point x="461" y="656"/>
+      <point x="497" y="708"/>
+      <point x="567" y="708" type="curve" smooth="yes"/>
+      <point x="644" y="708"/>
+      <point x="670" y="658"/>
+      <point x="670" y="571" type="curve" smooth="yes"/>
+      <point x="670" y="-10" type="line"/>
+      <point x="705" y="-10" type="line"/>
+      <point x="705" y="571" type="line" smooth="yes"/>
+      <point x="705" y="682"/>
+      <point x="661" y="739"/>
+      <point x="571" y="739" type="curve" smooth="yes"/>
+      <point x="494" y="739"/>
+      <point x="451" y="699"/>
+      <point x="442" y="616" type="curve"/>
+      <point x="446" y="616" type="line"/>
+      <point x="439" y="699"/>
+      <point x="391" y="739"/>
+      <point x="323" y="739" type="curve" smooth="yes"/>
+      <point x="231" y="739"/>
+      <point x="184" y="683"/>
+      <point x="184" y="559" type="curve"/>
+      <point x="184" y="557" type="line"/>
+      <point x="184" y="550"/>
+      <point x="184" y="548"/>
+      <point x="184" y="543" type="curve" smooth="yes"/>
+    </contour>
+    <component base="PhaSmall.or" xOffset="749" yOffset="124"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>PhaSmall.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

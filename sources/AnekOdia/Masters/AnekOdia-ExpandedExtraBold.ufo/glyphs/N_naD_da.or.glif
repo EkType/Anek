@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NnaDda.or" format="2">
+  <advance width="2025"/>
+  <guideline y="1378"/>
+  <anchor x="1719" y="-459" name="bottom"/>
+  <anchor x="2057" y="-580" name="rasmall"/>
+  <anchor x="1052" y="106" name="nukta"/>
+  <anchor x="1052" y="1876" name="top1"/>
+  <anchor x="1701" y="1400" name="top2"/>
+  <outline>
+    <component base="TaSmall.or" xOffset="2268"/>
+    <component base="Nna.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Nna.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

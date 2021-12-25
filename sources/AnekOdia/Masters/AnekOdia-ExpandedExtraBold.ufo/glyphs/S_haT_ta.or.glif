@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ShaTta.or" format="2">
+  <advance width="2071"/>
+  <anchor x="1042" y="1876" name="top1"/>
+  <anchor x="1747" y="1400" name="top2"/>
+  <anchor x="1880" y="-442" name="bottom"/>
+  <anchor x="2296" y="-463" name="rasmall"/>
+  <outline>
+    <contour>
+      <point x="899" y="-34" type="curve" smooth="yes"/>
+      <point x="1235" y="-34"/>
+      <point x="1415" y="91"/>
+      <point x="1415" y="317" type="curve" smooth="yes"/>
+      <point x="1415" y="329" type="line" smooth="yes"/>
+      <point x="1415" y="557"/>
+      <point x="1237" y="682"/>
+      <point x="904" y="682" type="curve" smooth="yes"/>
+      <point x="662" y="682"/>
+      <point x="518" y="591"/>
+      <point x="450" y="452" type="curve"/>
+      <point x="413" y="449" type="line"/>
+      <point x="397" y="417"/>
+      <point x="383" y="376"/>
+      <point x="383" y="333" type="curve" smooth="yes"/>
+      <point x="383" y="317" type="line" smooth="yes"/>
+      <point x="383" y="91"/>
+      <point x="563" y="-34"/>
+    </contour>
+    <contour>
+      <point x="899" y="221" type="curve" smooth="yes"/>
+      <point x="785" y="221"/>
+      <point x="726" y="253"/>
+      <point x="726" y="320" type="curve" smooth="yes"/>
+      <point x="726" y="328" type="line" smooth="yes"/>
+      <point x="726" y="396"/>
+      <point x="785" y="427"/>
+      <point x="899" y="427" type="curve" smooth="yes"/>
+      <point x="1013" y="427"/>
+      <point x="1071" y="396"/>
+      <point x="1071" y="328" type="curve" smooth="yes"/>
+      <point x="1071" y="320" type="line" smooth="yes"/>
+      <point x="1071" y="253"/>
+      <point x="1013" y="221"/>
+    </contour>
+    <contour>
+      <point x="402" y="246" type="curve"/>
+      <point x="516" y="536" type="line"/>
+      <point x="459" y="550"/>
+      <point x="425" y="580"/>
+      <point x="425" y="630" type="curve" smooth="yes"/>
+      <point x="425" y="635" type="line" smooth="yes"/>
+      <point x="425" y="733"/>
+      <point x="523" y="771"/>
+      <point x="795" y="771" type="curve" smooth="yes"/>
+      <point x="808" y="771" type="line" smooth="yes"/>
+      <point x="974" y="771"/>
+      <point x="1121" y="744"/>
+      <point x="1235" y="705" type="curve"/>
+      <point x="1216" y="963" type="line"/>
+      <point x="1150" y="991"/>
+      <point x="1038" y="1013"/>
+      <point x="899" y="1029" type="curve"/>
+      <point x="641" y="1045" type="line"/>
+      <point x="290" y="1045"/>
+      <point x="48" y="912"/>
+      <point x="48" y="643" type="curve" smooth="yes"/>
+      <point x="48" y="632" type="line" smooth="yes"/>
+      <point x="48" y="420"/>
+      <point x="181" y="292"/>
+    </contour>
+    <contour>
+      <point x="543" y="842" type="curve"/>
+      <point x="913" y="951" type="line"/>
+      <point x="901" y="962"/>
+      <point x="895" y="974"/>
+      <point x="895" y="987" type="curve" smooth="yes"/>
+      <point x="895" y="1052"/>
+      <point x="963" y="1089"/>
+      <point x="1148" y="1089" type="curve" smooth="yes"/>
+      <point x="1408" y="1089"/>
+      <point x="1574" y="991"/>
+      <point x="1588" y="758" type="curve"/>
+      <point x="1602" y="970" type="line"/>
+      <point x="1607" y="1052" type="line"/>
+      <point x="1563" y="1266"/>
+      <point x="1396" y="1378"/>
+      <point x="1061" y="1378" type="curve" smooth="yes"/>
+      <point x="710" y="1378"/>
+      <point x="507" y="1231"/>
+      <point x="507" y="990" type="curve" smooth="yes"/>
+      <point x="507" y="940"/>
+      <point x="522" y="884"/>
+    </contour>
+    <contour>
+      <point x="1588" y="140" type="line"/>
+      <point x="1951" y="140" type="line"/>
+      <point x="1951" y="1328" type="line"/>
+      <point x="1593" y="1328" type="line"/>
+      <point x="1604" y="1116" type="line"/>
+      <point x="1588" y="1116" type="line"/>
+      <point x="1588" y="979" type="line"/>
+    </contour>
+    <component base="TtaSmall.or" xOffset="2212" yOffset="276"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Sha.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

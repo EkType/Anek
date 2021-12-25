@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ograve" format="2">
+  <advance width="789"/>
+  <unicode hex="00D2"/>
+  <anchor x="394" y="0" name="bottom"/>
+  <anchor x="394" y="639" name="center"/>
+  <anchor x="577" y="5" name="ogonek"/>
+  <anchor x="326" y="1567" name="top"/>
+  <anchor x="20" y="1278" name="topleft"/>
+  <anchor x="739" y="1278" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="gravecomb.case" xOffset="18"/>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NaTa.or" format="2">
+  <advance width="853"/>
+  <anchor x="491" y="-469" name="bottom"/>
+  <anchor x="673" y="-484" name="rasmall"/>
+  <anchor x="385" y="13" name="nukta"/>
+  <anchor x="430" y="1646" name="top1"/>
+  <anchor x="646" y="1449" name="top2"/>
+  <outline>
+    <component base="TaSmall.or" xOffset="766"/>
+    <component base="Na.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

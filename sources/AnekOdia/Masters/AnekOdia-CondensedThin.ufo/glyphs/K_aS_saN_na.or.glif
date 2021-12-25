@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaSsaNna.or" format="2">
+  <advance width="863"/>
+  <anchor x="421" y="1646" name="top1"/>
+  <anchor x="708" y="1449" name="top2"/>
+  <anchor x="743" y="-420" name="bottom"/>
+  <anchor x="910" y="-379" name="rasmall"/>
+  <outline>
+    <contour>
+      <point x="271" y="556" type="curve"/>
+      <point x="293" y="583" type="line"/>
+      <point x="154" y="633"/>
+      <point x="128" y="734"/>
+      <point x="128" y="877" type="curve" smooth="yes"/>
+      <point x="128" y="1005" type="line" smooth="yes"/>
+      <point x="128" y="1175"/>
+      <point x="187" y="1288"/>
+      <point x="302" y="1329" type="curve"/>
+      <point x="321" y="1335" type="line"/>
+      <point x="349" y="1343"/>
+      <point x="380" y="1347"/>
+      <point x="414" y="1347" type="curve" smooth="yes"/>
+      <point x="614" y="1347"/>
+      <point x="704" y="1220"/>
+      <point x="708" y="1039" type="curve"/>
+      <point x="725" y="1035" type="line"/>
+      <point x="719" y="1127" type="line"/>
+      <point x="702" y="1277"/>
+      <point x="597" y="1378"/>
+      <point x="416" y="1378" type="curve" smooth="yes"/>
+      <point x="202" y="1378"/>
+      <point x="93" y="1242"/>
+      <point x="93" y="1003" type="curve" smooth="yes"/>
+      <point x="93" y="876" type="line" smooth="yes"/>
+      <point x="93" y="726"/>
+      <point x="126" y="615"/>
+    </contour>
+    <contour>
+      <point x="408" y="1" type="curve"/>
+      <point x="432" y="27" type="line"/>
+      <point x="332" y="59"/>
+      <point x="295" y="155"/>
+      <point x="295" y="291" type="curve" smooth="yes"/>
+      <point x="295" y="450" type="line" smooth="yes"/>
+      <point x="295" y="526"/>
+      <point x="301" y="561"/>
+      <point x="331" y="601" type="curve"/>
+      <point x="299" y="591" type="line"/>
+      <point x="267" y="539"/>
+      <point x="260" y="515"/>
+      <point x="260" y="448" type="curve" smooth="yes"/>
+      <point x="260" y="289" type="line" smooth="yes"/>
+      <point x="260" y="143"/>
+      <point x="302" y="40"/>
+    </contour>
+    <contour>
+      <point x="32" y="277" type="line"/>
+      <point x="284" y="547" type="line"/>
+      <point x="297" y="562" type="line"/>
+      <point x="475" y="758" type="line"/>
+      <point x="465" y="794" type="line"/>
+      <point x="270" y="578" type="line"/>
+      <point x="259" y="567" type="line"/>
+      <point x="32" y="326" type="line"/>
+    </contour>
+    <contour>
+      <point x="621" y="195" type="line"/>
+      <point x="652" y="195" type="line"/>
+      <point x="323" y="1352" type="line"/>
+      <point x="293" y="1339" type="line"/>
+    </contour>
+    <contour>
+      <point x="708" y="110" type="line"/>
+      <point x="743" y="110" type="line"/>
+      <point x="743" y="1358" type="line"/>
+      <point x="708" y="1358" type="line"/>
+      <point x="711" y="1140" type="line"/>
+      <point x="703" y="1143" type="line"/>
+      <point x="708" y="1090" type="line"/>
+    </contour>
+    <component base="NnaSmall.or" xOffset="787" yOffset="222"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>NnaSmall.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ya.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ga.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

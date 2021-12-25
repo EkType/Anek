@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="PaSa.or" format="2">
+  <advance width="1217"/>
+  <anchor x="595" y="1801" name="top1"/>
+  <anchor x="996" y="1423" name="top2"/>
+  <anchor x="1149" y="-452" name="bottom"/>
+  <anchor x="1445" y="-465" name="rasmall"/>
+  <outline>
+    <contour>
+      <point x="239" y="403" type="curve"/>
+      <point x="379" y="666" type="line"/>
+      <point x="346" y="694"/>
+      <point x="339" y="725"/>
+      <point x="339" y="782" type="curve" smooth="yes"/>
+      <point x="339" y="881" type="line" smooth="yes"/>
+      <point x="339" y="1048"/>
+      <point x="419" y="1141"/>
+      <point x="597" y="1141" type="curve" smooth="yes"/>
+      <point x="774" y="1141"/>
+      <point x="873" y="1035"/>
+      <point x="877" y="844" type="curve"/>
+      <point x="989" y="844" type="line"/>
+      <point x="884" y="1133" type="line"/>
+      <point x="862" y="1304"/>
+      <point x="751" y="1408"/>
+      <point x="519" y="1408" type="curve" smooth="yes"/>
+      <point x="225" y="1408"/>
+      <point x="46" y="1216"/>
+      <point x="46" y="899" type="curve" smooth="yes"/>
+      <point x="46" y="775" type="line" smooth="yes"/>
+      <point x="46" y="580"/>
+      <point x="116" y="466"/>
+    </contour>
+    <contour>
+      <point x="579" y="-14" type="curve"/>
+      <point x="683" y="226" type="line"/>
+      <point x="559" y="226"/>
+      <point x="506" y="265"/>
+      <point x="506" y="381" type="curve" smooth="yes"/>
+      <point x="506" y="410" type="line" smooth="yes"/>
+      <point x="506" y="494"/>
+      <point x="552" y="543"/>
+      <point x="639" y="561" type="curve"/>
+      <point x="639" y="813" type="line"/>
+      <point x="499" y="797"/>
+      <point x="387" y="743"/>
+      <point x="320" y="648" type="curve"/>
+      <point x="249" y="548" type="line"/>
+      <point x="223" y="479"/>
+      <point x="223" y="464"/>
+      <point x="223" y="415" type="curve" smooth="yes"/>
+      <point x="223" y="355" type="line" smooth="yes"/>
+      <point x="223" y="125"/>
+      <point x="353" y="-5"/>
+    </contour>
+    <contour>
+      <point x="877" y="140" type="line"/>
+      <point x="1149" y="140" type="line"/>
+      <point x="1149" y="1373" type="line"/>
+      <point x="884" y="1373" type="line"/>
+      <point x="890" y="1164" type="line"/>
+      <point x="875" y="1164" type="line"/>
+      <point x="877" y="1063" type="line"/>
+    </contour>
+    <component base="SaSmall.or" xOffset="1155" yOffset="311"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>SaSmall.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ga.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

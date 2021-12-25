@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraIReph.or" format="2">
+  <anchor x="-548" y="1725" name="_top1"/>
+  <outline>
+    <contour>
+      <point x="-505" y="1652" type="line"/>
+      <point x="-455" y="1677"/>
+      <point x="-425" y="1691"/>
+      <point x="-376" y="1717" type="curve" smooth="yes"/>
+      <point x="-81" y="1875" type="line"/>
+      <point x="-81" y="2023" type="line"/>
+      <point x="-94" y="2023" type="line"/>
+      <point x="-505" y="1797" type="line"/>
+    </contour>
+    <component base="MatraI.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>MatraI.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

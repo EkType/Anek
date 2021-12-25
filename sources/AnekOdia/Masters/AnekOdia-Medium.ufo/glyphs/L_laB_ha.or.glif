@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LlaBha.or" format="2">
+  <advance width="1671"/>
+  <anchor x="825" y="1777" name="top1"/>
+  <anchor x="1295" y="1431" name="top2"/>
+  <anchor x="1091" y="-540" name="bottom"/>
+  <anchor x="1769" y="-576" name="rasmall"/>
+  <outline>
+    <contour>
+      <point x="334" y="390" type="curve"/>
+      <point x="402" y="537" type="line"/>
+      <point x="309" y="586"/>
+      <point x="273" y="651"/>
+      <point x="273" y="764" type="curve" smooth="yes"/>
+      <point x="273" y="819" type="line" smooth="yes"/>
+      <point x="273" y="1073"/>
+      <point x="457" y="1215"/>
+      <point x="822" y="1215" type="curve" smooth="yes"/>
+      <point x="1208" y="1215"/>
+      <point x="1401" y="1061"/>
+      <point x="1401" y="764" type="curve" smooth="yes"/>
+      <point x="1401" y="674" type="line" smooth="yes"/>
+      <point x="1401" y="598"/>
+      <point x="1390" y="530"/>
+      <point x="1368" y="456" type="curve"/>
+      <point x="1548" y="477" type="line"/>
+      <point x="1572" y="547"/>
+      <point x="1585" y="623"/>
+      <point x="1585" y="711" type="curve" smooth="yes"/>
+      <point x="1585" y="775" type="line" smooth="yes"/>
+      <point x="1585" y="1166"/>
+      <point x="1317" y="1379"/>
+      <point x="823" y="1379" type="curve" smooth="yes"/>
+      <point x="350" y="1379"/>
+      <point x="87" y="1171"/>
+      <point x="87" y="818" type="curve" smooth="yes"/>
+      <point x="87" y="757" type="line" smooth="yes"/>
+      <point x="87" y="558"/>
+      <point x="177" y="441"/>
+    </contour>
+    <contour>
+      <point x="308" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="486" y="457" type="line" smooth="yes"/>
+      <point x="486" y="554"/>
+      <point x="520" y="601"/>
+      <point x="599" y="601" type="curve" smooth="yes"/>
+      <point x="677" y="601"/>
+      <point x="714" y="551"/>
+      <point x="714" y="456" type="curve" smooth="yes"/>
+      <point x="714" y="70" type="line"/>
+      <point x="891" y="70" type="line"/>
+      <point x="891" y="456" type="line" smooth="yes"/>
+      <point x="891" y="551"/>
+      <point x="928" y="601"/>
+      <point x="1005" y="601" type="curve" smooth="yes"/>
+      <point x="1084" y="601"/>
+      <point x="1119" y="554"/>
+      <point x="1119" y="457" type="curve" smooth="yes"/>
+      <point x="1119" y="50" type="line"/>
+      <point x="1297" y="50" type="line"/>
+      <point x="1297" y="468" type="line" smooth="yes"/>
+      <point x="1297" y="657"/>
+      <point x="1213" y="751"/>
+      <point x="1042" y="751" type="curve" smooth="yes"/>
+      <point x="905" y="751"/>
+      <point x="831" y="691"/>
+      <point x="807" y="596" type="curve"/>
+      <point x="800" y="596" type="line"/>
+      <point x="778" y="691"/>
+      <point x="708" y="751"/>
+      <point x="585" y="751" type="curve" smooth="yes"/>
+      <point x="441" y="751"/>
+      <point x="361" y="683"/>
+      <point x="333" y="547" type="curve"/>
+      <point x="319" y="526" type="line"/>
+      <point x="310" y="499"/>
+      <point x="308" y="466"/>
+      <point x="308" y="428" type="curve" smooth="yes"/>
+    </contour>
+    <component base="BhaSmall.or" xOffset="1418" yOffset="170"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>BhaSmall.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

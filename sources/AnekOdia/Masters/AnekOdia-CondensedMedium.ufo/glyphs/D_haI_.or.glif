@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DhaI.or" format="2">
+  <advance width="982"/>
+  <anchor x="888" y="40" name="bottom"/>
+  <anchor x="509" y="40" name="nukta"/>
+  <anchor x="470" y="1724" name="top1"/>
+  <anchor x="791" y="1436" name="top2"/>
+  <outline>
+    <contour>
+      <point x="1083" y="-428" type="line"/>
+      <point x="1083" y="-290" type="line"/>
+      <point x="663" y="-196" type="line"/>
+      <point x="663" y="-183" type="line"/>
+      <point x="888" y="-40" type="line"/>
+      <point x="888" y="55" type="line"/>
+      <point x="739" y="50" type="line"/>
+      <point x="738" y="-2" type="line"/>
+      <point x="524" y="-146" type="line"/>
+      <point x="524" y="-294" type="line"/>
+    </contour>
+    <component base="Dha.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Dha.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Dha.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

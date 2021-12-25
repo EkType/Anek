@@ -1,0 +1,436 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="500">
+      <map input="100" output="100"/>
+      <map input="200" output="206"/>
+      <map input="300" output="312"/>
+      <map input="400" output="414"/>
+      <map input="500" output="500"/>
+      <map input="600" output="615"/>
+      <map input="700" output="709"/>
+      <map input="800" output="800"/>
+    </axis>
+    <axis tag="wdth" name="Width" minimum="75" maximum="125" default="100"/>
+  </axes>
+  <sources>
+    <source filename="AnekOdia-CondensedThin.ufo" name="Anek Odia Condensed Thin" familyname="Anek Odia" stylename="Condensed Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekOdia-CondensedMedium.ufo" name="Anek Odia Condensed Medium" familyname="Anek Odia" stylename="Condensed Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekOdia-CondensedExtraBold.ufo" name="Anek Odia Condensed ExtraBold" familyname="Anek Odia" stylename="Condensed ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekOdia-Thin.ufo" name="Anek Odia Thin" familyname="Anek Odia" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekOdia-Medium.ufo" name="Anek Odia Medium" familyname="Anek Odia" stylename="Medium">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekOdia-ExtraBold.ufo" name="Anek Odia ExtraBold" familyname="Anek Odia" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekOdia-ExpandedThin.ufo" name="Anek Odia Expanded Thin" familyname="Anek Odia" stylename="Expanded Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+    <source filename="AnekOdia-ExpandedMedium.ufo" name="Anek Odia Expanded Medium" familyname="Anek Odia" stylename="Expanded Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+    <source filename="AnekOdia-ExpandedExtraBold.ufo" name="Anek Odia Expanded ExtraBold" familyname="Anek Odia" stylename="Expanded ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Anek Odia Condensed Thin" familyname="Anek Odia" stylename="Condensed Thin" filename="instance_ufo/AnekOdia-CondensedThin.ufo" stylemapfamilyname="Anek Odia Condensed Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Condensed ExtraLight" familyname="Anek Odia" stylename="Condensed ExtraLight" filename="instance_ufo/AnekOdia-CondensedExtraLight.ufo" stylemapfamilyname="Anek Odia Condensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Condensed Light" familyname="Anek Odia" stylename="Condensed Light" filename="instance_ufo/AnekOdia-CondensedLight.ufo" stylemapfamilyname="Anek Odia Condensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Condensed" familyname="Anek Odia" stylename="Condensed" filename="instance_ufo/AnekOdia-Condensed.ufo" stylemapfamilyname="Anek Odia Condensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Condensed Medium" familyname="Anek Odia" stylename="Condensed Medium" filename="instance_ufo/AnekOdia-CondensedMedium.ufo" stylemapfamilyname="Anek Odia Condensed Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Condensed SemiBold" familyname="Anek Odia" stylename="Condensed SemiBold" filename="instance_ufo/AnekOdia-CondensedSemiBold.ufo" stylemapfamilyname="Anek Odia Condensed SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Condensed Bold" familyname="Anek Odia" stylename="Condensed Bold" filename="instance_ufo/AnekOdia-CondensedBold.ufo" stylemapfamilyname="Anek Odia Condensed Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Condensed ExtraBold" familyname="Anek Odia" stylename="Condensed ExtraBold" filename="instance_ufo/AnekOdia-CondensedExtraBold.ufo" stylemapfamilyname="Anek Odia Condensed ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiCondensed Thin" familyname="Anek Odia" stylename="SemiCondensed Thin" filename="instance_ufo/AnekOdia-SemiCondensedThin.ufo" stylemapfamilyname="Anek Odia SemiCondensed Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiCondensed ExtraLight" familyname="Anek Odia" stylename="SemiCondensed ExtraLight" filename="instance_ufo/AnekOdia-SemiCondensedExtraLight.ufo" stylemapfamilyname="Anek Odia SemiCondensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiCondensed Light" familyname="Anek Odia" stylename="SemiCondensed Light" filename="instance_ufo/AnekOdia-SemiCondensedLight.ufo" stylemapfamilyname="Anek Odia SemiCondensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiCondensed" familyname="Anek Odia" stylename="SemiCondensed" filename="instance_ufo/AnekOdia-SemiCondensed.ufo" stylemapfamilyname="Anek Odia SemiCondensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiCondensed Medium" familyname="Anek Odia" stylename="SemiCondensed Medium" filename="instance_ufo/AnekOdia-SemiCondensedMedium.ufo" stylemapfamilyname="Anek Odia SemiCondensed Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiCondensed SemiBold" familyname="Anek Odia" stylename="SemiCondensed SemiBold" filename="instance_ufo/AnekOdia-SemiCondensedSemiBold.ufo" stylemapfamilyname="Anek Odia SemiCondensed Regular" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiCondensed Bold" familyname="Anek Odia" stylename="SemiCondensed Bold" filename="instance_ufo/AnekOdia-SemiCondensedBold.ufo" stylemapfamilyname="Anek Odia SemiCondensed Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiCondensed ExtraBold" familyname="Anek Odia" stylename="SemiCondensed ExtraBold" filename="instance_ufo/AnekOdia-SemiCondensedExtraBold.ufo" stylemapfamilyname="Anek Odia SemiCondensed ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Thin" familyname="Anek Odia" stylename="Thin" filename="instance_ufo/AnekOdia-Thin.ufo" stylemapfamilyname="Anek Odia Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia ExtraLight" familyname="Anek Odia" stylename="ExtraLight" filename="instance_ufo/AnekOdia-ExtraLight.ufo" stylemapfamilyname="Anek Odia ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Light" familyname="Anek Odia" stylename="Light" filename="instance_ufo/AnekOdia-Light.ufo" stylemapfamilyname="Anek Odia Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Regular" familyname="Anek Odia" stylename="Regular" filename="instance_ufo/AnekOdia-Regular.ufo" stylemapfamilyname="Anek Odia" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Medium" familyname="Anek Odia" stylename="Medium" filename="instance_ufo/AnekOdia-Medium.ufo" stylemapfamilyname="Anek Odia Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiBold" familyname="Anek Odia" stylename="SemiBold" filename="instance_ufo/AnekOdia-SemiBold.ufo" stylemapfamilyname="Anek Odia SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Bold" familyname="Anek Odia" stylename="Bold" filename="instance_ufo/AnekOdia-Bold.ufo" stylemapfamilyname="Anek Odia" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia ExtraBold" familyname="Anek Odia" stylename="ExtraBold" filename="instance_ufo/AnekOdia-ExtraBold.ufo" stylemapfamilyname="Anek Odia ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiExpanded Thin" familyname="Anek Odia" stylename="SemiExpanded Thin" filename="instance_ufo/AnekOdia-SemiExpandedThin.ufo" stylemapfamilyname="Anek Odia SemiExpanded Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiExpanded ExtraLight" familyname="Anek Odia" stylename="SemiExpanded ExtraLight" filename="instance_ufo/AnekOdia-SemiExpandedExtraLight.ufo" stylemapfamilyname="Anek Odia SemiExpanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiExpanded Light" familyname="Anek Odia" stylename="SemiExpanded Light" filename="instance_ufo/AnekOdia-SemiExpandedLight.ufo" stylemapfamilyname="Anek Odia SemiExpanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiExpanded" familyname="Anek Odia" stylename="SemiExpanded" filename="instance_ufo/AnekOdia-SemiExpanded.ufo" stylemapfamilyname="Anek Odia SemiExpanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiExpanded Medium" familyname="Anek Odia" stylename="SemiExpanded Medium" filename="instance_ufo/AnekOdia-SemiExpandedMedium.ufo" stylemapfamilyname="Anek Odia SemiExpanded Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiExpanded SemiBold" familyname="Anek Odia" stylename="SemiExpanded SemiBold" filename="instance_ufo/AnekOdia-SemiExpandedSemiBold.ufo" stylemapfamilyname="Anek Odia SemiExpanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiExpanded Bold" familyname="Anek Odia" stylename="SemiExpanded Bold" filename="instance_ufo/AnekOdia-SemiExpandedBold.ufo" stylemapfamilyname="Anek Odia SemiExpanded Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia SemiExpanded ExtraBold" familyname="Anek Odia" stylename="SemiExpanded ExtraBold" filename="instance_ufo/AnekOdia-SemiExpandedExtraBold.ufo" stylemapfamilyname="Anek Odia SemiExpanded ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Expanded Thin" familyname="Anek Odia" stylename="Expanded Thin" filename="instance_ufo/AnekOdia-ExpandedThin.ufo" stylemapfamilyname="Anek Odia Expanded Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Expanded ExtraLight" familyname="Anek Odia" stylename="Expanded ExtraLight" filename="instance_ufo/AnekOdia-ExpandedExtraLight.ufo" stylemapfamilyname="Anek Odia Expanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Expanded Light" familyname="Anek Odia" stylename="Expanded Light" filename="instance_ufo/AnekOdia-ExpandedLight.ufo" stylemapfamilyname="Anek Odia Expanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Expanded" familyname="Anek Odia" stylename="Expanded" filename="instance_ufo/AnekOdia-Expanded.ufo" stylemapfamilyname="Anek Odia Expanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Expanded Medium" familyname="Anek Odia" stylename="Expanded Medium" filename="instance_ufo/AnekOdia-ExpandedMedium.ufo" stylemapfamilyname="Anek Odia Expanded Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Expanded SemiBold" familyname="Anek Odia" stylename="Expanded SemiBold" filename="instance_ufo/AnekOdia-ExpandedSemiBold.ufo" stylemapfamilyname="Anek Odia Expanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Expanded Bold" familyname="Anek Odia" stylename="Expanded Bold" filename="instance_ufo/AnekOdia-ExpandedBold.ufo" stylemapfamilyname="Anek Odia Expanded Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Odia Expanded ExtraBold" familyname="Anek Odia" stylename="Expanded ExtraBold" filename="instance_ufo/AnekOdia-ExpandedExtraBold.ufo" stylemapfamilyname="Anek Odia Expanded ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>238999E2-F0C2-48CA-AEF4-FBCFDA87E122</key>
+        <dict/>
+        <key>4125AB4B-0E5D-49A6-9261-DA1D445C47DB</key>
+        <dict/>
+        <key>854E272B-D709-485F-BA7C-BAA44F823E1E</key>
+        <dict/>
+        <key>90652420-95F9-4FC3-B730-31C8DBCE5970</key>
+        <dict/>
+      </dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>Ra_Ba.or</string>
+        <string>Ra_Ca.or</string>
+        <string>Ra_Ga.or</string>
+        <string>Ra_Ka.or</string>
+        <string>Ra_KaTa.or</string>
+        <string>Ra_Pa.or</string>
+        <string>Ra_ShaTta.or</string>
+        <string>Ra_SsaKa.or</string>
+        <string>Ra_SsaPa.or</string>
+        <string>jbottom</string>
+      </array>
+    </dict>
+  </lib>
+  <rules>
+  <rule>
+   <!-- Latin Lighter Variants -->
+   <sub with="question_alt" name="question"/>
+   <conditionset>
+    <condition name="Weight" maximum="450" minimum="100"/>
+    <condition name="Width" maximum="125" minimum="75"/>
+   </conditionset>
+  </rule>
+  </rules>
+</designspace>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaSa.or" format="2">
+  <advance width="1452"/>
+  <anchor x="899" y="-224" name="bottom"/>
+  <anchor x="1547" y="-264" name="rasmall"/>
+  <anchor x="702" y="1776" name="top1"/>
+  <anchor x="1206" y="1431" name="top2"/>
+  <anchor x="751" y="46" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="1207" y="-396" type="line"/>
+      <point x="1207" y="-235" type="line"/>
+      <point x="497" y="-70" type="line"/>
+      <point x="497" y="-60" type="line"/>
+      <point x="805" y="94" type="line"/>
+      <point x="671" y="177" type="line"/>
+      <point x="311" y="-9" type="line"/>
+      <point x="311" y="-176" type="line"/>
+    </contour>
+    <component base="Sa.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Sa.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ga.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaSa.or" format="2">
+  <advance width="2190"/>
+  <anchor x="1071" y="1828" name="top1"/>
+  <anchor x="1708" y="1427" name="top2"/>
+  <anchor x="1959" y="-568" name="bottom"/>
+  <anchor x="2250" y="-568" name="rasmall"/>
+  <outline>
+    <contour>
+      <point x="396" y="344" type="curve"/>
+      <point x="478" y="512" type="line"/>
+      <point x="376" y="555"/>
+      <point x="321" y="629"/>
+      <point x="321" y="754" type="curve" smooth="yes"/>
+      <point x="321" y="774" type="line" smooth="yes"/>
+      <point x="321" y="1042"/>
+      <point x="570" y="1185"/>
+      <point x="1068" y="1185" type="curve" smooth="yes"/>
+      <point x="1598" y="1185"/>
+      <point x="1872" y="1014"/>
+      <point x="1872" y="660" type="curve" smooth="yes"/>
+      <point x="1872" y="636" type="line" smooth="yes"/>
+      <point x="1872" y="572"/>
+      <point x="1859" y="498"/>
+      <point x="1827" y="420" type="curve"/>
+      <point x="2038" y="441" type="line"/>
+      <point x="2069" y="512"/>
+      <point x="2084" y="586"/>
+      <point x="2084" y="658" type="curve" smooth="yes"/>
+      <point x="2084" y="682" type="line" smooth="yes"/>
+      <point x="2084" y="1130"/>
+      <point x="1730" y="1365"/>
+      <point x="1070" y="1365" type="curve" smooth="yes"/>
+      <point x="442" y="1365"/>
+      <point x="108" y="1162"/>
+      <point x="108" y="776" type="curve" smooth="yes"/>
+      <point x="108" y="754" type="line" smooth="yes"/>
+      <point x="108" y="539"/>
+      <point x="216" y="409"/>
+    </contour>
+    <contour>
+      <point x="971" y="0" type="line"/>
+      <point x="1173" y="0" type="line"/>
+      <point x="1173" y="392" type="line" smooth="yes"/>
+      <point x="1173" y="515"/>
+      <point x="1228" y="579"/>
+      <point x="1335" y="579" type="curve" smooth="yes"/>
+      <point x="1445" y="579"/>
+      <point x="1495" y="521"/>
+      <point x="1495" y="391" type="curve" smooth="yes"/>
+      <point x="1495" y="20" type="line"/>
+      <point x="1697" y="20" type="line"/>
+      <point x="1697" y="417" type="line" smooth="yes"/>
+      <point x="1697" y="632"/>
+      <point x="1587" y="743"/>
+      <point x="1371" y="743" type="curve" smooth="yes"/>
+      <point x="1197" y="743"/>
+      <point x="1103" y="668"/>
+      <point x="1076" y="557" type="curve"/>
+      <point x="1068" y="557" type="line"/>
+      <point x="1039" y="669"/>
+      <point x="938" y="743"/>
+      <point x="758" y="743" type="curve" smooth="yes"/>
+      <point x="555" y="743"/>
+      <point x="440" y="644"/>
+      <point x="400" y="505" type="curve"/>
+      <point x="394" y="486" type="line"/>
+      <point x="385" y="462"/>
+      <point x="378" y="429"/>
+      <point x="378" y="402" type="curve" smooth="yes"/>
+      <point x="378" y="395" type="line" smooth="yes"/>
+      <point x="378" y="185"/>
+      <point x="498" y="63"/>
+      <point x="714" y="63" type="curve" smooth="yes"/>
+      <point x="861" y="63"/>
+      <point x="937" y="117"/>
+      <point x="965" y="204" type="curve"/>
+      <point x="1018" y="204" type="line"/>
+      <point x="971" y="400" type="line"/>
+      <point x="971" y="293"/>
+      <point x="893" y="227"/>
+      <point x="778" y="227" type="curve" smooth="yes"/>
+      <point x="655" y="227"/>
+      <point x="584" y="288"/>
+      <point x="584" y="398" type="curve" smooth="yes"/>
+      <point x="584" y="407" type="line" smooth="yes"/>
+      <point x="584" y="518"/>
+      <point x="654" y="579"/>
+      <point x="777" y="579" type="curve" smooth="yes"/>
+      <point x="901" y="579"/>
+      <point x="971" y="513"/>
+      <point x="971" y="409" type="curve" smooth="yes"/>
+      <point x="971" y="267" type="line"/>
+      <point x="977" y="232" type="line"/>
+      <point x="971" y="95" type="line"/>
+    </contour>
+    <component base="SaSmall.or" xOffset="1961" yOffset="148"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>SaSmall.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

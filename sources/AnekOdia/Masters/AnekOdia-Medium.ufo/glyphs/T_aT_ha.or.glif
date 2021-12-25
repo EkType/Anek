@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaTha.or" format="2">
+  <advance width="1629"/>
+  <anchor x="1397" y="-666" name="bottom"/>
+  <anchor x="1658" y="-660" name="rasmall"/>
+  <anchor x="805" y="1777" name="top1"/>
+  <anchor x="1261" y="1431" name="top2"/>
+  <anchor x="806" y="46" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="1265" y="-715" type="line"/>
+      <point x="1397" y="-715" type="line"/>
+      <point x="1397" y="20" type="line"/>
+      <point x="1262" y="20" type="line"/>
+      <point x="1262" y="-514" type="line"/>
+      <point x="1268" y="-548" type="line"/>
+    </contour>
+    <contour>
+      <point x="1160" y="-175" type="curve" smooth="yes"/>
+      <point x="1160" y="-160" type="line" smooth="yes"/>
+      <point x="1160" y="-33"/>
+      <point x="1087" y="39"/>
+      <point x="945" y="39" type="curve" smooth="yes"/>
+      <point x="795" y="39"/>
+      <point x="719" y="-32"/>
+      <point x="719" y="-148" type="curve" smooth="yes"/>
+      <point x="719" y="-157" type="line" smooth="yes"/>
+      <point x="719" y="-190"/>
+      <point x="726" y="-218"/>
+      <point x="739" y="-247" type="curve"/>
+      <point x="872" y="-255" type="line"/>
+      <point x="859" y="-224"/>
+      <point x="852" y="-198"/>
+      <point x="852" y="-170" type="curve" smooth="yes"/>
+      <point x="852" y="-158" type="line" smooth="yes"/>
+      <point x="852" y="-102"/>
+      <point x="881" y="-70"/>
+      <point x="940" y="-70" type="curve" smooth="yes"/>
+      <point x="999" y="-70"/>
+      <point x="1027" y="-102"/>
+      <point x="1027" y="-158" type="curve" smooth="yes"/>
+      <point x="1027" y="-176" type="line" smooth="yes"/>
+      <point x="1027" y="-247"/>
+      <point x="993" y="-283"/>
+      <point x="895" y="-304" type="curve" smooth="yes"/>
+      <point x="814" y="-321" type="line" smooth="yes"/>
+      <point x="655" y="-354"/>
+      <point x="590" y="-413"/>
+      <point x="590" y="-515" type="curve" smooth="yes"/>
+      <point x="590" y="-525" type="line" smooth="yes"/>
+      <point x="590" y="-654"/>
+      <point x="697" y="-727"/>
+      <point x="920" y="-727" type="curve" smooth="yes"/>
+      <point x="1109" y="-727"/>
+      <point x="1215" y="-675"/>
+      <point x="1258" y="-578" type="curve"/>
+      <point x="1292" y="-578" type="line"/>
+      <point x="1268" y="-452" type="line"/>
+      <point x="1223" y="-543"/>
+      <point x="1111" y="-597"/>
+      <point x="949" y="-597" type="curve" smooth="yes"/>
+      <point x="803" y="-597"/>
+      <point x="740" y="-569"/>
+      <point x="740" y="-518" type="curve" smooth="yes"/>
+      <point x="740" y="-514" type="line" smooth="yes"/>
+      <point x="740" y="-468"/>
+      <point x="772" y="-452"/>
+      <point x="846" y="-435" type="curve" smooth="yes"/>
+      <point x="925" y="-417" type="line" smooth="yes"/>
+      <point x="1095" y="-378"/>
+      <point x="1160" y="-306"/>
+    </contour>
+    <component base="Ta.or"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ta.or</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

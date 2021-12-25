@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dha.or" format="2">
+  <advance width="1896"/>
+  <unicode hex="0B27"/>
+  <anchor x="1644" y="4" name="bottom"/>
+  <anchor x="984" y="0" name="nukta"/>
+  <anchor x="904" y="1780" name="top1"/>
+  <anchor x="1607" y="1453" name="top2"/>
+  <outline>
+    <contour>
+      <point x="863" y="-18" type="curve" smooth="yes"/>
+      <point x="1303" y="-18"/>
+      <point x="1564" y="155"/>
+      <point x="1628" y="415" type="curve"/>
+      <point x="1628" y="436" type="line"/>
+      <point x="1609" y="408" type="line"/>
+      <point x="1520" y="174"/>
+      <point x="1287" y="17"/>
+      <point x="863" y="17" type="curve" smooth="yes"/>
+      <point x="429" y="17"/>
+      <point x="208" y="170"/>
+      <point x="208" y="431" type="curve" smooth="yes"/>
+      <point x="208" y="452" type="line" smooth="yes"/>
+      <point x="208" y="703"/>
+      <point x="386" y="849"/>
+      <point x="786" y="870" type="curve"/>
+      <point x="795" y="870"/>
+      <point x="806" y="870"/>
+      <point x="817" y="870" type="curve"/>
+      <point x="774" y="899" type="line"/>
+      <point x="765" y="899"/>
+      <point x="760" y="899"/>
+      <point x="751" y="899" type="curve"/>
+      <point x="391" y="878"/>
+      <point x="169" y="735"/>
+      <point x="169" y="450" type="curve" smooth="yes"/>
+      <point x="169" y="433" type="line" smooth="yes"/>
+      <point x="169" y="146"/>
+      <point x="400" y="-18"/>
+    </contour>
+    <contour>
+      <point x="229" y="1314" type="line"/>
+      <point x="168" y="1314" type="line"/>
+      <point x="168" y="1314" type="line"/>
+      <point x="773" y="892" type="line"/>
+      <point x="793" y="878" type="line"/>
+      <point x="1177" y="611" type="line"/>
+      <point x="1177" y="611" type="line"/>
+      <point x="1177" y="650" type="line"/>
+    </contour>
+    <contour>
+      <point x="1607" y="0" type="line"/>
+      <point x="1644" y="0" type="line"/>
+      <point x="1644" y="1314" type="line"/>
+      <point x="1607" y="1314" type="line"/>
+      <point x="1607" y="392" type="line"/>
+      <point x="1602" y="367" type="line"/>
+      <point x="1609" y="367" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ga.or</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>
