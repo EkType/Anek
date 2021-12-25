@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraEe.te" format="2">
+  <unicode hex="0C47"/>
+  <outline>
+    <component base="matraE.te"/>
+    <component base="Lengthmark.te" xOffset="-570" yOffset="-202"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>matraE.te</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Lengthmark.te</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

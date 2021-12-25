@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="JhaHalant2.te" format="2">
+  <advance width="1642"/>
+  <anchor x="824" y="-273" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="416" y="-18" type="curve" smooth="yes"/>
+      <point x="575" y="-18"/>
+      <point x="665" y="56"/>
+      <point x="698" y="197" type="curve" smooth="yes"/>
+      <point x="711" y="251"/>
+      <point x="736" y="312"/>
+      <point x="736" y="377" type="curve" smooth="yes"/>
+      <point x="736" y="809" type="line" smooth="yes"/>
+      <point x="736" y="1060"/>
+      <point x="631" y="1182"/>
+      <point x="416" y="1182" type="curve" smooth="yes"/>
+      <point x="373" y="1182"/>
+      <point x="336" y="1169"/>
+      <point x="302" y="1143" type="curve"/>
+      <point x="167" y="1110"/>
+      <point x="95" y="1007"/>
+      <point x="95" y="809" type="curve" smooth="yes"/>
+      <point x="95" y="371" type="line" smooth="yes"/>
+      <point x="95" y="111"/>
+      <point x="202" y="-18"/>
+    </contour>
+    <contour>
+      <point x="416" y="141" type="curve" smooth="yes"/>
+      <point x="310" y="141"/>
+      <point x="261" y="214"/>
+      <point x="261" y="370" type="curve" smooth="yes"/>
+      <point x="261" y="805" type="line" smooth="yes"/>
+      <point x="261" y="962"/>
+      <point x="310" y="1034"/>
+      <point x="416" y="1034" type="curve" smooth="yes"/>
+      <point x="522" y="1034"/>
+      <point x="571" y="963"/>
+      <point x="571" y="806" type="curve" smooth="yes"/>
+      <point x="571" y="370" type="line" smooth="yes"/>
+      <point x="571" y="214"/>
+      <point x="522" y="141"/>
+    </contour>
+    <contour>
+      <point x="888" y="-18" type="curve" smooth="yes"/>
+      <point x="1024" y="-18"/>
+      <point x="1093" y="62"/>
+      <point x="1109" y="199" type="curve"/>
+      <point x="1130" y="225"/>
+      <point x="1146" y="254"/>
+      <point x="1146" y="295" type="curve" smooth="yes"/>
+      <point x="1146" y="664" type="line"/>
+      <point x="980" y="664" type="line"/>
+      <point x="980" y="314" type="line" smooth="yes"/>
+      <point x="980" y="197"/>
+      <point x="942" y="141"/>
+      <point x="858" y="141" type="curve" smooth="yes"/>
+      <point x="776" y="141"/>
+      <point x="736" y="197"/>
+      <point x="736" y="312" type="curve" smooth="yes"/>
+      <point x="736" y="399" type="line"/>
+      <point x="678" y="399" type="line"/>
+      <point x="676" y="219" type="line" smooth="yes"/>
+      <point x="674" y="66"/>
+      <point x="757" y="-18"/>
+    </contour>
+    <contour>
+      <point x="346" y="1081" type="curve" smooth="yes"/>
+      <point x="416" y="1081" type="line"/>
+      <point x="416" y="1182" type="line"/>
+      <point x="354" y="1182" type="line" smooth="yes"/>
+      <point x="290" y="1182"/>
+      <point x="260" y="1204"/>
+      <point x="260" y="1247" type="curve" smooth="yes"/>
+      <point x="260" y="1292"/>
+      <point x="290" y="1314"/>
+      <point x="354" y="1314" type="curve" smooth="yes"/>
+      <point x="602" y="1314" type="line"/>
+      <point x="602" y="1448" type="line"/>
+      <point x="340" y="1448" type="line" smooth="yes"/>
+      <point x="272" y="1448"/>
+      <point x="241" y="1471"/>
+      <point x="241" y="1517" type="curve" smooth="yes"/>
+      <point x="241" y="1563"/>
+      <point x="272" y="1586"/>
+      <point x="340" y="1586" type="curve" smooth="yes"/>
+      <point x="742" y="1586" type="line"/>
+      <point x="721" y="1723" type="line"/>
+      <point x="333" y="1723" type="line" smooth="yes"/>
+      <point x="166" y="1723"/>
+      <point x="78" y="1658"/>
+      <point x="78" y="1535" type="curve" smooth="yes"/>
+      <point x="78" y="1448"/>
+      <point x="130" y="1394"/>
+      <point x="226" y="1381" type="curve"/>
+      <point x="226" y="1375" type="line"/>
+      <point x="138" y="1360"/>
+      <point x="97" y="1313"/>
+      <point x="97" y="1242" type="curve" smooth="yes"/>
+      <point x="97" y="1135"/>
+      <point x="180" y="1081"/>
+    </contour>
+    <component base="matraU.te" xOffset="1156"/>
+    <component base="Terminals.te" xOffset="827"/>
+    <component base="kombu_2" xOffset="1101"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>matraU.te</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Terminals.te</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>kombu_2</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>RaHalant.te</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>matraU.te</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>telugu</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

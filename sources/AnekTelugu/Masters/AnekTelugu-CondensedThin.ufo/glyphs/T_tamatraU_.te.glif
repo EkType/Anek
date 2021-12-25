@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TtamatraU.te" format="2">
+  <advance width="1243"/>
+  <anchor x="453" y="-66" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="289" y="-11" type="curve" smooth="yes"/>
+      <point x="404" y="-11"/>
+      <point x="446" y="75"/>
+      <point x="452" y="144" type="curve"/>
+      <point x="454" y="144" type="line"/>
+      <point x="460" y="75"/>
+      <point x="502" y="-11"/>
+      <point x="617" y="-11" type="curve" smooth="yes"/>
+      <point x="718" y="-11"/>
+      <point x="775" y="54"/>
+      <point x="786" y="173" type="curve"/>
+      <point x="793" y="188"/>
+      <point x="796" y="204"/>
+      <point x="796" y="221" type="curve" smooth="yes"/>
+      <point x="796" y="696" type="line"/>
+      <point x="759" y="696" type="line"/>
+      <point x="759" y="224" type="line" smooth="yes"/>
+      <point x="759" y="90"/>
+      <point x="715" y="22"/>
+      <point x="615" y="22" type="curve" smooth="yes"/>
+      <point x="514" y="22"/>
+      <point x="474" y="97"/>
+      <point x="472" y="223" type="curve" smooth="yes"/>
+      <point x="468" y="432" type="line"/>
+      <point x="438" y="432" type="line"/>
+      <point x="434" y="223" type="line" smooth="yes"/>
+      <point x="432" y="97"/>
+      <point x="392" y="22"/>
+      <point x="291" y="22" type="curve" smooth="yes"/>
+      <point x="191" y="22"/>
+      <point x="147" y="90"/>
+      <point x="147" y="224" type="curve" smooth="yes"/>
+      <point x="147" y="604" type="line" smooth="yes"/>
+      <point x="147" y="613"/>
+      <point x="147" y="629"/>
+      <point x="147" y="646" type="curve"/>
+      <point x="147" y="650" type="line"/>
+      <point x="147" y="664" type="line"/>
+      <point x="147" y="981" type="line" smooth="yes"/>
+      <point x="147" y="1095"/>
+      <point x="188" y="1150"/>
+      <point x="269" y="1150" type="curve" smooth="yes"/>
+      <point x="350" y="1150"/>
+      <point x="390" y="1095"/>
+      <point x="390" y="981" type="curve" smooth="yes"/>
+      <point x="390" y="754" type="line" smooth="yes"/>
+      <point x="390" y="648"/>
+      <point x="355" y="592"/>
+      <point x="274" y="592" type="curve" smooth="yes"/>
+      <point x="213" y="592"/>
+      <point x="167" y="627"/>
+      <point x="145" y="697" type="curve"/>
+      <point x="132" y="688" type="line"/>
+      <point x="144" y="613"/>
+      <point x="195" y="559"/>
+      <point x="276" y="559" type="curve" smooth="yes"/>
+      <point x="379" y="559"/>
+      <point x="427" y="626"/>
+      <point x="427" y="751" type="curve" smooth="yes"/>
+      <point x="427" y="981" type="line" smooth="yes"/>
+      <point x="427" y="1117"/>
+      <point x="374" y="1183"/>
+      <point x="269" y="1183" type="curve" smooth="yes"/>
+      <point x="164" y="1183"/>
+      <point x="110" y="1117"/>
+      <point x="110" y="981" type="curve" smooth="yes"/>
+      <point x="110" y="221" type="line" smooth="yes"/>
+      <point x="110" y="66"/>
+      <point x="173" y="-11"/>
+    </contour>
+    <contour>
+      <point x="256" y="1163" type="curve"/>
+      <point x="282" y="1163" type="line"/>
+      <point x="285" y="1233"/>
+      <point x="291" y="1284"/>
+      <point x="291" y="1328" type="curve" smooth="yes"/>
+      <point x="291" y="1362"/>
+      <point x="285" y="1389"/>
+      <point x="282" y="1395" type="curve"/>
+      <point x="256" y="1395" type="line"/>
+      <point x="252" y="1389"/>
+      <point x="247" y="1362"/>
+      <point x="247" y="1328" type="curve" smooth="yes"/>
+      <point x="247" y="1284"/>
+      <point x="252" y="1233"/>
+    </contour>
+    <component base="matraU.te" xOffset="824"/>
+    <component base="Terminals.te" xOffset="584"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>matraU.te</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Terminals.te</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Tta.te</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>matraU.te</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>telugu</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

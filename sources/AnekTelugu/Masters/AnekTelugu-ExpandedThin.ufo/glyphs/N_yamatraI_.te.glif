@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NyamatraI.te" format="2">
+  <advance width="2464"/>
+  <anchor x="899" y="-71" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="1697" y="680" type="line"/>
+      <point x="2389" y="680" type="line"/>
+      <point x="2389" y="714" type="line"/>
+      <point x="1697" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="2035" y="701" type="curve"/>
+      <point x="2060" y="701" type="line"/>
+      <point x="2073" y="818"/>
+      <point x="2080" y="899"/>
+      <point x="2080" y="972" type="curve" smooth="yes"/>
+      <point x="2080" y="1033"/>
+      <point x="2071" y="1075"/>
+      <point x="2065" y="1096" type="curve"/>
+      <point x="2030" y="1096" type="line"/>
+      <point x="2023" y="1075"/>
+      <point x="2015" y="1030"/>
+      <point x="2015" y="972" type="curve" smooth="yes"/>
+      <point x="2015" y="905"/>
+      <point x="2022" y="818"/>
+    </contour>
+    <component base="matraI.te" xOffset="2731"/>
+    <component base="vowelI.te"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>matraI.te</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>vowelI.te</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>vowelI.te</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>telugu</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thasmall1.te" format="2">
+  <anchor x="0" y="-14" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="-133" y="-709" type="curve" smooth="yes"/>
+      <point x="-59" y="-709"/>
+      <point x="-13" y="-676"/>
+      <point x="-1" y="-607" type="curve"/>
+      <point x="2" y="-607" type="line"/>
+      <point x="14" y="-676"/>
+      <point x="61" y="-709"/>
+      <point x="133" y="-709" type="curve" smooth="yes"/>
+      <point x="235" y="-709"/>
+      <point x="287" y="-644"/>
+      <point x="287" y="-523" type="curve" smooth="yes"/>
+      <point x="287" y="-383" type="line" smooth="yes"/>
+      <point x="287" y="-186"/>
+      <point x="188" y="-84"/>
+      <point x="0" y="-84" type="curve" smooth="yes"/>
+      <point x="-188" y="-84"/>
+      <point x="-287" y="-185"/>
+      <point x="-287" y="-383" type="curve" smooth="yes"/>
+      <point x="-287" y="-523" type="line" smooth="yes"/>
+      <point x="-287" y="-645"/>
+      <point x="-234" y="-709"/>
+    </contour>
+    <contour>
+      <point x="-115" y="-603" type="curve" smooth="yes"/>
+      <point x="-156" y="-603"/>
+      <point x="-170" y="-573"/>
+      <point x="-170" y="-526" type="curve" smooth="yes"/>
+      <point x="-170" y="-383" type="line" smooth="yes"/>
+      <point x="-170" y="-262"/>
+      <point x="-125" y="-189"/>
+      <point x="0" y="-189" type="curve" smooth="yes"/>
+      <point x="127" y="-189"/>
+      <point x="170" y="-267"/>
+      <point x="170" y="-383" type="curve" smooth="yes"/>
+      <point x="170" y="-526" type="line" smooth="yes"/>
+      <point x="170" y="-571"/>
+      <point x="158" y="-603"/>
+      <point x="116" y="-603" type="curve" smooth="yes"/>
+      <point x="79" y="-603"/>
+      <point x="59" y="-578"/>
+      <point x="57" y="-530" type="curve" smooth="yes"/>
+      <point x="53" y="-449" type="line"/>
+      <point x="-53" y="-449" type="line"/>
+      <point x="-57" y="-530" type="line" smooth="yes"/>
+      <point x="-59" y="-578"/>
+      <point x="-78" y="-603"/>
+    </contour>
+    <contour>
+      <point x="0" y="-408" type="curve" smooth="yes"/>
+      <point x="36" y="-408"/>
+      <point x="50" y="-388"/>
+      <point x="50" y="-336" type="curve" smooth="yes"/>
+      <point x="50" y="-284"/>
+      <point x="36" y="-265"/>
+      <point x="0" y="-265" type="curve" smooth="yes"/>
+      <point x="-37" y="-265"/>
+      <point x="-51" y="-285"/>
+      <point x="-51" y="-336" type="curve" smooth="yes"/>
+      <point x="-51" y="-388"/>
+      <point x="-37" y="-408"/>
+    </contour>
+    <component base="smallform_kombu" yOffset="-20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>smallform_kombu</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>telugu</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ttha.te" format="2">
+  <advance width="963"/>
+  <unicode hex="0C20"/>
+  <guideline x="885" y="1828" angle="90"/>
+  <anchor x="481" y="-39" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="481" y="-26" type="curve" smooth="yes"/>
+      <point x="760" y="-26"/>
+      <point x="903" y="134"/>
+      <point x="903" y="454" type="curve" smooth="yes"/>
+      <point x="903" y="738" type="line" smooth="yes"/>
+      <point x="903" y="1034"/>
+      <point x="761" y="1181"/>
+      <point x="481" y="1181" type="curve" smooth="yes"/>
+      <point x="202" y="1181"/>
+      <point x="60" y="1034"/>
+      <point x="60" y="738" type="curve" smooth="yes"/>
+      <point x="60" y="454" type="line" smooth="yes"/>
+      <point x="60" y="134"/>
+      <point x="202" y="-26"/>
+    </contour>
+    <contour>
+      <point x="481" y="254" type="curve" smooth="yes"/>
+      <point x="378" y="254"/>
+      <point x="336" y="316"/>
+      <point x="336" y="467" type="curve" smooth="yes"/>
+      <point x="336" y="714" type="line" smooth="yes"/>
+      <point x="336" y="865"/>
+      <point x="378" y="927"/>
+      <point x="481" y="927" type="curve" smooth="yes"/>
+      <point x="584" y="927"/>
+      <point x="627" y="865"/>
+      <point x="627" y="714" type="curve" smooth="yes"/>
+      <point x="627" y="467" type="line" smooth="yes"/>
+      <point x="627" y="316"/>
+      <point x="584" y="254"/>
+    </contour>
+    <contour>
+      <point x="444" y="1064" type="curve" smooth="yes"/>
+      <point x="452" y="1064" type="line" smooth="yes"/>
+      <point x="639" y="1064"/>
+      <point x="739" y="1115"/>
+      <point x="783" y="1207" type="curve" smooth="yes"/>
+      <point x="825" y="1294" type="line" smooth="yes"/>
+      <point x="851" y="1347"/>
+      <point x="877" y="1367"/>
+      <point x="930" y="1367" type="curve" smooth="yes"/>
+      <point x="972" y="1367" type="line"/>
+      <point x="948" y="1625" type="line"/>
+      <point x="873" y="1625" type="line" smooth="yes"/>
+      <point x="752" y="1625"/>
+      <point x="688" y="1575"/>
+      <point x="634" y="1463" type="curve" smooth="yes"/>
+      <point x="536" y="1260" type="line" smooth="yes"/>
+      <point x="508" y="1202"/>
+      <point x="496" y="1189"/>
+      <point x="474" y="1189" type="curve" smooth="yes"/>
+      <point x="472" y="1189" type="line" smooth="yes"/>
+      <point x="442" y="1189"/>
+      <point x="431" y="1217"/>
+      <point x="422" y="1264" type="curve" smooth="yes"/>
+      <point x="397" y="1398" type="line"/>
+      <point x="99" y="1398" type="line"/>
+      <point x="137" y="1270" type="line" smooth="yes"/>
+      <point x="194" y="1077"/>
+      <point x="292" y="1064"/>
+    </contour>
+    <component base="chukka" xOffset="481" yOffset="-134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>chukka</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ra.te</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dza.te" format="2">
+  <advance width="1449"/>
+  <unicode hex="0C59"/>
+  <anchor x="730" y="-69" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="168" y="1325" type="line"/>
+      <point x="1080" y="1325" type="line" smooth="yes"/>
+      <point x="1202" y="1325"/>
+      <point x="1268" y="1388"/>
+      <point x="1268" y="1508" type="curve" smooth="yes"/>
+      <point x="1268" y="1522" type="line" smooth="yes"/>
+      <point x="1268" y="1635"/>
+      <point x="1201" y="1703"/>
+      <point x="1081" y="1703" type="curve" smooth="yes"/>
+      <point x="960" y="1703"/>
+      <point x="894" y="1635"/>
+      <point x="894" y="1522" type="curve" smooth="yes"/>
+      <point x="894" y="1508" type="line" smooth="yes"/>
+      <point x="894" y="1434"/>
+      <point x="920" y="1383"/>
+      <point x="974" y="1360" type="curve"/>
+      <point x="974" y="1357" type="line"/>
+      <point x="162" y="1357" type="line"/>
+    </contour>
+    <contour>
+      <point x="1081" y="1357" type="curve"/>
+      <point x="979" y="1357"/>
+      <point x="929" y="1408"/>
+      <point x="929" y="1508" type="curve" smooth="yes"/>
+      <point x="929" y="1522" type="line" smooth="yes"/>
+      <point x="929" y="1615"/>
+      <point x="982" y="1671"/>
+      <point x="1081" y="1671" type="curve" smooth="yes"/>
+      <point x="1180" y="1671"/>
+      <point x="1233" y="1615"/>
+      <point x="1233" y="1522" type="curve" smooth="yes"/>
+      <point x="1233" y="1508" type="line" smooth="yes"/>
+      <point x="1233" y="1408"/>
+      <point x="1182" y="1357"/>
+    </contour>
+    <component base="Ja.te"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ja.te</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ja.te</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ja.te</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ChamatraEe2.te" format="2">
+  <advance width="2024"/>
+  <anchor x="1027" y="-348" name="bottom"/>
+  <anchor x="1028" y="-176" name="bottom2"/>
+  <outline>
+    <component base="ChamatraE2.te"/>
+    <component base="Lengthmark.te" xOffset="772" yOffset="-253"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ca.te</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>CamatraE.te</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>telugu</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

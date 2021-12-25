@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NyamatraE.te" format="2">
+  <advance width="2078"/>
+  <anchor x="752" y="-53" name="bottom"/>
+  <anchor x="754" y="-46" name="bottom2"/>
+  <outline>
+    <contour>
+      <point x="1521" y="948" type="line"/>
+      <point x="1770" y="948" type="line" smooth="yes"/>
+      <point x="2019" y="948"/>
+      <point x="2148" y="1053"/>
+      <point x="2148" y="1255" type="curve" smooth="yes"/>
+      <point x="2148" y="1469"/>
+      <point x="2018" y="1576"/>
+      <point x="1761" y="1576" type="curve" smooth="yes"/>
+      <point x="1049" y="1576" type="line"/>
+      <point x="1009" y="1301" type="line"/>
+      <point x="1738" y="1301" type="line" smooth="yes"/>
+      <point x="1800" y="1301"/>
+      <point x="1831" y="1281"/>
+      <point x="1831" y="1236" type="curve" smooth="yes"/>
+      <point x="1831" y="1190"/>
+      <point x="1800" y="1170"/>
+      <point x="1738" y="1170" type="curve" smooth="yes"/>
+      <point x="1521" y="1170" type="line"/>
+    </contour>
+    <contour>
+      <point x="1366" y="574" type="line"/>
+      <point x="2040" y="574" type="line"/>
+      <point x="2040" y="794" type="line"/>
+      <point x="1366" y="794" type="line"/>
+    </contour>
+    <contour>
+      <point x="1677" y="737" type="curve"/>
+      <point x="1835" y="737" type="line"/>
+      <point x="1887" y="850"/>
+      <point x="1921" y="949"/>
+      <point x="1921" y="1011" type="curve" smooth="yes"/>
+      <point x="1921" y="1080"/>
+      <point x="1899" y="1121"/>
+      <point x="1886" y="1140" type="curve"/>
+      <point x="1627" y="1140" type="line"/>
+      <point x="1613" y="1121"/>
+      <point x="1590" y="1080"/>
+      <point x="1590" y="1011" type="curve" smooth="yes"/>
+      <point x="1590" y="949"/>
+      <point x="1624" y="850"/>
+    </contour>
+    <component base="vowelI.te"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>vowelI.te</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>vowelI.te</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>telugu</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="GhamatraU2.te" format="2">
+  <advance width="2163"/>
+  <anchor x="835" y="-289" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="335" y="-24" type="curve" smooth="yes"/>
+      <point x="488" y="-24"/>
+      <point x="554" y="55"/>
+      <point x="570" y="190" type="curve"/>
+      <point x="577" y="190" type="line"/>
+      <point x="590" y="52"/>
+      <point x="676" y="-24"/>
+      <point x="821" y="-24" type="curve" smooth="yes"/>
+      <point x="984" y="-24"/>
+      <point x="1065" y="64"/>
+      <point x="1076" y="223" type="curve"/>
+      <point x="1100" y="258"/>
+      <point x="1139" y="318"/>
+      <point x="1139" y="399" type="curve" smooth="yes"/>
+      <point x="1139" y="592" type="line"/>
+      <point x="845" y="592" type="line"/>
+      <point x="845" y="386" type="line" smooth="yes"/>
+      <point x="845" y="291"/>
+      <point x="821" y="259"/>
+      <point x="775" y="259" type="curve" smooth="yes"/>
+      <point x="727" y="259"/>
+      <point x="705" y="291"/>
+      <point x="705" y="379" type="curve" smooth="yes"/>
+      <point x="705" y="386" type="line"/>
+      <point x="705" y="629"/>
+      <point x="593" y="753"/>
+      <point x="377" y="753" type="curve" smooth="yes"/>
+      <point x="161" y="753"/>
+      <point x="50" y="629"/>
+      <point x="50" y="385" type="curve" smooth="yes"/>
+      <point x="50" y="344" type="line" smooth="yes"/>
+      <point x="50" y="99"/>
+      <point x="145" y="-24"/>
+    </contour>
+    <contour>
+      <point x="379" y="252" type="curve" smooth="yes"/>
+      <point x="340" y="252"/>
+      <point x="326" y="282"/>
+      <point x="326" y="351" type="curve" smooth="yes"/>
+      <point x="326" y="392" type="line" smooth="yes"/>
+      <point x="326" y="462"/>
+      <point x="340" y="491"/>
+      <point x="379" y="491" type="curve" smooth="yes"/>
+      <point x="418" y="491"/>
+      <point x="432" y="462"/>
+      <point x="432" y="392" type="curve" smooth="yes"/>
+      <point x="432" y="351" type="line" smooth="yes"/>
+      <point x="432" y="282"/>
+      <point x="418" y="252"/>
+    </contour>
+    <contour>
+      <point x="845" y="539" type="line"/>
+      <point x="1139" y="539" type="line"/>
+      <point x="1139" y="765" type="line" smooth="yes"/>
+      <point x="1139" y="1051"/>
+      <point x="1025" y="1189"/>
+      <point x="784" y="1189" type="curve" smooth="yes"/>
+      <point x="771" y="1189" type="line"/>
+      <point x="727" y="924" type="line"/>
+      <point x="730" y="924" type="line"/>
+      <point x="811" y="924"/>
+      <point x="845" y="874"/>
+      <point x="845" y="754" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="392" y="937" type="curve"/>
+      <point x="396" y="937" type="line"/>
+      <point x="584" y="937"/>
+      <point x="639" y="1038"/>
+      <point x="739" y="1225" type="curve" smooth="yes"/>
+      <point x="776" y="1294" type="line" smooth="yes"/>
+      <point x="809" y="1356"/>
+      <point x="844" y="1367"/>
+      <point x="889" y="1367" type="curve" smooth="yes"/>
+      <point x="1006" y="1367" type="line"/>
+      <point x="988" y="1625" type="line"/>
+      <point x="843" y="1625" type="line" smooth="yes"/>
+      <point x="707" y="1625"/>
+      <point x="642" y="1571"/>
+      <point x="583" y="1463" type="curve" smooth="yes"/>
+      <point x="471" y="1259" type="line" smooth="yes"/>
+      <point x="445" y="1211"/>
+      <point x="431" y="1189"/>
+      <point x="407" y="1189" type="curve"/>
+      <point x="405" y="1189" type="line"/>
+      <point x="377" y="1189"/>
+      <point x="366" y="1209"/>
+      <point x="355" y="1264" type="curve" smooth="yes"/>
+      <point x="329" y="1398" type="line"/>
+      <point x="31" y="1398" type="line"/>
+      <point x="66" y="1270" type="line" smooth="yes"/>
+      <point x="129" y="1040"/>
+      <point x="202" y="937"/>
+    </contour>
+    <component base="matraUVar1.te" xOffset="1102"/>
+    <component base="kombu_2" xOffset="574"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>matraUVar1.te</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.te</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>matraU.te</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>telugu</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

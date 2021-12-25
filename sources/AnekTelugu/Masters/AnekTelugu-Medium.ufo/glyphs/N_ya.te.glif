@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nya.te" format="2">
+  <advance width="1945"/>
+  <unicode hex="0C1E"/>
+  <anchor x="759" y="-61" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="1571" y="741" type="curve"/>
+      <point x="1663" y="741" type="line"/>
+      <point x="1693" y="865"/>
+      <point x="1713" y="964"/>
+      <point x="1713" y="1037" type="curve" smooth="yes"/>
+      <point x="1713" y="1101"/>
+      <point x="1698" y="1144"/>
+      <point x="1689" y="1162" type="curve"/>
+      <point x="1545" y="1162" type="line"/>
+      <point x="1536" y="1144"/>
+      <point x="1521" y="1101"/>
+      <point x="1521" y="1037" type="curve" smooth="yes"/>
+      <point x="1521" y="965"/>
+      <point x="1541" y="865"/>
+    </contour>
+    <contour>
+      <point x="1307" y="621" type="line"/>
+      <point x="1887" y="621" type="line"/>
+      <point x="1887" y="776" type="line"/>
+      <point x="1307" y="776" type="line"/>
+    </contour>
+    <component base="vowelI.te"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>vowelI.te</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>vowelI.te</string>
+    </dict>
+  </lib>
+</glyph>

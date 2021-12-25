@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vowelEe.te" format="2">
+  <advance width="1019"/>
+  <unicode hex="0C0F"/>
+  <outline>
+    <contour>
+      <point x="565" y="1618" type="line"/>
+      <point x="581" y="1476" type="line"/>
+      <point x="509" y="1476" type="line" smooth="yes"/>
+      <point x="350" y="1476"/>
+      <point x="277" y="1398"/>
+      <point x="277" y="1228" type="curve" smooth="yes"/>
+      <point x="277" y="1155" type="line"/>
+      <point x="115" y="1155" type="line"/>
+      <point x="115" y="1231" type="line" smooth="yes"/>
+      <point x="115" y="1490"/>
+      <point x="253" y="1618"/>
+      <point x="494" y="1618" type="curve" smooth="yes"/>
+    </contour>
+    <component base="vowelE.te"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>vowelE.te</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>vowelE.te</string>
+    </dict>
+  </lib>
+</glyph>

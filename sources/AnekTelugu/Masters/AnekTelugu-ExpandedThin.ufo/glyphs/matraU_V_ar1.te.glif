@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraUVar1.te" format="2">
+  <advance width="1856"/>
+  <outline>
+    <contour>
+      <point x="312" y="-21" type="curve" smooth="yes"/>
+      <point x="571" y="-21"/>
+      <point x="730" y="107"/>
+      <point x="771" y="356" type="curve"/>
+      <point x="783" y="402"/>
+      <point x="788" y="445"/>
+      <point x="788" y="504" type="curve"/>
+      <point x="788" y="511" type="line"/>
+      <point x="749" y="511" type="line"/>
+      <point x="749" y="504" type="line"/>
+      <point x="749" y="180"/>
+      <point x="602" y="14"/>
+      <point x="311" y="14" type="curve" smooth="yes"/>
+      <point x="48" y="14"/>
+      <point x="-115" y="142"/>
+      <point x="-115" y="402" type="curve" smooth="yes"/>
+      <point x="-115" y="506" type="line"/>
+      <point x="-143" y="506" type="line"/>
+      <point x="-143" y="370" type="line" smooth="yes"/>
+      <point x="-143" y="116"/>
+      <point x="32" y="-21"/>
+    </contour>
+    <component base="Terminals.te" xOffset="114"/>
+    <component base="matraU.te" xOffset="884"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Terminals.te</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>matraU.te</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>matraU.te</string>
+    </dict>
+  </lib>
+</glyph>

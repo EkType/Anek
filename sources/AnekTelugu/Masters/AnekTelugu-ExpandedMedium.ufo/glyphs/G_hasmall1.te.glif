@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghasmall1.te" format="2">
+  <anchor x="7" y="-40" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="-477" y="-769" type="curve" smooth="yes"/>
+      <point x="-364" y="-769"/>
+      <point x="-293" y="-711"/>
+      <point x="-278" y="-627" type="curve"/>
+      <point x="-274" y="-627" type="line"/>
+      <point x="-248" y="-715"/>
+      <point x="-168" y="-769"/>
+      <point x="-46" y="-769" type="curve" smooth="yes"/>
+      <point x="94" y="-769"/>
+      <point x="189" y="-693"/>
+      <point x="205" y="-564" type="curve" smooth="yes"/>
+      <point x="209" y="-532"/>
+      <point x="235" y="-499"/>
+      <point x="235" y="-463" type="curve"/>
+      <point x="235" y="-461" type="line"/>
+      <point x="75" y="-456" type="line"/>
+      <point x="75" y="-458" type="line"/>
+      <point x="75" y="-571"/>
+      <point x="26" y="-629"/>
+      <point x="-69" y="-629" type="curve" smooth="yes"/>
+      <point x="-160" y="-629"/>
+      <point x="-197" y="-576"/>
+      <point x="-219" y="-509" type="curve" smooth="yes"/>
+      <point x="-224" y="-494" type="line" smooth="yes"/>
+      <point x="-256" y="-398"/>
+      <point x="-321" y="-330"/>
+      <point x="-477" y="-330" type="curve" smooth="yes"/>
+      <point x="-642" y="-330"/>
+      <point x="-735" y="-410"/>
+      <point x="-735" y="-551" type="curve" smooth="yes"/>
+      <point x="-735" y="-554" type="line" smooth="yes"/>
+      <point x="-735" y="-691"/>
+      <point x="-642" y="-769"/>
+    </contour>
+    <contour>
+      <point x="-477" y="-639" type="curve" smooth="yes"/>
+      <point x="-550" y="-639"/>
+      <point x="-589" y="-608"/>
+      <point x="-589" y="-550" type="curve" smooth="yes"/>
+      <point x="-589" y="-548" type="line" smooth="yes"/>
+      <point x="-589" y="-490"/>
+      <point x="-550" y="-460"/>
+      <point x="-477" y="-460" type="curve" smooth="yes"/>
+      <point x="-406" y="-460"/>
+      <point x="-366" y="-490"/>
+      <point x="-366" y="-548" type="curve" smooth="yes"/>
+      <point x="-366" y="-550" type="line" smooth="yes"/>
+      <point x="-366" y="-608"/>
+      <point x="-404" y="-639"/>
+    </contour>
+    <contour>
+      <point x="75" y="-457" type="line"/>
+      <point x="235" y="-461" type="line"/>
+      <point x="235" y="-460" type="line" smooth="yes"/>
+      <point x="235" y="-254"/>
+      <point x="117" y="-126"/>
+      <point x="-106" y="-126" type="curve" smooth="yes"/>
+      <point x="-124" y="-126" type="line"/>
+      <point x="-150" y="-265" type="line"/>
+      <point x="-138" y="-265" type="line" smooth="yes"/>
+      <point x="2" y="-265"/>
+      <point x="75" y="-331"/>
+      <point x="75" y="-455" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="425" y="-769" type="curve" smooth="yes"/>
+      <point x="612" y="-769"/>
+      <point x="716" y="-659"/>
+      <point x="716" y="-463" type="curve"/>
+      <point x="716" y="-461" type="line"/>
+      <point x="556" y="-456" type="line"/>
+      <point x="556" y="-458" type="line"/>
+      <point x="556" y="-571"/>
+      <point x="502" y="-629"/>
+      <point x="394" y="-629" type="curve" smooth="yes"/>
+      <point x="294" y="-629"/>
+      <point x="235" y="-581"/>
+      <point x="235" y="-487" type="curve" smooth="yes"/>
+      <point x="235" y="-461" type="line"/>
+      <point x="171" y="-464" type="line"/>
+      <point x="171" y="-549" type="line" smooth="yes"/>
+      <point x="171" y="-691"/>
+      <point x="263" y="-769"/>
+    </contour>
+    <contour>
+      <point x="556" y="-457" type="line"/>
+      <point x="716" y="-461" type="line"/>
+      <point x="716" y="-460" type="line" smooth="yes"/>
+      <point x="716" y="-254"/>
+      <point x="601" y="-126"/>
+      <point x="382" y="-126" type="curve" smooth="yes"/>
+      <point x="366" y="-126" type="line"/>
+      <point x="341" y="-265" type="line"/>
+      <point x="350" y="-265" type="line" smooth="yes"/>
+      <point x="485" y="-265"/>
+      <point x="556" y="-330"/>
+      <point x="556" y="-455" type="curve" smooth="yes"/>
+    </contour>
+    <component base="smallform_kombu" xOffset="-274"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>smallform_kombu</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>telugu</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

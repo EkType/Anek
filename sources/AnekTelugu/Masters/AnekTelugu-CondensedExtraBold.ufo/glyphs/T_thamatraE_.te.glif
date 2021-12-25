@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TthamatraE.te" format="2">
+  <advance width="963"/>
+  <anchor x="481" y="-39" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="481" y="-26" type="curve" smooth="yes"/>
+      <point x="760" y="-26"/>
+      <point x="903" y="134"/>
+      <point x="903" y="454" type="curve" smooth="yes"/>
+      <point x="903" y="738" type="line" smooth="yes"/>
+      <point x="903" y="950"/>
+      <point x="821" y="1081"/>
+      <point x="658" y="1132" type="curve"/>
+      <point x="606" y="1177"/>
+      <point x="548" y="1199"/>
+      <point x="481" y="1199" type="curve" smooth="yes"/>
+      <point x="202" y="1199"/>
+      <point x="60" y="1046"/>
+      <point x="60" y="738" type="curve" smooth="yes"/>
+      <point x="60" y="454" type="line" smooth="yes"/>
+      <point x="60" y="134"/>
+      <point x="202" y="-26"/>
+    </contour>
+    <contour>
+      <point x="481" y="254" type="curve" smooth="yes"/>
+      <point x="378" y="254"/>
+      <point x="336" y="316"/>
+      <point x="336" y="467" type="curve" smooth="yes"/>
+      <point x="336" y="714" type="line" smooth="yes"/>
+      <point x="336" y="865"/>
+      <point x="378" y="927"/>
+      <point x="481" y="927" type="curve" smooth="yes"/>
+      <point x="584" y="927"/>
+      <point x="627" y="865"/>
+      <point x="627" y="714" type="curve" smooth="yes"/>
+      <point x="627" y="467" type="line" smooth="yes"/>
+      <point x="627" y="316"/>
+      <point x="584" y="254"/>
+    </contour>
+    <contour>
+      <point x="482" y="1024" type="line"/>
+      <point x="583" y="1024" type="line" smooth="yes"/>
+      <point x="789" y="1024"/>
+      <point x="898" y="1111"/>
+      <point x="898" y="1278" type="curve" smooth="yes"/>
+      <point x="898" y="1462"/>
+      <point x="790" y="1555"/>
+      <point x="578" y="1555" type="curve" smooth="yes"/>
+      <point x="150" y="1555" type="line"/>
+      <point x="117" y="1312" type="line"/>
+      <point x="556" y="1312" type="line" smooth="yes"/>
+      <point x="604" y="1312"/>
+      <point x="626" y="1295"/>
+      <point x="626" y="1256" type="curve" smooth="yes"/>
+      <point x="626" y="1217"/>
+      <point x="604" y="1199"/>
+      <point x="556" y="1199" type="curve" smooth="yes"/>
+      <point x="482" y="1199" type="line"/>
+    </contour>
+    <component base="chukka" xOffset="481" yOffset="-134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>chukka</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>RamatraE.te</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>RamatraE.te</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>telugu</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

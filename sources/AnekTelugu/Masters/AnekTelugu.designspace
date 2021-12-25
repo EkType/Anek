@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="500">
+      <map input="100" output="100"/>
+      <map input="200" output="206"/>
+      <map input="300" output="312"/>
+      <map input="400" output="414"/>
+      <map input="500" output="500"/>
+      <map input="600" output="615"/>
+      <map input="700" output="709"/>
+      <map input="800" output="800"/>
+    </axis>
+    <axis tag="wdth" name="Width" minimum="75" maximum="125" default="100"/>
+  </axes>
+  <sources>
+    <source filename="AnekTelugu-CondensedThin.ufo" name="Anek Telugu Condensed Thin" familyname="Anek Telugu" stylename="Condensed Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekTelugu-CondensedMedium.ufo" name="Anek Telugu Condensed Medium" familyname="Anek Telugu" stylename="Condensed Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekTelugu-CondensedExtraBold.ufo" name="Anek Telugu Condensed ExtraBold" familyname="Anek Telugu" stylename="Condensed ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+    </source>
+    <source filename="AnekTelugu-Thin.ufo" name="Anek Telugu Thin" familyname="Anek Telugu" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekTelugu-Medium.ufo" name="Anek Telugu Medium" familyname="Anek Telugu" stylename="Medium">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekTelugu-ExtraBold.ufo" name="Anek Telugu ExtraBold" familyname="Anek Telugu" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AnekTelugu-ExpandedThin.ufo" name="Anek Telugu Expanded Thin" familyname="Anek Telugu" stylename="Expanded Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+    <source filename="AnekTelugu-ExpandedMedium.ufo" name="Anek Telugu Expanded Medium" familyname="Anek Telugu" stylename="Expanded Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+    <source filename="AnekTelugu-ExpandedExtraBold.ufo" name="Anek Telugu Expanded ExtraBold" familyname="Anek Telugu" stylename="Expanded ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Anek Telugu Condensed Thin" familyname="Anek Telugu" stylename="Condensed Thin" filename="instance_ufo/AnekTelugu-CondensedThin.ufo" stylemapfamilyname="Anek Telugu Condensed Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Condensed ExtraLight" familyname="Anek Telugu" stylename="Condensed ExtraLight" filename="instance_ufo/AnekTelugu-CondensedExtraLight.ufo" stylemapfamilyname="Anek Telugu Condensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Condensed Light" familyname="Anek Telugu" stylename="Condensed Light" filename="instance_ufo/AnekTelugu-CondensedLight.ufo" stylemapfamilyname="Anek Telugu Condensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Condensed" familyname="Anek Telugu" stylename="Condensed" filename="instance_ufo/AnekTelugu-Condensed.ufo" stylemapfamilyname="Anek Telugu Condensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Condensed Medium" familyname="Anek Telugu" stylename="Condensed Medium" filename="instance_ufo/AnekTelugu-CondensedMedium.ufo" stylemapfamilyname="Anek Telugu Condensed Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Condensed SemiBold" familyname="Anek Telugu" stylename="Condensed SemiBold" filename="instance_ufo/AnekTelugu-CondensedSemiBold.ufo" stylemapfamilyname="Anek Telugu Condensed SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Condensed Bold" familyname="Anek Telugu" stylename="Condensed Bold" filename="instance_ufo/AnekTelugu-CondensedBold.ufo" stylemapfamilyname="Anek Telugu Condensed Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Condensed ExtraBold" familyname="Anek Telugu" stylename="Condensed ExtraBold" filename="instance_ufo/AnekTelugu-CondensedExtraBold.ufo" stylemapfamilyname="Anek Telugu Condensed ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiCondensed Thin" familyname="Anek Telugu" stylename="SemiCondensed Thin" filename="instance_ufo/AnekTelugu-SemiCondensedThin.ufo" stylemapfamilyname="Anek Telugu SemiCondensed Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiCondensed ExtraLight" familyname="Anek Telugu" stylename="SemiCondensed ExtraLight" filename="instance_ufo/AnekTelugu-SemiCondensedExtraLight.ufo" stylemapfamilyname="Anek Telugu SemiCondensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiCondensed Light" familyname="Anek Telugu" stylename="SemiCondensed Light" filename="instance_ufo/AnekTelugu-SemiCondensedLight.ufo" stylemapfamilyname="Anek Telugu SemiCondensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiCondensed" familyname="Anek Telugu" stylename="SemiCondensed" filename="instance_ufo/AnekTelugu-SemiCondensed.ufo" stylemapfamilyname="Anek Telugu SemiCondensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiCondensed Medium" familyname="Anek Telugu" stylename="SemiCondensed Medium" filename="instance_ufo/AnekTelugu-SemiCondensedMedium.ufo" stylemapfamilyname="Anek Telugu SemiCondensed Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiCondensed SemiBold" familyname="Anek Telugu" stylename="SemiCondensed SemiBold" filename="instance_ufo/AnekTelugu-SemiCondensedSemiBold.ufo" stylemapfamilyname="Anek Telugu SemiCondensed Regular" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiCondensed Bold" familyname="Anek Telugu" stylename="SemiCondensed Bold" filename="instance_ufo/AnekTelugu-SemiCondensedBold.ufo" stylemapfamilyname="Anek Telugu SemiCondensed Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiCondensed ExtraBold" familyname="Anek Telugu" stylename="SemiCondensed ExtraBold" filename="instance_ufo/AnekTelugu-SemiCondensedExtraBold.ufo" stylemapfamilyname="Anek Telugu SemiCondensed ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Thin" familyname="Anek Telugu" stylename="Thin" filename="instance_ufo/AnekTelugu-Thin.ufo" stylemapfamilyname="Anek Telugu Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu ExtraLight" familyname="Anek Telugu" stylename="ExtraLight" filename="instance_ufo/AnekTelugu-ExtraLight.ufo" stylemapfamilyname="Anek Telugu ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Light" familyname="Anek Telugu" stylename="Light" filename="instance_ufo/AnekTelugu-Light.ufo" stylemapfamilyname="Anek Telugu Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Regular" familyname="Anek Telugu" stylename="Regular" filename="instance_ufo/AnekTelugu-Regular.ufo" stylemapfamilyname="Anek Telugu" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Medium" familyname="Anek Telugu" stylename="Medium" filename="instance_ufo/AnekTelugu-Medium.ufo" stylemapfamilyname="Anek Telugu Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiBold" familyname="Anek Telugu" stylename="SemiBold" filename="instance_ufo/AnekTelugu-SemiBold.ufo" stylemapfamilyname="Anek Telugu SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Bold" familyname="Anek Telugu" stylename="Bold" filename="instance_ufo/AnekTelugu-Bold.ufo" stylemapfamilyname="Anek Telugu" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu ExtraBold" familyname="Anek Telugu" stylename="ExtraBold" filename="instance_ufo/AnekTelugu-ExtraBold.ufo" stylemapfamilyname="Anek Telugu ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiExpanded Thin" familyname="Anek Telugu" stylename="SemiExpanded Thin" filename="instance_ufo/AnekTelugu-SemiExpandedThin.ufo" stylemapfamilyname="Anek Telugu SemiExpanded Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiExpanded ExtraLight" familyname="Anek Telugu" stylename="SemiExpanded ExtraLight" filename="instance_ufo/AnekTelugu-SemiExpandedExtraLight.ufo" stylemapfamilyname="Anek Telugu SemiExpanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiExpanded Light" familyname="Anek Telugu" stylename="SemiExpanded Light" filename="instance_ufo/AnekTelugu-SemiExpandedLight.ufo" stylemapfamilyname="Anek Telugu SemiExpanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiExpanded" familyname="Anek Telugu" stylename="SemiExpanded" filename="instance_ufo/AnekTelugu-SemiExpanded.ufo" stylemapfamilyname="Anek Telugu SemiExpanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiExpanded Medium" familyname="Anek Telugu" stylename="SemiExpanded Medium" filename="instance_ufo/AnekTelugu-SemiExpandedMedium.ufo" stylemapfamilyname="Anek Telugu SemiExpanded Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiExpanded SemiBold" familyname="Anek Telugu" stylename="SemiExpanded SemiBold" filename="instance_ufo/AnekTelugu-SemiExpandedSemiBold.ufo" stylemapfamilyname="Anek Telugu SemiExpanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiExpanded Bold" familyname="Anek Telugu" stylename="SemiExpanded Bold" filename="instance_ufo/AnekTelugu-SemiExpandedBold.ufo" stylemapfamilyname="Anek Telugu SemiExpanded Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu SemiExpanded ExtraBold" familyname="Anek Telugu" stylename="SemiExpanded ExtraBold" filename="instance_ufo/AnekTelugu-SemiExpandedExtraBold.ufo" stylemapfamilyname="Anek Telugu SemiExpanded ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Expanded Thin" familyname="Anek Telugu" stylename="Expanded Thin" filename="instance_ufo/AnekTelugu-ExpandedThin.ufo" stylemapfamilyname="Anek Telugu Expanded Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Expanded ExtraLight" familyname="Anek Telugu" stylename="Expanded ExtraLight" filename="instance_ufo/AnekTelugu-ExpandedExtraLight.ufo" stylemapfamilyname="Anek Telugu Expanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Expanded Light" familyname="Anek Telugu" stylename="Expanded Light" filename="instance_ufo/AnekTelugu-ExpandedLight.ufo" stylemapfamilyname="Anek Telugu Expanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Expanded" familyname="Anek Telugu" stylename="Expanded" filename="instance_ufo/AnekTelugu-Expanded.ufo" stylemapfamilyname="Anek Telugu Expanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Expanded Medium" familyname="Anek Telugu" stylename="Expanded Medium" filename="instance_ufo/AnekTelugu-ExpandedMedium.ufo" stylemapfamilyname="Anek Telugu Expanded Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Expanded SemiBold" familyname="Anek Telugu" stylename="Expanded SemiBold" filename="instance_ufo/AnekTelugu-ExpandedSemiBold.ufo" stylemapfamilyname="Anek Telugu Expanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Expanded Bold" familyname="Anek Telugu" stylename="Expanded Bold" filename="instance_ufo/AnekTelugu-ExpandedBold.ufo" stylemapfamilyname="Anek Telugu Expanded Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Telugu Expanded ExtraBold" familyname="Anek Telugu" stylename="Expanded ExtraBold" filename="instance_ufo/AnekTelugu-ExpandedExtraBold.ufo" stylemapfamilyname="Anek Telugu Expanded ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>F1A031F7-B28D-4711-9B46-E25F2B5EB880</key>
+        <dict/>
+      </dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>Terminals.te</string>
+        <string>chukka</string>
+        <string>jbottom</string>
+        <string>kombu_1</string>
+        <string>kombu_2</string>
+        <string>matraUVar1.te</string>
+        <string>smallform_kombu</string>
+        <string>trademark</string>
+      </array>
+    </dict>
+  </lib>
+  <rules>
+  <rule>
+   <!-- Latin Lighter Variants -->
+   <sub with="question_alt" name="question"/>
+   <conditionset>
+    <condition name="Weight" maximum="450" minimum="100"/>
+    <condition name="Width" maximum="125" minimum="75"/>
+   </conditionset>
+  </rule>
+  </rules>
+</designspace>

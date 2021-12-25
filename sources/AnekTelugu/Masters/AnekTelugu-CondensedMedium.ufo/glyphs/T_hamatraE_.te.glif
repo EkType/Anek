@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ThamatraE.te" format="2">
+  <advance width="1028"/>
+  <anchor x="514" y="-200" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="314" y="-18" type="curve" smooth="yes"/>
+      <point x="443" y="-18"/>
+      <point x="499" y="54"/>
+      <point x="511" y="156" type="curve"/>
+      <point x="517" y="156" type="line"/>
+      <point x="529" y="54"/>
+      <point x="585" y="-18"/>
+      <point x="714" y="-18" type="curve" smooth="yes"/>
+      <point x="864" y="-18"/>
+      <point x="943" y="81"/>
+      <point x="943" y="290" type="curve" smooth="yes"/>
+      <point x="943" y="701" type="line" smooth="yes"/>
+      <point x="943" y="975"/>
+      <point x="837" y="1117"/>
+      <point x="610" y="1151" type="curve"/>
+      <point x="580" y="1175"/>
+      <point x="548" y="1187"/>
+      <point x="514" y="1187" type="curve" smooth="yes"/>
+      <point x="223" y="1187"/>
+      <point x="85" y="1031"/>
+      <point x="85" y="701" type="curve" smooth="yes"/>
+      <point x="85" y="290" type="line" smooth="yes"/>
+      <point x="85" y="81"/>
+      <point x="164" y="-18"/>
+    </contour>
+    <contour>
+      <point x="342" y="143" type="curve" smooth="yes"/>
+      <point x="278" y="143"/>
+      <point x="251" y="189"/>
+      <point x="251" y="294" type="curve" smooth="yes"/>
+      <point x="251" y="698" type="line" smooth="yes"/>
+      <point x="251" y="929"/>
+      <point x="331" y="1034"/>
+      <point x="514" y="1034" type="curve" smooth="yes"/>
+      <point x="696" y="1034"/>
+      <point x="777" y="929"/>
+      <point x="777" y="698" type="curve" smooth="yes"/>
+      <point x="777" y="294" type="line" smooth="yes"/>
+      <point x="777" y="189"/>
+      <point x="750" y="143"/>
+      <point x="686" y="143" type="curve" smooth="yes"/>
+      <point x="624" y="143"/>
+      <point x="598" y="201"/>
+      <point x="594" y="300" type="curve" smooth="yes"/>
+      <point x="587" y="458" type="line"/>
+      <point x="441" y="458" type="line"/>
+      <point x="434" y="300" type="line" smooth="yes"/>
+      <point x="430" y="201"/>
+      <point x="404" y="143"/>
+    </contour>
+    <contour>
+      <point x="513" y="593" type="curve" smooth="yes"/>
+      <point x="568" y="593"/>
+      <point x="588" y="621"/>
+      <point x="588" y="729" type="curve" smooth="yes"/>
+      <point x="588" y="837"/>
+      <point x="568" y="866"/>
+      <point x="513" y="866" type="curve" smooth="yes"/>
+      <point x="458" y="866"/>
+      <point x="438" y="837"/>
+      <point x="438" y="729" type="curve" smooth="yes"/>
+      <point x="438" y="621"/>
+      <point x="458" y="593"/>
+    </contour>
+    <contour>
+      <point x="514" y="1079" type="line"/>
+      <point x="664" y="1079" type="line" smooth="yes"/>
+      <point x="828" y="1079"/>
+      <point x="912" y="1150"/>
+      <point x="912" y="1284" type="curve" smooth="yes"/>
+      <point x="912" y="1429"/>
+      <point x="829" y="1502"/>
+      <point x="665" y="1502" type="curve" smooth="yes"/>
+      <point x="187" y="1502" type="line"/>
+      <point x="168" y="1364" type="line"/>
+      <point x="654" y="1364" type="line" smooth="yes"/>
+      <point x="724" y="1364"/>
+      <point x="757" y="1335"/>
+      <point x="757" y="1276" type="curve" smooth="yes"/>
+      <point x="757" y="1216"/>
+      <point x="723" y="1187"/>
+      <point x="654" y="1187" type="curve" smooth="yes"/>
+      <point x="514" y="1187" type="line"/>
+    </contour>
+    <component base="kombu_1" xOffset="513" yOffset="19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>kombu_1</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>DamatraE.te</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>DamatraE.te</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>telugu</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

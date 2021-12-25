@@ -1,0 +1,1896 @@
+# automatic
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z OE Agrave Aacute Acircumflex Atilde Aring Adieresis AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Germandbls ];
+
+@figures = [ zero one two three four five six seven eight nine ];
+
+@figures_denominator = [ zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom ];
+
+@figures_numerator = [ zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr ];
+
+@CombuChars = [ Kha.te Gha.te Cha.te Jha.te Ddha.te Tha.te Dha.te Pha.te Bha.te KhamatraI.te GhamatraI.te ChamatraI.te JhamatraI.te DdhamatraI.te ThamatraI.te DhamatraI.te PhamatraI.te BhamatraI.te KhamatraE.te GhamatraE.te ChamatraE.te JhamatraE.te DdhamatraE.te ThamatraE.te DhamatraE.te PhamatraE.te BhamatraE.te KhamatraEe.te GhamatraEe.te ChamatraEe.te JhamatraEe.te DdhamatraEe.te ThamatraEe.te DhamatraEe.te PhamatraEe.te BhamatraEe.te KhamatraO.te GhamatraO.te ChamatraO.te JhamatraO.te DdhamatraO.te ThamatraO.te DhamatraO.te PhamatraO.te BhamatraO.te KhamatraOo.te GhamatraOo.te ChamatraOo.te JhamatraOo.te DdhamatraOo.te ThamatraOo.te DhamatraOo.te PhamatraOo.te BhamatraOo.te KhamatraAu.te GhamatraAu.te ChamatraAu.te JhamatraAu.te DdhamatraAu.te ThamatraAu.te DhamatraAu.te PhamatraAu.te BhamatraAu.te KhamatraIi.te GhamatraIi.te ChamatraIi.te JhamatraIi.te DdhamatraIi.te ThamatraIi.te DhamatraIi.te PhamatraIi.te BhamatraIi.te KhamatraAa.te GhamatraAa.te ChamatraAa.te JhamatraAa.te DdhamatraAa.te ThamatraAa.te DhamatraAa.te PhamatraAa.te BhamatraAa.te KhamatraU.te GhamatraU.te ChamatraU.te JhamatraU.te DdhamatraU.te ThamatraU.te DhamatraU.te PhamatraU.te BhamatraU.te KhamatraUu.te GhamatraUu.te ChamatraUu.te JhamatraUu.te DdhamatraUu.te ThamatraUu.te DhamatraUu.te PhamatraUu.te BhamatraUu.te KhaHalant.te GhaHalant.te ChaHalant.te JhaHalant.te DdhaHalant.te ThaHalant.te DhaHalant.te PhaHalant.te BhaHalant.te ];
+
+@smallbelow1_withoutRa = [ Khasmall1.te Gasmall1.te Ghasmall1.te Ngasmall1.te Jasmall1.te Jhasmall1.te Nyasmall1.te Ttasmall1.te Tthasmall1.te Ddasmall1.te Ddhasmall1.te Nnasmall1.te Tasmall1.te Thasmall1.te Dasmall1.te Dhasmall1.te Rrasmall1.te Lasmall1.te Ssasmall1.te Hasmall1.te Jhasmall3.te TtRasmall1.te TRasmall1.te GRasmall1.te KaSsasmall1.te ];
+
+@SmallCombuChars = [ Kha2.te Gha2.te Cha2.te Jha2.te Ddha2.te Tha2.te Dha2.te Pha2.te Bha2.te KhamatraI2.te GhamatraI2.te ChamatraI2.te JhamatraI2.te DdhamatraI2.te ThamatraI2.te DhamatraI2.te PhamatraI2.te BhamatraI2.te KhamatraE2.te GhamatraE2.te ChamatraE2.te JhamatraE2.te DdhamatraE2.te ThamatraE2.te DhamatraE2.te PhamatraE2.te BhamatraE2.te KhamatraEe2.te GhamatraEe2.te ChamatraEe2.te JhamatraEe2.te DdhamatraEe2.te ThamatraEe2.te DhamatraEe2.te PhamatraEe2.te BhamatraEe2.te KhamatraO2.te GhamatraO2.te ChamatraO2.te JhamatraO2.te DdhamatraO2.te ThamatraO2.te DhamatraO2.te PhamatraO2.te BhamatraO2.te KhamatraOo2.te GhamatraOo2.te ChamatraOo2.te JhamatraOo2.te DdhamatraOo2.te ThamatraOo2.te DhamatraOo2.te PhamatraOo2.te BhamatraOo2.te KhamatraAu2.te GhamatraAu2.te ChamatraAu2.te JhamatraAu2.te DdhamatraAu2.te ThamatraAu2.te DhamatraAu2.te PhamatraAu2.te BhamatraAu2.te KhamatraIi2.te GhamatraIi2.te ChamatraIi2.te JhamatraIi2.te DdhamatraIi2.te ThamatraIi2.te DhamatraIi2.te PhamatraIi2.te BhamatraIi2.te KhamatraAa2.te GhamatraAa2.te ChamatraAa2.te JhamatraAa2.te DdhamatraAa2.te ThamatraAa2.te DhamatraAa2.te PhamatraAa2.te BhamatraAa2.te KhamatraU2.te GhamatraU2.te ChamatraU2.te JhamatraU2.te DdhamatraU2.te ThamatraU2.te DhamatraU2.te PhamatraU2.te BhamatraU2.te KhamatraUu2.te GhamatraUu2.te ChamatraUu2.te JhamatraUu2.te DdhamatraUu2.te ThamatraUu2.te DhamatraUu2.te PhamatraUu2.te BhamatraUu2.te KhaHalant2.te GhaHalant2.te ChaHalant2.te JhaHalant2.te DdhaHalant2.te ThaHalant2.te DhaHalant2.te PhaHalant2.te BhaHalant2.te ];
+
+@smallbelow1 = [ Khasmall1.te Gasmall1.te Ghasmall1.te Ngasmall1.te Jasmall1.te Jhasmall1.te Nyasmall1.te Ttasmall1.te Tthasmall1.te Ddasmall1.te Ddhasmall1.te Nnasmall1.te Tasmall1.te Thasmall1.te Dasmall1.te Dhasmall1.te Rasmall1.te RasmallAlt1.te RasmallAlt2.te Rrasmall1.te Lasmall1.te Ssasmall1.te SsasmallAlt1.te Hasmall1.te Jhasmall3.te ];
+
+@ForJha = [ Ka.te Ga.te Ttha.te Ra.te Sha.te KamatraI.te GamatraI.te TthamatraI.te RamatraI.te ShamatraI.te KamatraIi.te GamatraIi.te TthamatraIi.te RamatraIi.te ShamatraIi.te KamatraE.te GamatraE.te TthamatraE.te RamatraE.te ShamatraE.te KamatraEe.te GamatraEe.te TthamatraEe.te RamatraEe.te ShamatraEe.te matraAiLengthmarkKa.te ];
+
+@forRasmallAlt2 = [ Ka.te KamatraAa.te KamatraI.te KamatraIi.te KamatraU.te KamatraUu.te KamatraE.te KamatraEe.te KamatraO.te KamatraOo.te KamatraAu.te KaHalant.te Ga.te GamatraAa.te GamatraI.te GamatraIi.te GamatraU.te GamatraUu.te GamatraE.te GamatraEe.te GamatraO.te GamatraOo.te GamatraAu.te GaHalant.te Ttha.te TthamatraAa.te TthamatraI.te TthamatraIi.te TthamatraU.te TthamatraUu.te TthamatraE.te TthamatraEe.te TthamatraO.te TthamatraOo.te TthamatraAu.te TthaHalant.te Ra.te RamatraAa.te RamatraI.te RamatraIi.te RamatraU.te RamatraUu.te RamatraE.te RamatraEe.te RamatraO.te RamatraOo.te RamatraAu.te RaHalant.te Lla.te LlamatraAa.te LlamatraI.te LlamatraIi.te LlamatraU.te LlamatraUu.te LlamatraE.te LlamatraEe.te LlamatraO.te LlamatraOo.te LlamatraAu.te LlaHalant.te Sha.te ShamatraAa.te ShamatraI.te ShamatraIi.te ShamatraU.te ShamatraUu.te ShamatraE.te ShamatraEe.te ShamatraO.te ShamatraOo.te ShamatraAu.te ShaHalant.te ];
+
+@forRasmallAlt1 = [ Gha.te GhamatraAa.te GhamatraI.te GhamatraIi.te GhamatraU.te GhamatraUu.te GhamatraE.te GhamatraEe.te GhamatraO.te GhamatraOo.te GhamatraAu.te GhaHalant.te Gha2.te GhamatraAa2.te GhamatraI2.te GhamatraIi2.te GhamatraE2.te GhamatraEe2.te GhamatraO2.te GhamatraOo2.te GhamatraAu2.te GhamatraU2.te GhamatraUu2.te GhaHalant2.te Jha.te JhamatraAa.te JhamatraI.te JhamatraIi.te JhamatraU.te JhamatraUu.te JhamatraE.te JhamatraEe.te JhamatraO.te JhamatraOo.te JhamatraAu.te JhaHalant.te Jha2.te JhamatraAa2.te JhamatraI2.te JhamatraIi2.te JhamatraE2.te JhamatraEe2.te JhamatraO2.te JhamatraOo2.te JhamatraAu2.te JhamatraU2.te JhamatraUu2.te JhaHalant2.te Ma.te MamatraAa.te MamatraI.te MamatraIi.te MamatraU.te MamatraUu.te MamatraE.te MamatraEe.te MamatraO.te MamatraOo.te MamatraAu.te MaHalant.te Ya.te YamatraAa.te YamatraI.te YamatraIi.te YamatraU.te YamatraUu.te YamatraE.te YamatraEe.te YamatraO.te YamatraOo.te YamatraAu.te YaHalant.te ];
+
+@AiFor1 = [ KamatraE.te GamatraE.te RamatraE.te TthamatraE.te ];
+
+@AiFor2 = [ KhamatraE.te NnamatraE.te RramatraE.te LlamatraE.te KhamatraE2.te  TtamatraE.te ];
+
+@AiFor3 = [ ShamatraE.te NgamatraE.te JamatraE.te DdamatraE.te DdhamatraE.te ThamatraE.te DamatraE.te DhamatraE.te NamatraE.te PamatraE.te PhamatraE.te BamatraE.te BhamatraE.te LamatraE.te VamatraE.te SsamatraE.te SamatraE.te DdhamatraE2.te ThamatraE2.te DhamatraE2.te PhamatraE2.te BhamatraE2.te NyamatraE.te TamatraE.te CamatraE.te ChamatraE.te ChamatraE2.te HamatraE.te ];
+
+@AiFor4 = [ JhamatraE.te JhamatraE2.te YamatraE.te GhamatraE.te GhamatraE2.te MamatraE.te ];
+
+@smallbelow3 = [ TtRasmall1.te TRasmall1.te GRasmall1.te KaSsasmall1.te
+ ];
+
+@Aimatra1 = [ matraAiLengthmarkKa1.te matraAiLengthmarkKha1.te matraAiLengthmarkDa1.te  matraAiLengthmarkGha1.te ];
+
+@small1 = [ Kasmall1.te Khasmall1.te Gasmall1.te Ghasmall1.te Ngasmall1.te Casmall1.te Chasmall1.te Jasmall1.te Jhasmall1.te Nyasmall1.te Ttasmall1.te Tthasmall1.te Ddasmall1.te Ddhasmall1.te Nnasmall1.te Tasmall1.te Thasmall1.te Dasmall1.te Dhasmall1.te Nasmall1.te Pasmall1.te Phasmall1.te Basmall1.te Bhasmall1.te Masmall1.te Yasmall1.te Rasmall1.te Rrasmall1.te Lasmall1.te Llasmall1.te Vasmall1.te Shasmall1.te Ssasmall1.te Sasmall1.te Hasmall1.te Jhasmall3.te TtRasmall1.te TRasmall1.te GRasmall1.te KaSsasmall1.te ];
+
+@side_marks = [ matraVocalicR.te matraVocalicRr.te Kasmall1.te Casmall1.te Chasmall1.te Nasmall1.te Pasmall1.te Phasmall1.te Basmall1.te Bhasmall1.te Masmall1.te Yasmall1.te Llasmall1.te Vasmall1.te Shasmall1.te Sasmall1.te Kasmall2.te Casmall2.te Chasmall2.te Nasmall2.te Pasmall2.te Phasmall2.te Basmall2.te Bhasmall2.te Masmall2.te Yasmall2.te Llasmall2.te Vasmall2.te Shasmall2.te matraVocalicR1.te matraVocalicRr1.te Sasmall2.te ];
+
+@allsmall1 = [ Kasmall1.te Khasmall1.te Gasmall1.te Ghasmall1.te Ngasmall1.te Casmall1.te Chasmall1.te Jasmall1.te Jhasmall1.te Nyasmall1.te Ttasmall1.te Tthasmall1.te Ddasmall1.te Ddhasmall1.te Nnasmall1.te Tasmall1.te Thasmall1.te Dasmall1.te Dhasmall1.te Nasmall1.te Pasmall1.te Phasmall1.te Basmall1.te Bhasmall1.te Masmall1.te Yasmall1.te Rasmall1.te RasmallAlt1.te RasmallAlt2.te Rrasmall1.te Lasmall1.te Llasmall1.te Vasmall1.te Shasmall1.te Ssasmall1.te SsasmallAlt1.te Sasmall1.te Hasmall1.te Jhasmall3.te KaSsasmall1.te TtRasmall1.te TRasmall1.te GRasmall1.te ];
+
+@small3 = [ Kasmall2.te Khasmall2.te Gasmall2.te Ghasmall2.te Ngasmall2.te Casmall2.te Chasmall2.te Jasmall2.te Jhasmall2.te Nyasmall2.te Ttasmall2.te Tthasmall2.te Ddasmall2.te Ddhasmall2.te Nnasmall2.te Tasmall2.te Thasmall2.te Dasmall2.te Dhasmall2.te Nasmall2.te Pasmall2.te Phasmall2.te Basmall2.te Bhasmall2.te Masmall2.te Yasmall2.te Rasmall2.te Rrasmall2.te Lasmall2.te Llasmall2.te Vasmall2.te Shasmall2.te Ssasmall2.te Sasmall2.te Hasmall2.te Jhasmall2.te TtRasmall2.te TRasmall2.te GRasmall2.te KaSsasmall2.te ];
+
+@smallbelow2 = [ Khasmall2.te Gasmall2.te Ghasmall2.te Ngasmall2.te Jasmall2.te Jhasmall2.te Nyasmall2.te Ttasmall2.te Tthasmall2.te Ddasmall2.te Ddhasmall2.te Nnasmall2.te Tasmall2.te Thasmall2.te Dasmall2.te Dhasmall2.te Rasmall2.te RasmallAlt3.te RasmallAlt4.te RasmallAlt5.te RasmallAlt6.te RasmallAlt7.te Rrasmall2.te Lasmall2.te Ssasmall2.te Hasmall2.te Jhasmall2.te TtRasmall2.te TRasmall2.te GRasmall2.te KaSsasmall2.te ];
+
+@small2 = [ Kasmall2.te Casmall2.te Chasmall2.te Nasmall2.te Pasmall2.te Phasmall2.te Basmall2.te Bhasmall2.te Masmall2.te Yasmall2.te Llasmall2.te Vasmall2.te Shasmall2.te Sasmall2.te ];
+
+@Allconsonants = [ Ka.te Kha.te Ga.te Gha.te Nga.te Ca.te Cha.te Ja.te Jha.te Nya.te Tta.te Ttha.te Dda.te Ddha.te Nna.te Ta.te Tha.te Da.te Dha.te Na.te Pa.te Pha.te Ba.te Bha.te Ma.te Ya.te Ra.te Rra.te La.te Lla.te Va.te Sha.te Ssa.te Sa.te Ha.te Llla.te ];
+
+@AllHalant = [ KaHalant.te KhaHalant.te GaHalant.te GhaHalant.te NgaHalant.te CaHalant.te ChaHalant.te JaHalant.te JhaHalant.te NyaHalant.te TtaHalant.te TthaHalant.te DdaHalant.te DdhaHalant.te NnaHalant.te TaHalant.te ThaHalant.te DaHalant.te DhaHalant.te NaHalant.te PaHalant.te PhaHalant.te BaHalant.te BhaHalant.te MaHalant.te YaHalant.te RaHalant.te RraHalant.te LaHalant.te LlaHalant.te VaHalant.te ShaHalant.te SsaHalant.te SaHalant.te HaHalant.te LllaHalant.te ];
+
+@allsmall = [ Kasmall1.te Khasmall1.te Gasmall1.te Ghasmall1.te Ngasmall1.te Casmall1.te Chasmall1.te Jasmall1.te Jhasmall1.te Jhasmall3.te Nyasmall1.te Ttasmall1.te Tthasmall1.te Ddasmall1.te Ddhasmall1.te Nnasmall1.te Tasmall1.te Thasmall1.te Dasmall1.te Dhasmall1.te Nasmall1.te Pasmall1.te Phasmall1.te Basmall1.te Bhasmall1.te Masmall1.te Yasmall1.te Rasmall1.te Rrasmall1.te Lasmall1.te Llasmall1.te Vasmall1.te Shasmall1.te Ssasmall1.te Sasmall1.te Hasmall1.te VocalicLsmall2.te VocalicLlsmall2.te TtRasmall1.te TRasmall1.te GRasmall1.te KaSsasmall1.te RasmallAlt1.te RasmallAlt2.te RasmallAlt3.te RasmallAlt4.te RasmallAlt5.te RasmallAlt6.te RasmallAlt7.te SsasmallAlt1.te Kasmall2.te Khasmall2.te Gasmall2.te Ghasmall2.te Ngasmall2.te Casmall2.te Chasmall2.te Jasmall2.te Jhasmall2.te Nyasmall2.te Ttasmall2.te Tthasmall2.te Ddasmall2.te Ddhasmall2.te Nnasmall2.te Tasmall2.te Thasmall2.te Dasmall2.te Dhasmall2.te Nasmall2.te Pasmall2.te Phasmall2.te Basmall2.te Bhasmall2.te Masmall2.te Yasmall2.te Rasmall2.te Rrasmall2.te Lasmall2.te Llasmall2.te Vasmall2.te Shasmall2.te Ssasmall2.te Sasmall2.te Hasmall2.te VocalicLsmall3.te VocalicLlsmall3.te TtRasmall2.te TRasmall2.te GRasmall2.te KaSsasmall2.te matraVocalicR1.te matraVocalicRr1.te ];
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem tel2 dflt;
+languagesystem telu dflt;
+
+
+feature aalt {
+# automatic
+feature akhn;
+feature blwf;
+feature psts;
+feature blws;
+feature haln;
+feature subs;
+feature sinf;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature tnum;
+feature case;
+feature zero;
+
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb circumflexcomb dieresiscomb dotaccentcomb gravecomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb];
+	sub [i]' @CombiningTopAccents by [idotless];
+	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [idotless];
+	@Markscomb = [dieresiscomb gravecomb acutecomb circumflexcomb ringcomb tildecomb macroncomb cedillacomb];
+	@MarkscombCase = [dieresiscomb.case gravecomb.case acutecomb.case circumflexcomb.case ringcomb.case tildecomb.case macroncomb.case cedillacomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+lookup ccmp_latn_1 {
+	sub fi by f i;
+	sub fl by f l;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+
+} ccmp;
+
+feature subs {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+
+} subs;
+
+feature sinf {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+
+} sinf;
+
+feature sups {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub zero by zerosuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+
+} sups;
+
+feature numr {
+# automatic
+sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+
+} numr;
+
+feature dnom {
+# automatic
+sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+
+} dnom;
+
+feature frac {
+lookup FractionBar {
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures slash;
+        ignore sub slash @figures @figures slash';
+        ignore sub slash' @figures @figures slash;
+        ignore sub slash @figures slash';
+        ignore sub slash' @figures slash;
+        ignore sub slash slash';
+        ignore sub slash' slash;
+        sub @figures slash' @figures by fraction;
+    } FractionBar;
+    
+    lookup Numerator1 {
+        sub @figures' fraction by @figures_numerator;
+    } Numerator1;
+
+    lookup Numerator2 {
+        sub @figures' @figures_numerator fraction by @figures_numerator;
+    } Numerator2;
+
+    lookup Numerator3 {
+        sub @figures' @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator3;
+
+    lookup Numerator4 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator4;
+
+    lookup Numerator5 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator5;
+
+    lookup Numerator6 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator6;
+
+    lookup Numerator7 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator7;
+
+    lookup Numerator8 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator8;
+
+    lookup Numerator9 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator9;
+
+    lookup Numerator10 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator10;
+
+    lookup Denominator {
+        sub [fraction @figures_denominator] @figures' by @figures_denominator;
+    } Denominator;
+
+    sub @figures space' @figures_numerator by thinspace;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+
+} ordn;
+
+feature tnum {
+# automatic
+sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+
+} tnum;
+
+feature case {
+# automatic
+sub dieresiscomb by dieresiscomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub macroncomb by macroncomb.case;
+sub cedillacomb by cedillacomb.case;
+
+} case;
+
+feature dlig {
+# automatic
+lookupflag IgnoreMarks;
+sub r t by r_t;
+
+} dlig;
+
+feature liga {
+# automatic
+lookupflag IgnoreMarks;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+sub f f by f_f;
+sub f i by fi;
+sub f l by fl;
+
+} liga;
+
+feature zero {
+# automatic
+sub zero by zero.zero;
+sub zero.tf by zero.tf.zero;
+
+} zero;
+
+feature akhn {
+# notes:
+# #feature akhn{
+# 
+# script tel2;
+#     sub Ka.te Halant.te Ssa.te by KaSsa.te;
+#     sub Ka.te matraAa.te Ssasmall1.te by KaSsamatraAa.te;
+#     sub KamatraI.te Ssasmall1.te by KaSsamatraI.te;
+#    # sub Ka.te matraE.te matraAiLengthmark.te Halant.te Ssa.te by KaSsamatraAi.te;
+#    # sub Ka.te matraE.te Halant.te Ssa.te matraAiLengthmark.te by KaSsamatraAi.te;
+#     #sub KaSsa.te matraIi.te by KaSsamatraIi.te;
+# 
+#  script telu; # Telugu
+#  	sub Ka.te Halant.te Ssa.te by KaSsa.te;
+#  	sub Ka.te matraAa.te Ssasmall1.te by KaSsamatraAa.te;
+#     sub KamatraI.te Ssasmall1.te by KaSsamatraI.te;
+#     #sub Ka.te matraE.te matraAiLengthmark.te Ssa.te Halant.te by KaSsamatraAi.te;
+#     #sub Ka.te matraE.te Ssa.te Halant.te matraAiLengthmark.te by KaSsamatraAi.te;
+#     #sub KaSsa.te matraIi.te by KaSsamatraIi.te;
+#     
+# #} akhn;#feature akhn{
+# 
+# script tel2;
+#     sub Ka.te matraE.te matraAiLengthmark.te Halant.te Ssa.te by KaSsamatraAi.te;
+#     sub Ka.te matraE.te Halant.te Ssa.te matraAiLengthmark.te by KaSsamatraAi.te;
+# 
+#  script telu; # Telugu
+#     sub Ka.te matraE.te matraAiLengthmark.te Ssa.te Halant.te by KaSsamatraAi.te;
+#     sub Ka.te matraE.te Ssa.te Halant.te matraAiLengthmark.te by KaSsamatraAi.te;
+# #} akhn;
+#feature akhn{
+
+script tel2;
+   sub Ka.te matraE.te matraAiLengthmark.te Halant.te Ssa.te by KaSsamatraAi.te;
+   sub Ka.te matraE.te Halant.te Ssa.te matraAiLengthmark.te by KaSsamatraAi.te;
+
+#} akhn;
+} akhn;
+
+feature blwf {
+# notes:
+# #feature blwf { # Below-base
+# script tel2; # Telugu v.2
+#         sub Halant.te Ka.te by Kasmall1.te;
+#         sub Halant.te Kha.te by Khasmall1.te;
+#         sub Halant.te Ga.te by Gasmall1.te;
+#         sub Halant.te Gha.te by Ghasmall1.te;
+#         sub Halant.te Nga.te by Ngasmall1.te;
+#         sub Halant.te Ca.te by Casmall1.te;
+#         sub Halant.te Cha.te by Chasmall1.te;
+#         sub Halant.te Ja.te by Jasmall1.te;
+#         sub Halant.te Jha.te by Jhasmall1.te;
+#         sub Halant.te Nya.te by Nyasmall1.te;
+#         sub Halant.te Tta.te by Ttasmall1.te;
+#         sub Halant.te Ttha.te by Tthasmall1.te;
+#         sub Halant.te Dda.te by Ddasmall1.te;
+#         sub Halant.te Ddha.te by Ddhasmall1.te;
+#         sub Halant.te Nna.te by Nnasmall1.te;
+#         sub Halant.te Ta.te by Tasmall1.te;
+#         sub Halant.te Tha.te by Thasmall1.te;
+#         sub Halant.te Da.te by Dasmall1.te;
+#         sub Halant.te Dha.te by Dhasmall1.te;
+#         sub Halant.te Na.te by Nasmall1.te;
+#         sub Halant.te Pa.te by Pasmall1.te;
+#         sub Halant.te Pha.te by Phasmall1.te;
+#         sub Halant.te Ba.te by Basmall1.te;
+#         sub Halant.te Bha.te by Bhasmall1.te;
+#         sub Halant.te Ma.te by Masmall1.te;
+#         sub Halant.te Ya.te by Yasmall1.te;
+#         sub Halant.te Ra.te by Rasmall1.te;
+#         sub Halant.te Rra.te by Rrasmall1.te;
+#         sub Halant.te La.te by Lasmall1.te;
+#         sub Halant.te Lla.te by Llasmall1.te;
+#         sub Halant.te Va.te by Vasmall1.te;
+#         sub Halant.te Sha.te by Shasmall1.te;
+#         sub Halant.te Ssa.te by Ssasmall1.te;
+#         sub Halant.te Sa.te by Sasmall1.te;
+#         sub Halant.te Ha.te by Hasmall1.te;
+# 
+#         sub Halant.te Ta.te Halant.te Ra.te by TRasmall1.te;
+#         sub Halant.te Tta.te Halant.te Ra.te by TtRasmall1.te;
+#     #   sub Halant.te Ssa.te Halant.te Ra.te by SsRasmall1.te;
+#         sub Halant.te Ga.te Halant.te Ra.te by GRasmall1.te;
+#         sub Halant.te Ka.te Halant.te Ssa.te by KaSsasmall1.te;
+# 
+# 
+# 
+# script telu; # Telugu
+# 
+#         sub Ka.te Halant.te by Kasmall1.te;
+#         sub Kha.te Halant.te by Khasmall1.te;
+#         sub Ga.te Halant.te by Gasmall1.te;
+#         sub Gha.te Halant.te by Ghasmall1.te; 
+#         sub Nga.te Halant.te by Ngasmall1.te;
+#         sub Ca.te Halant.te by Casmall1.te;
+#         sub Cha.te Halant.te by Chasmall1.te;
+#         sub Ja.te Halant.te by Jasmall1.te;
+#         sub Jha.te Halant.te by Jhasmall1.te;
+#         sub Nya.te Halant.te by Nyasmall1.te;
+#         sub Tta.te Halant.te by Ttasmall1.te;
+#         sub Ttha.te Halant.te by Tthasmall1.te;
+#         sub Dda.te Halant.te by Ddasmall1.te;
+#         sub Ddha.te Halant.te by Ddhasmall1.te;
+#         sub Nna.te Halant.te by Nnasmall1.te;
+#         sub Ta.te Halant.te by Tasmall1.te;
+#         sub Tha.te Halant.te by Thasmall1.te;
+#         sub Da.te Halant.te by Dasmall1.te;
+#         sub Dha.te Halant.te by Dhasmall1.te;
+#         sub Na.te Halant.te by Nasmall1.te;
+#         sub Pa.te Halant.te by Pasmall1.te;
+#         sub Pha.te Halant.te by Phasmall1.te;
+#         sub Ba.te Halant.te by Basmall1.te;
+#         sub Bha.te Halant.te by Bhasmall1.te;
+#         sub Ma.te Halant.te by Masmall1.te;
+#         sub Ya.te Halant.te by Yasmall1.te;
+#         sub Ra.te Halant.te by Rasmall1.te;
+#         sub Rra.te Halant.te by Rrasmall1.te;
+#         sub La.te Halant.te by Lasmall1.te;
+#         sub Lla.te Halant.te by Llasmall1.te;
+#         sub Va.te Halant.te by Vasmall1.te;
+#         sub Sha.te Halant.te by Shasmall1.te;
+#         sub Ssa.te Halant.te by Ssasmall1.te;
+#         sub Sa.te Halant.te by Sasmall1.te;
+#         sub Ha.te Halant.te by Hasmall1.te;
+# 
+#         sub Ta.te Halant.te Ra.te Halant.te by TRasmall1.te;
+#         sub Tta.te Halant.te Ra.te Halant.te by TtRasmall1.te;
+# #       sub Ssa.te Halant.te Ra.te Halant.te by SsRasmall.te;
+#         sub Ga.te Halant.te Ra.te Halant.te by GRasmall1.te;
+#         sub Ka.te Halant.te Ssa.te Halant.te by KaSsasmall1.te;
+# #} blwf;
+script tel2; # Telugu v.2
+        sub Halant.te Ka.te by Kasmall1.te;
+        sub Halant.te Kha.te by Khasmall1.te;
+        sub Halant.te Ga.te by Gasmall1.te;
+        sub Halant.te Gha.te by Ghasmall1.te;
+        sub Halant.te Nga.te by Ngasmall1.te;
+        sub Halant.te Ca.te by Casmall1.te;
+        sub Halant.te Cha.te by Chasmall1.te;
+        sub Halant.te Ja.te by Jasmall1.te;
+        sub Halant.te Jha.te by Jhasmall1.te;
+        sub Halant.te Nya.te by Nyasmall1.te;
+        sub Halant.te Tta.te by Ttasmall1.te;
+        sub Halant.te Ttha.te by Tthasmall1.te;
+        sub Halant.te Dda.te by Ddasmall1.te;
+        sub Halant.te Ddha.te by Ddhasmall1.te;
+        sub Halant.te Nna.te by Nnasmall1.te;
+        sub Halant.te Ta.te by Tasmall1.te;
+        sub Halant.te Tha.te by Thasmall1.te;
+        sub Halant.te Da.te by Dasmall1.te;
+        sub Halant.te Dha.te by Dhasmall1.te;
+        sub Halant.te Na.te by Nasmall1.te;
+        sub Halant.te Pa.te by Pasmall1.te;
+        sub Halant.te Pha.te by Phasmall1.te;
+        sub Halant.te Ba.te by Basmall1.te;
+        sub Halant.te Bha.te by Bhasmall1.te;
+        sub Halant.te Ma.te by Masmall1.te;
+        sub Halant.te Ya.te by Yasmall1.te;
+        sub Halant.te Ra.te by Rasmall1.te;
+        sub Halant.te Rra.te by Rrasmall1.te;
+        sub Halant.te La.te by Lasmall1.te;
+        sub Halant.te Lla.te by Llasmall1.te;
+        sub Halant.te Va.te by Vasmall1.te;
+        sub Halant.te Sha.te by Shasmall1.te;
+        sub Halant.te Ssa.te by Ssasmall1.te;
+        sub Halant.te Sa.te by Sasmall1.te;
+        sub Halant.te Ha.te by Hasmall1.te;
+
+        sub Halant.te Ta.te Halant.te Ra.te by TRasmall1.te;
+        sub Halant.te Tta.te Halant.te Ra.te by TtRasmall1.te;
+    #   sub Halant.te Ssa.te Halant.te Ra.te by SsRasmall1.te;
+        sub Halant.te Ga.te Halant.te Ra.te by GRasmall1.te;
+        sub Halant.te Ka.te Halant.te Ssa.te by KaSsasmall1.te;
+
+
+
+script telu; # Telugu
+
+        sub Ka.te Halant.te by Kasmall1.te;
+        sub Kha.te Halant.te by Khasmall1.te;
+        sub Ga.te Halant.te by Gasmall1.te;
+        sub Gha.te Halant.te by Ghasmall1.te; 
+        sub Nga.te Halant.te by Ngasmall1.te;
+        sub Ca.te Halant.te by Casmall1.te;
+        sub Cha.te Halant.te by Chasmall1.te;
+        sub Ja.te Halant.te by Jasmall1.te;
+        sub Jha.te Halant.te by Jhasmall1.te;
+        sub Nya.te Halant.te by Nyasmall1.te;
+        sub Tta.te Halant.te by Ttasmall1.te;
+        sub Ttha.te Halant.te by Tthasmall1.te;
+        sub Dda.te Halant.te by Ddasmall1.te;
+        sub Ddha.te Halant.te by Ddhasmall1.te;
+        sub Nna.te Halant.te by Nnasmall1.te;
+        sub Ta.te Halant.te by Tasmall1.te;
+        sub Tha.te Halant.te by Thasmall1.te;
+        sub Da.te Halant.te by Dasmall1.te;
+        sub Dha.te Halant.te by Dhasmall1.te;
+        sub Na.te Halant.te by Nasmall1.te;
+        sub Pa.te Halant.te by Pasmall1.te;
+        sub Pha.te Halant.te by Phasmall1.te;
+        sub Ba.te Halant.te by Basmall1.te;
+        sub Bha.te Halant.te by Bhasmall1.te;
+        sub Ma.te Halant.te by Masmall1.te;
+        sub Ya.te Halant.te by Yasmall1.te;
+        sub Ra.te Halant.te by Rasmall1.te;
+        sub Rra.te Halant.te by Rrasmall1.te;
+        sub La.te Halant.te by Lasmall1.te;
+        sub Lla.te Halant.te by Llasmall1.te;
+        sub Va.te Halant.te by Vasmall1.te;
+        sub Sha.te Halant.te by Shasmall1.te;
+        sub Ssa.te Halant.te by Ssasmall1.te;
+        sub Sa.te Halant.te by Sasmall1.te;
+        sub Ha.te Halant.te by Hasmall1.te;
+
+        sub Ta.te Halant.te Ra.te Halant.te by TRasmall1.te;
+        sub Tta.te Halant.te Ra.te Halant.te by TtRasmall1.te;
+#       sub Ssa.te Halant.te Ra.te Halant.te by SsRasmall.te;
+        sub Ga.te Halant.te Ra.te Halant.te by GRasmall1.te;
+        sub Ka.te Halant.te Ssa.te Halant.te by KaSsasmall1.te;
+#} blwf;
+
+} blwf;
+
+feature psts {
+# notes:
+# #feature psts { 
+# 
+# lookup abvs_matraAa { # matraAa replacement
+# 
+#         sub Ka.te matraAa.te by KamatraAa.te;
+#         sub Kha.te matraAa.te by KhamatraAa.te;
+#         sub Ga.te matraAa.te by GamatraAa.te;
+#         sub Gha.te matraAa.te by GhamatraAa.te;
+#         sub Nga.te matraAa.te by NgamatraAa.te;
+#         sub Ca.te matraAa.te by CamatraAa.te;
+#         sub Cha.te matraAa.te by ChamatraAa.te;
+#         sub Ja.te matraAa.te by JamatraAa.te;
+#         sub Jha.te matraAa.te by JhamatraAa.te;
+#         sub Nya.te matraAa.te by NyamatraAa.te;
+#         sub Tta.te matraAa.te by TtamatraAa.te;
+#         sub Ttha.te matraAa.te by TthamatraAa.te;
+#         sub Dda.te matraAa.te by DdamatraAa.te;
+#         sub Ddha.te matraAa.te by DdhamatraAa.te;
+#         sub Nna.te matraAa.te by NnamatraAa.te;
+#         sub Ta.te matraAa.te by TamatraAa.te;
+#         sub Tha.te matraAa.te by ThamatraAa.te;
+#         sub Da.te matraAa.te by DamatraAa.te;
+#         sub Dha.te matraAa.te by DhamatraAa.te;
+#         sub Na.te matraAa.te by NamatraAa.te;
+#         sub Pa.te matraAa.te by PamatraAa.te;
+#         sub Pha.te matraAa.te by PhamatraAa.te;
+#         sub Ba.te matraAa.te by BamatraAa.te;
+#         sub Bha.te matraAa.te by BhamatraAa.te;
+#         sub Ma.te matraAa.te by MamatraAa.te;
+#         sub Ya.te matraAa.te by YamatraAa.te;
+#         sub Ra.te matraAa.te by RamatraAa.te;
+#         sub Rra.te matraAa.te by RramatraAa.te;
+#         sub La.te matraAa.te by LamatraAa.te;
+#         sub Lla.te matraAa.te by LlamatraAa.te;
+#         sub Va.te matraAa.te by VamatraAa.te;
+#         sub Sha.te matraAa.te by ShamatraAa.te;
+#         sub Ssa.te matraAa.te by SsamatraAa.te;
+#         sub Sa.te matraAa.te by SamatraAa.te;
+#         sub Ha.te matraAa.te by HamatraAa.te;
+#         sub KaSsa.te matraAa.te by KaSsamatraAa.te;
+# 
+# 
+# } abvs_matraAa;
+# 
+# 
+# lookup abvs_Ikar { # Short Ikar replacement
+# 
+# 
+#         sub Ka.te matraI.te by KamatraI.te;
+#         sub Kha.te matraI.te by KhamatraI.te;
+#         sub Ga.te matraI.te by GamatraI.te;
+#         sub Gha.te matraI.te by GhamatraI.te;
+#         sub Nga.te matraI.te by NgamatraI.te;
+#         sub Ca.te matraI.te by CamatraI.te;
+#         sub Cha.te matraI.te by ChamatraI.te;
+#         sub Ja.te matraI.te by JamatraI.te;
+#         sub Jha.te matraI.te by JhamatraI.te;
+#         sub Nya.te matraI.te by NyamatraI.te;
+#         sub Tta.te matraI.te by TtamatraI.te;
+#         sub Ttha.te matraI.te by TthamatraI.te;
+#         sub Dda.te matraI.te by DdamatraI.te;
+#         sub Ddha.te matraI.te by DdhamatraI.te;
+#         sub Nna.te matraI.te by NnamatraI.te;
+#         sub Ta.te matraI.te by TamatraI.te;
+#         sub Tha.te matraI.te by ThamatraI.te;
+#         sub Da.te matraI.te by DamatraI.te;
+#         sub Dha.te matraI.te by DhamatraI.te;
+#         sub Na.te matraI.te by NamatraI.te;
+#         sub Pa.te matraI.te by PamatraI.te;
+#         sub Pha.te matraI.te by PhamatraI.te;
+#         sub Ba.te matraI.te by BamatraI.te;
+#         sub Bha.te matraI.te by BhamatraI.te;
+#         sub Ma.te matraI.te by MamatraI.te;
+#         sub Ya.te matraI.te by YamatraI.te;
+#         sub Ra.te matraI.te by RamatraI.te;
+#         sub Rra.te matraI.te by RramatraI.te;
+#         sub La.te matraI.te by LamatraI.te;
+#         sub Lla.te matraI.te by LlamatraI.te;
+#         sub Va.te matraI.te by VamatraI.te;
+#         sub Sha.te matraI.te by ShamatraI.te;
+#         sub Ssa.te matraI.te by SsamatraI.te;
+#         sub Sa.te matraI.te by SamatraI.te;
+#         sub Ha.te matraI.te by HamatraI.te;
+#         sub KaSsa.te matraI.te by KaSsamatraI.te; 
+# 
+# } abvs_Ikar;
+# 
+# 
+# lookup abvs_Iikar { # Long Ikar replacement
+# 
+# 
+#         sub Ka.te matraIi.te by KamatraIi.te;
+#         sub Kha.te matraIi.te by KhamatraIi.te;
+#         sub Ga.te matraIi.te by GamatraIi.te;
+#         sub Gha.te matraIi.te by GhamatraIi.te;
+#         sub Nga.te matraIi.te by NgamatraIi.te;
+#         sub Ca.te matraIi.te by CamatraIi.te;
+#         sub Cha.te matraIi.te by ChamatraIi.te;
+#         sub Ja.te matraIi.te by JamatraIi.te;
+#         sub Jha.te matraIi.te by JhamatraIi.te;
+#         sub Nya.te matraIi.te by NyamatraIi.te;
+#         sub Tta.te matraIi.te by TtamatraIi.te;
+#         sub Ttha.te matraIi.te by TthamatraIi.te;
+#         sub Dda.te matraIi.te by DdamatraIi.te;
+#         sub Ddha.te matraIi.te by DdhamatraIi.te;
+#         sub Nna.te matraIi.te by NnamatraIi.te;
+#         sub Ta.te matraIi.te by TamatraIi.te;
+#         sub Tha.te matraIi.te by ThamatraIi.te;
+#         sub Da.te matraIi.te by DamatraIi.te;
+#         sub Dha.te matraIi.te by DhamatraIi.te;
+#         sub Na.te matraIi.te by NamatraIi.te;
+#         sub Pa.te matraIi.te by PamatraIi.te;
+#         sub Pha.te matraIi.te by PhamatraIi.te;
+#         sub Ba.te matraIi.te by BamatraIi.te;
+#         sub Bha.te matraIi.te by BhamatraIi.te;
+#         sub Ma.te matraIi.te by MamatraIi.te;
+#         sub Ya.te matraIi.te by YamatraIi.te;
+#         sub Ra.te matraIi.te by RamatraIi.te;
+#         sub Rra.te matraIi.te by RramatraIi.te;
+#         sub La.te matraIi.te by LamatraIi.te;
+#         sub Lla.te matraIi.te by LlamatraIi.te;
+#         sub Va.te matraIi.te by VamatraIi.te;
+#         sub Sha.te matraIi.te by ShamatraIi.te;
+#         sub Ssa.te matraIi.te by SsamatraIi.te;
+#         sub Sa.te matraIi.te by SamatraIi.te;
+#         sub Ha.te matraIi.te by HamatraIi.te;
+#         #sub KaSsa.te matraIi.te by KaSsamatraIi.te;
+# 
+# } abvs_Iikar;
+# 
+# 
+# lookup abvs_matraU { # matraU replacement
+# 
+# 
+#         sub Ka.te matraU.te by KamatraU.te;
+#         sub Kha.te matraU.te by KhamatraU.te;
+#         sub Ga.te matraU.te by GamatraU.te;
+#         sub Gha.te matraU.te by GhamatraU.te;
+#         sub Nga.te matraU.te by NgamatraU.te;
+#         sub Ca.te matraU.te by CamatraU.te;
+#         sub Cha.te matraU.te by ChamatraU.te;
+#         sub Ja.te matraU.te by JamatraU.te;
+#         sub Jha.te matraU.te by JhamatraU.te;
+#         sub Nya.te matraU.te by NyamatraU.te;
+#         sub Tta.te matraU.te by TtamatraU.te;
+#         sub Ttha.te matraU.te by TthamatraU.te;
+#         sub Dda.te matraU.te by DdamatraU.te;
+#         sub Ddha.te matraU.te by DdhamatraU.te;
+#         sub Nna.te matraU.te by NnamatraU.te;
+#         sub Ta.te matraU.te by TamatraU.te;
+#         sub Tha.te matraU.te by ThamatraU.te;
+#         sub Da.te matraU.te by DamatraU.te;
+#         sub Dha.te matraU.te by DhamatraU.te;
+#         sub Na.te matraU.te by NamatraU.te;
+#         sub Pa.te matraU.te by PamatraU.te;
+#         sub Pha.te matraU.te by PhamatraU.te;
+#         sub Ba.te matraU.te by BamatraU.te;
+#         sub Bha.te matraU.te by BhamatraU.te;
+#         sub Ma.te matraU.te by MamatraU.te;
+#         sub Ya.te matraU.te by YamatraU.te;
+#         sub Ra.te matraU.te by RamatraU.te;
+#         sub Rra.te matraU.te by RramatraU.te;
+#         sub La.te matraU.te by LamatraU.te;
+#         sub Lla.te matraU.te by LlamatraU.te;
+#         sub Va.te matraU.te by VamatraU.te;
+#         sub Sha.te matraU.te by ShamatraU.te;
+#         sub Ssa.te matraU.te by SsamatraU.te;
+#         sub Sa.te matraU.te by SamatraU.te;
+#         sub Ha.te matraU.te by HamatraU.te;
+#         sub KaSsa.te matraU.te by KaSsamatraU.te;
+# 
+# 
+# } abvs_matraU;
+# 
+# 
+# lookup abvs_matraUu { # matraUu replacement
+# 
+# 
+#         sub Ka.te matraUu.te by KamatraUu.te;
+#         sub Kha.te matraUu.te by KhamatraUu.te;
+#         sub Ga.te matraUu.te by GamatraUu.te;
+#         sub Gha.te matraUu.te by GhamatraUu.te;
+#         sub Nga.te matraUu.te by NgamatraUu.te;
+#         sub Ca.te matraUu.te by CamatraUu.te;
+#         sub Cha.te matraUu.te by ChamatraUu.te;
+#         sub Ja.te matraUu.te by JamatraUu.te;
+#         sub Jha.te matraUu.te by JhamatraUu.te;
+#         sub Nya.te matraUu.te by NyamatraUu.te;
+#         sub Tta.te matraUu.te by TtamatraUu.te;
+#         sub Ttha.te matraUu.te by TthamatraUu.te;
+#         sub Dda.te matraUu.te by DdamatraUu.te;
+#         sub Ddha.te matraUu.te by DdhamatraUu.te;
+#         sub Nna.te matraUu.te by NnamatraUu.te;
+#         sub Ta.te matraUu.te by TamatraUu.te;
+#         sub Tha.te matraUu.te by ThamatraUu.te;
+#         sub Da.te matraUu.te by DamatraUu.te;
+#         sub Dha.te matraUu.te by DhamatraUu.te;
+#         sub Na.te matraUu.te by NamatraUu.te;
+#         sub Pa.te matraUu.te by PamatraUu.te;
+#         sub Pha.te matraUu.te by PhamatraUu.te;
+#         sub Ba.te matraUu.te by BamatraUu.te;
+#         sub Bha.te matraUu.te by BhamatraUu.te;
+#         sub Ma.te matraUu.te by MamatraUu.te;
+#         sub Ya.te matraUu.te by YamatraUu.te;
+#         sub Ra.te matraUu.te by RamatraUu.te;
+#         sub Rra.te matraUu.te by RramatraUu.te;
+#         sub La.te matraUu.te by LamatraUu.te;
+#         sub Lla.te matraUu.te by LlamatraUu.te;
+#         sub Va.te matraUu.te by VamatraUu.te;
+#         sub Sha.te matraUu.te by ShamatraUu.te;
+#         sub Ssa.te matraUu.te by SsamatraUu.te;
+#         sub Sa.te matraUu.te by SamatraUu.te;
+#         sub Ha.te matraUu.te by HamatraUu.te;
+#         sub KaSsa.te matraUu.te by KaSsamatraUu.te;
+# 
+# 
+# } abvs_matraUu;
+# 
+# 
+# lookup abvs_matraE { # matraE replacement
+# 
+# 
+#         sub Ka.te matraE.te by KamatraE.te;
+#         sub Kha.te matraE.te by KhamatraE.te;
+#         sub Ga.te matraE.te by GamatraE.te;
+#         sub Gha.te matraE.te by GhamatraE.te;
+#         sub Nga.te matraE.te by NgamatraE.te;
+#         sub Ca.te matraE.te by CamatraE.te;
+#         sub Cha.te matraE.te by ChamatraE.te;
+#         sub Ja.te matraE.te by JamatraE.te;
+#         sub Jha.te matraE.te by JhamatraE.te;
+#         sub Nya.te matraE.te by NyamatraE.te;
+#         sub Tta.te matraE.te by TtamatraE.te;
+#         sub Ttha.te matraE.te by TthamatraE.te;
+#         sub Dda.te matraE.te by DdamatraE.te;
+#         sub Ddha.te matraE.te by DdhamatraE.te;
+#         sub Nna.te matraE.te by NnamatraE.te;
+#         sub Ta.te matraE.te by TamatraE.te;
+#         sub Tha.te matraE.te by ThamatraE.te;
+#         sub Da.te matraE.te by DamatraE.te;
+#         sub Dha.te matraE.te by DhamatraE.te;
+#         sub Na.te matraE.te by NamatraE.te;
+#         sub Pa.te matraE.te by PamatraE.te;
+#         sub Pha.te matraE.te by PhamatraE.te;
+#         sub Ba.te matraE.te by BamatraE.te;
+#         sub Bha.te matraE.te by BhamatraE.te;
+#         sub Ma.te matraE.te by MamatraE.te;
+#         sub Ya.te matraE.te by YamatraE.te;
+#         sub Ra.te matraE.te by RamatraE.te;
+#         sub Rra.te matraE.te by RramatraE.te;
+#         sub La.te matraE.te by LamatraE.te;
+#         sub Lla.te matraE.te by LlamatraE.te;
+#         sub Va.te matraE.te by VamatraE.te;
+#         sub Sha.te matraE.te by ShamatraE.te;
+#         sub Ssa.te matraE.te by SsamatraE.te;
+#         sub Sa.te matraE.te by SamatraE.te;
+#         sub Ha.te matraE.te by HamatraE.te;
+#         sub KaSsa.te matraE.te by KaSsamatraE.te;
+# 
+# 
+# } abvs_matraE;
+# 
+# 
+# lookup abvs_matraEe { # Long matraE replacement
+# 
+#         sub Ka.te matraEe.te by KamatraEe.te;
+#         sub Kha.te matraEe.te by KhamatraEe.te;
+#         sub Ga.te matraEe.te by GamatraEe.te;
+#         sub Gha.te matraEe.te by GhamatraEe.te;
+#         sub Nga.te matraEe.te by NgamatraEe.te;
+#         sub Ca.te matraEe.te by CamatraEe.te;
+#         sub Cha.te matraEe.te by ChamatraEe.te;
+#         sub Ja.te matraEe.te by JamatraEe.te;
+#         sub Jha.te matraEe.te by JhamatraEe.te;
+#         sub Nya.te matraEe.te by NyamatraEe.te;
+#         sub Tta.te matraEe.te by TtamatraEe.te;
+#         sub Ttha.te matraEe.te by TthamatraEe.te;
+#         sub Dda.te matraEe.te by DdamatraEe.te;
+#         sub Ddha.te matraEe.te by DdhamatraEe.te;
+#         sub Nna.te matraEe.te by NnamatraEe.te;
+#         sub Ta.te matraEe.te by TamatraEe.te;
+#         sub Tha.te matraEe.te by ThamatraEe.te;
+#         sub Da.te matraEe.te by DamatraEe.te;
+#         sub Dha.te matraEe.te by DhamatraEe.te;
+#         sub Na.te matraEe.te by NamatraEe.te;
+#         sub Pa.te matraEe.te by PamatraEe.te;
+#         sub Pha.te matraEe.te by PhamatraEe.te;
+#         sub Ba.te matraEe.te by BamatraEe.te;
+#         sub Bha.te matraEe.te by BhamatraEe.te;
+#         sub Ma.te matraEe.te by MamatraEe.te;
+#         sub Ya.te matraEe.te by YamatraEe.te;
+#         sub Ra.te matraEe.te by RamatraEe.te;
+#         sub Rra.te matraEe.te by RramatraEe.te;
+#         sub La.te matraEe.te by LamatraEe.te;
+#         sub Lla.te matraEe.te by LlamatraEe.te;
+#         sub Va.te matraEe.te by VamatraEe.te;
+#         sub Sha.te matraEe.te by ShamatraEe.te;
+#         sub Ssa.te matraEe.te by SsamatraEe.te;
+#         sub Sa.te matraEe.te by SamatraEe.te;
+#         sub Ha.te matraEe.te by HamatraEe.te;
+#         sub KaSsa.te matraEe.te by KaSsamatraEe.te;
+# 
+# } abvs_matraEe;
+# 
+# 
+# lookup abvs_matraO { # matraO replacement
+# 
+#         sub Ka.te matraO.te by KamatraO.te;
+#         sub Kha.te matraO.te by KhamatraO.te;
+#         sub Ga.te matraO.te by GamatraO.te;
+#         sub Gha.te matraO.te by GhamatraO.te;
+#         sub Nga.te matraO.te by NgamatraO.te;
+#         sub Ca.te matraO.te by CamatraO.te;
+#         sub Cha.te matraO.te by ChamatraO.te;
+#         sub Ja.te matraO.te by JamatraO.te;
+#         sub Jha.te matraO.te by JhamatraO.te;
+#         sub Nya.te matraO.te by NyamatraO.te;
+#         sub Tta.te matraO.te by TtamatraO.te;
+#         sub Ttha.te matraO.te by TthamatraO.te;
+#         sub Dda.te matraO.te by DdamatraO.te;
+#         sub Ddha.te matraO.te by DdhamatraO.te;
+#         sub Nna.te matraO.te by NnamatraO.te;
+#         sub Ta.te matraO.te by TamatraO.te;
+#         sub Tha.te matraO.te by ThamatraO.te;
+#         sub Da.te matraO.te by DamatraO.te;
+#         sub Dha.te matraO.te by DhamatraO.te;
+#         sub Na.te matraO.te by NamatraO.te;
+#         sub Pa.te matraO.te by PamatraO.te;
+#         sub Pha.te matraO.te by PhamatraO.te;
+#         sub Ba.te matraO.te by BamatraO.te;
+#         sub Bha.te matraO.te by BhamatraO.te;
+#         sub Ma.te matraO.te by MamatraO.te;
+#         sub Ya.te matraO.te by YamatraO.te;
+#         sub Ra.te matraO.te by RamatraO.te;
+#         sub Rra.te matraO.te by RramatraO.te;
+#         sub La.te matraO.te by LamatraO.te;
+#         sub Lla.te matraO.te by LlamatraO.te;
+#         sub Va.te matraO.te by VamatraO.te;
+#         sub Sha.te matraO.te by ShamatraO.te;
+#         sub Ssa.te matraO.te by SsamatraO.te;
+#         sub Sa.te matraO.te by SamatraO.te;
+#         sub Ha.te matraO.te by HamatraO.te;
+#         sub KaSsa.te matraO.te by KaSsamatraO.te;
+# 
+# 
+# } abvs_matraO;
+# 
+# 
+# lookup abvs_matraOo { # matraOo replacement
+# 
+#         sub Ka.te matraOo.te by KamatraOo.te;
+#         sub Kha.te matraOo.te by KhamatraOo.te;
+#         sub Ga.te matraOo.te by GamatraOo.te;
+#         sub Gha.te matraOo.te by GhamatraOo.te;
+#         sub Nga.te matraOo.te by NgamatraOo.te;
+#         sub Ca.te matraOo.te by CamatraOo.te;
+#         sub Cha.te matraOo.te by ChamatraOo.te;
+#         sub Ja.te matraOo.te by JamatraOo.te;
+#         sub Jha.te matraOo.te by JhamatraOo.te;
+#         sub Nya.te matraOo.te by NyamatraOo.te;
+#         sub Tta.te matraOo.te by TtamatraOo.te;
+#         sub Ttha.te matraOo.te by TthamatraOo.te;
+#         sub Dda.te matraOo.te by DdamatraOo.te;
+#         sub Ddha.te matraOo.te by DdhamatraOo.te;
+#         sub Nna.te matraOo.te by NnamatraOo.te;
+#         sub Ta.te matraOo.te by TamatraOo.te;
+#         sub Tha.te matraOo.te by ThamatraOo.te;
+#         sub Da.te matraOo.te by DamatraOo.te;
+#         sub Dha.te matraOo.te by DhamatraOo.te;
+#         sub Na.te matraOo.te by NamatraOo.te;
+#         sub Pa.te matraOo.te by PamatraOo.te;
+#         sub Pha.te matraOo.te by PhamatraOo.te;
+#         sub Ba.te matraOo.te by BamatraOo.te;
+#         sub Bha.te matraOo.te by BhamatraOo.te;
+#         sub Ma.te matraOo.te by MamatraOo.te;
+#         sub Ya.te matraOo.te by YamatraOo.te;
+#         sub Ra.te matraOo.te by RamatraOo.te;
+#         sub Rra.te matraOo.te by RramatraOo.te;
+#         sub La.te matraOo.te by LamatraOo.te;
+#         sub Lla.te matraOo.te by LlamatraOo.te;
+#         sub Va.te matraOo.te by VamatraOo.te;
+#         sub Sha.te matraOo.te by ShamatraOo.te;
+#         sub Ssa.te matraOo.te by SsamatraOo.te;
+#         sub Sa.te matraOo.te by SamatraOo.te;
+#         sub Ha.te matraOo.te by HamatraOo.te;
+#         sub KaSsa.te matraOo.te by KaSsamatraOo.te;
+# 
+# } abvs_matraOo;
+# 
+# 
+# lookup abvs_matraAu { # matraAu replacement
+# 
+# 
+#         sub Ka.te matraAu.te by KamatraAu.te;
+#         sub Kha.te matraAu.te by KhamatraAu.te;
+#         sub Ga.te matraAu.te by GamatraAu.te;
+#         sub Gha.te matraAu.te by GhamatraAu.te;
+#         sub Nga.te matraAu.te by NgamatraAu.te;
+#         sub Ca.te matraAu.te by CamatraAu.te;
+#         sub Cha.te matraAu.te by ChamatraAu.te;
+#         sub Ja.te matraAu.te by JamatraAu.te;
+#         sub Jha.te matraAu.te by JhamatraAu.te;
+#         sub Nya.te matraAu.te by NyamatraAu.te;
+#         sub Tta.te matraAu.te by TtamatraAu.te;
+#         sub Ttha.te matraAu.te by TthamatraAu.te;
+#         sub Dda.te matraAu.te by DdamatraAu.te;
+#         sub Ddha.te matraAu.te by DdhamatraAu.te;
+#         sub Nna.te matraAu.te by NnamatraAu.te;
+#         sub Ta.te matraAu.te by TamatraAu.te;
+#         sub Tha.te matraAu.te by ThamatraAu.te;
+#         sub Da.te matraAu.te by DamatraAu.te;
+#         sub Dha.te matraAu.te by DhamatraAu.te;
+#         sub Na.te matraAu.te by NamatraAu.te;
+#         sub Pa.te matraAu.te by PamatraAu.te;
+#         sub Pha.te matraAu.te by PhamatraAu.te;
+#         sub Ba.te matraAu.te by BamatraAu.te;
+#         sub Bha.te matraAu.te by BhamatraAu.te;
+#         sub Ma.te matraAu.te by MamatraAu.te;
+#         sub Ya.te matraAu.te by YamatraAu.te;
+#         sub Ra.te matraAu.te by RamatraAu.te;
+#         sub Rra.te matraAu.te by RramatraAu.te;
+#         sub La.te matraAu.te by LamatraAu.te;
+#         sub Lla.te matraAu.te by LlamatraAu.te;
+#         sub Va.te matraAu.te by VamatraAu.te;
+#         sub Sha.te matraAu.te by ShamatraAu.te;
+#         sub Ssa.te matraAu.te by SsamatraAu.te;
+#         sub Sa.te matraAu.te by SamatraAu.te;
+#         sub Ha.te matraAu.te by HamatraAu.te;
+#         sub KaSsa.te matraAu.te by KaSsamatraAu.te;
+# 
+# } abvs_matraAu;
+# 
+# #} psts;
+# 
+# 
+# lookup halant1{ #part1
+# 	sub @Allconsonants' @allsmall Halant.te by @AllHalant;
+# 	sub @Allconsonants' @allsmall @allsmall Halant.te by @AllHalant;
+# 	sub @Allconsonants' @allsmall @allsmall @allsmall Halant.te by @AllHalant;
+# 	sub @Allconsonants' @allsmall @allsmall @allsmall @allsmall Halant.te by @AllHalant;
+# 
+# }halant1;
+# 
+# 
+# lookup halant2{ #part2
+# 	sub @AllHalant @allsmall Halant.te' by dummy;
+# 	sub @AllHalant @allsmall @allsmall Halant.te' by dummy;
+# 	sub @AllHalant @allsmall @allsmall @allsmall Halant.te' by dummy;
+# 	sub @AllHalant @allsmall @allsmall @allsmall @allsmall Halant.te' by dummy;
+# 
+# }halant2;
+#feature psts { 
+
+lookup abvs_matraAa { # matraAa replacement
+
+        sub Ka.te matraAa.te by KamatraAa.te;
+        sub Kha.te matraAa.te by KhamatraAa.te;
+        sub Ga.te matraAa.te by GamatraAa.te;
+        sub Gha.te matraAa.te by GhamatraAa.te;
+        sub Nga.te matraAa.te by NgamatraAa.te;
+        sub Ca.te matraAa.te by CamatraAa.te;
+        sub Cha.te matraAa.te by ChamatraAa.te;
+        sub Ja.te matraAa.te by JamatraAa.te;
+        sub Jha.te matraAa.te by JhamatraAa.te;
+        sub Nya.te matraAa.te by NyamatraAa.te;
+        sub Tta.te matraAa.te by TtamatraAa.te;
+        sub Ttha.te matraAa.te by TthamatraAa.te;
+        sub Dda.te matraAa.te by DdamatraAa.te;
+        sub Ddha.te matraAa.te by DdhamatraAa.te;
+        sub Nna.te matraAa.te by NnamatraAa.te;
+        sub Ta.te matraAa.te by TamatraAa.te;
+        sub Tha.te matraAa.te by ThamatraAa.te;
+        sub Da.te matraAa.te by DamatraAa.te;
+        sub Dha.te matraAa.te by DhamatraAa.te;
+        sub Na.te matraAa.te by NamatraAa.te;
+        sub Pa.te matraAa.te by PamatraAa.te;
+        sub Pha.te matraAa.te by PhamatraAa.te;
+        sub Ba.te matraAa.te by BamatraAa.te;
+        sub Bha.te matraAa.te by BhamatraAa.te;
+        sub Ma.te matraAa.te by MamatraAa.te;
+        sub Ya.te matraAa.te by YamatraAa.te;
+        sub Ra.te matraAa.te by RamatraAa.te;
+        sub Rra.te matraAa.te by RramatraAa.te;
+        sub La.te matraAa.te by LamatraAa.te;
+        sub Lla.te matraAa.te by LlamatraAa.te;
+        sub Va.te matraAa.te by VamatraAa.te;
+        sub Sha.te matraAa.te by ShamatraAa.te;
+        sub Ssa.te matraAa.te by SsamatraAa.te;
+        sub Sa.te matraAa.te by SamatraAa.te;
+        sub Ha.te matraAa.te by HamatraAa.te;
+        sub Llla.te matraAa.te by LllamatraAa.te;
+
+ 
+} abvs_matraAa;
+
+
+lookup abvs_Ikar { # Short Ikar replacement
+
+
+        sub Ka.te matraI.te by KamatraI.te;
+        sub Kha.te matraI.te by KhamatraI.te;
+        sub Ga.te matraI.te by GamatraI.te;
+        sub Gha.te matraI.te by GhamatraI.te;
+        sub Nga.te matraI.te by NgamatraI.te;
+        sub Ca.te matraI.te by CamatraI.te;
+        sub Cha.te matraI.te by ChamatraI.te;
+        sub Ja.te matraI.te by JamatraI.te;
+        sub Jha.te matraI.te by JhamatraI.te;
+        sub Nya.te matraI.te by NyamatraI.te;
+        sub Tta.te matraI.te by TtamatraI.te;
+        sub Ttha.te matraI.te by TthamatraI.te;
+        sub Dda.te matraI.te by DdamatraI.te;
+        sub Ddha.te matraI.te by DdhamatraI.te;
+        sub Nna.te matraI.te by NnamatraI.te;
+        sub Ta.te matraI.te by TamatraI.te;
+        sub Tha.te matraI.te by ThamatraI.te;
+        sub Da.te matraI.te by DamatraI.te;
+        sub Dha.te matraI.te by DhamatraI.te;
+        sub Na.te matraI.te by NamatraI.te;
+        sub Pa.te matraI.te by PamatraI.te;
+        sub Pha.te matraI.te by PhamatraI.te;
+        sub Ba.te matraI.te by BamatraI.te;
+        sub Bha.te matraI.te by BhamatraI.te;
+        sub Ma.te matraI.te by MamatraI.te;
+        sub Ya.te matraI.te by YamatraI.te;
+        sub Ra.te matraI.te by RamatraI.te;
+        sub Rra.te matraI.te by RramatraI.te;
+        sub La.te matraI.te by LamatraI.te;
+        sub Lla.te matraI.te by LlamatraI.te;
+        sub Va.te matraI.te by VamatraI.te;
+        sub Sha.te matraI.te by ShamatraI.te;
+        sub Ssa.te matraI.te by SsamatraI.te;
+        sub Sa.te matraI.te by SamatraI.te;
+        sub Ha.te matraI.te by HamatraI.te;
+        sub Llla.te matraI.te by LllamatraI.te;
+
+} abvs_Ikar;
+
+
+lookup abvs_Iikar { # Long Ikar replacement
+
+
+        sub Ka.te matraIi.te by KamatraIi.te;
+        sub Kha.te matraIi.te by KhamatraIi.te;
+        sub Ga.te matraIi.te by GamatraIi.te;
+        sub Gha.te matraIi.te by GhamatraIi.te;
+        sub Nga.te matraIi.te by NgamatraIi.te;
+        sub Ca.te matraIi.te by CamatraIi.te;
+        sub Cha.te matraIi.te by ChamatraIi.te;
+        sub Ja.te matraIi.te by JamatraIi.te;
+        sub Jha.te matraIi.te by JhamatraIi.te;
+        sub Nya.te matraIi.te by NyamatraIi.te;
+        sub Tta.te matraIi.te by TtamatraIi.te;
+        sub Ttha.te matraIi.te by TthamatraIi.te;
+        sub Dda.te matraIi.te by DdamatraIi.te;
+        sub Ddha.te matraIi.te by DdhamatraIi.te;
+        sub Nna.te matraIi.te by NnamatraIi.te;
+        sub Ta.te matraIi.te by TamatraIi.te;
+        sub Tha.te matraIi.te by ThamatraIi.te;
+        sub Da.te matraIi.te by DamatraIi.te;
+        sub Dha.te matraIi.te by DhamatraIi.te;
+        sub Na.te matraIi.te by NamatraIi.te;
+        sub Pa.te matraIi.te by PamatraIi.te;
+        sub Pha.te matraIi.te by PhamatraIi.te;
+        sub Ba.te matraIi.te by BamatraIi.te;
+        sub Bha.te matraIi.te by BhamatraIi.te;
+        sub Ma.te matraIi.te by MamatraIi.te;
+        sub Ya.te matraIi.te by YamatraIi.te;
+        sub Ra.te matraIi.te by RamatraIi.te;
+        sub Rra.te matraIi.te by RramatraIi.te;
+        sub La.te matraIi.te by LamatraIi.te;
+        sub Lla.te matraIi.te by LlamatraIi.te;
+        sub Va.te matraIi.te by VamatraIi.te;
+        sub Sha.te matraIi.te by ShamatraIi.te;
+        sub Ssa.te matraIi.te by SsamatraIi.te;
+        sub Sa.te matraIi.te by SamatraIi.te;
+        sub Ha.te matraIi.te by HamatraIi.te;
+        sub Llla.te matraIi.te by LllamatraIi.te;
+
+} abvs_Iikar;
+
+
+lookup abvs_matraU { # matraU replacement
+
+
+        sub Ka.te matraU.te by KamatraU.te;
+        sub Kha.te matraU.te by KhamatraU.te;
+        sub Ga.te matraU.te by GamatraU.te;
+        sub Gha.te matraU.te by GhamatraU.te;
+        sub Nga.te matraU.te by NgamatraU.te;
+        sub Ca.te matraU.te by CamatraU.te;
+        sub Cha.te matraU.te by ChamatraU.te;
+        sub Ja.te matraU.te by JamatraU.te;
+        sub Jha.te matraU.te by JhamatraU.te;
+        sub Nya.te matraU.te by NyamatraU.te;
+        sub Tta.te matraU.te by TtamatraU.te;
+        sub Ttha.te matraU.te by TthamatraU.te;
+        sub Dda.te matraU.te by DdamatraU.te;
+        sub Ddha.te matraU.te by DdhamatraU.te;
+        sub Nna.te matraU.te by NnamatraU.te;
+        sub Ta.te matraU.te by TamatraU.te;
+        sub Tha.te matraU.te by ThamatraU.te;
+        sub Da.te matraU.te by DamatraU.te;
+        sub Dha.te matraU.te by DhamatraU.te;
+        sub Na.te matraU.te by NamatraU.te;
+        sub Pa.te matraU.te by PamatraU.te;
+        sub Pha.te matraU.te by PhamatraU.te;
+        sub Ba.te matraU.te by BamatraU.te;
+        sub Bha.te matraU.te by BhamatraU.te;
+        sub Ma.te matraU.te by MamatraU.te;
+        sub Ya.te matraU.te by YamatraU.te;
+        sub Ra.te matraU.te by RamatraU.te;
+        sub Rra.te matraU.te by RramatraU.te;
+        sub La.te matraU.te by LamatraU.te;
+        sub Lla.te matraU.te by LlamatraU.te;
+        sub Va.te matraU.te by VamatraU.te;
+        sub Sha.te matraU.te by ShamatraU.te;
+        sub Ssa.te matraU.te by SsamatraU.te;
+        sub Sa.te matraU.te by SamatraU.te;
+        sub Ha.te matraU.te by HamatraU.te;
+        sub Llla.te matraU.te by LllamatraU.te;
+
+
+} abvs_matraU;
+
+
+lookup abvs_matraUu { # matraUu replacement
+
+
+        sub Ka.te matraUu.te by KamatraUu.te;
+        sub Kha.te matraUu.te by KhamatraUu.te;
+        sub Ga.te matraUu.te by GamatraUu.te;
+        sub Gha.te matraUu.te by GhamatraUu.te;
+        sub Nga.te matraUu.te by NgamatraUu.te;
+        sub Ca.te matraUu.te by CamatraUu.te;
+        sub Cha.te matraUu.te by ChamatraUu.te;
+        sub Ja.te matraUu.te by JamatraUu.te;
+        sub Jha.te matraUu.te by JhamatraUu.te;
+        sub Nya.te matraUu.te by NyamatraUu.te;
+        sub Tta.te matraUu.te by TtamatraUu.te;
+        sub Ttha.te matraUu.te by TthamatraUu.te;
+        sub Dda.te matraUu.te by DdamatraUu.te;
+        sub Ddha.te matraUu.te by DdhamatraUu.te;
+        sub Nna.te matraUu.te by NnamatraUu.te;
+        sub Ta.te matraUu.te by TamatraUu.te;
+        sub Tha.te matraUu.te by ThamatraUu.te;
+        sub Da.te matraUu.te by DamatraUu.te;
+        sub Dha.te matraUu.te by DhamatraUu.te;
+        sub Na.te matraUu.te by NamatraUu.te;
+        sub Pa.te matraUu.te by PamatraUu.te;
+        sub Pha.te matraUu.te by PhamatraUu.te;
+        sub Ba.te matraUu.te by BamatraUu.te;
+        sub Bha.te matraUu.te by BhamatraUu.te;
+        sub Ma.te matraUu.te by MamatraUu.te;
+        sub Ya.te matraUu.te by YamatraUu.te;
+        sub Ra.te matraUu.te by RamatraUu.te;
+        sub Rra.te matraUu.te by RramatraUu.te;
+        sub La.te matraUu.te by LamatraUu.te;
+        sub Lla.te matraUu.te by LlamatraUu.te;
+        sub Va.te matraUu.te by VamatraUu.te;
+        sub Sha.te matraUu.te by ShamatraUu.te;
+        sub Ssa.te matraUu.te by SsamatraUu.te;
+        sub Sa.te matraUu.te by SamatraUu.te;
+        sub Ha.te matraUu.te by HamatraUu.te;
+        sub Llla.te matraUu.te by LllamatraUu.te;
+
+
+} abvs_matraUu;
+
+
+lookup abvs_matraE { # matraE replacement
+
+
+        sub Ka.te matraE.te by KamatraE.te;
+        sub Kha.te matraE.te by KhamatraE.te;
+        sub Ga.te matraE.te by GamatraE.te;
+        sub Gha.te matraE.te by GhamatraE.te;
+        sub Nga.te matraE.te by NgamatraE.te;
+        sub Ca.te matraE.te by CamatraE.te;
+        sub Cha.te matraE.te by ChamatraE.te;
+        sub Ja.te matraE.te by JamatraE.te;
+        sub Jha.te matraE.te by JhamatraE.te;
+        sub Nya.te matraE.te by NyamatraE.te;
+        sub Tta.te matraE.te by TtamatraE.te;
+        sub Ttha.te matraE.te by TthamatraE.te;
+        sub Dda.te matraE.te by DdamatraE.te;
+        sub Ddha.te matraE.te by DdhamatraE.te;
+        sub Nna.te matraE.te by NnamatraE.te;
+        sub Ta.te matraE.te by TamatraE.te;
+        sub Tha.te matraE.te by ThamatraE.te;
+        sub Da.te matraE.te by DamatraE.te;
+        sub Dha.te matraE.te by DhamatraE.te;
+        sub Na.te matraE.te by NamatraE.te;
+        sub Pa.te matraE.te by PamatraE.te;
+        sub Pha.te matraE.te by PhamatraE.te;
+        sub Ba.te matraE.te by BamatraE.te;
+        sub Bha.te matraE.te by BhamatraE.te;
+        sub Ma.te matraE.te by MamatraE.te;
+        sub Ya.te matraE.te by YamatraE.te;
+        sub Ra.te matraE.te by RamatraE.te;
+        sub Rra.te matraE.te by RramatraE.te;
+        sub La.te matraE.te by LamatraE.te;
+        sub Lla.te matraE.te by LlamatraE.te;
+        sub Va.te matraE.te by VamatraE.te;
+        sub Sha.te matraE.te by ShamatraE.te;
+        sub Ssa.te matraE.te by SsamatraE.te;
+        sub Sa.te matraE.te by SamatraE.te;
+        sub Ha.te matraE.te by HamatraE.te;
+        sub Llla.te matraE.te by LllamatraE.te;
+
+
+} abvs_matraE;
+
+
+lookup abvs_matraEe { # Long matraE replacement
+
+        sub Ka.te matraEe.te by KamatraEe.te;
+        sub Kha.te matraEe.te by KhamatraEe.te;
+        sub Ga.te matraEe.te by GamatraEe.te;
+        sub Gha.te matraEe.te by GhamatraEe.te;
+        sub Nga.te matraEe.te by NgamatraEe.te;
+        sub Ca.te matraEe.te by CamatraEe.te;
+        sub Cha.te matraEe.te by ChamatraEe.te;
+        sub Ja.te matraEe.te by JamatraEe.te;
+        sub Jha.te matraEe.te by JhamatraEe.te;
+        sub Nya.te matraEe.te by NyamatraEe.te;
+        sub Tta.te matraEe.te by TtamatraEe.te;
+        sub Ttha.te matraEe.te by TthamatraEe.te;
+        sub Dda.te matraEe.te by DdamatraEe.te;
+        sub Ddha.te matraEe.te by DdhamatraEe.te;
+        sub Nna.te matraEe.te by NnamatraEe.te;
+        sub Ta.te matraEe.te by TamatraEe.te;
+        sub Tha.te matraEe.te by ThamatraEe.te;
+        sub Da.te matraEe.te by DamatraEe.te;
+        sub Dha.te matraEe.te by DhamatraEe.te;
+        sub Na.te matraEe.te by NamatraEe.te;
+        sub Pa.te matraEe.te by PamatraEe.te;
+        sub Pha.te matraEe.te by PhamatraEe.te;
+        sub Ba.te matraEe.te by BamatraEe.te;
+        sub Bha.te matraEe.te by BhamatraEe.te;
+        sub Ma.te matraEe.te by MamatraEe.te;
+        sub Ya.te matraEe.te by YamatraEe.te;
+        sub Ra.te matraEe.te by RamatraEe.te;
+        sub Rra.te matraEe.te by RramatraEe.te;
+        sub La.te matraEe.te by LamatraEe.te;
+        sub Lla.te matraEe.te by LlamatraEe.te;
+        sub Va.te matraEe.te by VamatraEe.te;
+        sub Sha.te matraEe.te by ShamatraEe.te;
+        sub Ssa.te matraEe.te by SsamatraEe.te;
+        sub Sa.te matraEe.te by SamatraEe.te;
+        sub Ha.te matraEe.te by HamatraEe.te;
+        sub Llla.te matraEe.te by LllamatraEe.te;
+
+} abvs_matraEe;
+
+
+lookup abvs_matraO { # matraO replacement
+
+        sub Ka.te matraO.te by KamatraO.te;
+        sub Kha.te matraO.te by KhamatraO.te;
+        sub Ga.te matraO.te by GamatraO.te;
+        sub Gha.te matraO.te by GhamatraO.te;
+        sub Nga.te matraO.te by NgamatraO.te;
+        sub Ca.te matraO.te by CamatraO.te;
+        sub Cha.te matraO.te by ChamatraO.te;
+        sub Ja.te matraO.te by JamatraO.te;
+        sub Jha.te matraO.te by JhamatraO.te;
+        sub Nya.te matraO.te by NyamatraO.te;
+        sub Tta.te matraO.te by TtamatraO.te;
+        sub Ttha.te matraO.te by TthamatraO.te;
+        sub Dda.te matraO.te by DdamatraO.te;
+        sub Ddha.te matraO.te by DdhamatraO.te;
+        sub Nna.te matraO.te by NnamatraO.te;
+        sub Ta.te matraO.te by TamatraO.te;
+        sub Tha.te matraO.te by ThamatraO.te;
+        sub Da.te matraO.te by DamatraO.te;
+        sub Dha.te matraO.te by DhamatraO.te;
+        sub Na.te matraO.te by NamatraO.te;
+        sub Pa.te matraO.te by PamatraO.te;
+        sub Pha.te matraO.te by PhamatraO.te;
+        sub Ba.te matraO.te by BamatraO.te;
+        sub Bha.te matraO.te by BhamatraO.te;
+        sub Ma.te matraO.te by MamatraO.te;
+        sub Ya.te matraO.te by YamatraO.te;
+        sub Ra.te matraO.te by RamatraO.te;
+        sub Rra.te matraO.te by RramatraO.te;
+        sub La.te matraO.te by LamatraO.te;
+        sub Lla.te matraO.te by LlamatraO.te;
+        sub Va.te matraO.te by VamatraO.te;
+        sub Sha.te matraO.te by ShamatraO.te;
+        sub Ssa.te matraO.te by SsamatraO.te;
+        sub Sa.te matraO.te by SamatraO.te;
+        sub Ha.te matraO.te by HamatraO.te;
+        sub Llla.te matraO.te by LllamatraO.te;
+
+
+} abvs_matraO;
+
+
+lookup abvs_matraOo { # matraOo replacement
+
+        sub Ka.te matraOo.te by KamatraOo.te;
+        sub Kha.te matraOo.te by KhamatraOo.te;
+        sub Ga.te matraOo.te by GamatraOo.te;
+        sub Gha.te matraOo.te by GhamatraOo.te;
+        sub Nga.te matraOo.te by NgamatraOo.te;
+        sub Ca.te matraOo.te by CamatraOo.te;
+        sub Cha.te matraOo.te by ChamatraOo.te;
+        sub Ja.te matraOo.te by JamatraOo.te;
+        sub Jha.te matraOo.te by JhamatraOo.te;
+        sub Nya.te matraOo.te by NyamatraOo.te;
+        sub Tta.te matraOo.te by TtamatraOo.te;
+        sub Ttha.te matraOo.te by TthamatraOo.te;
+        sub Dda.te matraOo.te by DdamatraOo.te;
+        sub Ddha.te matraOo.te by DdhamatraOo.te;
+        sub Nna.te matraOo.te by NnamatraOo.te;
+        sub Ta.te matraOo.te by TamatraOo.te;
+        sub Tha.te matraOo.te by ThamatraOo.te;
+        sub Da.te matraOo.te by DamatraOo.te;
+        sub Dha.te matraOo.te by DhamatraOo.te;
+        sub Na.te matraOo.te by NamatraOo.te;
+        sub Pa.te matraOo.te by PamatraOo.te;
+        sub Pha.te matraOo.te by PhamatraOo.te;
+        sub Ba.te matraOo.te by BamatraOo.te;
+        sub Bha.te matraOo.te by BhamatraOo.te;
+        sub Ma.te matraOo.te by MamatraOo.te;
+        sub Ya.te matraOo.te by YamatraOo.te;
+        sub Ra.te matraOo.te by RamatraOo.te;
+        sub Rra.te matraOo.te by RramatraOo.te;
+        sub La.te matraOo.te by LamatraOo.te;
+        sub Lla.te matraOo.te by LlamatraOo.te;
+        sub Va.te matraOo.te by VamatraOo.te;
+        sub Sha.te matraOo.te by ShamatraOo.te;
+        sub Ssa.te matraOo.te by SsamatraOo.te;
+        sub Sa.te matraOo.te by SamatraOo.te;
+        sub Ha.te matraOo.te by HamatraOo.te;
+        sub Llla.te matraOo.te by LllamatraOo.te;
+
+} abvs_matraOo;
+
+
+lookup abvs_matraAu { # matraAu replacement
+
+
+        sub Ka.te matraAu.te by KamatraAu.te;
+        sub Kha.te matraAu.te by KhamatraAu.te;
+        sub Ga.te matraAu.te by GamatraAu.te;
+        sub Gha.te matraAu.te by GhamatraAu.te;
+        sub Nga.te matraAu.te by NgamatraAu.te;
+        sub Ca.te matraAu.te by CamatraAu.te;
+        sub Cha.te matraAu.te by ChamatraAu.te;
+        sub Ja.te matraAu.te by JamatraAu.te;
+        sub Jha.te matraAu.te by JhamatraAu.te;
+        sub Nya.te matraAu.te by NyamatraAu.te;
+        sub Tta.te matraAu.te by TtamatraAu.te;
+        sub Ttha.te matraAu.te by TthamatraAu.te;
+        sub Dda.te matraAu.te by DdamatraAu.te;
+        sub Ddha.te matraAu.te by DdhamatraAu.te;
+        sub Nna.te matraAu.te by NnamatraAu.te;
+        sub Ta.te matraAu.te by TamatraAu.te;
+        sub Tha.te matraAu.te by ThamatraAu.te;
+        sub Da.te matraAu.te by DamatraAu.te;
+        sub Dha.te matraAu.te by DhamatraAu.te;
+        sub Na.te matraAu.te by NamatraAu.te;
+        sub Pa.te matraAu.te by PamatraAu.te;
+        sub Pha.te matraAu.te by PhamatraAu.te;
+        sub Ba.te matraAu.te by BamatraAu.te;
+        sub Bha.te matraAu.te by BhamatraAu.te;
+        sub Ma.te matraAu.te by MamatraAu.te;
+        sub Ya.te matraAu.te by YamatraAu.te;
+        sub Ra.te matraAu.te by RamatraAu.te;
+        sub Rra.te matraAu.te by RramatraAu.te;
+        sub La.te matraAu.te by LamatraAu.te;
+        sub Lla.te matraAu.te by LlamatraAu.te;
+        sub Va.te matraAu.te by VamatraAu.te;
+        sub Sha.te matraAu.te by ShamatraAu.te;
+        sub Ssa.te matraAu.te by SsamatraAu.te;
+        sub Sa.te matraAu.te by SamatraAu.te;
+        sub Ha.te matraAu.te by HamatraAu.te;
+        sub Llla.te matraAu.te by LllamatraAu.te;
+
+} abvs_matraAu;
+
+
+
+lookup halant1{ #part1
+	sub @Allconsonants' @allsmall Halant.te by @AllHalant;
+	sub @Allconsonants' @allsmall @allsmall Halant.te by @AllHalant;
+	sub @Allconsonants' @allsmall @allsmall @allsmall Halant.te by @AllHalant;
+	sub @Allconsonants' @allsmall @allsmall @allsmall @allsmall Halant.te by @AllHalant;
+
+}halant1;
+
+
+lookup halant2{ #part2
+	sub @AllHalant @allsmall Halant.te' by dummy;
+	sub @AllHalant @allsmall @allsmall Halant.te' by dummy;
+	sub @AllHalant @allsmall @allsmall @allsmall Halant.te' by dummy;
+	sub @AllHalant @allsmall @allsmall @allsmall @allsmall Halant.te' by dummy;
+
+}halant2;
+
+#} psts;
+} psts;
+
+feature blws {
+# notes:
+# #feature blws {
+# 
+# 
+# lookup blws_CombuChange {
+#     sub @CombuChars' [@smallbelow1_withoutRa] by @SmallCombuChars;
+#     sub @CombuChars' matraAiLengthmark.te by @SmallCombuChars;
+#     sub @CombuChars' matraAiLengthmark.te [@smallbelow1] by @SmallCombuChars;
+# } blws_CombuChange; 
+# 
+# 
+# lookup blws_smallJha {
+#     sub [@ForJha] Jhasmall1.te' by Jhasmall3.te;
+#     sub [@ForJha] matraAiLengthmark.te Jhasmall1.te' by Jhasmall3.te;
+# } blws_smallJha;
+# 
+# 
+# lookup blws_RaSmallAlt1 { # Ra small for different chatracter widths
+#     sub @forRasmallAlt2 Rasmall1.te' by RasmallAlt2.te;
+#     sub @forRasmallAlt1 Rasmall1.te' by RasmallAlt1.te; 
+# } blws_RaSmallAlt1;
+# 
+# 
+# lookup blws_RaSmallAlt {
+#     sub [@AiFor1] matraAiLengthmark.te Rasmall1.te' by Rasmall2.te;
+#     sub [@AiFor2] matraAiLengthmark.te Rasmall1.te' by Rasmall2.te;
+#     sub [@AiFor3] matraAiLengthmark.te Rasmall1.te' by Rasmall2.te;
+#     sub [@AiFor4] matraAiLengthmark.te Rasmall1.te' by Rasmall2.te;
+# } blws_RaSmallAlt;
+# 
+# 
+# lookup blws_RaSmallFormAiSub {
+#     sub [@AiFor1] matraAiLengthmark.te' [@smallbelow3] by matraAiLengthmarkKa2.te;
+#     sub [@AiFor2] matraAiLengthmark.te' [@smallbelow3] by matraAiLengthmarkKha2.te;
+#     sub [@AiFor3] matraAiLengthmark.te' [@smallbelow3] by matraAiLengthmarkGa2.te;
+#     sub [@AiFor4] matraAiLengthmark.te' [@smallbelow3] by matraAiLengthmarkYa2.te;
+# } blws_RaSmallFormAiSub;
+# 
+# 
+# lookup blws_SmallFormAiSub {
+#     sub [@AiFor1] matraAiLengthmark.te' [@smallbelow1] by matraAiLengthmarkKa1.te;
+#     sub [@AiFor2] matraAiLengthmark.te' [@smallbelow1] by matraAiLengthmarkKha1.te;
+#     sub [@AiFor3] matraAiLengthmark.te' [@smallbelow1] by matraAiLengthmarkGa1.te;
+#     sub [@AiFor4] matraAiLengthmark.te' [@smallbelow1] by matraAiLengthmarkYa1.te;
+# } blws_SmallFormAiSub;
+# 
+# 
+# lookup blws_RaSmallAlt5 {
+#     sub [@AiFor1] [@Aimatra1] [@small1] Rasmall1.te' by RasmallAlt5.te;
+#     sub [@AiFor2] [@Aimatra1] [@small1] Rasmall1.te' by RasmallAlt5.te;
+#     sub [@AiFor3] [@Aimatra1] [@small1] Rasmall1.te' by RasmallAlt5.te;
+#     sub [@AiFor4] [@Aimatra1] [@small1] Rasmall1.te' by RasmallAlt5.te;
+#     sub KaSsasmall1.te [Rasmall1.te]' by RasmallAlt5.te;
+# 
+# } blws_RaSmallAlt5;
+# 
+# 
+# lookup blws_AiLengthMark1 {
+#     sub [@AiFor1] matraAiLengthmark.te' by matraAiLengthmarkKa.te;
+# } blws_AiLengthMark1;
+# 
+# lookup blws_AiLengthMark2 {
+#     sub [@AiFor2] matraAiLengthmark.te' by matraAiLengthmarkKha.te;
+# } blws_AiLengthMark2;
+# 
+# lookup blws_AiLengthMark3 {
+#     sub [@AiFor3] matraAiLengthmark.te' by matraAiLengthmarkGa.te;
+# } blws_AiLengthMark3;
+# 
+# lookup blws_AiLengthMark4 {
+#     sub [@AiFor4] matraAiLengthmark.te' by matraAiLengthmarkYa.te;
+# } blws_AiLengthMark4;
+# 
+# 
+# lookup blws_small2 {
+#     sub [@allsmall1] @small1' by @small3;
+#     sub [@small3] @small1' by @small3;
+#     sub KaSsamatraAi.te @small1' by @small3;
+# } blws_small2;
+# 
+# lookup blws_RaSmallAlt3 {
+#     sub [@smallbelow2] [Rasmall2.te]' by RasmallAlt3.te; 
+#     sub KaSsasmall2.te [RasmallAlt5.te]' by RasmallAlt3.te;
+# } blws_RaSmallAlt3;
+# 
+# lookup blws_RaSmallAlt7 {
+#    sub [@side_marks] Rasmall2.te' by RasmallAlt7.te;
+# } blws_RaSmallAlt7;
+# 
+# lookup blws_RaSmallAlt4 {
+#     sub [@small2] Rasmall2.te' by RasmallAlt4.te;
+#     sub KaSsamatraAi.te Rasmall2.te' by RasmallAlt4.te;
+#     sub KaSsamatraAi.te [@small2] Rasmall2.te' by RasmallAlt4.te;
+# } blws_RaSmallAlt4;
+# 
+# lookup blws_RaSmallAlt6 {
+#  sub [@SmallCombuChars @CombuChars] [@smallbelow1] Rasmall2.te' by RasmallAlt6.te;
+# } blws_RaSmallAlt6;
+# 
+# lookup blws_vowelRU1 {
+#     sub [@small3] matraVocalicR.te' by matraVocalicR1.te;
+#     sub [@small3] matraVocalicRr.te' by matraVocalicRr1.te;
+# } blws_vowelRU1;
+# 
+# lookup blws_vowelRU {
+#     sub [@allsmall1] matraVocalicR.te' by matraVocalicR1.te;
+#     sub [@allsmall1] matraVocalicRr.te' by matraVocalicRr1.te;
+# } blws_vowelRU;
+# 
+# 
+# #lookup blws_SsaVattureplace {  # this Ssa Vattu alteranate is used ONLY in KaSsa glyph
+#     #sub [Ka.te KaHalf.te KamatraAa.te KamatraI.te KamatraIi.te KamatraU.te KamatraUu.te KamatraE.te KamatraEe.te KamatraO.te KamatraOo.te KamatraAu.te KaHalant.te] Ssasmall1.te' by SsasmallAlt1.te;
+# #} blws_SsaVattureplace;
+# 
+# lookup blws_KaSsaSmall1replace {  # Kssa Barakhadi + Side Marks = Sidemark level 2
+#     #sub @KaSsa @small1' matraIi.te by @small3;
+#     sub @KaSsa @small1' by @small3;
+#     #sub [KaSsa.te KaSsaHalant.te KaSsamatraAa.te KaSsamatraAu.te KaSsamatraE.te KaSsamatraEe.te KaSsamatraI.te KaSsamatraIi.te KaSsamatraO.te KaSsamatraOo.te KaSsamatraU.te KaSsamatraUu.te] Masmall1.te' by Masmall2.te;
+#     
+#     #sub KaSsa.te Masmall1.te' matraIi.te by Masmall2.te;
+#     #sub KaSsamatraIi.te @small1' by @small3;
+#     
+# } blws_KaSsaSmall1replace;
+# 
+# #} blws;
+#feature blws {
+lookup KaSsamatraAi{
+   sub KamatraE.te matraAiLengthmarkKa1.te SsasmallAlt1.te by KaSsamatraAi.te;
+   sub KamatraE.te SsasmallAlt1.te matraAiLengthmarkKa1.te by KaSsamatraAi.te;
+}KaSsamatraAi;
+
+lookup blws_SsaVattureplace {  # this Ssa Vattu alteranate is used ONLY in KaSsa glyph
+   sub [Ka.te KamatraAa.te KamatraI.te KamatraIi.te KamatraU.te KamatraUu.te KamatraE.te KamatraEe.te KamatraO.te KamatraOo.te KamatraAu.te KaHalant.te] Ssasmall1.te' by SsasmallAlt1.te;
+} blws_SsaVattureplace;
+
+lookup blws_SsaVattureplaceK {  # this Ssa Vattu alteranate is used ONLY in KaSsa glyph
+   sub KamatraE.te matraAiLengthmark.te Ssasmall1.te' by SsasmallAlt1.te;
+} blws_SsaVattureplaceK;
+
+lookup blws_CombuChange {
+    sub @CombuChars' [@smallbelow1_withoutRa] by @SmallCombuChars;
+    sub @CombuChars' matraAiLengthmark.te by @SmallCombuChars;
+    sub @CombuChars' matraAiLengthmark.te [@smallbelow1] by @SmallCombuChars;
+} blws_CombuChange;
+
+
+lookup blws_smallJha {
+    sub [@ForJha] Jhasmall1.te' by Jhasmall3.te;
+    sub [@ForJha] matraAiLengthmark.te Jhasmall1.te' by Jhasmall3.te;
+} blws_smallJha;
+
+
+lookup blws_RaSmallAlt1 { # Ra small for different chatracter widths
+    sub @forRasmallAlt2 Rasmall1.te' by RasmallAlt2.te;
+    sub @forRasmallAlt1 Rasmall1.te' by RasmallAlt1.te; 
+} blws_RaSmallAlt1;
+
+
+lookup blws_RaSmallAlt {
+    sub [@AiFor1] matraAiLengthmark.te Rasmall1.te' by Rasmall2.te;
+    sub [@AiFor2] matraAiLengthmark.te Rasmall1.te' by Rasmall2.te;
+    sub [@AiFor3] matraAiLengthmark.te Rasmall1.te' by Rasmall2.te;
+    sub [@AiFor4] matraAiLengthmark.te Rasmall1.te' by Rasmall2.te;
+} blws_RaSmallAlt;
+
+
+lookup blws_RaSmallFormAiSub {
+    sub [@AiFor1] matraAiLengthmark.te' [@smallbelow3] by matraAiLengthmarkKa2.te;
+    sub [@AiFor2] matraAiLengthmark.te' [@smallbelow3] by matraAiLengthmarkKha2.te;
+    sub [@AiFor3] matraAiLengthmark.te' [@smallbelow3] by matraAiLengthmarkDa2.te;
+    sub [@AiFor4] matraAiLengthmark.te' [@smallbelow3] by matraAiLengthmarkGha2.te;
+} blws_RaSmallFormAiSub;
+
+
+lookup blws_SmallFormAiSub {
+    sub [@AiFor1] matraAiLengthmark.te' [@smallbelow1] by matraAiLengthmarkKa1.te;
+   sub [@AiFor2] matraAiLengthmark.te' [@smallbelow1] by matraAiLengthmarkKha1.te;
+    sub [@AiFor3] matraAiLengthmark.te' [@smallbelow1] by matraAiLengthmarkDa1.te;
+    sub [@AiFor4] matraAiLengthmark.te' [@smallbelow1] by matraAiLengthmarkGha1.te;
+} blws_SmallFormAiSub;
+
+
+lookup blws_RaSmallAlt5 {
+    sub [@AiFor1] [@Aimatra1] [@small1] Rasmall1.te' by RasmallAlt5.te;
+    sub [@AiFor2] [@Aimatra1] [@small1] Rasmall1.te' by RasmallAlt5.te;
+    sub [@AiFor3] [@Aimatra1] [@small1] Rasmall1.te' by RasmallAlt5.te;
+    sub [@AiFor4] [@Aimatra1] [@small1] Rasmall1.te' by RasmallAlt5.te;
+    sub KaSsasmall1.te [Rasmall1.te]' by RasmallAlt5.te;
+
+} blws_RaSmallAlt5;
+
+
+lookup blws_AiLengthMark1 {
+    sub [@AiFor1] matraAiLengthmark.te' by matraAiLengthmarkKa.te;
+} blws_AiLengthMark1;
+
+lookup blws_AiLengthMark2 {
+    sub [@AiFor2] matraAiLengthmark.te' by matraAiLengthmarkKha.te;
+} blws_AiLengthMark2;
+
+lookup blws_AiLengthMark3 {
+    sub [@AiFor3] matraAiLengthmark.te' by matraAiLengthmarkDa.te;
+} blws_AiLengthMark3;
+
+lookup blws_AiLengthMark4 {
+    sub [@AiFor4] matraAiLengthmark.te' by matraAiLengthmarkGha.te;
+} blws_AiLengthMark4;
+
+
+lookup blws_small2 {
+    sub [@allsmall1] @small1' by @small3;
+    sub [@small3] @small1' by @small3;
+    sub KaSsamatraAi.te @small1' by @small3;
+} blws_small2;
+
+lookup blws_RaSmallAlt4 {
+    sub [@small2] Rasmall2.te' by RasmallAlt4.te;
+    sub KaSsamatraAi.te Rasmall2.te' by RasmallAlt4.te;
+    sub KaSsamatraAi.te [@small2] Rasmall2.te' by RasmallAlt4.te;
+} blws_RaSmallAlt4;
+
+lookup blws_RaSmallAlt3 {
+    sub [@smallbelow2] [Rasmall2.te]' by RasmallAlt3.te; 
+    sub KaSsasmall2.te [RasmallAlt5.te]' by RasmallAlt3.te;
+} blws_RaSmallAlt3;
+
+lookup blws_RaSmallAlt7 {
+   sub [@side_marks] Rasmall2.te' by RasmallAlt7.te;
+} blws_RaSmallAlt7;
+
+lookup blws_RaSmallAlt6 {
+ sub [@SmallCombuChars @CombuChars] [@smallbelow1] Rasmall2.te' by RasmallAlt6.te;
+} blws_RaSmallAlt6;
+
+lookup blws_vowelRU1 {
+    sub [@small3] matraVocalicR.te' by matraVocalicR1.te;
+    sub [@small3] matraVocalicRr.te' by matraVocalicRr1.te;
+} blws_vowelRU1;
+
+lookup blws_vowelRU {
+    sub [@allsmall1] matraVocalicR.te' by matraVocalicR1.te;
+    sub [@allsmall1] matraVocalicRr.te' by matraVocalicRr1.te;
+} blws_vowelRU;
+
+
+#} blws;
+} blws;
+
+feature haln {
+# notes:
+# #feature haln { # Halant replacement
+# 
+# script tel2; # Telugu v.2
+# lookupflag IgnoreMarks;
+# 
+#         sub Ka.te Halant.te by KaHalant.te;
+#         sub Kha.te Halant.te by KhaHalant.te;
+#         sub Kha2.te Halant.te by KhaHalant2.te;
+#         sub Ga.te Halant.te by GaHalant.te;
+#         sub Gha.te Halant.te by GhaHalant.te;
+#         sub Gha2.te Halant.te by GhaHalant2.te;
+#         sub Nga.te Halant.te by NgaHalant.te;
+#         sub Ca.te Halant.te by CaHalant.te;
+#         sub Cha.te Halant.te by ChaHalant.te;
+#         sub Cha2.te Halant.te by ChaHalant2.te;
+#         sub Ja.te Halant.te by JaHalant.te;
+#         sub Jha.te Halant.te by JhaHalant.te;
+#         sub Jha2.te Halant.te by JhaHalant2.te;
+#         sub Nya.te Halant.te by NyaHalant.te;
+#         sub Tta.te Halant.te by TtaHalant.te;
+#         sub Ttha.te Halant.te by TthaHalant.te;
+#         sub Dda.te Halant.te by DdaHalant.te;
+#         sub Ddha.te Halant.te by DdhaHalant.te;
+#         sub Ddha2.te Halant.te by DdhaHalant2.te;
+#         sub Nna.te Halant.te by NnaHalant.te;
+#         sub Ta.te Halant.te by TaHalant.te;
+#         sub Tha.te Halant.te by ThaHalant.te;
+#         sub Tha2.te Halant.te by ThaHalant2.te;
+#         sub Da.te Halant.te by DaHalant.te;
+#         sub Dha.te Halant.te by DhaHalant.te;
+#         sub Dha2.te Halant.te by DhaHalant2.te;
+#         sub Na.te Halant.te by NaHalant.te;
+#         sub Pa.te Halant.te by PaHalant.te;
+#         sub Pha.te Halant.te by PhaHalant.te;
+#         sub Pha2.te Halant.te by PhaHalant2.te;
+#         sub Ba.te Halant.te by BaHalant.te;
+#         sub Bha.te Halant.te by BhaHalant.te;
+#         sub Bha2.te Halant.te by BhaHalant2.te;
+#         sub Ma.te Halant.te by MaHalant.te;
+#         sub Ya.te Halant.te by YaHalant.te;
+#         sub Ra.te Halant.te by RaHalant.te;
+#         sub Rra.te Halant.te by RraHalant.te;
+#         sub La.te Halant.te by LaHalant.te;
+#         sub Lla.te Halant.te by LlaHalant.te;
+#         sub Va.te Halant.te by VaHalant.te;
+#         sub Sha.te Halant.te by ShaHalant.te;
+#         sub Ssa.te Halant.te by SsaHalant.te;
+#         sub Sa.te Halant.te by SaHalant.te;
+#         sub Ha.te Halant.te by HaHalant.te;
+#         sub KaSsa.te Halant.te by KaSsaHalant.te;
+# 
+# script telu; # Telugu   
+#         sub Ka.te Halant.te by KaHalant.te;
+#         sub Kha.te Halant.te by KhaHalant.te;
+#         sub Ga.te Halant.te by GaHalant.te;
+#         sub Gha.te Halant.te by GhaHalant.te;
+#         sub Nga.te Halant.te by NgaHalant.te;
+#         sub Ca.te Halant.te by CaHalant.te;
+#         sub Cha.te Halant.te by ChaHalant.te;
+#         sub Ja.te Halant.te by JaHalant.te;
+#         sub Jha.te Halant.te by JhaHalant.te;
+#         sub Nya.te Halant.te by NyaHalant.te;
+#         sub Tta.te Halant.te by TtaHalant.te;
+#         sub Ttha.te Halant.te by TthaHalant.te;
+#         sub Dda.te Halant.te by DdaHalant.te;
+#         sub Ddha.te Halant.te by DdhaHalant.te;
+#         sub Nna.te Halant.te by NnaHalant.te;
+#         sub Ta.te Halant.te by TaHalant.te;
+#         sub Tha.te Halant.te by ThaHalant.te;
+#         sub Da.te Halant.te by DaHalant.te;
+#         sub Dha.te Halant.te by DhaHalant.te;
+#         sub Na.te Halant.te by NaHalant.te;
+#         sub Pa.te Halant.te by PaHalant.te;
+#         sub Pha.te Halant.te by PhaHalant.te;
+#         sub Ba.te Halant.te by BaHalant.te;
+#         sub Bha.te Halant.te by BhaHalant.te;
+#         sub Ma.te Halant.te by MaHalant.te;
+#         sub Ya.te Halant.te by YaHalant.te;
+#         sub Ra.te Halant.te by RaHalant.te;
+#         sub Rra.te Halant.te by RraHalant.te;
+#         sub La.te Halant.te by LaHalant.te;
+#         sub Lla.te Halant.te by LlaHalant.te;
+#         sub Va.te Halant.te by VaHalant.te;
+#         sub Sha.te Halant.te by ShaHalant.te;
+#         sub Ssa.te Halant.te by SsaHalant.te;
+#         sub Sa.te Halant.te by SaHalant.te;
+#         sub Ha.te Halant.te by HaHalant.te;
+#         sub KaSsa.te Halant.te by KaSsaHalant.te;
+# 
+# 
+# #} haln;
+script tel2; # Telugu v.2
+lookupflag IgnoreMarks;
+
+        sub Ka.te Halant.te by KaHalant.te;
+        sub Kha.te Halant.te by KhaHalant.te;
+        sub Kha2.te Halant.te by KhaHalant2.te;
+        sub Ga.te Halant.te by GaHalant.te;
+        sub Gha.te Halant.te by GhaHalant.te;
+        sub Gha2.te Halant.te by GhaHalant2.te;
+        sub Nga.te Halant.te by NgaHalant.te;
+        sub Ca.te Halant.te by CaHalant.te;
+        sub Cha.te Halant.te by ChaHalant.te;
+        sub Cha2.te Halant.te by ChaHalant2.te;
+        sub Ja.te Halant.te by JaHalant.te;
+        sub Jha.te Halant.te by JhaHalant.te;
+        sub Jha2.te Halant.te by JhaHalant2.te;
+        sub Nya.te Halant.te by NyaHalant.te;
+        sub Tta.te Halant.te by TtaHalant.te;
+        sub Ttha.te Halant.te by TthaHalant.te;
+        sub Dda.te Halant.te by DdaHalant.te;
+        sub Ddha.te Halant.te by DdhaHalant.te;
+        sub Ddha2.te Halant.te by DdhaHalant2.te;
+        sub Nna.te Halant.te by NnaHalant.te;
+        sub Ta.te Halant.te by TaHalant.te;
+        sub Tha.te Halant.te by ThaHalant.te;
+        sub Tha2.te Halant.te by ThaHalant2.te;
+        sub Da.te Halant.te by DaHalant.te;
+        sub Dha.te Halant.te by DhaHalant.te;
+        sub Dha2.te Halant.te by DhaHalant2.te;
+        sub Na.te Halant.te by NaHalant.te;
+        sub Pa.te Halant.te by PaHalant.te;
+        sub Pha.te Halant.te by PhaHalant.te;
+        sub Pha2.te Halant.te by PhaHalant2.te;
+        sub Ba.te Halant.te by BaHalant.te;
+        sub Bha.te Halant.te by BhaHalant.te;
+        sub Bha2.te Halant.te by BhaHalant2.te;
+        sub Ma.te Halant.te by MaHalant.te;
+        sub Ya.te Halant.te by YaHalant.te;
+        sub Ra.te Halant.te by RaHalant.te;
+        sub Rra.te Halant.te by RraHalant.te;
+        sub La.te Halant.te by LaHalant.te;
+        sub Lla.te Halant.te by LlaHalant.te;
+        sub Va.te Halant.te by VaHalant.te;
+        sub Sha.te Halant.te by ShaHalant.te;
+        sub Ssa.te Halant.te by SsaHalant.te;
+        sub Sa.te Halant.te by SaHalant.te;
+        sub Ha.te Halant.te by HaHalant.te;
+        sub Llla.te Halant.te by LllaHalant.te;
+
+script telu; # Telugu   
+        sub Ka.te Halant.te by KaHalant.te;
+        sub Kha.te Halant.te by KhaHalant.te;
+        sub Ga.te Halant.te by GaHalant.te;
+        sub Gha.te Halant.te by GhaHalant.te;
+        sub Nga.te Halant.te by NgaHalant.te;
+        sub Ca.te Halant.te by CaHalant.te;
+        sub Cha.te Halant.te by ChaHalant.te;
+        sub Ja.te Halant.te by JaHalant.te;
+        sub Jha.te Halant.te by JhaHalant.te;
+        sub Nya.te Halant.te by NyaHalant.te;
+        sub Tta.te Halant.te by TtaHalant.te;
+        sub Ttha.te Halant.te by TthaHalant.te;
+        sub Dda.te Halant.te by DdaHalant.te;
+        sub Ddha.te Halant.te by DdhaHalant.te;
+        sub Nna.te Halant.te by NnaHalant.te;
+        sub Ta.te Halant.te by TaHalant.te;
+        sub Tha.te Halant.te by ThaHalant.te;
+        sub Da.te Halant.te by DaHalant.te;
+        sub Dha.te Halant.te by DhaHalant.te;
+        sub Na.te Halant.te by NaHalant.te;
+        sub Pa.te Halant.te by PaHalant.te;
+        sub Pha.te Halant.te by PhaHalant.te;
+        sub Ba.te Halant.te by BaHalant.te;
+        sub Bha.te Halant.te by BhaHalant.te;
+        sub Ma.te Halant.te by MaHalant.te;
+        sub Ya.te Halant.te by YaHalant.te;
+        sub Ra.te Halant.te by RaHalant.te;
+        sub Rra.te Halant.te by RraHalant.te;
+        sub La.te Halant.te by LaHalant.te;
+        sub Lla.te Halant.te by LlaHalant.te;
+        sub Va.te Halant.te by VaHalant.te;
+        sub Sha.te Halant.te by ShaHalant.te;
+        sub Ssa.te Halant.te by SsaHalant.te;
+        sub Sa.te Halant.te by SaHalant.te;
+        sub Ha.te Halant.te by HaHalant.te;
+        sub Llla.te Halant.te by LllaHalant.te;
+
+
+#} haln;
+
+} haln;
+
+table GDEF {
+  # automatic
+  GlyphClassDef
+    [dollar A B C D E F G H I J K L M N O P Q R S T U V W X Y Z grave a b c d e f g h i k l m n o p q r s t u v w x y z OE oe cent yen Agrave Aacute Acircumflex Atilde Aring Adieresis AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis Germandbls idotless vowelVocalicR.te Ka.te Kha.te Ga.te Gha.te Nga.te Ca.te Cha.te Ja.te Jha.te Nya.te Tta.te Ttha.te Dda.te Ddha.te Nna.te Ta.te Tha.te Da.te Dha.te Na.te Pa.te Pha.te Ba.te Bha.te Ma.te Ya.te Ra.te Rra.te La.te Lla.te Llla.te Va.te Sha.te Ssa.te Sa.te Ha.te Tsa.te Dza.te KamatraAa.te KhamatraAa.te GamatraAa.te GhamatraAa.te NgamatraAa.te CamatraAa.te ChamatraAa.te JamatraAa.te JhamatraAa.te NyamatraAa.te TtamatraAa.te TthamatraAa.te DdamatraAa.te DdhamatraAa.te NnamatraAa.te TamatraAa.te ThamatraAa.te DamatraAa.te DhamatraAa.te NamatraAa.te PamatraAa.te PhamatraAa.te BamatraAa.te BhamatraAa.te MamatraAa.te YamatraAa.te RamatraAa.te RramatraAa.te LamatraAa.te LlamatraAa.te LllamatraAa.te VamatraAa.te ShamatraAa.te SsamatraAa.te SamatraAa.te HamatraAa.te KamatraI.te KhamatraI.te GamatraI.te GhamatraI.te NgamatraI.te CamatraI.te ChamatraI.te JamatraI.te JhamatraI.te NyamatraI.te TtamatraI.te TthamatraI.te DdamatraI.te DdhamatraI.te NnamatraI.te TamatraI.te ThamatraI.te DamatraI.te DhamatraI.te NamatraI.te PamatraI.te PhamatraI.te BamatraI.te BhamatraI.te MamatraI.te YamatraI.te RamatraI.te RramatraI.te LamatraI.te LlamatraI.te LllamatraI.te VamatraI.te ShamatraI.te SsamatraI.te SamatraI.te HamatraI.te KamatraIi.te KhamatraIi.te GamatraIi.te GhamatraIi.te NgamatraIi.te CamatraIi.te ChamatraIi.te JamatraIi.te JhamatraIi.te NyamatraIi.te TtamatraIi.te TthamatraIi.te DdamatraIi.te DdhamatraIi.te NnamatraIi.te TamatraIi.te ThamatraIi.te DamatraIi.te DhamatraIi.te NamatraIi.te PamatraIi.te PhamatraIi.te BamatraIi.te BhamatraIi.te MamatraIi.te YamatraIi.te RamatraIi.te RramatraIi.te LamatraIi.te LlamatraIi.te LllamatraIi.te VamatraIi.te ShamatraIi.te SsamatraIi.te SamatraIi.te HamatraIi.te KamatraU.te KhamatraU.te GamatraU.te GhamatraU.te NgamatraU.te CamatraU.te ChamatraU.te JamatraU.te JhamatraU.te NyamatraU.te TtamatraU.te TthamatraU.te DdamatraU.te DdhamatraU.te NnamatraU.te TamatraU.te ThamatraU.te DamatraU.te DhamatraU.te NamatraU.te PamatraU.te PhamatraU.te BamatraU.te BhamatraU.te MamatraU.te YamatraU.te RamatraU.te RramatraU.te LamatraU.te LlamatraU.te LllamatraU.te VamatraU.te ShamatraU.te SsamatraU.te SamatraU.te HamatraU.te KamatraUu.te KhamatraUu.te GamatraUu.te GhamatraUu.te NgamatraUu.te CamatraUu.te ChamatraUu.te JamatraUu.te JhamatraUu.te NyamatraUu.te TtamatraUu.te TthamatraUu.te DdamatraUu.te DdhamatraUu.te NnamatraUu.te TamatraUu.te ThamatraUu.te DamatraUu.te DhamatraUu.te NamatraUu.te PamatraUu.te PhamatraUu.te BamatraUu.te BhamatraUu.te MamatraUu.te YamatraUu.te RamatraUu.te RramatraUu.te LamatraUu.te LlamatraUu.te LllamatraUu.te VamatraUu.te ShamatraUu.te SsamatraUu.te SamatraUu.te HamatraUu.te KamatraE.te KhamatraE.te GamatraE.te GhamatraE.te NgamatraE.te CamatraE.te ChamatraE.te JamatraE.te JhamatraE.te NyamatraE.te TtamatraE.te TthamatraE.te DdamatraE.te DdhamatraE.te NnamatraE.te TamatraE.te ThamatraE.te DamatraE.te DhamatraE.te NamatraE.te PamatraE.te PhamatraE.te BamatraE.te BhamatraE.te MamatraE.te YamatraE.te RamatraE.te RramatraE.te LamatraE.te LlamatraE.te LllamatraE.te VamatraE.te ShamatraE.te SsamatraE.te SamatraE.te HamatraE.te KamatraEe.te KhamatraEe.te GamatraEe.te GhamatraEe.te NgamatraEe.te CamatraEe.te ChamatraEe.te JamatraEe.te JhamatraEe.te NyamatraEe.te TtamatraEe.te TthamatraEe.te DdamatraEe.te DdhamatraEe.te NnamatraEe.te TamatraEe.te ThamatraEe.te DamatraEe.te DhamatraEe.te NamatraEe.te PamatraEe.te PhamatraEe.te BamatraEe.te BhamatraEe.te MamatraEe.te YamatraEe.te RamatraEe.te RramatraEe.te LamatraEe.te LlamatraEe.te LllamatraEe.te VamatraEe.te ShamatraEe.te SsamatraEe.te SamatraEe.te HamatraEe.te KamatraO.te KhamatraO.te GamatraO.te GhamatraO.te NgamatraO.te CamatraO.te ChamatraO.te JamatraO.te JhamatraO.te NyamatraO.te TtamatraO.te TthamatraO.te DdamatraO.te DdhamatraO.te NnamatraO.te TamatraO.te ThamatraO.te DamatraO.te DhamatraO.te NamatraO.te PamatraO.te PhamatraO.te BamatraO.te BhamatraO.te MamatraO.te YamatraO.te RamatraO.te RramatraO.te LamatraO.te LlamatraO.te LllamatraO.te VamatraO.te ShamatraO.te SsamatraO.te SamatraO.te HamatraO.te KamatraOo.te KhamatraOo.te GamatraOo.te GhamatraOo.te NgamatraOo.te CamatraOo.te ChamatraOo.te JamatraOo.te JhamatraOo.te NyamatraOo.te TtamatraOo.te TthamatraOo.te DdamatraOo.te DdhamatraOo.te NnamatraOo.te TamatraOo.te ThamatraOo.te DamatraOo.te DhamatraOo.te NamatraOo.te PamatraOo.te PhamatraOo.te BamatraOo.te BhamatraOo.te MamatraOo.te YamatraOo.te RamatraOo.te RramatraOo.te LamatraOo.te LlamatraOo.te LllamatraOo.te VamatraOo.te ShamatraOo.te SsamatraOo.te SamatraOo.te HamatraOo.te KamatraAu.te KhamatraAu.te GamatraAu.te GhamatraAu.te NgamatraAu.te CamatraAu.te ChamatraAu.te JamatraAu.te JhamatraAu.te NyamatraAu.te TtamatraAu.te TthamatraAu.te DdamatraAu.te DdhamatraAu.te NnamatraAu.te TamatraAu.te ThamatraAu.te DamatraAu.te DhamatraAu.te NamatraAu.te PamatraAu.te PhamatraAu.te BamatraAu.te BhamatraAu.te MamatraAu.te YamatraAu.te RamatraAu.te RramatraAu.te LamatraAu.te LlamatraAu.te LllamatraAu.te VamatraAu.te ShamatraAu.te SsamatraAu.te SamatraAu.te HamatraAu.te KaHalant.te KhaHalant.te GaHalant.te GhaHalant.te NgaHalant.te CaHalant.te ChaHalant.te JaHalant.te JhaHalant.te NyaHalant.te TtaHalant.te TthaHalant.te DdaHalant.te DdhaHalant.te NnaHalant.te TaHalant.te ThaHalant.te DaHalant.te DhaHalant.te NaHalant.te PaHalant.te PhaHalant.te BaHalant.te BhaHalant.te MaHalant.te YaHalant.te RaHalant.te RraHalant.te LaHalant.te LlaHalant.te LllaHalant.te VaHalant.te ShaHalant.te SsaHalant.te SaHalant.te HaHalant.te Kha2.te Gha2.te Cha2.te Jha2.te Ddha2.te Tha2.te Dha2.te Pha2.te Bha2.te KhamatraAa2.te ChamatraAa2.te JhamatraAa2.te GhamatraAa2.te DdhamatraAa2.te ThamatraAa2.te DhamatraAa2.te PhamatraAa2.te BhamatraAa2.te KhamatraI2.te GhamatraI2.te ChamatraI2.te JhamatraI2.te DdhamatraI2.te ThamatraI2.te DhamatraI2.te PhamatraI2.te BhamatraI2.te KhamatraIi2.te GhamatraIi2.te ChamatraIi2.te JhamatraIi2.te DdhamatraIi2.te ThamatraIi2.te DhamatraIi2.te PhamatraIi2.te BhamatraIi2.te KhamatraE2.te GhamatraE2.te ChamatraE2.te JhamatraE2.te DdhamatraE2.te ThamatraE2.te DhamatraE2.te PhamatraE2.te BhamatraE2.te KhamatraEe2.te GhamatraEe2.te ChamatraEe2.te JhamatraEe2.te DdhamatraEe2.te ThamatraEe2.te DhamatraEe2.te PhamatraEe2.te BhamatraEe2.te KhamatraO2.te GhamatraO2.te ChamatraO2.te JhamatraO2.te DdhamatraO2.te ThamatraO2.te DhamatraO2.te PhamatraO2.te BhamatraO2.te KhamatraOo2.te GhamatraOo2.te ChamatraOo2.te JhamatraOo2.te DdhamatraOo2.te ThamatraOo2.te DhamatraOo2.te PhamatraOo2.te BhamatraOo2.te KhamatraAu2.te GhamatraAu2.te ChamatraAu2.te JhamatraAu2.te DdhamatraAu2.te ThamatraAu2.te DhamatraAu2.te PhamatraAu2.te BhamatraAu2.te KhamatraU2.te GhamatraU2.te ChamatraU2.te JhamatraU2.te DdhamatraU2.te ThamatraU2.te DhamatraU2.te PhamatraU2.te BhamatraU2.te KhamatraUu2.te GhamatraUu2.te ChamatraUu2.te JhamatraUu2.te DdhamatraUu2.te ThamatraUu2.te DhamatraUu2.te PhamatraUu2.te BhamatraUu2.te KhaHalant2.te GhaHalant2.te ChaHalant2.te JhaHalant2.te DdhaHalant2.te ThaHalant2.te DhaHalant2.te PhaHalant2.te BhaHalant2.te KaSsamatraAi.te], # Base
+    [fi fl r_t f_f f_f_i f_f_l], # Liga
+    [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb ringcomb tildecomb macroncomb cedillacomb dieresiscomb.case gravecomb.case acutecomb.case circumflexcomb.case ringcomb.case tildecomb.case macroncomb.case cedillacomb.case dieresiscomb.narrow gravecomb.narrow acutecomb.narrow circumflexcomb.narrow tildecomb.narrow macroncomb.narrow Khasmall1.te Gasmall1.te Ghasmall1.te Ngasmall1.te Jasmall1.te Jhasmall1.te Nyasmall1.te Ttasmall1.te Tthasmall1.te Ddasmall1.te Ddhasmall1.te Nnasmall1.te Tasmall1.te Thasmall1.te Dasmall1.te Dhasmall1.te Rasmall1.te Rrasmall1.te Lasmall1.te Ssasmall1.te Hasmall1.te VocalicLsmall2.te VocalicLlsmall2.te TtRasmall1.te TRasmall1.te GRasmall1.te KaSsasmall1.te RasmallAlt1.te RasmallAlt2.te RasmallAlt3.te RasmallAlt4.te RasmallAlt5.te RasmallAlt6.te RasmallAlt7.te SsasmallAlt1.te Khasmall2.te Gasmall2.te Ghasmall2.te Ngasmall2.te Jasmall2.te Jhasmall2.te Nyasmall2.te Ttasmall2.te Tthasmall2.te Ddasmall2.te Ddhasmall2.te Nnasmall2.te Tasmall2.te Thasmall2.te Dasmall2.te Dhasmall2.te Rasmall2.te Rrasmall2.te Lasmall2.te Ssasmall2.te Hasmall2.te VocalicLsmall3.te VocalicLlsmall3.te matraAiLengthmarkKa.te matraAiLengthmarkKha.te matraAiLengthmarkGha.te matraAiLengthmarkDa.te matraAiLengthmarkKa1.te matraAiLengthmarkKha1.te matraAiLengthmarkGha1.te matraAiLengthmarkDa1.te matraAiLengthmarkKa2.te matraAiLengthmarkKha2.te matraAiLengthmarkGha2.te matraAiLengthmarkDa2.te TtRasmall2.te TRasmall2.te GRasmall2.te KaSsasmall2.te dummy], # Mark
+    ;
+  LigatureCaretByPos f_f 707;
+  LigatureCaretByPos f_f_i 650 1301;
+  LigatureCaretByPos f_f_l 651 1301;
+  LigatureCaretByPos fi 656;
+  LigatureCaretByPos fl 657;
+  LigatureCaretByPos r_t 772;
+} GDEF;

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ThaHalant2.te" format="2">
+  <advance width="1028"/>
+  <anchor x="515" y="-273" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="314" y="-18" type="curve" smooth="yes"/>
+      <point x="443" y="-18"/>
+      <point x="499" y="54"/>
+      <point x="511" y="156" type="curve"/>
+      <point x="517" y="156" type="line"/>
+      <point x="529" y="54"/>
+      <point x="585" y="-18"/>
+      <point x="714" y="-18" type="curve" smooth="yes"/>
+      <point x="864" y="-18"/>
+      <point x="943" y="81"/>
+      <point x="943" y="290" type="curve" smooth="yes"/>
+      <point x="943" y="701" type="line" smooth="yes"/>
+      <point x="943" y="1028"/>
+      <point x="805" y="1182"/>
+      <point x="514" y="1182" type="curve" smooth="yes"/>
+      <point x="470" y="1182"/>
+      <point x="432" y="1172"/>
+      <point x="391" y="1151" type="curve"/>
+      <point x="189" y="1112"/>
+      <point x="85" y="966"/>
+      <point x="85" y="701" type="curve" smooth="yes"/>
+      <point x="85" y="290" type="line" smooth="yes"/>
+      <point x="85" y="81"/>
+      <point x="164" y="-18"/>
+    </contour>
+    <contour>
+      <point x="342" y="143" type="curve" smooth="yes"/>
+      <point x="278" y="143"/>
+      <point x="251" y="189"/>
+      <point x="251" y="294" type="curve" smooth="yes"/>
+      <point x="251" y="698" type="line" smooth="yes"/>
+      <point x="251" y="929"/>
+      <point x="331" y="1035"/>
+      <point x="514" y="1035" type="curve" smooth="yes"/>
+      <point x="696" y="1035"/>
+      <point x="777" y="929"/>
+      <point x="777" y="698" type="curve" smooth="yes"/>
+      <point x="777" y="294" type="line" smooth="yes"/>
+      <point x="777" y="189"/>
+      <point x="750" y="143"/>
+      <point x="686" y="143" type="curve" smooth="yes"/>
+      <point x="624" y="143"/>
+      <point x="598" y="201"/>
+      <point x="594" y="300" type="curve" smooth="yes"/>
+      <point x="587" y="458" type="line"/>
+      <point x="441" y="458" type="line"/>
+      <point x="434" y="300" type="line" smooth="yes"/>
+      <point x="430" y="201"/>
+      <point x="404" y="143"/>
+    </contour>
+    <contour>
+      <point x="513" y="593" type="curve" smooth="yes"/>
+      <point x="568" y="593"/>
+      <point x="588" y="621"/>
+      <point x="588" y="729" type="curve" smooth="yes"/>
+      <point x="588" y="837"/>
+      <point x="568" y="866"/>
+      <point x="513" y="866" type="curve" smooth="yes"/>
+      <point x="458" y="866"/>
+      <point x="438" y="837"/>
+      <point x="438" y="729" type="curve" smooth="yes"/>
+      <point x="438" y="621"/>
+      <point x="458" y="593"/>
+    </contour>
+    <contour>
+      <point x="440" y="1081" type="curve" smooth="yes"/>
+      <point x="514" y="1081" type="line"/>
+      <point x="514" y="1182" type="line"/>
+      <point x="448" y="1182" type="line" smooth="yes"/>
+      <point x="384" y="1182"/>
+      <point x="354" y="1204"/>
+      <point x="354" y="1247" type="curve" smooth="yes"/>
+      <point x="354" y="1292"/>
+      <point x="384" y="1314"/>
+      <point x="448" y="1314" type="curve" smooth="yes"/>
+      <point x="701" y="1314" type="line"/>
+      <point x="701" y="1448" type="line"/>
+      <point x="434" y="1448" type="line" smooth="yes"/>
+      <point x="366" y="1448"/>
+      <point x="335" y="1471"/>
+      <point x="335" y="1517" type="curve" smooth="yes"/>
+      <point x="335" y="1563"/>
+      <point x="366" y="1586"/>
+      <point x="434" y="1586" type="curve" smooth="yes"/>
+      <point x="841" y="1586" type="line"/>
+      <point x="820" y="1723" type="line"/>
+      <point x="427" y="1723" type="line" smooth="yes"/>
+      <point x="260" y="1723"/>
+      <point x="172" y="1658"/>
+      <point x="172" y="1535" type="curve" smooth="yes"/>
+      <point x="172" y="1448"/>
+      <point x="224" y="1394"/>
+      <point x="320" y="1381" type="curve"/>
+      <point x="320" y="1375" type="line"/>
+      <point x="232" y="1360"/>
+      <point x="191" y="1313"/>
+      <point x="191" y="1242" type="curve" smooth="yes"/>
+      <point x="191" y="1135"/>
+      <point x="274" y="1081"/>
+    </contour>
+    <component base="kombu_2" xOffset="513"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>kombu_2</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>DaHalant.te</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>DaHalant.te</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>telugu</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

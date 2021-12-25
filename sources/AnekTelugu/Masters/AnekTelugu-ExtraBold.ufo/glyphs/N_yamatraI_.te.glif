@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NyamatraI.te" format="2">
+  <advance width="2106"/>
+  <anchor x="752" y="-53" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="1365" y="574" type="line"/>
+      <point x="2045" y="574" type="line"/>
+      <point x="2045" y="825" type="line"/>
+      <point x="1365" y="825" type="line"/>
+    </contour>
+    <contour>
+      <point x="1697" y="767" type="curve"/>
+      <point x="1855" y="767" type="line"/>
+      <point x="1907" y="875"/>
+      <point x="1941" y="957"/>
+      <point x="1941" y="1020" type="curve" smooth="yes"/>
+      <point x="1941" y="1087"/>
+      <point x="1919" y="1121"/>
+      <point x="1906" y="1140" type="curve"/>
+      <point x="1647" y="1140" type="line"/>
+      <point x="1633" y="1121"/>
+      <point x="1610" y="1087"/>
+      <point x="1610" y="1020" type="curve" smooth="yes"/>
+      <point x="1610" y="957"/>
+      <point x="1644" y="875"/>
+    </contour>
+    <component base="matraI.te" xOffset="2367"/>
+    <component base="vowelI.te"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>matraI.te</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>vowelI.te</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>vowelI.te</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>telugu</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

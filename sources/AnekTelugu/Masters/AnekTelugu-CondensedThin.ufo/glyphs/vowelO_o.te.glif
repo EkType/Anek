@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vowelOo.te" format="2">
+  <advance width="817"/>
+  <unicode hex="0C13"/>
+  <outline>
+    <contour>
+      <point x="416" y="1358" type="curve"/>
+      <point x="411" y="1400" type="line"/>
+      <point x="390" y="1418"/>
+      <point x="348" y="1437"/>
+      <point x="291" y="1437" type="curve" smooth="yes"/>
+      <point x="194" y="1437"/>
+      <point x="138" y="1386"/>
+      <point x="138" y="1297" type="curve" smooth="yes"/>
+      <point x="138" y="1222"/>
+      <point x="181" y="1176"/>
+      <point x="267" y="1161" type="curve"/>
+      <point x="276" y="1179" type="line"/>
+      <point x="207" y="1195"/>
+      <point x="173" y="1235"/>
+      <point x="173" y="1297" type="curve" smooth="yes"/>
+      <point x="173" y="1365"/>
+      <point x="216" y="1404"/>
+      <point x="291" y="1404" type="curve" smooth="yes"/>
+      <point x="350" y="1404"/>
+      <point x="387" y="1383"/>
+    </contour>
+    <component base="vowelO.te"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>vowelO.te</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>vowelO.te</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>vowelO.te</string>
+    </dict>
+  </lib>
+</glyph>
