@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VaMatraI_Fly.tm" format="2">
+  <advance width="2719.6133333333337"/>
+  <outline>
+    <contour>
+      <point x="2231.1033333333335" y="1132.1466666666668" type="line"/>
+      <point x="2231.1033333333335" y="252.87" type="line"/>
+      <point x="1546.73" y="252.87" type="line"/>
+      <point x="1561.3033333333333" y="0.0" type="line"/>
+      <point x="2554.84" y="0.0" type="line"/>
+      <point x="2554.84" y="1132.1466666666668" type="line"/>
+    </contour>
+    <contour>
+      <point x="2609.7466666666664" y="1635.08" type="line"/>
+      <point x="1977.73" y="1635.08" type="line" smooth="yes"/>
+      <point x="1729.46" y="1635.08"/>
+      <point x="1610.7966666666666" y="1546.5966666666666"/>
+      <point x="1610.7966666666666" y="1346.2366666666667" type="curve" smooth="yes"/>
+      <point x="1610.7966666666666" y="1207.0566666666668"/>
+      <point x="1685.7633333333333" y="1014.8533333333335"/>
+      <point x="1747.73" y="912.5266666666666" type="curve" smooth="yes"/>
+      <point x="1838.7533333333333" y="761.5699999999999"/>
+      <point x="1893.0566666666666" y="721.48"/>
+      <point x="2096.4066666666663" y="721.48" type="curve" smooth="yes"/>
+      <point x="2242.5866666666666" y="721.48" type="line"/>
+      <point x="2242.5866666666666" y="978.7433333333332" type="line"/>
+      <point x="2157.88" y="978.7433333333332" type="line" smooth="yes"/>
+      <point x="2090.9033333333336" y="978.7433333333332"/>
+      <point x="2064.5666666666666" y="992.2600000000001"/>
+      <point x="2033.5333333333333" y="1043.2033333333334" type="curve" smooth="yes"/>
+      <point x="1987.5333333333333" y="1117.6866666666667"/>
+      <point x="1947.0733333333333" y="1218.18"/>
+      <point x="1947.0733333333333" y="1280.4033333333334" type="curve" smooth="yes"/>
+      <point x="1947.0733333333333" y="1348.2666666666667"/>
+      <point x="1986.4766666666667" y="1374.4233333333332"/>
+      <point x="2076.316666666667" y="1374.4233333333332" type="curve" smooth="yes"/>
+      <point x="2649.1966666666663" y="1374.4233333333332" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="15.09"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Va.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>PaMatraI_Fly.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

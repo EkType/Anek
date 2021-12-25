@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NyaMatraU.tm" format="2">
+  <advance width="3024.815"/>
+  <note>
+NyaMatraU.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1420.45" y="1080.0249999999999" type="line"/>
+      <point x="1420.45" y="0.0" type="line"/>
+      <point x="1501.97" y="0.0" type="line"/>
+      <point x="1501.97" y="1080.0249999999999" type="line"/>
+    </contour>
+    <contour>
+      <point x="1885.84" y="696.855" type="curve" smooth="yes"/>
+      <point x="1675.875" y="696.855"/>
+      <point x="1544.175" y="580.035"/>
+      <point x="1504.09" y="425.48" type="curve"/>
+      <point x="1483.995" y="425.48" type="line"/>
+      <point x="1483.995" y="327.375" type="line"/>
+      <point x="1493.3799999999999" y="327.375" type="line"/>
+      <point x="1543.935" y="521.705"/>
+      <point x="1676.6" y="623.1650000000001"/>
+      <point x="1864.23" y="623.1650000000001" type="curve" smooth="yes"/>
+      <point x="2111.355" y="623.1650000000001"/>
+      <point x="2195.7899999999995" y="451.535"/>
+      <point x="2195.7899999999995" y="126.83" type="curve" smooth="yes"/>
+      <point x="2195.7899999999995" y="123.3" type="line" smooth="yes"/>
+      <point x="2195.7899999999995" y="-48.400000000000006"/>
+      <point x="2170.91" y="-232.595"/>
+      <point x="2149.175" y="-315.245" type="curve"/>
+      <point x="2147.1150000000002" y="-325.34" type="line"/>
+      <point x="2074.21" y="-588.365"/>
+      <point x="1812.16" y="-837.995"/>
+      <point x="1169.865" y="-837.995" type="curve" smooth="yes"/>
+      <point x="464.88000000000005" y="-837.995"/>
+      <point x="197.71" y="-579.4"/>
+      <point x="156.3" y="-355.3" type="curve"/>
+      <point x="2786.86" y="-355.3" type="line"/>
+      <point x="2786.86" y="-289.17499999999995" type="line"/>
+      <point x="52.53" y="-289.17499999999995" type="line"/>
+      <point x="88.085" y="-620.53"/>
+      <point x="410.985" y="-908.77"/>
+      <point x="1169.865" y="-908.77" type="curve" smooth="yes"/>
+      <point x="1855.31" y="-908.77"/>
+      <point x="2152.405" y="-639.0350000000001"/>
+      <point x="2232.4900000000002" y="-328.93" type="curve"/>
+      <point x="2234.5499999999997" y="-318.83500000000004" type="line"/>
+      <point x="2255.755" y="-230.86"/>
+      <point x="2279.37" y="-50.28"/>
+      <point x="2279.37" y="125.685" type="curve" smooth="yes"/>
+      <point x="2279.37" y="129.74499999999998" type="line" smooth="yes"/>
+      <point x="2279.37" y="499.23999999999995"/>
+      <point x="2171.25" y="696.855"/>
+    </contour>
+    <contour>
+      <point x="2705.0750000000003" y="1108.975" type="line"/>
+      <point x="2705.0750000000003" y="-355.29999999999995" type="line"/>
+      <point x="2786.86" y="-355.29999999999995" type="line"/>
+      <point x="2786.86" y="1108.975" type="line"/>
+    </contour>
+    <contour>
+      <point x="1212.69" y="1109.24" type="line"/>
+      <point x="1212.69" y="1042.055" type="line"/>
+      <point x="1715.335" y="1042.055" type="line"/>
+      <point x="1715.335" y="1109.24" type="line"/>
+    </contour>
+    <component base="VowelE_NonExporting" xOffset="12.385"/>
+    <component base="RaBeak_Nonexporting" xOffset="1432.935"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>VowelE_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

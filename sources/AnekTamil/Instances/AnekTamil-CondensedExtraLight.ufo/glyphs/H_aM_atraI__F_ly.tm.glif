@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="HaMatraI_Fly.tm" format="2">
+  <advance width="1924.3149999999998"/>
+  <note>
+HaMatraI.tm
+</note>
+  <anchor x="879.4949999999999" y="1237.855" name="top"/>
+  <outline>
+    <contour>
+      <point x="1910.785" y="1480.9950000000001" type="line"/>
+      <point x="1720.945" y="1480.9950000000001" type="line" smooth="yes"/>
+      <point x="1587.405" y="1480.9950000000001"/>
+      <point x="1544.78" y="1427.345"/>
+      <point x="1544.78" y="1336.395" type="curve" smooth="yes"/>
+      <point x="1544.78" y="1298.77"/>
+      <point x="1551.8400000000001" y="1262.9750000000001"/>
+      <point x="1576.2000000000003" y="1170.41" type="curve"/>
+      <point x="1641.2050000000002" y="1170.41" type="line"/>
+      <point x="1622.8200000000002" y="1244.23"/>
+      <point x="1613.1699999999998" y="1287.94"/>
+      <point x="1613.1699999999998" y="1318.7350000000001" type="curve" smooth="yes"/>
+      <point x="1613.1699999999998" y="1380.29"/>
+      <point x="1632.9049999999997" y="1418.845"/>
+      <point x="1731.015" y="1418.845" type="curve" smooth="yes"/>
+      <point x="1921.495" y="1418.845" type="line"/>
+    </contour>
+    <component base="Ha_Simple.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ha.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ha.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>RraMatraI_Fly.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

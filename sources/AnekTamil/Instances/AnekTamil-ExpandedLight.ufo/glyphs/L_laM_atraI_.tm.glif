@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LlaMatraI.tm" format="2">
+  <advance width="3260.5899999999997"/>
+  <note>
+LlaMatraI.tm
+</note>
+  <outline>
+    <contour>
+      <point x="2179.5299999999997" y="1076.05" type="line"/>
+      <point x="2179.5299999999997" y="0.0" type="line"/>
+      <point x="2306.1" y="0.0" type="line"/>
+      <point x="2306.1" y="1076.05" type="line"/>
+    </contour>
+    <contour>
+      <point x="867.2900000000001" y="1137.72" type="curve" smooth="yes"/>
+      <point x="401.92" y="1137.72"/>
+      <point x="164.86" y="907.59"/>
+      <point x="164.86" y="493.77" type="curve" smooth="yes"/>
+      <point x="164.86" y="468.54" type="line" smooth="yes"/>
+      <point x="164.86" y="169.95"/>
+      <point x="310.92" y="-22.59"/>
+      <point x="639.47" y="-22.59" type="curve" smooth="yes"/>
+      <point x="932.61" y="-22.59"/>
+      <point x="1061.49" y="125.83"/>
+      <point x="1061.49" y="341.71999999999997" type="curve" smooth="yes"/>
+      <point x="1061.49" y="345.66" type="line" smooth="yes"/>
+      <point x="1061.49" y="560.78"/>
+      <point x="935.6700000000001" y="680.25"/>
+      <point x="685.09" y="680.25" type="curve" smooth="yes"/>
+      <point x="474.75" y="680.25"/>
+      <point x="333.71000000000004" y="580.67"/>
+      <point x="289.25" y="462.91" type="curve"/>
+      <point x="277.19000000000005" y="462.91" type="line"/>
+      <point x="278.25" y="358.66" type="line"/>
+      <point x="311.54" y="480.27000000000004"/>
+      <point x="447.92" y="582.71"/>
+      <point x="643.9300000000001" y="582.71" type="curve" smooth="yes"/>
+      <point x="844.77" y="582.71"/>
+      <point x="938.16" y="495.79"/>
+      <point x="938.16" y="338.24" type="curve" smooth="yes"/>
+      <point x="938.16" y="334.83000000000004" type="line" smooth="yes"/>
+      <point x="938.16" y="181.34"/>
+      <point x="841.8900000000001" y="77.13000000000001"/>
+      <point x="636.2900000000001" y="77.13000000000001" type="curve" smooth="yes"/>
+      <point x="398.4" y="77.13000000000001"/>
+      <point x="289.72" y="215.79999999999998"/>
+      <point x="289.72" y="422.81" type="curve"/>
+      <point x="290.78000000000003" y="462.91" type="line"/>
+      <point x="285.07000000000005" y="462.91" type="line"/>
+      <point x="285.07000000000005" y="474.55000000000007"/>
+      <point x="285.07000000000005" y="483.78000000000003"/>
+      <point x="285.07000000000005" y="495.41999999999996" type="curve" smooth="yes"/>
+      <point x="287.71999999999997" y="846.9"/>
+      <point x="483.80999999999995" y="1030.64"/>
+      <point x="875.77" y="1030.64" type="curve" smooth="yes"/>
+      <point x="1274.6200000000001" y="1030.64"/>
+      <point x="1427.43" y="843.19"/>
+      <point x="1427.43" y="469.57" type="curve" smooth="yes"/>
+      <point x="1427.43" y="0.0" type="line"/>
+      <point x="1554.0" y="0.0" type="line"/>
+      <point x="1554.0" y="1012.1100000000001" type="line"/>
+      <point x="2285.73" y="1012.1100000000001" type="line"/>
+      <point x="2285.73" y="1113.48" type="line"/>
+      <point x="1461.23" y="1113.48" type="line"/>
+      <point x="1467.6999999999998" y="741.6400000000001" type="line"/>
+      <point x="1463.05" y="741.6400000000001" type="line"/>
+      <point x="1429.51" y="941.81"/>
+      <point x="1280.9699999999998" y="1137.72"/>
+    </contour>
+    <component base="MatraIDflt.tm" xOffset="2112.1400000000003"/>
+    <component base="RaBeak_Nonexporting" xOffset="2011.19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>MatraIDflt.tm</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Lla.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

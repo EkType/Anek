@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="CaMatraI.tm" format="2">
+  <advance width="1861.2066666666667"/>
+  <note>
+CaMatraI.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1010.25" y="505.93" type="line"/>
+      <point x="1344.35" y="505.93" type="line"/>
+      <point x="1315.99" y="737.44" type="line"/>
+      <point x="1010.25" y="737.44" type="line"/>
+    </contour>
+    <contour>
+      <point x="1230.4966666666667" y="1772.6533333333334" type="curve" smooth="yes"/>
+      <point x="910.0" y="1772.6533333333334"/>
+      <point x="739.6166666666667" y="1603.1466666666668"/>
+      <point x="739.6166666666667" y="1348.2133333333334" type="curve" smooth="yes"/>
+      <point x="739.6166666666667" y="1343.91" type="line" smooth="yes"/>
+      <point x="739.6166666666667" y="1274.7533333333333"/>
+      <point x="756.4366666666667" y="1191.9666666666667"/>
+      <point x="782.65" y="1146.6633333333334" type="curve"/>
+      <point x="1052.3966666666668" y="1146.6633333333334" type="line"/>
+      <point x="1032.7566666666667" y="1184.0"/>
+      <point x="1021.6333333333333" y="1239.5166666666667"/>
+      <point x="1021.6333333333333" y="1304.8866666666668" type="curve" smooth="yes"/>
+      <point x="1021.6333333333333" y="1308.8866666666668" type="line" smooth="yes"/>
+      <point x="1021.6333333333333" y="1456.5933333333332"/>
+      <point x="1089.79" y="1528.9633333333334"/>
+      <point x="1226.4066666666668" y="1528.9633333333334" type="curve" smooth="yes"/>
+      <point x="1375.0233333333333" y="1528.9633333333334"/>
+      <point x="1429.8766666666668" y="1452.2"/>
+      <point x="1429.8766666666668" y="1273.5833333333333" type="curve" smooth="yes"/>
+      <point x="1429.8766666666668" y="0.0" type="line"/>
+      <point x="1719.68" y="0.0" type="line"/>
+      <point x="1719.68" y="1259.92" type="line" smooth="yes"/>
+      <point x="1719.68" y="1609.9333333333334"/>
+      <point x="1576.5666666666666" y="1772.6533333333334"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="62.85333333333333"/>
+    <component base="KaBeak_Nonexporting" xOffset="994.4966666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="CaMatraUu_Simple.tm" format="2">
+  <advance width="3104.2"/>
+  <note>
+CaMatraUu.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1863.71" y="573.3900000000001" type="line"/>
+      <point x="2327.06" y="573.3900000000001" type="line"/>
+      <point x="2356.3700000000003" y="575.51" type="line"/>
+      <point x="2848.97" y="575.51" type="line"/>
+      <point x="2832.055" y="639.3100000000001" type="line"/>
+      <point x="1863.71" y="639.3100000000001" type="line"/>
+    </contour>
+    <contour>
+      <point x="2299.75" y="598.93" type="line"/>
+      <point x="2299.75" y="0.0" type="line"/>
+      <point x="2381.535" y="0.0" type="line"/>
+      <point x="2381.535" y="598.93" type="line"/>
+    </contour>
+    <contour>
+      <point x="233.955" y="1109.24" type="line"/>
+      <point x="233.955" y="377.165" type="line"/>
+      <point x="233.955" y="-313.82"/>
+      <point x="741.4" y="-655.53"/>
+      <point x="1740.25" y="-655.53" type="curve" smooth="yes"/>
+      <point x="1746.5149999999999" y="-655.53" type="line" smooth="yes"/>
+      <point x="2601.235" y="-655.53"/>
+      <point x="3036.56" y="-390.18"/>
+      <point x="3036.56" y="41.589999999999996" type="curve" smooth="yes"/>
+      <point x="3036.56" y="46.385000000000005" type="line" smooth="yes"/>
+      <point x="3036.56" y="263.505"/>
+      <point x="2930.355" y="388.24"/>
+      <point x="2715.5000000000005" y="388.24" type="curve" smooth="yes"/>
+      <point x="2539.765" y="388.24"/>
+      <point x="2423.21" y="290.685"/>
+      <point x="2384.125" y="183.42000000000002" type="curve"/>
+      <point x="2364.295" y="183.42000000000002" type="line"/>
+      <point x="2364.295" y="108.23" type="line"/>
+      <point x="2373.68" y="108.23" type="line"/>
+      <point x="2421.5" y="241.32999999999996"/>
+      <point x="2535.4900000000002" y="320.32"/>
+      <point x="2689.7700000000004" y="320.32" type="curve" smooth="yes"/>
+      <point x="2869.195" y="320.32"/>
+      <point x="2953.775" y="220.185"/>
+      <point x="2953.775" y="43.47" type="curve" smooth="yes"/>
+      <point x="2953.775" y="39.20500000000001" type="line" smooth="yes"/>
+      <point x="2953.775" y="-348.86"/>
+      <point x="2554.495" y="-583.695"/>
+      <point x="1746.5149999999999" y="-583.695" type="curve" smooth="yes"/>
+      <point x="1740.25" y="-583.695" type="line" smooth="yes"/>
+      <point x="791.9000000000001" y="-583.695"/>
+      <point x="318.53499999999997" y="-265.175"/>
+      <point x="318.53499999999997" y="377.695" type="curve"/>
+      <point x="318.53499999999997" y="1109.24" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="739.94"/>
+    <component base="KaBeak_Nonexporting" xOffset="1972.635"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>CaMatraUu.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

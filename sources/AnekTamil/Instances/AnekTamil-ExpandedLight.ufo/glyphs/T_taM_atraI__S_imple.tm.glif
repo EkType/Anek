@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TtaMatraI_Simple.tm" format="2">
+  <advance width="2057.42"/>
+  <note>
+TtaMatraI.tm
+</note>
+  <outline>
+    <contour>
+      <point x="555.14" y="100.89999999999999" type="line"/>
+      <point x="351.53999999999996" y="100.89999999999999" type="line"/>
+      <point x="351.53999999999996" y="1098.3100000000002" type="line"/>
+      <point x="223.91" y="1098.3100000000002" type="line"/>
+      <point x="223.91" y="0.0" type="line"/>
+      <point x="555.14" y="0.0" type="line"/>
+    </contour>
+    <component base="Ssa_Above_NonExporting" xOffset="364.71999999999997"/>
+    <component base="Ssa_Below_Simple_NonExporting" xOffset="900.92"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ssa_Above_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Ssa_Below_Simple_NonExporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ssa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

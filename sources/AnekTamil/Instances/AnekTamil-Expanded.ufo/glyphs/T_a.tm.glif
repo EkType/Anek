@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ta.tm" format="2">
+  <advance width="2000.28"/>
+  <unicode hex="0BA4"/>
+  <note>
+Ta.tm
+</note>
+  <anchor x="1156.945" y="1239.655" name="top"/>
+  <outline>
+    <contour>
+      <point x="1183.57" y="534.9100000000001" type="line"/>
+      <point x="1269.485" y="534.9100000000001" type="line" smooth="yes"/>
+      <point x="1587.2" y="534.9100000000001"/>
+      <point x="1721.23" y="435.825"/>
+      <point x="1721.23" y="187.065" type="curve" smooth="yes"/>
+      <point x="1721.23" y="183.065" type="line" smooth="yes"/>
+      <point x="1721.23" y="-152.565"/>
+      <point x="1546.995" y="-268.79"/>
+      <point x="1057.8500000000001" y="-268.79" type="curve" smooth="yes"/>
+      <point x="569.71" y="-268.79" type="line"/>
+      <point x="596.6250000000001" y="-408.55" type="line"/>
+      <point x="1067.7" y="-408.55" type="line" smooth="yes"/>
+      <point x="1675.7549999999999" y="-408.55"/>
+      <point x="1892.1100000000001" y="-246.92499999999998"/>
+      <point x="1892.1100000000001" y="181.49499999999998" type="curve" smooth="yes"/>
+      <point x="1892.1100000000001" y="186.27999999999997" type="line" smooth="yes"/>
+      <point x="1892.1100000000001" y="520.905"/>
+      <point x="1706.8300000000002" y="667.39"/>
+      <point x="1278.84" y="667.39" type="curve" smooth="yes"/>
+      <point x="1183.57" y="667.39" type="line"/>
+    </contour>
+    <component base="Tail_NonExporting" xOffset="-17.035"/>
+    <component base="KaComponent_Nonexporting" xOffset="50.440000000000005"/>
+    <component base="KaBeak_Nonexporting" xOffset="1315.11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Tail_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

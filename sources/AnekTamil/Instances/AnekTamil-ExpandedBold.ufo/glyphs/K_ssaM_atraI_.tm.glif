@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KssaMatraI.tm" format="2">
+  <advance width="4777.71"/>
+  <note>
+KshaMatraI.tm
+</note>
+  <anchor x="2357.1233333333334" y="1223.46" name="top"/>
+  <outline>
+    <contour>
+      <point x="3961.686666666667" y="1787.8766666666668" type="curve" smooth="yes"/>
+      <point x="3561.0666666666666" y="1787.8766666666668"/>
+      <point x="3322.436666666667" y="1596.0333333333335"/>
+      <point x="3322.436666666667" y="1264.9533333333331" type="curve" smooth="yes"/>
+      <point x="3322.436666666667" y="1264.9533333333331" type="line" smooth="yes"/>
+      <point x="3322.436666666667" y="1203.8866666666668"/>
+      <point x="3335.8633333333332" y="1133.0666666666666"/>
+      <point x="3358.3799999999997" y="1092.9433333333334" type="curve"/>
+      <point x="3666.846666666667" y="1092.9433333333334" type="line"/>
+      <point x="3649.4199999999996" y="1124.5833333333333"/>
+      <point x="3638.3866666666668" y="1175.74"/>
+      <point x="3638.3866666666668" y="1225.6266666666668" type="curve" smooth="yes"/>
+      <point x="3638.3866666666668" y="1225.6266666666668" type="line" smooth="yes"/>
+      <point x="3638.3866666666668" y="1421.85"/>
+      <point x="3760.8233333333333" y="1523.1299999999999"/>
+      <point x="3961.6866666666665" y="1523.1299999999999" type="curve" smooth="yes"/>
+      <point x="4194.19" y="1523.1299999999999"/>
+      <point x="4291.8966666666665" y="1412.5466666666666"/>
+      <point x="4291.8966666666665" y="1146.6499999999999" type="curve" smooth="yes"/>
+      <point x="4291.8966666666665" y="0.0" type="line"/>
+      <point x="4615.633333333333" y="0.0" type="line"/>
+      <point x="4615.633333333333" y="1127.8966666666665" type="line" smooth="yes"/>
+      <point x="4615.633333333333" y="1585.9433333333334"/>
+      <point x="4425.576666666667" y="1787.8766666666668"/>
+    </contour>
+    <component base="Kssa.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Kssa.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

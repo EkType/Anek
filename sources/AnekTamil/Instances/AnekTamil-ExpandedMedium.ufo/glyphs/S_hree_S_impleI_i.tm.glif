@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shree_SimpleIi.tm" format="2">
+  <advance width="4722"/>
+  <outline>
+    <contour>
+      <point x="1157" y="1121" type="line"/>
+      <point x="946" y="1121" type="line"/>
+      <point x="946" y="0" type="line"/>
+      <point x="2366" y="0" type="line"/>
+      <point x="2366" y="170" type="line"/>
+      <point x="1157" y="170" type="line"/>
+    </contour>
+    <contour>
+      <point x="3647" y="1068" type="line"/>
+      <point x="3647" y="0" type="line"/>
+      <point x="3853" y="0" type="line"/>
+      <point x="3853" y="1068" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="1121" type="line"/>
+      <point x="195" y="563" type="line"/>
+      <point x="195" y="-350"/>
+      <point x="851" y="-701"/>
+      <point x="2522" y="-701" type="curve" smooth="yes"/>
+      <point x="2585" y="-701" type="line" smooth="yes"/>
+      <point x="3953" y="-701"/>
+      <point x="4611" y="-403"/>
+      <point x="4611" y="228" type="curve" smooth="yes"/>
+      <point x="4611" y="232" type="line" smooth="yes"/>
+      <point x="4611" y="539"/>
+      <point x="4490" y="702"/>
+      <point x="4209" y="702" type="curve" smooth="yes"/>
+      <point x="4011" y="702"/>
+      <point x="3892" y="595"/>
+      <point x="3859" y="449" type="curve"/>
+      <point x="3823" y="449" type="line"/>
+      <point x="3823" y="309" type="line"/>
+      <point x="3839" y="309" type="line"/>
+      <point x="3880" y="447"/>
+      <point x="3986" y="522"/>
+      <point x="4134" y="522" type="curve" smooth="yes"/>
+      <point x="4325" y="522"/>
+      <point x="4400" y="419"/>
+      <point x="4400" y="223" type="curve" smooth="yes"/>
+      <point x="4400" y="219" type="line" smooth="yes"/>
+      <point x="4400" y="-289"/>
+      <point x="3819" y="-529"/>
+      <point x="2587" y="-529" type="curve" smooth="yes"/>
+      <point x="2517" y="-529" type="line" smooth="yes"/>
+      <point x="976" y="-529"/>
+      <point x="407" y="-245"/>
+      <point x="407" y="565" type="curve"/>
+      <point x="407" y="1121" type="line"/>
+    </contour>
+    <contour>
+      <point x="4032" y="1121" type="line"/>
+      <point x="3001" y="1121" type="line"/>
+      <point x="3004" y="886" type="line"/>
+      <point x="2996" y="886" type="line"/>
+      <point x="2970" y="1053"/>
+      <point x="2864" y="1144"/>
+      <point x="2650" y="1144" type="curve" smooth="yes"/>
+      <point x="2379" y="1144"/>
+      <point x="2226" y="1001"/>
+      <point x="2226" y="678" type="curve" smooth="yes"/>
+      <point x="2226" y="0" type="line"/>
+      <point x="2437" y="0" type="line"/>
+      <point x="2437" y="690" type="line" smooth="yes"/>
+      <point x="2437" y="890"/>
+      <point x="2532" y="976"/>
+      <point x="2688" y="976" type="curve" smooth="yes"/>
+      <point x="2855" y="976"/>
+      <point x="2928" y="886"/>
+      <point x="2928" y="664" type="curve" smooth="yes"/>
+      <point x="2928" y="0" type="line"/>
+      <point x="3134" y="0" type="line"/>
+      <point x="3134" y="959" type="line"/>
+      <point x="4032" y="959" type="line"/>
+    </contour>
+    <component base="MatraIiDflt_SimpleIi.tm" xOffset="3529"/>
+    <component base="RaBeak_Nonexporting" xOffset="3770"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>MatraIiDflt_SimpleIi.tm</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>NaMatraIi_Simple_SimpleIi.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

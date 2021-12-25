@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NgaMatraUu.tm" format="2">
+  <advance width="3138"/>
+  <note>
+NgaMatraUu.tm
+</note>
+  <anchor x="1451" y="1236" name="top"/>
+  <outline>
+    <contour>
+      <point x="2241" y="217" type="line"/>
+      <point x="2241" y="-328" type="line"/>
+      <point x="2446" y="-328" type="line"/>
+      <point x="2446" y="217" type="line"/>
+    </contour>
+    <contour>
+      <point x="2770" y="343" type="curve" smooth="yes"/>
+      <point x="2593" y="343"/>
+      <point x="2485" y="238"/>
+      <point x="2454" y="104" type="curve"/>
+      <point x="2418" y="104" type="line"/>
+      <point x="2418" y="-27" type="line"/>
+      <point x="2433" y="-27" type="line"/>
+      <point x="2472" y="100"/>
+      <point x="2563" y="172"/>
+      <point x="2689" y="172" type="curve" smooth="yes"/>
+      <point x="2850" y="172"/>
+      <point x="2912" y="80"/>
+      <point x="2912" y="-86" type="curve" smooth="yes"/>
+      <point x="2912" y="-93" type="line" smooth="yes"/>
+      <point x="2912" y="-561"/>
+      <point x="2492" y="-813"/>
+      <point x="1580" y="-813" type="curve" smooth="yes"/>
+      <point x="846" y="-813"/>
+      <point x="283" y="-650"/>
+      <point x="283" y="-433" type="curve" smooth="yes"/>
+      <point x="283" y="-335"/>
+      <point x="375" y="-299"/>
+      <point x="520" y="-299" type="curve" smooth="yes"/>
+      <point x="787" y="-299"/>
+      <point x="1092" y="-376"/>
+      <point x="1333" y="-474" type="curve"/>
+      <point x="1306" y="-288" type="line"/>
+      <point x="1126" y="-207"/>
+      <point x="819" y="-134"/>
+      <point x="515" y="-134" type="curve" smooth="yes"/>
+      <point x="241" y="-134"/>
+      <point x="78" y="-213"/>
+      <point x="78" y="-419" type="curve" smooth="yes"/>
+      <point x="78" y="-779"/>
+      <point x="691" y="-984"/>
+      <point x="1580" y="-984" type="curve" smooth="yes"/>
+      <point x="2625" y="-984"/>
+      <point x="3119" y="-671"/>
+      <point x="3119" y="-84" type="curve" smooth="yes"/>
+      <point x="3119" y="-75" type="line" smooth="yes"/>
+      <point x="3119" y="193"/>
+      <point x="3017" y="343"/>
+    </contour>
+    <component base="Nga.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Nga.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>PaMatraUu.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

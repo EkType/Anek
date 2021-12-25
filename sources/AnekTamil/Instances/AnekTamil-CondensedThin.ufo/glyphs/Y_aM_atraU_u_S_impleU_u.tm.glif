@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="YaMatraUu_SimpleUu.tm" format="2">
+  <advance width="1176"/>
+  <note>
+YaMatraUu.tm
+</note>
+  <anchor x="451" y="1236" name="top"/>
+  <outline>
+    <contour>
+      <point x="849" y="118" type="line"/>
+      <point x="849" y="-250" type="line"/>
+      <point x="884" y="-250" type="line"/>
+      <point x="884" y="118" type="line"/>
+    </contour>
+    <contour>
+      <point x="1021" y="178" type="curve" smooth="yes"/>
+      <point x="945" y="178"/>
+      <point x="903" y="128"/>
+      <point x="884" y="75" type="curve"/>
+      <point x="873" y="75" type="line"/>
+      <point x="873" y="-26" type="line"/>
+      <point x="879" y="-26" type="line"/>
+      <point x="894" y="72"/>
+      <point x="934" y="145"/>
+      <point x="1019" y="145" type="curve" smooth="yes"/>
+      <point x="1105" y="145"/>
+      <point x="1131" y="85"/>
+      <point x="1131" y="-26" type="curve" smooth="yes"/>
+      <point x="1131" y="-59" type="line" smooth="yes"/>
+      <point x="1131" y="-332"/>
+      <point x="986" y="-456"/>
+      <point x="621" y="-456" type="curve" smooth="yes"/>
+      <point x="308" y="-456"/>
+      <point x="138" y="-365"/>
+      <point x="138" y="-241" type="curve" smooth="yes"/>
+      <point x="138" y="-165"/>
+      <point x="206" y="-139"/>
+      <point x="305" y="-139" type="curve" smooth="yes"/>
+      <point x="410" y="-139"/>
+      <point x="482" y="-161"/>
+      <point x="546" y="-187" type="curve"/>
+      <point x="542" y="-151" type="line"/>
+      <point x="493" y="-131"/>
+      <point x="414" y="-107"/>
+      <point x="303" y="-107" type="curve" smooth="yes"/>
+      <point x="182" y="-107"/>
+      <point x="103" y="-147"/>
+      <point x="103" y="-241" type="curve" smooth="yes"/>
+      <point x="103" y="-385"/>
+      <point x="284" y="-489"/>
+      <point x="621" y="-489" type="curve" smooth="yes"/>
+      <point x="1008" y="-489"/>
+      <point x="1166" y="-351"/>
+      <point x="1166" y="-59" type="curve" smooth="yes"/>
+      <point x="1166" y="-20" type="line" smooth="yes"/>
+      <point x="1166" y="111"/>
+      <point x="1122" y="178"/>
+    </contour>
+    <component base="Ya_dummy.tm" xOffset="-9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ya.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ya.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>PaMatraUu.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

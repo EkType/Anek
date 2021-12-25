@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="JaMatraI_Fused.tm" format="2">
+  <advance width="3037.4333333333334"/>
+  <note>
+JaMatraI.tm
+</note>
+  <anchor x="1381.9666666666665" y="1229.1" name="top"/>
+  <outline>
+    <contour>
+      <point x="2296.3166666666666" y="1785.6833333333332" type="curve" smooth="yes"/>
+      <point x="1940.5333333333335" y="1785.6833333333332"/>
+      <point x="1740.4166666666665" y="1610.5500000000002"/>
+      <point x="1740.4166666666665" y="1331.4333333333334" type="curve" smooth="yes"/>
+      <point x="1740.4166666666665" y="1331.4333333333334" type="line" smooth="yes"/>
+      <point x="1740.4166666666665" y="1247.1666666666667"/>
+      <point x="1762.8166666666666" y="1164.7"/>
+      <point x="1790.2833333333333" y="1115.4666666666667" type="curve"/>
+      <point x="2049.2333333333336" y="1115.4666666666667" type="line"/>
+      <point x="2022.6833333333334" y="1159.4833333333333"/>
+      <point x="2005.2833333333333" y="1222.2666666666667"/>
+      <point x="2005.2833333333333" y="1293.0833333333333" type="curve" smooth="yes"/>
+      <point x="2005.2833333333333" y="1293.0833333333333" type="line" smooth="yes"/>
+      <point x="2005.2833333333333" y="1468.6666666666667"/>
+      <point x="2106.25" y="1563.55"/>
+      <point x="2291.1666666666665" y="1563.55" type="curve" smooth="yes"/>
+      <point x="2508.4666666666667" y="1563.55"/>
+      <point x="2587.9666666666667" y="1456.8999999999999"/>
+      <point x="2587.9666666666667" y="1212.2333333333333" type="curve" smooth="yes"/>
+      <point x="2587.9666666666667" y="0.0" type="line"/>
+      <point x="2858.75" y="0.0" type="line"/>
+      <point x="2858.75" y="1198.25" type="line"/>
+      <point x="2858.75" y="1603.7833333333333"/>
+      <point x="2698.3833333333337" y="1785.6833333333332"/>
+    </contour>
+    <component base="Ja_dummy.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ja_Fused.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ja_Fused.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

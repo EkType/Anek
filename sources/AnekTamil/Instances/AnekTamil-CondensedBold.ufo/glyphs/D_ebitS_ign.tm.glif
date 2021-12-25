@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DebitSign.tm" format="2">
+  <advance width="1429.29"/>
+  <unicode hex="0BF6"/>
+  <note>
+DebitSign.tm
+</note>
+  <anchor x="477.6766666666666" y="1247.18" name="top"/>
+  <outline>
+    <contour>
+      <point x="1331.2233333333334" y="-148.43666666666667" type="line"/>
+      <point x="21.336666666666666" y="-148.43666666666667" type="line"/>
+      <point x="49.39333333333333" y="-368.4633333333333" type="line"/>
+      <point x="1331.2233333333334" y="-368.4633333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="1075.6566666666668" y="1184.1466666666668" type="line"/>
+      <point x="1075.6566666666668" y="-209.94333333333336" type="line"/>
+      <point x="1331.2233333333334" y="-209.94333333333336" type="line"/>
+      <point x="1331.2233333333334" y="1184.1466666666668" type="line"/>
+    </contour>
+    <contour>
+      <point x="609.9000000000001" y="166.38333333333333" type="line"/>
+      <point x="609.9000000000001" y="-209.94333333333333" type="line"/>
+      <point x="864.77" y="-209.94333333333333" type="line"/>
+      <point x="864.77" y="166.38333333333333" type="line"/>
+    </contour>
+    <component base="Pa_dummy.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Pa.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

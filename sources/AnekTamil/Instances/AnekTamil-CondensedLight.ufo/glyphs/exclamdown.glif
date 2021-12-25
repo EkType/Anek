@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="342.51"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="214.64" y="623.46" type="line"/>
+      <point x="127.87" y="623.46" type="line"/>
+      <point x="112.85999999999999" y="-283.76000000000005" type="line"/>
+      <point x="229.65" y="-283.76000000000005" type="line"/>
+    </contour>
+    <contour>
+      <point x="172.08" y="1008.01" type="curve" smooth="yes"/>
+      <point x="126.76" y="1008.01"/>
+      <point x="108.10000000000001" y="976.76"/>
+      <point x="108.10000000000001" y="916.15" type="curve" smooth="yes"/>
+      <point x="108.10000000000001" y="899.62" type="line" smooth="yes"/>
+      <point x="108.10000000000001" y="840.01"/>
+      <point x="126.76" y="808.29"/>
+      <point x="172.08" y="808.29" type="curve" smooth="yes"/>
+      <point x="215.81" y="808.29"/>
+      <point x="236.53" y="840.01"/>
+      <point x="236.53" y="899.62" type="curve" smooth="yes"/>
+      <point x="236.53" y="916.15" type="line" smooth="yes"/>
+      <point x="236.53" y="976.76"/>
+      <point x="215.81" y="1008.01"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>exclam</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>exclam</string>
+    </dict>
+  </lib>
+</glyph>

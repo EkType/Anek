@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MaMatraU_Simple.tm" format="2">
+  <advance width="2905.99"/>
+  <note>
+MaMatraU.tm
+</note>
+  <anchor x="1865.3500000000001" y="1243.99" name="top"/>
+  <outline>
+    <contour>
+      <point x="219.91" y="1113.48" type="line"/>
+      <point x="219.91" y="316.15000000000003" type="line"/>
+      <point x="219.91" y="-267.0"/>
+      <point x="509.39" y="-622.3499999999999"/>
+      <point x="1129.18" y="-622.3499999999999" type="curve" smooth="yes"/>
+      <point x="1137.6499999999999" y="-622.3499999999999" type="line" smooth="yes"/>
+      <point x="1644.55" y="-622.3499999999999"/>
+      <point x="1897.33" y="-395.64"/>
+      <point x="1920.51" y="-0.8099999999999996" type="curve"/>
+      <point x="1924.1000000000001" y="49.31999999999999" type="line"/>
+      <point x="1795.94" y="51.44" type="line"/>
+      <point x="1792.8799999999999" y="4.900000000000002" type="line"/>
+      <point x="1771.2900000000002" y="-329.17"/>
+      <point x="1564.61" y="-513.68"/>
+      <point x="1137.12" y="-513.68" type="curve" smooth="yes"/>
+      <point x="1129.18" y="-513.68" type="line" smooth="yes"/>
+      <point x="592.16" y="-513.68"/>
+      <point x="350.07" y="-197.65"/>
+      <point x="350.07" y="316.68" type="curve"/>
+      <point x="350.07" y="1113.48" type="line"/>
+    </contour>
+    <component base="Ma.tm" xOffset="809.63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ma.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ma.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

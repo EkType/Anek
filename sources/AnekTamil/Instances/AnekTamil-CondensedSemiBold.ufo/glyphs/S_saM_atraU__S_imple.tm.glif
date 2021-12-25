@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SsaMatraU_Simple.tm" format="2">
+  <advance width="2578.883333333333"/>
+  <note>
+SsaMatraU.tm
+</note>
+  <outline>
+    <contour>
+      <point x="951.1666666666666" y="185.55" type="line"/>
+      <point x="951.1666666666666" y="0.0" type="line"/>
+      <point x="1906.0333333333335" y="0.0" type="line"/>
+      <point x="1927.25" y="185.55" type="line"/>
+      <point x="1542.1166666666668" y="185.55" type="line"/>
+      <point x="1506.75" y="153.33333333333331" type="line"/>
+      <point x="1468.0" y="185.55" type="line"/>
+    </contour>
+    <contour>
+      <point x="1507.3666666666666" y="1208.5833333333335" type="curve" smooth="yes"/>
+      <point x="1288.2166666666667" y="1208.5833333333335"/>
+      <point x="1188.8666666666668" y="1075.7833333333333"/>
+      <point x="1188.8666666666668" y="852.2166666666667" type="curve" smooth="yes"/>
+      <point x="1188.8666666666668" y="488.2833333333333" type="line" smooth="yes"/>
+      <point x="1188.8666666666668" y="287.15000000000003"/>
+      <point x="1247.0" y="170.78333333333333"/>
+      <point x="1442.8666666666668" y="93.76666666666667" type="curve"/>
+      <point x="1535.1999999999998" y="144.03333333333333" type="line"/>
+      <point x="1428.0833333333333" y="204.76666666666668"/>
+      <point x="1406.0833333333333" y="280.16666666666663"/>
+      <point x="1406.0833333333333" y="428.80000000000007" type="curve" smooth="yes"/>
+      <point x="1406.0833333333333" y="869.5833333333334" type="line" smooth="yes"/>
+      <point x="1406.0833333333333" y="970.4"/>
+      <point x="1436.1000000000001" y="1015.1166666666667"/>
+      <point x="1507.3666666666666" y="1015.1166666666667" type="curve" smooth="yes"/>
+      <point x="1577.0166666666664" y="1015.1166666666667"/>
+      <point x="1607.0333333333335" y="970.4"/>
+      <point x="1607.0333333333335" y="869.5833333333334" type="curve" smooth="yes"/>
+      <point x="1607.0333333333335" y="428.80000000000007" type="line" smooth="yes"/>
+      <point x="1607.0333333333335" y="280.16666666666663"/>
+      <point x="1583.8" y="204.76666666666668"/>
+      <point x="1477.3" y="144.03333333333333" type="curve"/>
+      <point x="1569.6333333333334" y="93.76666666666667" type="line"/>
+      <point x="1765.5" y="170.78333333333333"/>
+      <point x="1824.25" y="287.15000000000003"/>
+      <point x="1824.25" y="488.2833333333333" type="curve" smooth="yes"/>
+      <point x="1824.25" y="839.7666666666667" type="line" smooth="yes"/>
+      <point x="1824.25" y="947.5333333333333"/>
+      <point x="1807.5500000000002" y="1011.85"/>
+      <point x="1758.9333333333332" y="1061.6833333333334" type="curve"/>
+      <point x="1758.9333333333336" y="1101.2666666666667" type="line"/>
+      <point x="1714.7166666666667" y="1173.0666666666668"/>
+      <point x="1638.1333333333334" y="1208.5833333333335"/>
+    </contour>
+    <contour>
+      <point x="1913.6833333333332" y="1179.1333333333334" type="line"/>
+      <point x="1617.95" y="1179.1333333333334" type="line"/>
+      <point x="1623.5000000000002" y="995.35" type="line"/>
+      <point x="1913.6833333333332" y="995.35" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="2.616666666666667"/>
+    <component base="MatraUDflt_dummy.tm" xOffset="1777.166666666667"/>
+    <component base="Ssa_Below_NonExporting" xOffset="1254.2333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>MatraUDflt.tm</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>Ssa_Below_Simple_NonExporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Va.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraUDflt.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

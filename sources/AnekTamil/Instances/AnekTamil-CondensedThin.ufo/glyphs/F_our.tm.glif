@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Four.tm" format="2">
+  <advance width="821"/>
+  <unicode hex="0BEA"/>
+  <note>
+Four.tm
+</note>
+  <outline>
+    <contour>
+      <point x="492" y="707" type="line"/>
+      <point x="741" y="707" type="line"/>
+      <point x="741" y="738" type="line"/>
+      <point x="492" y="738" type="line"/>
+    </contour>
+    <contour>
+      <point x="730" y="1156" type="line"/>
+      <point x="730" y="707" type="line"/>
+      <point x="763" y="707" type="line"/>
+      <point x="763" y="1156" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="33"/>
+    <component base="KaBeak_Nonexporting" xOffset="460"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal Digit</string>
+    </dict>
+  </lib>
+</glyph>

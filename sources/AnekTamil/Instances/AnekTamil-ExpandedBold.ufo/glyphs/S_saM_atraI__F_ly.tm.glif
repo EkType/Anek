@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SsaMatraI_Fly.tm" format="2">
+  <advance width="3249.18"/>
+  <note>
+SsaMatraI.tm
+</note>
+  <anchor x="1787.9" y="1223.46" name="top"/>
+  <outline>
+    <contour>
+      <point x="3072.08" y="1635.08" type="line"/>
+      <point x="2586.9533333333334" y="1635.08" type="line" smooth="yes"/>
+      <point x="2358.896666666667" y="1635.08"/>
+      <point x="2249.2333333333336" y="1563.7766666666666"/>
+      <point x="2249.2333333333336" y="1404.6866666666667" type="curve" smooth="yes"/>
+      <point x="2249.2333333333336" y="1316.4166666666665"/>
+      <point x="2281.93" y="1235.3266666666666"/>
+      <point x="2361.9866666666667" y="1122.3933333333332" type="curve"/>
+      <point x="2678.453333333333" y="1122.3933333333332" type="line"/>
+      <point x="2620.8133333333335" y="1198.4266666666667"/>
+      <point x="2593.2966666666666" y="1249.3700000000001"/>
+      <point x="2593.2966666666666" y="1293.7399999999998" type="curve" smooth="yes"/>
+      <point x="2593.2966666666666" y="1351.8733333333332"/>
+      <point x="2628.4866666666667" y="1374.4233333333332"/>
+      <point x="2708.596666666667" y="1374.4233333333332" type="curve" smooth="yes"/>
+      <point x="3111.53" y="1374.4233333333332" type="line"/>
+    </contour>
+    <component base="Ssa.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ssa.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Va.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

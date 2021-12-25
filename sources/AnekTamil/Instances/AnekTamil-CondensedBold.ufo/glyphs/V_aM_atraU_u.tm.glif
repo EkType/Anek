@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VaMatraUu.tm" format="2">
+  <advance width="1898.44"/>
+  <note>
+VaMatraUu.tm
+</note>
+  <anchor x="937.4100000000001" y="1247.18" name="top"/>
+  <outline>
+    <contour>
+      <point x="1248.2866666666666" y="358.23" type="line"/>
+      <point x="1248.2866666666666" y="-277.82" type="line"/>
+      <point x="1502.8533333333332" y="-277.82" type="line"/>
+      <point x="1502.8533333333332" y="358.23" type="line"/>
+    </contour>
+    <contour>
+      <point x="1701.3266666666666" y="290.98" type="curve" smooth="yes"/>
+      <point x="1586.6066666666666" y="290.98"/>
+      <point x="1525.9433333333334" y="219.62"/>
+      <point x="1510.3366666666666" y="126.89999999999999" type="curve"/>
+      <point x="1476.5833333333333" y="126.89999999999999" type="line"/>
+      <point x="1476.5833333333333" y="-32.21333333333333" type="line"/>
+      <point x="1492.7633333333333" y="-32.21333333333333" type="line"/>
+      <point x="1499.9766666666667" y="30.369999999999997"/>
+      <point x="1534.4933333333333" y="71.92"/>
+      <point x="1582.256666666667" y="71.92" type="curve" smooth="yes"/>
+      <point x="1637.7166666666667" y="71.92"/>
+      <point x="1654.9299999999998" y="30.673333333333332"/>
+      <point x="1654.9299999999998" y="-62.483333333333334" type="curve" smooth="yes"/>
+      <point x="1654.9299999999998" y="-145.28" type="line" smooth="yes"/>
+      <point x="1654.9299999999998" y="-353.1"/>
+      <point x="1575.9299999999998" y="-446.49333333333334"/>
+      <point x="1392.48" y="-446.49333333333334" type="curve" smooth="yes"/>
+      <point x="1210.03" y="-446.49333333333334"/>
+      <point x="1131.03" y="-353.09999999999997"/>
+      <point x="1131.03" y="-145.28" type="curve"/>
+      <point x="1131.03" y="-68.85333333333332" type="line"/>
+      <point x="875.4633333333335" y="-101.30333333333333" type="line"/>
+      <point x="875.4633333333335" y="-154.76333333333332" type="line" smooth="yes"/>
+      <point x="875.4633333333335" y="-491.86666666666673"/>
+      <point x="1026.5433333333335" y="-671.2166666666667"/>
+      <point x="1392.48" y="-671.2166666666667" type="curve" smooth="yes"/>
+      <point x="1757.7199999999998" y="-671.2166666666667"/>
+      <point x="1910.4966666666664" y="-491.8666666666666"/>
+      <point x="1910.4966666666664" y="-154.76333333333332" type="curve" smooth="yes"/>
+      <point x="1910.4966666666664" y="-22.730000000000004" type="line" smooth="yes"/>
+      <point x="1910.4966666666664" y="187.44"/>
+      <point x="1853.9233333333334" y="290.98"/>
+    </contour>
+    <component base="Va_dummy.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>PaMatraUu.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

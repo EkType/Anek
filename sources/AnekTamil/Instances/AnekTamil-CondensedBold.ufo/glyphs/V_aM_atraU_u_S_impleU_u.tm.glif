@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VaMatraUu_SimpleUu.tm" format="2">
+  <advance width="1901.7433333333333"/>
+  <note>
+VaMatraUu.tm
+</note>
+  <anchor x="937.4099999999999" y="1247.18" name="top"/>
+  <outline>
+    <contour>
+      <point x="1248.2866666666666" y="358.23" type="line"/>
+      <point x="1248.2866666666666" y="-256.7866666666667" type="line"/>
+      <point x="1502.8533333333332" y="-256.7866666666667" type="line"/>
+      <point x="1502.8533333333332" y="358.23" type="line"/>
+    </contour>
+    <contour>
+      <point x="1703.3266666666668" y="290.98" type="curve" smooth="yes"/>
+      <point x="1586.6066666666668" y="290.98"/>
+      <point x="1525.9433333333334" y="219.62"/>
+      <point x="1510.3366666666668" y="126.89999999999999" type="curve"/>
+      <point x="1476.5833333333335" y="126.89999999999999" type="line"/>
+      <point x="1476.5833333333335" y="-32.21333333333334" type="line"/>
+      <point x="1492.7633333333333" y="-32.21333333333334" type="line"/>
+      <point x="1499.9766666666667" y="29.46"/>
+      <point x="1534.1899999999998" y="71.92000000000002"/>
+      <point x="1584.256666666667" y="71.92000000000002" type="curve" smooth="yes"/>
+      <point x="1640.7166666666667" y="71.92000000000002"/>
+      <point x="1658.9299999999998" y="31.583333333333332"/>
+      <point x="1658.9299999999998" y="-60.05666666666667" type="curve" smooth="yes"/>
+      <point x="1658.9299999999998" y="-82.05666666666667" type="line" smooth="yes"/>
+      <point x="1658.9299999999998" y="-396.68666666666667"/>
+      <point x="1397.6466666666668" y="-494.54"/>
+      <point x="958.1066666666667" y="-494.54" type="curve" smooth="yes"/>
+      <point x="593.8366666666666" y="-494.54"/>
+      <point x="295.09333333333336" y="-419.9"/>
+      <point x="295.09333333333336" y="-320.44" type="curve" smooth="yes"/>
+      <point x="295.09333333333336" y="-275.97999999999996"/>
+      <point x="330.8566666666667" y="-258.76666666666665"/>
+      <point x="404.8" y="-258.76666666666665" type="curve" smooth="yes"/>
+      <point x="520.0133333333333" y="-258.76666666666665"/>
+      <point x="657.61" y="-283.76666666666665"/>
+      <point x="785.9033333333333" y="-326.34" type="curve"/>
+      <point x="761.5433333333333" y="-118.97666666666667" type="line"/>
+      <point x="661.1266666666667" y="-86.1"/>
+      <point x="537.89" y="-58.79666666666666"/>
+      <point x="387.53000000000003" y="-58.79666666666666" type="curve" smooth="yes"/>
+      <point x="168.03333333333333" y="-58.79666666666666"/>
+      <point x="46.31333333333334" y="-123.94333333333333"/>
+      <point x="46.31333333333334" y="-290.90000000000003" type="curve" smooth="yes"/>
+      <point x="46.31333333333334" y="-553.5766666666666"/>
+      <point x="413.13666666666666" y="-704.9933333333333"/>
+      <point x="958.1066666666667" y="-704.9933333333333" type="curve" smooth="yes"/>
+      <point x="1601.1899999999998" y="-704.9933333333333"/>
+      <point x="1913.7999999999997" y="-504.2166666666667"/>
+      <point x="1913.7999999999997" y="-75.96666666666667" type="curve" smooth="yes"/>
+      <point x="1913.7999999999997" y="-20.0" type="line" smooth="yes"/>
+      <point x="1913.7999999999997" y="188.35"/>
+      <point x="1856.9233333333334" y="290.98"/>
+    </contour>
+    <component base="Va_dummy.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Va.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>PaMatraUu.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="HaMatraI_Simple.tm" format="2">
+  <advance width="2369.56"/>
+  <note>
+HaMatraI.tm
+</note>
+  <anchor x="927.9900000000001" y="1239.71" name="top"/>
+  <outline>
+    <contour>
+      <point x="1957.9199999999998" y="1659.99" type="curve" smooth="yes"/>
+      <point x="1760.0" y="1659.99"/>
+      <point x="1662.8" y="1540.38"/>
+      <point x="1662.8" y="1331.95" type="curve" smooth="yes"/>
+      <point x="1662.8" y="1305.24" type="line" smooth="yes"/>
+      <point x="1662.8" y="1245.36"/>
+      <point x="1670.3300000000002" y="1201.7700000000002"/>
+      <point x="1696.39" y="1166.3600000000001" type="curve"/>
+      <point x="1797.05" y="1164.24" type="line"/>
+      <point x="1770.5800000000002" y="1199.53"/>
+      <point x="1764.5800000000002" y="1232.41"/>
+      <point x="1764.5800000000002" y="1295.17" type="curve" smooth="yes"/>
+      <point x="1764.5800000000002" y="1316.35" type="line" smooth="yes"/>
+      <point x="1764.5800000000002" y="1482.4"/>
+      <point x="1818.9899999999998" y="1566.04"/>
+      <point x="1957.9199999999998" y="1566.04" type="curve" smooth="yes"/>
+      <point x="2094.38" y="1566.04"/>
+      <point x="2144.2599999999998" y="1483.46"/>
+      <point x="2144.2599999999998" y="1298.7099999999998" type="curve" smooth="yes"/>
+      <point x="2144.2599999999998" y="0.0" type="line"/>
+      <point x="2248.16" y="0.0" type="line"/>
+      <point x="2248.16" y="1304.18" type="line" smooth="yes"/>
+      <point x="2248.16" y="1541.44"/>
+      <point x="2160.73" y="1659.99"/>
+    </contour>
+    <component base="Ha_Simple.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ha_Simple.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ha_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

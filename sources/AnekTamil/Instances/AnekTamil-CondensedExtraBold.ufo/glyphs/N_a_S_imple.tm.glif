@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Na_Simple.tm" format="2">
+  <advance width="1355"/>
+  <note>
+Na.tm
+</note>
+  <anchor x="685" y="1249" name="top"/>
+  <outline>
+    <contour>
+      <point x="537" y="1121" type="line"/>
+      <point x="537" y="0" type="line"/>
+      <point x="832" y="0" type="line"/>
+      <point x="832" y="1121" type="line"/>
+    </contour>
+    <contour>
+      <point x="1049" y="817" type="curve" smooth="yes"/>
+      <point x="924" y="817"/>
+      <point x="856" y="738"/>
+      <point x="842" y="633" type="curve"/>
+      <point x="803" y="633" type="line"/>
+      <point x="803" y="466" type="line"/>
+      <point x="823" y="466" type="line"/>
+      <point x="829" y="526"/>
+      <point x="865" y="567"/>
+      <point x="911" y="567" type="curve" smooth="yes"/>
+      <point x="968" y="567"/>
+      <point x="987" y="528"/>
+      <point x="987" y="427" type="curve" smooth="yes"/>
+      <point x="987" y="197" type="line" smooth="yes"/>
+      <point x="987" y="-50"/>
+      <point x="904" y="-136"/>
+      <point x="692" y="-136" type="curve" smooth="yes"/>
+      <point x="369" y="-136" type="line"/>
+      <point x="400" y="-390" type="line"/>
+      <point x="711" y="-390" type="line" smooth="yes"/>
+      <point x="1143" y="-390"/>
+      <point x="1281" y="-226"/>
+      <point x="1281" y="210" type="curve" smooth="yes"/>
+      <point x="1281" y="473" type="line" smooth="yes"/>
+      <point x="1281" y="701"/>
+      <point x="1219" y="817"/>
+    </contour>
+    <contour>
+      <point x="906" y="1189" type="line"/>
+      <point x="92" y="1189" type="line"/>
+      <point x="92" y="0" type="line"/>
+      <point x="387" y="0" type="line"/>
+      <point x="387" y="935" type="line"/>
+      <point x="906" y="935" type="line"/>
+    </contour>
+    <component base="Tail_NonExporting" xOffset="-37"/>
+    <component base="RaBeak_Nonexporting" xOffset="615"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Na.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

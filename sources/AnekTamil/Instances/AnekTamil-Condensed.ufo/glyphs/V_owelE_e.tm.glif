@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelEe.tm" format="2">
+  <advance width="1035.14"/>
+  <unicode hex="0B8F"/>
+  <note>
+vowelEe.tm
+</note>
+  <outline>
+    <contour>
+      <point x="753.51" y="1134.365" type="line"/>
+      <point x="753.51" y="-101.16" type="line"/>
+      <point x="405.30499999999995" y="-166.01999999999998" type="line"/>
+      <point x="405.30499999999995" y="-280.23" type="line"/>
+      <point x="890.56" y="-202.735" type="line"/>
+      <point x="890.56" y="1134.365" type="line"/>
+    </contour>
+    <contour>
+      <point x="592.24" y="1050.21" type="line"/>
+      <point x="1044.28" y="1050.21" type="line"/>
+      <point x="1034.0" y="1169.345" type="line"/>
+      <point x="592.24" y="1169.345" type="line"/>
+    </contour>
+    <component base="VowelE_NonExporting" xOffset="1.2149999999999992"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>VowelE_NonExporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>VowelE.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ra.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

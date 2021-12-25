@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NaMatraIi_Simple.tm" format="2">
+  <advance width="2004"/>
+  <note>
+NaMatraIi.tm
+</note>
+  <anchor x="1024" y="1236" name="top"/>
+  <outline>
+    <component base="Na_Simple.tm"/>
+    <component base="MatraIiDflt.tm" xOffset="816"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Na_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

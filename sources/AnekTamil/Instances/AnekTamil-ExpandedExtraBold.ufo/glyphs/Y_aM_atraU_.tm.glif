@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="YaMatraU.tm" format="2">
+  <advance width="2558"/>
+  <note>
+YaMatraU.tm
+</note>
+  <anchor x="1039" y="1218" name="top"/>
+  <outline>
+    <contour>
+      <point x="2037" y="183" type="line"/>
+      <point x="2037" y="-424" type="line"/>
+      <point x="2412" y="-424" type="line"/>
+      <point x="2412" y="183" type="line"/>
+    </contour>
+    <component base="Ya.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

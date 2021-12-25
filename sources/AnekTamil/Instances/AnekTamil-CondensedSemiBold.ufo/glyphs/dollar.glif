@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <advance width="659.1833333333333"/>
+  <unicode hex="0024"/>
+  <anchor x="316.7833333333333" y="0.0" name="bottom"/>
+  <anchor x="316.7833333333333" y="1278.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="418.71666666666664" y="1174.7" type="line"/>
+      <point x="418.71666666666664" y="1440.1666666666667" type="line"/>
+      <point x="223.01666666666665" y="1440.1666666666667" type="line"/>
+      <point x="223.01666666666665" y="1174.7" type="line"/>
+    </contour>
+    <contour>
+      <point x="418.71666666666664" y="-171.16666666666666" type="line"/>
+      <point x="418.71666666666664" y="85.56666666666666" type="line"/>
+      <point x="223.01666666666665" y="85.56666666666666" type="line"/>
+      <point x="223.01666666666665" y="-171.16666666666666" type="line"/>
+    </contour>
+    <component base="S"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>S</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>S</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>S</string>
+    </dict>
+  </lib>
+</glyph>

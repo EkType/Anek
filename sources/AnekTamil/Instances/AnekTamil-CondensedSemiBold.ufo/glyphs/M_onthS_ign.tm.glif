@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MonthSign.tm" format="2">
+  <advance width="1242.1166666666666"/>
+  <unicode hex="0BF4"/>
+  <note>
+MonthSign.tm
+</note>
+  <anchor x="632.4833333333333" y="1245.3" name="top"/>
+  <outline>
+    <contour>
+      <point x="1410.0333333333333" y="1935.3" type="curve" smooth="yes"/>
+      <point x="1238.7166666666667" y="1935.3"/>
+      <point x="1154.6000000000001" y="1837.4833333333333"/>
+      <point x="1154.6000000000001" y="1653.7" type="curve" smooth="yes"/>
+      <point x="1154.6000000000001" y="1601.05" type="line"/>
+      <point x="1147.45" y="1601.05" type="line"/>
+      <point x="1127.6166666666666" y="1690.1833333333332"/>
+      <point x="1071.0166666666667" y="1742.3999999999999"/>
+      <point x="963.6666666666667" y="1742.3999999999999" type="curve" smooth="yes"/>
+      <point x="803.65" y="1742.3999999999999"/>
+      <point x="731.6" y="1636.3666666666668"/>
+      <point x="731.6" y="1419.6833333333334" type="curve"/>
+      <point x="731.6" y="1320.4499999999998" type="line" smooth="yes"/>
+      <point x="731.6" y="1244.3666666666666"/>
+      <point x="743.3666666666667" y="1186.2166666666665"/>
+      <point x="787.2833333333333" y="1157.3666666666666" type="curve"/>
+      <point x="991.5166666666668" y="1143.5333333333333" type="line"/>
+      <point x="951.2833333333334" y="1171.2333333333333"/>
+      <point x="940.9000000000001" y="1210.0833333333335"/>
+      <point x="940.9000000000001" y="1285.4833333333333" type="curve" smooth="yes"/>
+      <point x="940.9000000000001" y="1433.6666666666665" type="line"/>
+      <point x="940.9000000000001" y="1513.7666666666667"/>
+      <point x="958.8333333333333" y="1551.7"/>
+      <point x="1011.3166666666667" y="1551.7" type="curve" smooth="yes"/>
+      <point x="1064.0333333333333" y="1551.7"/>
+      <point x="1080.5833333333335" y="1513.5333333333333"/>
+      <point x="1080.5833333333335" y="1428.1166666666668" type="curve" smooth="yes"/>
+      <point x="1080.5833333333335" y="1320.6833333333332" type="line"/>
+      <point x="1293.0333333333333" y="1320.6833333333332" type="line"/>
+      <point x="1293.0333333333333" y="1628.1" type="line" smooth="yes"/>
+      <point x="1293.0333333333333" y="1709.8166666666666"/>
+      <point x="1318.8166666666668" y="1747.9833333333333"/>
+      <point x="1374.0666666666666" y="1747.9833333333333" type="curve" smooth="yes"/>
+      <point x="1428.7" y="1747.9833333333333"/>
+      <point x="1447.8666666666668" y="1709.8166666666666"/>
+      <point x="1447.8666666666668" y="1631.1833333333332" type="curve" smooth="yes"/>
+      <point x="1447.8666666666668" y="1563.7" type="line" smooth="yes"/>
+      <point x="1447.8666666666668" y="1424.45"/>
+      <point x="1429.0166666666669" y="1342.5333333333333"/>
+      <point x="1378.55" y="1254.0666666666668" type="curve"/>
+      <point x="1378.55" y="1240.7666666666667" type="line"/>
+      <point x="1827.8999999999999" y="1240.7666666666667" type="line"/>
+      <point x="1846.1166666666668" y="1415.6333333333334" type="line"/>
+      <point x="1591.2333333333333" y="1415.6333333333334" type="line"/>
+      <point x="1597.6166666666668" y="1323.3166666666668" type="line"/>
+      <point x="1643.7" y="1417.6166666666666"/>
+      <point x="1657.1666666666667" y="1471.4833333333333"/>
+      <point x="1657.1666666666667" y="1596.2833333333335" type="curve" smooth="yes"/>
+      <point x="1657.1666666666667" y="1653.9333333333334" type="line" smooth="yes"/>
+      <point x="1657.1666666666667" y="1838.7166666666667"/>
+      <point x="1585.6499999999999" y="1935.3"/>
+    </contour>
+    <component base="Ma_dummy.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ma.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

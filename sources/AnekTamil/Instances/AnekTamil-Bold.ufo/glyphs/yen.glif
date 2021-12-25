@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen" format="2">
+  <advance width="1176.89"/>
+  <unicode hex="00A5"/>
+  <anchor x="587.99" y="0.0" name="bottom"/>
+  <anchor x="587.99" y="1278.0" name="top"/>
+  <anchor x="22.73" y="1278.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="655.0566666666666" y="512.3133333333333" type="line"/>
+      <point x="1063.25" y="512.3133333333333" type="line"/>
+      <point x="1077.9466666666667" y="688.9666666666667" type="line"/>
+      <point x="701.9" y="688.9666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="118.03333333333333" y="397.54" type="line"/>
+      <point x="102.64" y="221.19" type="line"/>
+      <point x="1063.25" y="221.19" type="line"/>
+      <point x="1077.9466666666667" y="397.54" type="line"/>
+    </contour>
+    <contour>
+      <point x="470.29333333333335" y="688.9666666666667" type="line"/>
+      <point x="118.03333333333333" y="688.9666666666667" type="line"/>
+      <point x="102.64" y="512.3133333333333" type="line"/>
+      <point x="518.8333333333334" y="512.3133333333333" type="line"/>
+    </contour>
+    <component base="Y" xOffset="2.7300000000000004"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

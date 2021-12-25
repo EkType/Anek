@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi" format="2">
+  <advance width="1601"/>
+  <unicode hex="FB01"/>
+  <anchor x="800.5" y="0" name="caret_1"/>
+  <anchor x="485" y="0" name="bottom_1"/>
+  <anchor x="1285" y="0" name="bottom_2"/>
+  <anchor x="1524" y="10" name="ogonek"/>
+  <anchor x="485" y="1291" name="top"/>
+  <outline>
+    <component base="f"/>
+    <component base="i" xOffset="969"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
+</glyph>

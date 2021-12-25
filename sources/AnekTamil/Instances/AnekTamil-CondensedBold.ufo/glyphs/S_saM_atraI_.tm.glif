@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SsaMatraI.tm" format="2">
+  <advance width="2472.206666666667"/>
+  <note>
+SsaMatraI.tm
+</note>
+  <anchor x="1127.22" y="1247.18" name="top"/>
+  <outline>
+    <contour>
+      <point x="1933.8433333333335" y="1756.1266666666668" type="curve" smooth="yes"/>
+      <point x="1640.5933333333332" y="1756.1266666666668"/>
+      <point x="1495.03" y="1587.26"/>
+      <point x="1495.03" y="1329.09" type="curve" smooth="yes"/>
+      <point x="1495.03" y="1296.2133333333331" type="line" smooth="yes"/>
+      <point x="1495.03" y="1256.27"/>
+      <point x="1501.3333333333333" y="1221.0566666666666"/>
+      <point x="1523.2433333333333" y="1198.63" type="curve"/>
+      <point x="1779.1133333333332" y="1165.3933333333334" type="line"/>
+      <point x="1750.8099999999997" y="1189.1233333333332"/>
+      <point x="1742.81" y="1211.55"/>
+      <point x="1742.81" y="1264.9766666666667" type="curve" smooth="yes"/>
+      <point x="1742.81" y="1296.2466666666667" type="line" smooth="yes"/>
+      <point x="1742.81" y="1450.5833333333333"/>
+      <point x="1802.5066666666667" y="1529.7066666666667"/>
+      <point x="1933.8433333333332" y="1529.7066666666667" type="curve" smooth="yes"/>
+      <point x="2065.8766666666666" y="1529.7066666666667"/>
+      <point x="2118.5733333333333" y="1450.5833333333335"/>
+      <point x="2118.5733333333333" y="1292.6066666666666" type="curve" smooth="yes"/>
+      <point x="2118.5733333333333" y="0.0" type="line"/>
+      <point x="2374.14" y="0.0" type="line"/>
+      <point x="2374.14" y="1312.1799999999998" type="line" smooth="yes"/>
+      <point x="2374.14" y="1587.2600000000002"/>
+      <point x="2247.15" y="1756.1266666666668"/>
+    </contour>
+    <component base="Ssa.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ssa.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Va.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

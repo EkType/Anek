@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="1533.6633333333332"/>
+  <unicode hex="00DE"/>
+  <anchor x="767.18" y="0.0" name="bottom"/>
+  <anchor x="767.18" y="1278.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="402.73333333333335" y="188.40333333333334" type="line"/>
+      <point x="894.9766666666667" y="188.40333333333334" type="line" smooth="yes"/>
+      <point x="1284.63" y="188.40333333333334"/>
+      <point x="1463.9566666666667" y="354.5833333333333"/>
+      <point x="1463.9566666666667" y="633.3933333333333" type="curve" smooth="yes"/>
+      <point x="1463.9566666666667" y="647.91" type="line" smooth="yes"/>
+      <point x="1463.9566666666667" y="931.8100000000001"/>
+      <point x="1284.6299999999999" y="1094.5966666666668"/>
+      <point x="894.9766666666667" y="1094.5966666666668" type="curve" smooth="yes"/>
+      <point x="400.91333333333336" y="1094.5966666666668" type="line"/>
+      <point x="400.91333333333336" y="825.4233333333334" type="line"/>
+      <point x="881.0433333333334" y="825.4233333333334" type="line" smooth="yes"/>
+      <point x="1040.0633333333333" y="825.4233333333334"/>
+      <point x="1111.3433333333335" y="765.38"/>
+      <point x="1111.3433333333335" y="648.6066666666667" type="curve" smooth="yes"/>
+      <point x="1111.3433333333335" y="634.3933333333333" type="line" smooth="yes"/>
+      <point x="1111.3433333333335" y="517.6199999999999"/>
+      <point x="1040.0633333333333" y="457.88000000000005"/>
+      <point x="881.0433333333334" y="457.88000000000005" type="curve" smooth="yes"/>
+      <point x="402.73333333333335" y="457.88000000000005" type="line"/>
+    </contour>
+    <contour>
+      <point x="149.47" y="0.0" type="line"/>
+      <point x="494.87" y="0.0" type="line"/>
+      <point x="494.87" y="263.48333333333335" type="line"/>
+      <point x="494.1733333333333" y="373.8" type="line"/>
+      <point x="494.1733333333333" y="894.5366666666666" type="line"/>
+      <point x="494.87" y="1015.4266666666666" type="line"/>
+      <point x="494.87" y="1278.0" type="line"/>
+      <point x="149.47" y="1278.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=P</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LllaMatraIi_Simple.tm" format="2">
+  <advance width="1307.6033333333332"/>
+  <note>
+LllaMatraIi.tm
+</note>
+  <anchor x="664.7566666666667" y="1247.18" name="top"/>
+  <outline>
+    <contour>
+      <point x="539.8666666666667" y="126.8" type="line"/>
+      <point x="539.8666666666667" y="-12.09" type="line" smooth="yes"/>
+      <point x="539.8666666666667" y="-117.49333333333334"/>
+      <point x="525.3499999999999" y="-151.52666666666667"/>
+      <point x="431.7666666666667" y="-151.52666666666667" type="curve" smooth="yes"/>
+      <point x="4.370000000000001" y="-151.52666666666667" type="line"/>
+      <point x="32.42666666666666" y="-368.4633333333333" type="line"/>
+      <point x="444.8566666666667" y="-368.4633333333333" type="line" smooth="yes"/>
+      <point x="588.7" y="-368.4633333333333"/>
+      <point x="641.7900000000001" y="-327.8566666666666"/>
+      <point x="657.97" y="-188.22666666666666" type="curve"/>
+      <point x="665.0600000000001" y="-188.22666666666666" type="line"/>
+      <point x="681.8466666666667" y="-327.8566666666666"/>
+      <point x="732.4533333333333" y="-368.4633333333333"/>
+      <point x="835.5433333333333" y="-368.4633333333333" type="curve" smooth="yes"/>
+      <point x="1087.2766666666666" y="-368.4633333333333" type="line"/>
+      <point x="1113.6366666666668" y="-155.92000000000002" type="line"/>
+      <point x="899.23" y="-155.92000000000002" type="line" smooth="yes"/>
+      <point x="810.7699999999999" y="-155.92000000000002"/>
+      <point x="788.6466666666668" y="-120.19"/>
+      <point x="788.6466666666668" y="-12.09" type="curve" smooth="yes"/>
+      <point x="788.6466666666668" y="126.8" type="line"/>
+    </contour>
+    <component base="MaMatraIi_SimpleIi.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>MaMatraIi.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Llla_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MaMatraIi.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

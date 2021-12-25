@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KssaMatraI_Simple.tm" format="2">
+  <advance width="2353.75"/>
+  <note>
+KshaMatraI.tm
+</note>
+  <anchor x="1157.07" y="1239.71" name="top"/>
+  <outline>
+    <contour>
+      <point x="1933.22" y="1659.99" type="curve" smooth="yes"/>
+      <point x="1727.4699999999998" y="1659.99"/>
+      <point x="1629.27" y="1538.26"/>
+      <point x="1629.27" y="1325.59" type="curve" smooth="yes"/>
+      <point x="1629.27" y="1300.8799999999999" type="line" smooth="yes"/>
+      <point x="1629.27" y="1245.77"/>
+      <point x="1637.2099999999998" y="1205.89"/>
+      <point x="1662.6200000000001" y="1173.66" type="curve"/>
+      <point x="1767.5200000000002" y="1163.0600000000002" type="line"/>
+      <point x="1738.5200000000002" y="1197.29"/>
+      <point x="1730.52" y="1228.58"/>
+      <point x="1730.52" y="1291.34" type="curve" smooth="yes"/>
+      <point x="1730.52" y="1312.11" type="line" smooth="yes"/>
+      <point x="1730.52" y="1479.75"/>
+      <point x="1788.58" y="1566.57"/>
+      <point x="1933.22" y="1566.57" type="curve" smooth="yes"/>
+      <point x="2076.4500000000003" y="1566.57"/>
+      <point x="2128.45" y="1479.75"/>
+      <point x="2128.45" y="1294.47" type="curve" smooth="yes"/>
+      <point x="2128.45" y="0.0" type="line"/>
+      <point x="2232.35" y="0.0" type="line"/>
+      <point x="2232.35" y="1304.71" type="line" smooth="yes"/>
+      <point x="2232.35" y="1538.26"/>
+      <point x="2143.39" y="1659.99"/>
+    </contour>
+    <component base="Kssa_Simple.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Kssa_Simple.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

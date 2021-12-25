@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kssa.tm" format="2">
+  <advance width="4155.266666666667"/>
+  <note>
+Ksha.tm
+</note>
+  <anchor x="2359.316666666666" y="1229.1" name="top"/>
+  <outline>
+    <contour>
+      <point x="1191.6" y="490.25000000000006" type="line"/>
+      <point x="1361.7833333333333" y="490.25000000000006" type="line" smooth="yes"/>
+      <point x="1548.9166666666667" y="490.25000000000006"/>
+      <point x="1607.8666666666668" y="428.4666666666667"/>
+      <point x="1607.8666666666668" y="235.96666666666667" type="curve" smooth="yes"/>
+      <point x="1607.8666666666668" y="0.0" type="line"/>
+      <point x="1878.65" y="0.0" type="line"/>
+      <point x="1878.65" y="276.03333333333336" type="line" smooth="yes"/>
+      <point x="1878.65" y="452.6666666666667"/>
+      <point x="1975.8" y="538.7666666666667"/>
+      <point x="2123.7999999999997" y="538.7666666666667" type="curve" smooth="yes"/>
+      <point x="2276.6499999999996" y="538.7666666666667"/>
+      <point x="2337.616666666667" y="454.58333333333337"/>
+      <point x="2337.616666666667" y="308.76666666666665" type="curve" smooth="yes"/>
+      <point x="2337.616666666667" y="307.53333333333336" type="line" smooth="yes"/>
+      <point x="2337.616666666667" y="169.8"/>
+      <point x="2296.2" y="88.93333333333334"/>
+      <point x="2222.083333333333" y="15.916666666666666" type="curve"/>
+      <point x="2222.083333333333" y="0.0" type="line"/>
+      <point x="2946.1499999999996" y="0.0" type="line"/>
+      <point x="2946.1499999999996" y="207.3" type="line"/>
+      <point x="2419.7166666666667" y="207.3" type="line"/>
+      <point x="2527.366666666667" y="153.95000000000002" type="line"/>
+      <point x="2564.0" y="208.79999999999998"/>
+      <point x="2599.3333333333335" y="294.2833333333333"/>
+      <point x="2599.3333333333335" y="417.18333333333334" type="curve" smooth="yes"/>
+      <point x="2599.3333333333335" y="421.56666666666666" type="line" smooth="yes"/>
+      <point x="2599.3333333333335" y="635.6666666666666"/>
+      <point x="2470.5666666666666" y="761.6"/>
+      <point x="2187.4166666666665" y="761.6" type="curve" smooth="yes"/>
+      <point x="1908.6833333333334" y="761.6"/>
+      <point x="1760.2833333333333" y="635.4333333333333"/>
+      <point x="1760.2833333333333" y="443.15" type="curve" smooth="yes"/>
+      <point x="1760.2833333333333" y="438.2166666666667" type="line"/>
+      <point x="1752.1333333333332" y="438.2166666666667" type="line"/>
+      <point x="1729.15" y="624.3000000000001"/>
+      <point x="1633.0833333333335" y="699.3166666666667"/>
+      <point x="1392.45" y="699.3166666666667" type="curve" smooth="yes"/>
+      <point x="1191.6" y="699.3166666666667" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="40.48333333333333"/>
+    <component base="Ssa_Above_NonExporting" xOffset="2471.1000000000004"/>
+    <component base="Ssa_Below_NonExporting" xOffset="2969.3999999999996"/>
+    <component base="KaBeak_Nonexporting" xOffset="1342.6333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Ssa_Above_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>Ssa_Below_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ssa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

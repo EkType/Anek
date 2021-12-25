@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaMatraI_Simple.tm" format="2">
+  <advance width="1198.3666666666666"/>
+  <note>
+TaMatraI.tm
+</note>
+  <outline>
+    <contour>
+      <point x="663.6833333333334" y="580.1166666666667" type="line"/>
+      <point x="732.9" y="580.1166666666667" type="line" smooth="yes"/>
+      <point x="848.4833333333333" y="580.1166666666667"/>
+      <point x="882.35" y="536.7166666666667"/>
+      <point x="882.35" y="392.05" type="curve" smooth="yes"/>
+      <point x="882.35" y="189.38333333333333" type="line" smooth="yes"/>
+      <point x="882.35" y="-70.5"/>
+      <point x="801.8166666666667" y="-160.66666666666666"/>
+      <point x="572.5500000000001" y="-160.66666666666666" type="curve" smooth="yes"/>
+      <point x="376.73333333333335" y="-160.66666666666666" type="line"/>
+      <point x="400.09999999999997" y="-346.2166666666667" type="line"/>
+      <point x="589.7666666666667" y="-346.2166666666667" type="line" smooth="yes"/>
+      <point x="972.3666666666668" y="-346.2166666666667"/>
+      <point x="1094.0333333333333" y="-199.78333333333333"/>
+      <point x="1094.0333333333333" y="200.45" type="curve" smooth="yes"/>
+      <point x="1094.0333333333333" y="411.8" type="line" smooth="yes"/>
+      <point x="1094.0333333333333" y="658.85"/>
+      <point x="1007.4333333333333" y="761.1333333333334"/>
+      <point x="763.95" y="761.1333333333334" type="curve" smooth="yes"/>
+      <point x="663.6833333333333" y="761.1333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="817.9000000000001" y="1730.4333333333332" type="curve" smooth="yes"/>
+      <point x="585.6" y="1730.4333333333332"/>
+      <point x="480.3333333333333" y="1604.1666666666667"/>
+      <point x="480.3333333333333" y="1361.9166666666667" type="curve"/>
+      <point x="480.3333333333333" y="1309.0833333333333" type="line" smooth="yes"/>
+      <point x="480.3333333333333" y="1250.9166666666667"/>
+      <point x="491.48333333333335" y="1201.5333333333333"/>
+      <point x="522.6333333333334" y="1169.2166666666667" type="curve"/>
+      <point x="721.1" y="1169.2166666666667" type="line"/>
+      <point x="695.6333333333333" y="1202.7666666666667"/>
+      <point x="688.6333333333333" y="1237.2333333333333"/>
+      <point x="688.6333333333333" y="1303.9333333333334" type="curve" smooth="yes"/>
+      <point x="688.6333333333333" y="1355.5333333333333" type="line"/>
+      <point x="688.6333333333333" y="1485.3333333333333"/>
+      <point x="721.5666666666667" y="1542.8833333333334"/>
+      <point x="815.5166666666668" y="1542.8833333333334" type="curve" smooth="yes"/>
+      <point x="906.8500000000001" y="1542.8833333333334"/>
+      <point x="936.7833333333332" y="1485.3333333333335"/>
+      <point x="936.7833333333332" y="1355.5333333333333" type="curve" smooth="yes"/>
+      <point x="936.7833333333332" y="800.9666666666667" type="line"/>
+      <point x="1144.3166666666666" y="800.9666666666667" type="line"/>
+      <point x="1144.3166666666666" y="1348.0833333333333" type="line" smooth="yes"/>
+      <point x="1144.3166666666666" y="1604.1666666666665"/>
+      <point x="1048.9666666666667" y="1730.4333333333332"/>
+    </contour>
+    <component base="Tail_NonExporting" xOffset="21.616666666666667"/>
+    <component base="KaComponent_Nonexporting" xOffset="41.300000000000004"/>
+    <component base="KaBeak_Nonexporting" xOffset="667.3166666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ta_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>TaMatraI.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

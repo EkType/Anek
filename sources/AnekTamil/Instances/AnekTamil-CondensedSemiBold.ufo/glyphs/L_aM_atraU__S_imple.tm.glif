@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LaMatraU_Simple.tm" format="2">
+  <advance width="1938.1166666666666"/>
+  <note>
+LaMatraU.tm
+</note>
+  <anchor x="888.4166666666666" y="1245.3" name="top"/>
+  <outline>
+    <contour>
+      <point x="1618.95" y="1179.1333333333334" type="line"/>
+      <point x="1618.95" y="-221.93333333333337" type="line"/>
+      <point x="1833.7833333333335" y="-221.93333333333337" type="line"/>
+      <point x="1833.7833333333335" y="1179.1333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="643.0833333333334" y="-681.3833333333333" type="curve" smooth="yes"/>
+      <point x="1001.4333333333333" y="-681.3833333333333"/>
+      <point x="1172.85" y="-514.75"/>
+      <point x="1212.4666666666667" y="-276.96666666666664" type="curve"/>
+      <point x="1211.0833333333335" y="-237.76666666666665" type="line"/>
+      <point x="1220.0833333333333" y="-175.01666666666668"/>
+      <point x="1228.7" y="-96.76666666666667"/>
+      <point x="1229.0833333333333" y="15.51666666666667" type="curve"/>
+      <point x="1019.7833333333334" y="15.51666666666667" type="line"/>
+      <point x="1018.0166666666668" y="-79.4"/>
+      <point x="1010.7833333333333" y="-162.56666666666666"/>
+      <point x="1004.5500000000001" y="-211.48333333333335" type="curve"/>
+      <point x="998.0166666666668" y="-267.05" type="line"/>
+      <point x="978.0000000000001" y="-408.75"/>
+      <point x="866.7" y="-510.43333333333334"/>
+      <point x="643.0833333333334" y="-510.43333333333334" type="curve" smooth="yes"/>
+      <point x="419.6166666666667" y="-510.43333333333334"/>
+      <point x="314.0" y="-426.5"/>
+      <point x="288.15000000000003" y="-320.93333333333334" type="curve"/>
+      <point x="1833.7833333333335" y="-320.93333333333334" type="line"/>
+      <point x="1833.7833333333335" y="-148.83333333333331" type="line"/>
+      <point x="50.1" y="-148.83333333333331" type="line"/>
+      <point x="65.11666666666667" y="-500.15000000000003"/>
+      <point x="270.2833333333333" y="-681.3833333333333"/>
+    </contour>
+    <component base="La_dummy.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>La.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

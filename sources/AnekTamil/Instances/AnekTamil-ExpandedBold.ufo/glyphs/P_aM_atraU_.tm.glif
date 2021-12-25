@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="PaMatraU.tm" format="2">
+  <advance width="1939.7433333333333"/>
+  <note>
+PaMatraU.tm
+</note>
+  <anchor x="969.7199999999999" y="1223.46" name="top"/>
+  <outline>
+    <contour>
+      <point x="1453.93" y="177.84333333333333" type="line"/>
+      <point x="1453.93" y="-425.21333333333337" type="line"/>
+      <point x="1777.6666666666667" y="-425.21333333333337" type="line"/>
+      <point x="1777.6666666666667" y="177.84333333333333" type="line"/>
+    </contour>
+    <component base="Pa.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Pa.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

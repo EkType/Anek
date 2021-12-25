@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nya_Simple.tm" format="2">
+  <advance width="1930.5833333333333"/>
+  <note>
+Nya.tm
+</note>
+  <anchor x="980.8000000000001" y="1245.3" name="top"/>
+  <outline>
+    <contour>
+      <point x="1217.4166666666667" y="1126.55" type="line"/>
+      <point x="1217.4166666666667" y="0.0" type="line"/>
+      <point x="1432.25" y="0.0" type="line"/>
+      <point x="1432.25" y="1126.55" type="line"/>
+    </contour>
+    <contour>
+      <point x="1634.45" y="812.6833333333333" type="curve" smooth="yes"/>
+      <point x="1519.3166666666666" y="812.6833333333333"/>
+      <point x="1455.6333333333332" y="741.0833333333334"/>
+      <point x="1438.1666666666667" y="645.3333333333333" type="curve"/>
+      <point x="1408.8" y="645.3333333333333" type="line"/>
+      <point x="1408.8" y="498.06666666666666" type="line"/>
+      <point x="1424.4833333333333" y="491.9" type="line"/>
+      <point x="1432.5666666666666" y="571.0166666666668"/>
+      <point x="1474.5" y="624.35"/>
+      <point x="1537.15" y="624.35" type="curve" smooth="yes"/>
+      <point x="1612.0333333333333" y="624.35"/>
+      <point x="1635.3500000000001" y="570.5500000000001"/>
+      <point x="1635.3500000000001" y="451.05" type="curve" smooth="yes"/>
+      <point x="1635.3500000000001" y="348.2166666666667" type="line" smooth="yes"/>
+      <point x="1635.3500000000001" y="-94.0"/>
+      <point x="1482.1" y="-284.83333333333337"/>
+      <point x="1024.5500000000002" y="-284.83333333333337" type="curve" smooth="yes"/>
+      <point x="1016.6333333333334" y="-284.83333333333337" type="line" smooth="yes"/>
+      <point x="501.34999999999997" y="-284.83333333333337"/>
+      <point x="313.78333333333336" y="-63.78333333333333"/>
+      <point x="313.78333333333336" y="434.46666666666664" type="curve" smooth="yes"/>
+      <point x="313.78333333333336" y="788.7833333333333"/>
+      <point x="316.16666666666663" y="965.4333333333333"/>
+      <point x="318.93333333333334" y="1179.1333333333334" type="curve"/>
+      <point x="104.48333333333332" y="1179.1333333333334" type="line"/>
+      <point x="101.71666666666665" y="991.8"/>
+      <point x="98.95" y="805.85"/>
+      <point x="98.95" y="425.93333333333334" type="curve" smooth="yes"/>
+      <point x="98.95" y="-187.29999999999998"/>
+      <point x="374.8333333333333" y="-478.91666666666663"/>
+      <point x="1016.6333333333334" y="-478.91666666666663" type="curve" smooth="yes"/>
+      <point x="1024.5500000000002" y="-478.91666666666663" type="line" smooth="yes"/>
+      <point x="1616.0" y="-478.91666666666663"/>
+      <point x="1849.8" y="-218.28333333333336"/>
+      <point x="1849.8" y="339.68333333333334" type="curve" smooth="yes"/>
+      <point x="1849.8" y="486.73333333333335" type="line" smooth="yes"/>
+      <point x="1849.8" y="702.7"/>
+      <point x="1791.2666666666669" y="812.6833333333333"/>
+    </contour>
+    <contour>
+      <point x="1528.1999999999998" y="1179.1333333333334" type="line"/>
+      <point x="1047.1333333333332" y="1179.1333333333334" type="line"/>
+      <point x="1047.1333333333332" y="993.5833333333334" type="line"/>
+      <point x="1528.1999999999998" y="993.5833333333334" type="line"/>
+    </contour>
+    <component base="VowelE_NonExporting" xOffset="416.21666666666664"/>
+    <component base="RaBeak_Nonexporting" xOffset="1280.2333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>VowelE_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Nya.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

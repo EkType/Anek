@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LllaMatraIi_Simple.tm" format="2">
+  <advance width="1162"/>
+  <note>
+LllaMatraIi.tm
+</note>
+  <anchor x="593" y="1243" name="top"/>
+  <outline>
+    <contour>
+      <point x="512" y="85" type="line"/>
+      <point x="512" y="-10" type="line" smooth="yes"/>
+      <point x="512" y="-137"/>
+      <point x="494" y="-178"/>
+      <point x="383" y="-178" type="curve" smooth="yes"/>
+      <point x="19" y="-178" type="line"/>
+      <point x="38" y="-319" type="line"/>
+      <point x="394" y="-319" type="line" smooth="yes"/>
+      <point x="526" y="-319"/>
+      <point x="577" y="-277"/>
+      <point x="589" y="-152" type="curve"/>
+      <point x="594" y="-152" type="line"/>
+      <point x="608" y="-277"/>
+      <point x="660" y="-319"/>
+      <point x="761" y="-319" type="curve" smooth="yes"/>
+      <point x="957" y="-319" type="line"/>
+      <point x="975" y="-181" type="line"/>
+      <point x="801" y="-181" type="line" smooth="yes"/>
+      <point x="700" y="-181"/>
+      <point x="673" y="-139"/>
+      <point x="673" y="-10" type="curve" smooth="yes"/>
+      <point x="673" y="85" type="line"/>
+    </contour>
+    <component base="MaMatraIi_SimpleIi.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>MaMatraIi.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Llla_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MaMatraIi.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

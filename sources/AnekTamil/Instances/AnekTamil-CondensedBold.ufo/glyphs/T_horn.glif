@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="827.7466666666666"/>
+  <unicode hex="00DE"/>
+  <anchor x="414.6766666666666" y="0.0" name="bottom"/>
+  <anchor x="414.6766666666666" y="1278.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="248.37333333333333" y="187.79666666666665" type="line"/>
+      <point x="421.15999999999997" y="187.79666666666665" type="line" smooth="yes"/>
+      <point x="675.3533333333334" y="187.79666666666665"/>
+      <point x="784.2866666666666" y="309.06666666666666"/>
+      <point x="784.2866666666666" y="565.2933333333333" type="curve" smooth="yes"/>
+      <point x="784.2866666666666" y="726.8866666666667" type="line" smooth="yes"/>
+      <point x="784.2866666666666" y="973.3266666666667"/>
+      <point x="675.3533333333332" y="1104.4733333333334"/>
+      <point x="418.07000000000005" y="1104.4733333333334" type="curve" smooth="yes"/>
+      <point x="249.28333333333333" y="1104.4733333333334" type="line"/>
+      <point x="249.28333333333333" y="872.0533333333334" type="line"/>
+      <point x="408.28333333333336" y="872.0533333333334" type="line" smooth="yes"/>
+      <point x="488.17" y="872.0533333333334"/>
+      <point x="513.9333333333334" y="827.8633333333333"/>
+      <point x="513.9333333333334" y="722.8866666666667" type="curve" smooth="yes"/>
+      <point x="513.9333333333334" y="568.99" type="line" smooth="yes"/>
+      <point x="513.9333333333334" y="463.71"/>
+      <point x="488.17" y="420.2166666666667"/>
+      <point x="407.98" y="420.2166666666667" type="curve" smooth="yes"/>
+      <point x="248.37333333333333" y="420.2166666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="81.28" y="0.0" type="line"/>
+      <point x="352.0266666666667" y="0.0" type="line"/>
+      <point x="352.0266666666667" y="260.7866666666667" type="line"/>
+      <point x="350.33" y="331.8666666666667" type="line"/>
+      <point x="350.33" y="950.1333333333333" type="line"/>
+      <point x="352.0266666666667" y="1072.72" type="line"/>
+      <point x="352.0266666666667" y="1278.0" type="line"/>
+      <point x="81.28" y="1278.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=P</string>
+    </dict>
+  </lib>
+</glyph>

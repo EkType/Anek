@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="HaMatraI_Fly.tm" format="2">
+  <advance width="2338.8333333333335"/>
+  <note>
+HaMatraI.tm
+</note>
+  <anchor x="1083.7666666666667" y="1245.3" name="top"/>
+  <outline>
+    <contour>
+      <point x="2323.45" y="1573.8166666666666" type="line"/>
+      <point x="2070.6" y="1573.8166666666666" type="line" smooth="yes"/>
+      <point x="1896.8" y="1573.8166666666666"/>
+      <point x="1826.216666666667" y="1508.6000000000001"/>
+      <point x="1826.216666666667" y="1384.4833333333333" type="curve" smooth="yes"/>
+      <point x="1826.216666666667" y="1318.5166666666667"/>
+      <point x="1838.1333333333334" y="1279.75"/>
+      <point x="1888.95" y="1163.3166666666668" type="curve"/>
+      <point x="2085.1833333333334" y="1163.3166666666668" type="line"/>
+      <point x="2056.35" y="1223.7166666666667"/>
+      <point x="2035.5166666666664" y="1283.0833333333333"/>
+      <point x="2035.5166666666664" y="1317.6166666666668" type="curve" smooth="yes"/>
+      <point x="2035.5166666666664" y="1364.6333333333332"/>
+      <point x="2054.133333333333" y="1388.2666666666667"/>
+      <point x="2123.55" y="1388.2666666666667" type="curve" smooth="yes"/>
+      <point x="2349.4333333333334" y="1388.2666666666667" type="line"/>
+    </contour>
+    <component base="Ha_Simple.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ha.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ha.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>RraMatraI_Fly.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

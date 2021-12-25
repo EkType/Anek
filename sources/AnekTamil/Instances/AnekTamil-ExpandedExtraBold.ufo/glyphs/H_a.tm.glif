@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ha.tm" format="2">
+  <advance width="3916"/>
+  <unicode hex="0BB9"/>
+  <note>
+Ha.tm
+</note>
+  <guideline x="4225" y="1341" angle="90"/>
+  <anchor x="1797" y="1218" name="top"/>
+  <outline>
+    <contour>
+      <point x="1756" y="292" type="line"/>
+      <point x="1756" y="0" type="line"/>
+      <point x="2160" y="0" type="line"/>
+      <point x="2160" y="292" type="line"/>
+    </contour>
+    <contour>
+      <point x="2424" y="-139" type="line"/>
+      <point x="568" y="-139" type="line"/>
+      <point x="620" y="-444" type="line"/>
+      <point x="2424" y="-444" type="line"/>
+    </contour>
+    <component base="Va_NonExporting"/>
+    <component base="Rra_Simple.tm" xOffset="1823"/>
+    <component base="Tail_NonExporting" xOffset="-55"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Rra.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

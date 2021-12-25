@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LaMatraU_Simple.tm" format="2">
+  <advance width="1570.1850000000002"/>
+  <note>
+LaMatraU.tm
+</note>
+  <anchor x="715.075" y="1237.855" name="top"/>
+  <outline>
+    <contour>
+      <point x="1374.035" y="1160.505" type="line"/>
+      <point x="1374.035" y="-230.14499999999998" type="line"/>
+      <point x="1443.4850000000001" y="-230.14499999999998" type="line"/>
+      <point x="1443.4850000000001" y="1160.505" type="line"/>
+    </contour>
+    <contour>
+      <point x="514.475" y="-545.3299999999999" type="curve" smooth="yes"/>
+      <point x="775.5300000000001" y="-545.3299999999999"/>
+      <point x="907.07" y="-430.875"/>
+      <point x="947.8050000000001" y="-247.89000000000001" type="curve"/>
+      <point x="948.2749999999999" y="-235.53000000000003" type="line"/>
+      <point x="956.5399999999998" y="-188.82"/>
+      <point x="966.275" y="-94.53"/>
+      <point x="966.275" y="-4.229999999999999" type="curve"/>
+      <point x="897.8850000000001" y="-4.229999999999999" type="line"/>
+      <point x="897.6200000000001" y="-92.82"/>
+      <point x="888.1500000000001" y="-187.17000000000002"/>
+      <point x="879.6800000000001" y="-229.76000000000002" type="curve"/>
+      <point x="878.355" y="-243.565" type="line"/>
+      <point x="843.8000000000001" y="-391.24"/>
+      <point x="738.4749999999999" y="-485.83"/>
+      <point x="514.475" y="-485.83" type="curve" smooth="yes"/>
+      <point x="286.535" y="-485.83"/>
+      <point x="179.065" y="-392.215"/>
+      <point x="149.85999999999999" y="-262.045" type="curve"/>
+      <point x="1443.4850000000001" y="-262.045" type="line"/>
+      <point x="1443.4850000000001" y="-204.015" type="line"/>
+      <point x="69.495" y="-204.015" type="line"/>
+      <point x="99.05" y="-429.69500000000005"/>
+      <point x="249.03499999999997" y="-545.3299999999999"/>
+    </contour>
+    <component base="La_dummy.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>La.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>
