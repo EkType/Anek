@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="RaMatraU_Simple.tm" format="2">
+  <advance width="2470.0"/>
+  <note>
+RaMatraU.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1398.5" y="1071.0" type="line"/>
+      <point x="1398.5" y="0.0" type="line"/>
+      <point x="1753.5" y="0.0" type="line"/>
+      <point x="1753.5" y="1071.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2054.5" y="741.5" type="curve" smooth="yes"/>
+      <point x="1881.0" y="741.5"/>
+      <point x="1784.0" y="650.5"/>
+      <point x="1763.5" y="524.5" type="curve"/>
+      <point x="1713.0" y="524.5" type="line"/>
+      <point x="1713.0" y="350.5" type="line"/>
+      <point x="1736.0" y="350.5" type="line"/>
+      <point x="1758.0" y="409.0"/>
+      <point x="1816.0" y="449.5"/>
+      <point x="1893.5" y="449.5" type="curve" smooth="yes"/>
+      <point x="1994.5" y="449.5"/>
+      <point x="2036.0" y="389.5"/>
+      <point x="2036.0" y="262.0" type="curve" smooth="yes"/>
+      <point x="2036.0" y="230.5" type="line" smooth="yes"/>
+      <point x="2036.0" y="-94.0"/>
+      <point x="1848.0" y="-264.5"/>
+      <point x="1335.0" y="-264.5" type="curve" smooth="yes"/>
+      <point x="1329.0" y="-264.5" type="line" smooth="yes"/>
+      <point x="719.5" y="-264.5"/>
+      <point x="479.0" y="-46.0"/>
+      <point x="479.0" y="451.0" type="curve"/>
+      <point x="479.0" y="1150.0" type="line"/>
+      <point x="119.0" y="1150.0" type="line"/>
+      <point x="119.0" y="454.5" type="line"/>
+      <point x="119.0" y="-249.5"/>
+      <point x="506.0" y="-565.5"/>
+      <point x="1329.5" y="-565.5" type="curve" smooth="yes"/>
+      <point x="1336.0" y="-565.5" type="line" smooth="yes"/>
+      <point x="2067.0" y="-565.5"/>
+      <point x="2396.0" y="-286.0"/>
+      <point x="2396.0" y="242.5" type="curve" smooth="yes"/>
+      <point x="2396.0" y="286.0" type="line" smooth="yes"/>
+      <point x="2396.0" y="585.0"/>
+      <point x="2293.5" y="741.5"/>
+    </contour>
+    <contour>
+      <point x="1809.5" y="1150.0" type="line"/>
+      <point x="772.5" y="1150.0" type="line"/>
+      <point x="772.5" y="0.0" type="line"/>
+      <point x="1126.5" y="0.0" type="line"/>
+      <point x="1126.5" y="867.5" type="line"/>
+      <point x="1809.5" y="867.5" type="line"/>
+    </contour>
+    <component base="RaBeak_Nonexporting" xOffset="1620.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>RaMatraU.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

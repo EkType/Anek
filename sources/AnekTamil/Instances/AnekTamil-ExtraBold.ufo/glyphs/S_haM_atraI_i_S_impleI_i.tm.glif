@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ShaMatraIi_SimpleIi.tm" format="2">
+  <advance width="2251"/>
+  <note>
+ShaMatraIi.tm
+</note>
+  <anchor x="1128" y="1234" name="top"/>
+  <outline>
+    <contour>
+      <point x="2165" y="1890" type="curve" smooth="yes"/>
+      <point x="1861" y="1890"/>
+      <point x="1746" y="1739"/>
+      <point x="1746" y="1487" type="curve" smooth="yes"/>
+      <point x="1746" y="1412" type="line" smooth="yes"/>
+      <point x="1746" y="1297"/>
+      <point x="1771" y="1212"/>
+      <point x="1815" y="1163" type="curve"/>
+      <point x="2125" y="1163" type="line"/>
+      <point x="2082" y="1217"/>
+      <point x="2056" y="1291"/>
+      <point x="2056" y="1387" type="curve" smooth="yes"/>
+      <point x="2056" y="1451" type="line"/>
+      <point x="2056" y="1531" type="line" smooth="yes"/>
+      <point x="2056" y="1614"/>
+      <point x="2086" y="1651"/>
+      <point x="2158" y="1651" type="curve" smooth="yes"/>
+      <point x="2220" y="1651"/>
+      <point x="2247" y="1618"/>
+      <point x="2247" y="1561" type="curve" smooth="yes"/>
+      <point x="2247" y="1536" type="line" smooth="yes"/>
+      <point x="2247" y="1478"/>
+      <point x="2225" y="1448"/>
+      <point x="2163" y="1448" type="curve" smooth="yes"/>
+      <point x="2109" y="1448"/>
+      <point x="2077" y="1463"/>
+      <point x="2052" y="1482" type="curve"/>
+      <point x="2046" y="1482" type="line"/>
+      <point x="2051" y="1414" type="line"/>
+      <point x="2067" y="1414" type="line"/>
+      <point x="2129" y="1267" type="line"/>
+      <point x="2168" y="1248"/>
+      <point x="2224" y="1236"/>
+      <point x="2289" y="1236" type="curve" smooth="yes"/>
+      <point x="2467" y="1236"/>
+      <point x="2552" y="1332"/>
+      <point x="2552" y="1530" type="curve" smooth="yes"/>
+      <point x="2552" y="1547" type="line" smooth="yes"/>
+      <point x="2552" y="1762"/>
+      <point x="2439" y="1890"/>
+    </contour>
+    <component base="Sha.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Sha.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Sha.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

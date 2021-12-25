@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TtaPulli_Half.tm" format="2">
+  <advance width="1467.2"/>
+  <note>
+TtaPulli.tm
+</note>
+  <outline>
+    <contour>
+      <point x="398.7" y="1153.1333333333334" type="line"/>
+      <point x="153.43333333333334" y="1153.1333333333334" type="line"/>
+      <point x="153.43333333333334" y="0.0" type="line"/>
+      <point x="1438.75" y="0.0" type="line"/>
+      <point x="1464.7333333333333" y="201.0" type="line"/>
+      <point x="398.7" y="201.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="611.85" y="474.3666666666667" type="line"/>
+      <point x="651.05" y="474.3666666666667" type="line" smooth="yes"/>
+      <point x="804.2666666666667" y="474.3666666666667"/>
+      <point x="858.6166666666667" y="529.95"/>
+      <point x="858.6166666666667" y="648.65" type="curve" smooth="yes"/>
+      <point x="858.6166666666667" y="666.5833333333334" type="line" smooth="yes"/>
+      <point x="858.6166666666667" y="783.9"/>
+      <point x="803.65" y="838.8666666666667"/>
+      <point x="651.05" y="838.8666666666667" type="curve" smooth="yes"/>
+      <point x="611.85" y="838.8666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Tta.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

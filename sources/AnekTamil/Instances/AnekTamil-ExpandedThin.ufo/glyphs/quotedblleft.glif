@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft" format="2">
+  <advance width="734"/>
+  <unicode hex="201C"/>
+  <outline>
+    <contour>
+      <point x="145" y="818" type="curve"/>
+      <point x="182" y="818" type="line"/>
+      <point x="177" y="856"/>
+      <point x="173" y="895"/>
+      <point x="173" y="940" type="curve" smooth="yes"/>
+      <point x="173" y="1085"/>
+      <point x="205" y="1199"/>
+      <point x="300" y="1313" type="curve"/>
+      <point x="276" y="1335" type="line"/>
+      <point x="171" y="1215"/>
+      <point x="136" y="1091"/>
+      <point x="136" y="938" type="curve" smooth="yes"/>
+      <point x="136" y="886"/>
+      <point x="141" y="842"/>
+    </contour>
+    <contour>
+      <point x="495" y="818" type="curve"/>
+      <point x="532" y="818" type="line"/>
+      <point x="527" y="856"/>
+      <point x="523" y="895"/>
+      <point x="523" y="940" type="curve" smooth="yes"/>
+      <point x="523" y="1085"/>
+      <point x="555" y="1199"/>
+      <point x="650" y="1313" type="curve"/>
+      <point x="626" y="1335" type="line"/>
+      <point x="521" y="1215"/>
+      <point x="486" y="1091"/>
+      <point x="486" y="938" type="curve" smooth="yes"/>
+      <point x="486" y="886"/>
+      <point x="491" y="842"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quoteleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quoteleft</string>
+    </dict>
+  </lib>
+</glyph>

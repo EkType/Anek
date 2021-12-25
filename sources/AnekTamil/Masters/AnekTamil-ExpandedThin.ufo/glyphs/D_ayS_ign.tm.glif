@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DaySign.tm" format="2">
+  <advance width="2369"/>
+  <unicode hex="0BF3"/>
+  <note>
+DaySign.tm
+</note>
+  <guideline x="1583" y="547" angle="0"/>
+  <outline>
+    <contour>
+      <point x="1344" y="0" type="line"/>
+      <point x="2337" y="0" type="line"/>
+      <point x="2337" y="33" type="line"/>
+      <point x="1344" y="33" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Va.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Tta.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

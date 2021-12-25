@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="540.3183333333334"/>
+  <unicode hex="003B"/>
+  <outline>
+    <component base="comma" xOffset="17.545"/>
+    <component base="period" xOffset="6.668333333333333" yOffset="624.9683333333332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>comma</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

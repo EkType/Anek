@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelIi.tm" format="2">
+  <advance width="1320.51"/>
+  <unicode hex="0B88"/>
+  <note>
+vowelIi.tm
+</note>
+  <outline>
+    <contour>
+      <point x="845.65" y="0.0" type="line"/>
+      <point x="921.4" y="0.0" type="line"/>
+      <point x="921.4" y="1106.085" type="line"/>
+      <point x="845.65" y="1106.085" type="line"/>
+    </contour>
+    <contour>
+      <point x="558.165" y="491.5" type="curve" smooth="yes"/>
+      <point x="603.825" y="491.5"/>
+      <point x="623.27" y="519.065"/>
+      <point x="623.27" y="575.52" type="curve" smooth="yes"/>
+      <point x="623.27" y="605.665" type="line" smooth="yes"/>
+      <point x="623.27" y="660.12"/>
+      <point x="600.825" y="686.95"/>
+      <point x="558.165" y="686.95" type="curve" smooth="yes"/>
+      <point x="516.035" y="686.95"/>
+      <point x="494.325" y="660.12"/>
+      <point x="494.325" y="605.665" type="curve" smooth="yes"/>
+      <point x="494.325" y="575.52" type="line" smooth="yes"/>
+      <point x="494.325" y="519.065"/>
+      <point x="514.035" y="491.5"/>
+    </contour>
+    <contour>
+      <point x="1183.33" y="491.5" type="curve" smooth="yes"/>
+      <point x="1227.725" y="491.5"/>
+      <point x="1247.435" y="519.065"/>
+      <point x="1247.435" y="575.52" type="curve" smooth="yes"/>
+      <point x="1247.435" y="605.665" type="line" smooth="yes"/>
+      <point x="1247.435" y="660.12"/>
+      <point x="1226.46" y="686.95"/>
+      <point x="1183.33" y="686.95" type="curve" smooth="yes"/>
+      <point x="1139.935" y="686.95"/>
+      <point x="1118.49" y="660.12"/>
+      <point x="1118.49" y="605.665" type="curve" smooth="yes"/>
+      <point x="1118.49" y="575.52" type="line" smooth="yes"/>
+      <point x="1118.49" y="519.065"/>
+      <point x="1138.2" y="491.5"/>
+    </contour>
+    <contour>
+      <point x="948.135" y="1135.24" type="line"/>
+      <point x="195.195" y="1135.24" type="line"/>
+      <point x="195.195" y="0.0" type="line"/>
+      <point x="270.945" y="0.0" type="line"/>
+      <point x="270.945" y="1070.44" type="line"/>
+      <point x="948.135" y="1070.44" type="line"/>
+    </contour>
+    <component base="RaBeak_Nonexporting" xOffset="733.44"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

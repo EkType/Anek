@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NgaMatraI_Fly.tm" format="2">
+  <advance width="2114.16"/>
+  <outline>
+    <contour>
+      <point x="760.385" y="1140.625" type="line"/>
+      <point x="760.385" y="0.0" type="line"/>
+      <point x="914.135" y="0.0" type="line"/>
+      <point x="914.135" y="1140.625" type="line"/>
+    </contour>
+    <contour>
+      <point x="1784.455" y="1143.56" type="line"/>
+      <point x="1784.455" y="0.0" type="line"/>
+      <point x="1938.205" y="0.0" type="line"/>
+      <point x="1938.205" y="1143.56" type="line"/>
+    </contour>
+    <contour>
+      <point x="1126.925" y="1143.56" type="line"/>
+      <point x="175.955" y="1143.56" type="line"/>
+      <point x="175.955" y="0.0" type="line"/>
+      <point x="329.705" y="0.0" type="line"/>
+      <point x="329.705" y="1016.36" type="line"/>
+      <point x="1126.925" y="1016.36" type="line"/>
+    </contour>
+    <contour>
+      <point x="2038.105" y="1564.1" type="line"/>
+      <point x="1646.55" y="1564.1" type="line" smooth="yes"/>
+      <point x="1444.785" y="1564.1"/>
+      <point x="1359.085" y="1490.11"/>
+      <point x="1359.085" y="1337.99" type="curve" smooth="yes"/>
+      <point x="1359.085" y="1228.71"/>
+      <point x="1412.44" y="1075.795"/>
+      <point x="1448.365" y="1002.945" type="curve" smooth="yes"/>
+      <point x="1501.28" y="888.47"/>
+      <point x="1547.775" y="856.975"/>
+      <point x="1686.885" y="856.975" type="curve" smooth="yes"/>
+      <point x="1788.595" y="856.975" type="line"/>
+      <point x="1788.595" y="983.96" type="line"/>
+      <point x="1711.005" y="983.96" type="line" smooth="yes"/>
+      <point x="1638.78" y="983.96"/>
+      <point x="1611.49" y="999.035"/>
+      <point x="1584.77" y="1062.69" type="curve" smooth="yes"/>
+      <point x="1556.555" y="1121.905"/>
+      <point x="1516.975" y="1236.495"/>
+      <point x="1516.975" y="1312.655" type="curve" smooth="yes"/>
+      <point x="1516.975" y="1397.32"/>
+      <point x="1562.415" y="1433.545"/>
+      <point x="1682.95" y="1433.545" type="curve" smooth="yes"/>
+      <point x="2059.095" y="1433.545" type="line"/>
+    </contour>
+    <contour>
+      <point x="1195.135" y="755.98" type="curve" smooth="yes"/>
+      <point x="1036.22" y="755.98"/>
+      <point x="946.425" y="663.41"/>
+      <point x="919.63" y="549.98" type="curve"/>
+      <point x="904.21" y="549.98" type="line"/>
+      <point x="904.21" y="436.525" type="line"/>
+      <point x="908.78" y="436.525" type="line"/>
+      <point x="943.575" y="548.415"/>
+      <point x="1022.52" y="616.575"/>
+      <point x="1130.905" y="616.575" type="curve" smooth="yes"/>
+      <point x="1261.0" y="616.575"/>
+      <point x="1314.515" y="535.275"/>
+      <point x="1314.515" y="387.75" type="curve" smooth="yes"/>
+      <point x="1314.515" y="346.955" type="line" smooth="yes"/>
+      <point x="1314.515" y="188.58"/>
+      <point x="1282.365" y="98.86"/>
+      <point x="1203.635" y="11.925" type="curve"/>
+      <point x="1203.635" y="0.0" type="line"/>
+      <point x="1816.23" y="0.0" type="line"/>
+      <point x="1816.23" y="125.63" type="line"/>
+      <point x="1336.91" y="125.63" type="line"/>
+      <point x="1383.515" y="83.86500000000001" type="line"/>
+      <point x="1434.255" y="155.585"/>
+      <point x="1463.77" y="241.455"/>
+      <point x="1463.77" y="396.195" type="curve" smooth="yes"/>
+      <point x="1463.77" y="438.205" type="line" smooth="yes"/>
+      <point x="1463.77" y="643.27"/>
+      <point x="1377.77" y="755.98"/>
+    </contour>
+    <component base="RaBeak_Nonexporting" xOffset="757.805"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>PaMatraI_Fly.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

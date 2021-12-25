@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VaMatraU.tm" format="2">
+  <advance width="2221.0"/>
+  <note>
+VaMatraU.tm
+</note>
+  <anchor x="1288.5" y="1237.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="1842.0" y="176.0" type="line"/>
+      <point x="1842.0" y="-397.0" type="line"/>
+      <point x="2037.5" y="-397.0" type="line"/>
+      <point x="2037.5" y="176.0" type="line"/>
+    </contour>
+    <component base="Va.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Va.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

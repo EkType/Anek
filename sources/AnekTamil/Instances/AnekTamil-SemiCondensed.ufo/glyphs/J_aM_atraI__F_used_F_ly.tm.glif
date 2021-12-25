@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="JaMatraI_Fused_Fly.tm" format="2">
+  <advance width="1601.1725000000001"/>
+  <note>
+JaMatraI.tm
+</note>
+  <anchor x="908.5125" y="1240.8925" name="top"/>
+  <outline>
+    <contour>
+      <point x="1588.71" y="1544.1274999999998" type="line"/>
+      <point x="1317.1100000000001" y="1544.1274999999998" type="line" smooth="yes"/>
+      <point x="1149.06" y="1544.1274999999998"/>
+      <point x="1082.1825000000001" y="1482.955"/>
+      <point x="1082.1825000000001" y="1365.7225" type="curve" smooth="yes"/>
+      <point x="1082.1825000000001" y="1306.8725"/>
+      <point x="1102.5425" y="1253.2275"/>
+      <point x="1142.78" y="1157.0324999999998" type="curve"/>
+      <point x="1281.2224999999999" y="1157.0324999999998" type="line"/>
+      <point x="1251.3675" y="1222.5425"/>
+      <point x="1228.0825" y="1276.6825"/>
+      <point x="1228.0825" y="1321.4725" type="curve" smooth="yes"/>
+      <point x="1228.0825" y="1386.665"/>
+      <point x="1257.8025" y="1419.1750000000002"/>
+      <point x="1356.22" y="1419.1750000000002" type="curve" smooth="yes"/>
+      <point x="1608.0925" y="1419.1750000000002" type="line"/>
+    </contour>
+    <component base="Ja_Fused.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ja_Fused.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

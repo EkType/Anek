@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LaMatraU_Simple.tm" format="2">
+  <advance width="2329"/>
+  <note>
+LaMatraU.tm
+</note>
+  <anchor x="1047" y="1245" name="top"/>
+  <outline>
+    <contour>
+      <point x="2124" y="-285" type="line"/>
+      <point x="120" y="-285" type="line"/>
+      <point x="130" y="-318" type="line"/>
+      <point x="2124" y="-318" type="line"/>
+    </contour>
+    <contour>
+      <point x="1367" y="-7" type="line"/>
+      <point x="1367" y="-292" type="line"/>
+      <point x="1402" y="-292" type="line"/>
+      <point x="1402" y="-7" type="line"/>
+    </contour>
+    <contour>
+      <point x="2088" y="1131" type="line"/>
+      <point x="2088" y="-310" type="line"/>
+      <point x="2124" y="-310" type="line"/>
+      <point x="2124" y="1131" type="line"/>
+    </contour>
+    <component base="La.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>La.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

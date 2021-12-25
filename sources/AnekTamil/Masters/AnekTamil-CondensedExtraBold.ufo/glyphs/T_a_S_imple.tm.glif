@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ta_Simple.tm" format="2">
+  <advance width="1294"/>
+  <note>
+Ta.tm
+</note>
+  <anchor x="702" y="1249" name="top"/>
+  <outline>
+    <contour>
+      <point x="788" y="524" type="line"/>
+      <point x="818" y="524" type="line" smooth="yes"/>
+      <point x="912" y="524"/>
+      <point x="936" y="488"/>
+      <point x="936" y="368" type="curve" smooth="yes"/>
+      <point x="936" y="190" type="line" smooth="yes"/>
+      <point x="936" y="-52"/>
+      <point x="853" y="-136"/>
+      <point x="641" y="-136" type="curve" smooth="yes"/>
+      <point x="21" y="-136" type="line"/>
+      <point x="52" y="-390" type="line"/>
+      <point x="665" y="-390" type="line" smooth="yes"/>
+      <point x="1092" y="-390"/>
+      <point x="1226" y="-230"/>
+      <point x="1226" y="206" type="curve" smooth="yes"/>
+      <point x="1226" y="397" type="line" smooth="yes"/>
+      <point x="1226" y="657"/>
+      <point x="1132" y="771"/>
+      <point x="862" y="771" type="curve" smooth="yes"/>
+      <point x="788" y="771" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="45"/>
+    <component base="KaBeak_Nonexporting" xOffset="868"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ta.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

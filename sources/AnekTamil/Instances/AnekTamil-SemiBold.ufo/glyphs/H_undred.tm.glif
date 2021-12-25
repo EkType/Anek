@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hundred.tm" format="2">
+  <advance width="1712.4666666666667"/>
+  <unicode hex="0BF1"/>
+  <note>
+Hundred.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1270.6" y="1094.1666666666667" type="line"/>
+      <point x="1270.6" y="0.0" type="line"/>
+      <point x="1513.7166666666667" y="0.0" type="line"/>
+      <point x="1513.7166666666667" y="1094.1666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="1421.95" y="1153.1333333333334" type="line"/>
+      <point x="770.9833333333333" y="1153.1333333333334" type="line"/>
+      <point x="772.2166666666667" y="957.5666666666667" type="line"/>
+      <point x="759.9166666666666" y="957.5666666666667" type="line"/>
+      <point x="739.7666666666667" y="1096.5"/>
+      <point x="656.85" y="1179.4333333333334"/>
+      <point x="485.78333333333336" y="1179.4333333333334" type="curve" smooth="yes"/>
+      <point x="264.2" y="1179.4333333333334"/>
+      <point x="142.98333333333332" y="1056.75"/>
+      <point x="142.98333333333332" y="776.8666666666667" type="curve" smooth="yes"/>
+      <point x="142.98333333333332" y="0.0" type="line"/>
+      <point x="386.1" y="0.0" type="line"/>
+      <point x="386.1" y="782.1666666666666" type="line" smooth="yes"/>
+      <point x="386.1" y="917.1666666666666"/>
+      <point x="442.9" y="975.2833333333333"/>
+      <point x="540.1166666666667" y="975.2833333333333" type="curve" smooth="yes"/>
+      <point x="644.5666666666667" y="975.2833333333333"/>
+      <point x="688.1333333333333" y="912.9333333333333"/>
+      <point x="688.1333333333333" y="767.6166666666667" type="curve" smooth="yes"/>
+      <point x="688.1333333333333" y="0.0" type="line"/>
+      <point x="931.25" y="0.0" type="line"/>
+      <point x="931.25" y="954.1333333333333" type="line"/>
+      <point x="1421.95" y="954.1333333333333" type="line"/>
+    </contour>
+    <component base="RaBeak_Nonexporting" xOffset="1195.5277833333332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ra.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

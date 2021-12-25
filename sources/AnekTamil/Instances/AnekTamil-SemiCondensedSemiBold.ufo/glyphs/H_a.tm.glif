@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ha.tm" format="2">
+  <advance width="2749.05"/>
+  <unicode hex="0BB9"/>
+  <note>
+Ha.tm
+</note>
+  <anchor x="1262.0166666666667" y="1241.1916666666666" name="top"/>
+  <outline>
+    <contour>
+      <point x="1228.3333333333333" y="192.58333333333334" type="line"/>
+      <point x="1228.3333333333333" y="0.0" type="line"/>
+      <point x="1526.5416666666667" y="0.0" type="line"/>
+      <point x="1526.5416666666667" y="192.58333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="1510.275" y="-172.15" type="line"/>
+      <point x="38.516666666666666" y="-172.15" type="line"/>
+      <point x="65.575" y="-366.5" type="line"/>
+      <point x="1510.275" y="-366.5" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="6.430558333333333"/>
+    <component base="Rra.tm" xOffset="1277.4583333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Rra_Simple.tm</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>Tail_NonExporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Rra.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

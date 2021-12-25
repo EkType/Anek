@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NgaMatraUu_SimpleUu.tm" format="2">
+  <advance width="3132"/>
+  <note>
+NgaMatraUu.tm
+</note>
+  <anchor x="1451" y="1236" name="top"/>
+  <outline>
+    <contour>
+      <point x="2241" y="287" type="line"/>
+      <point x="2241" y="-357" type="line"/>
+      <point x="2446" y="-357" type="line"/>
+      <point x="2446" y="287" type="line"/>
+    </contour>
+    <contour>
+      <point x="2754" y="343" type="curve" smooth="yes"/>
+      <point x="2585" y="343"/>
+      <point x="2483" y="240"/>
+      <point x="2454" y="111" type="curve"/>
+      <point x="2418" y="111" type="line"/>
+      <point x="2418" y="-37" type="line"/>
+      <point x="2432" y="-37" type="line"/>
+      <point x="2468" y="88"/>
+      <point x="2558" y="159"/>
+      <point x="2682" y="159" type="curve" smooth="yes"/>
+      <point x="2845" y="159"/>
+      <point x="2906" y="49"/>
+      <point x="2906" y="-153" type="curve" smooth="yes"/>
+      <point x="2906" y="-159" type="line" smooth="yes"/>
+      <point x="2906" y="-471"/>
+      <point x="2761" y="-644"/>
+      <point x="2402" y="-644" type="curve" smooth="yes"/>
+      <point x="2027" y="-644"/>
+      <point x="1875" y="-472"/>
+      <point x="1875" y="-171" type="curve" smooth="yes"/>
+      <point x="1875" y="-112" type="line"/>
+      <point x="1672" y="-128" type="line"/>
+      <point x="1672" y="-171" type="line" smooth="yes"/>
+      <point x="1672" y="-578"/>
+      <point x="1894" y="-817"/>
+      <point x="2402" y="-817" type="curve" smooth="yes"/>
+      <point x="2901" y="-817"/>
+      <point x="3113" y="-584"/>
+      <point x="3113" y="-154" type="curve" smooth="yes"/>
+      <point x="3113" y="-145" type="line" smooth="yes"/>
+      <point x="3113" y="170"/>
+      <point x="3008" y="343"/>
+    </contour>
+    <component base="Nga.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Nga.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>PaMatraUu.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

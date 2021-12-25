@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelIi_Half.tm" format="2">
+  <advance width="1423.9325000000001"/>
+  <note>
+vowelIi.tm
+</note>
+  <outline>
+    <contour>
+      <point x="928.7774999999999" y="0.0" type="line"/>
+      <point x="1007.5450000000001" y="0.0" type="line"/>
+      <point x="1007.5450000000001" y="1093.055" type="line"/>
+      <point x="928.7774999999999" y="1093.055" type="line"/>
+    </contour>
+    <contour>
+      <point x="573.9575" y="491.1025" type="line"/>
+      <point x="584.33" y="491.1025" type="line" smooth="yes"/>
+      <point x="663.375" y="491.1025"/>
+      <point x="687.7775" y="516.1675"/>
+      <point x="687.7775" y="570.6949999999999" type="curve" smooth="yes"/>
+      <point x="687.7775" y="585.3275" type="line" smooth="yes"/>
+      <point x="687.7775" y="638.59"/>
+      <point x="661.7425000000001" y="662.5225"/>
+      <point x="584.33" y="662.5225" type="curve" smooth="yes"/>
+      <point x="573.9575" y="662.5225" type="line"/>
+    </contour>
+    <contour>
+      <point x="1256.7075" y="491.1025" type="line"/>
+      <point x="1267.0800000000002" y="491.1025" type="line" smooth="yes"/>
+      <point x="1345.8899999999999" y="491.1025"/>
+      <point x="1370.2925" y="516.1675"/>
+      <point x="1370.2925" y="570.6949999999999" type="curve" smooth="yes"/>
+      <point x="1370.2925" y="585.3275" type="line" smooth="yes"/>
+      <point x="1370.2925" y="638.59"/>
+      <point x="1344.625" y="662.5225"/>
+      <point x="1267.0800000000002" y="662.5225" type="curve" smooth="yes"/>
+      <point x="1256.7075" y="662.5225" type="line"/>
+    </contour>
+    <contour>
+      <point x="1037.4425" y="1122.24" type="line"/>
+      <point x="216.575" y="1122.24" type="line"/>
+      <point x="216.575" y="0.0" type="line"/>
+      <point x="295.3425" y="0.0" type="line"/>
+      <point x="295.3425" y="1056.2475" type="line"/>
+      <point x="1037.4425" y="1056.2475" type="line"/>
+    </contour>
+    <component base="RaBeak_Nonexporting" xOffset="771.71"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

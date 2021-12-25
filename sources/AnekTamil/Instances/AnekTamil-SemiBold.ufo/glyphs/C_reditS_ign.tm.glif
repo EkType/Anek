@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="CreditSign.tm" format="2">
+  <advance width="2777.1666666666665"/>
+  <unicode hex="0BF7"/>
+  <note>
+CreditSign.tm
+</note>
+  <outline>
+    <contour>
+      <point x="2074.8333333333335" y="792.45" type="curve" smooth="yes"/>
+      <point x="1852.5666666666666" y="792.45"/>
+      <point x="1736.4166666666667" y="667.5333333333333"/>
+      <point x="1736.4166666666667" y="475.2" type="curve" smooth="yes"/>
+      <point x="1736.4166666666667" y="468.4166666666667" type="line"/>
+      <point x="1728.4166666666667" y="468.4166666666667" type="line"/>
+      <point x="1709.35" y="637.4833333333333"/>
+      <point x="1633.05" y="708.5666666666667"/>
+      <point x="1432.4333333333334" y="708.5666666666667" type="curve" smooth="yes"/>
+      <point x="1277.9" y="708.5666666666667" type="line"/>
+      <point x="1277.9" y="513.3333333333334" type="line"/>
+      <point x="1413.2166666666667" y="513.3333333333334" type="line" smooth="yes"/>
+      <point x="1561.65" y="513.3333333333334"/>
+      <point x="1608.1333333333334" y="461.46666666666664"/>
+      <point x="1608.1333333333334" y="300.81666666666666" type="curve" smooth="yes"/>
+      <point x="1608.1333333333334" y="0.0" type="line"/>
+      <point x="1848.8666666666668" y="0.0" type="line"/>
+      <point x="1848.8666666666668" y="366.73333333333335" type="line" smooth="yes"/>
+      <point x="1848.8666666666668" y="515.9666666666667"/>
+      <point x="1912.45" y="588.3"/>
+      <point x="2016.5" y="588.3" type="curve" smooth="yes"/>
+      <point x="2123.1666666666665" y="588.3"/>
+      <point x="2164.9666666666667" y="518.35"/>
+      <point x="2164.9666666666667" y="389.76666666666665" type="curve" smooth="yes"/>
+      <point x="2164.9666666666667" y="330.1166666666667" type="line" smooth="yes"/>
+      <point x="2164.9666666666667" y="184.93333333333334"/>
+      <point x="2134.7166666666667" y="99.23333333333333"/>
+      <point x="2072.233333333333" y="14.916666666666666" type="curve"/>
+      <point x="2072.233333333333" y="0.0" type="line"/>
+      <point x="2748.1" y="0.0" type="line"/>
+      <point x="2774.7" y="200.38333333333333" type="line"/>
+      <point x="2277.0833333333335" y="200.38333333333333" type="line"/>
+      <point x="2325.9666666666667" y="137.11666666666667" type="line"/>
+      <point x="2371.45" y="203.66666666666666"/>
+      <point x="2400.1666666666665" y="278.76666666666665"/>
+      <point x="2400.1666666666665" y="411.35" type="curve" smooth="yes"/>
+      <point x="2400.1666666666665" y="460.93333333333334" type="line" smooth="yes"/>
+      <point x="2400.1666666666665" y="674.7666666666667"/>
+      <point x="2301.7166666666667" y="792.45"/>
+    </contour>
+    <component base="VowelE.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>VowelE.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>VowelE.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Tta.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

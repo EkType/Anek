@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ca_dummy.tm" format="2">
+  <advance width="1102.205"/>
+  <note>
+Ca.tm
+</note>
+  <anchor x="731.9875" y="1240.8925" name="top"/>
+  <outline>
+    <contour>
+      <point x="757.215" y="601.8075" type="line"/>
+      <point x="1086.705" y="601.8075" type="line"/>
+      <point x="1071.2849999999999" y="722.5124999999999" type="line"/>
+      <point x="757.215" y="722.5124999999999" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="57.36000000000001"/>
+    <component base="KaBeak_Nonexporting" xOffset="782.64"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

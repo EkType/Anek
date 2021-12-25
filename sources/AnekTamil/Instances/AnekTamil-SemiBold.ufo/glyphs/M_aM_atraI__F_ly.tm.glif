@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MaMatraI_Fly.tm" format="2">
+  <advance width="1713.9833333333333"/>
+  <note>
+MaMatraI.tm
+</note>
+  <anchor x="880.2166666666667" y="1237.0833333333333" name="top"/>
+  <outline>
+    <contour>
+      <point x="1566.0333333333333" y="1599.6166666666666" type="line"/>
+      <point x="1204.65" y="1599.6166666666666" type="line" smooth="yes"/>
+      <point x="1005.45" y="1599.6166666666666"/>
+      <point x="917.55" y="1531.9333333333334"/>
+      <point x="917.55" y="1392.65" type="curve" smooth="yes"/>
+      <point x="917.55" y="1307.1166666666666"/>
+      <point x="949.1" y="1235.1833333333334"/>
+      <point x="1011.5333333333333" y="1127.9166666666667" type="curve"/>
+      <point x="1247.5833333333333" y="1124.7666666666667" type="line"/>
+      <point x="1199.9" y="1194.15"/>
+      <point x="1167.2" y="1260.4666666666667"/>
+      <point x="1167.2" y="1311.95" type="curve" smooth="yes"/>
+      <point x="1167.2" y="1371.6"/>
+      <point x="1199.45" y="1396.2333333333333"/>
+      <point x="1283.5833333333333" y="1396.2333333333333" type="curve" smooth="yes"/>
+      <point x="1595.7833333333333" y="1396.2333333333333" type="line"/>
+    </contour>
+    <component base="Ma.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

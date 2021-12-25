@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="1222.4833333333333"/>
+  <unicode hex="00A2"/>
+  <anchor x="654.6333333333334" y="0.0" name="bottom"/>
+  <anchor x="654.6333333333334" y="959.9166666666666" name="top"/>
+  <outline>
+    <contour>
+      <point x="824.3666666666667" y="848.1666666666667" type="line"/>
+      <point x="824.3666666666667" y="1212.55" type="line"/>
+      <point x="574.0666666666667" y="1212.55" type="line"/>
+      <point x="574.0666666666667" y="848.1666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="824.3666666666667" y="-246.1" type="line"/>
+      <point x="824.3666666666667" y="115.71666666666665" type="line"/>
+      <point x="574.0666666666667" y="115.71666666666665" type="line"/>
+      <point x="574.0666666666667" y="-246.1" type="line"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>c</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaMatraI.tm" format="2">
+  <advance width="2073"/>
+  <note>
+KaMatraI.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1184" y="593" type="line"/>
+      <point x="1515" y="593" type="line" smooth="yes"/>
+      <point x="1749" y="593"/>
+      <point x="1853" y="510"/>
+      <point x="1853" y="326" type="curve" smooth="yes"/>
+      <point x="1853" y="320" type="line" smooth="yes"/>
+      <point x="1853" y="147"/>
+      <point x="1772" y="12"/>
+      <point x="1496" y="12" type="curve" smooth="yes"/>
+      <point x="1314" y="12"/>
+      <point x="1198" y="43"/>
+      <point x="1077" y="103" type="curve"/>
+      <point x="1073" y="102" type="line"/>
+      <point x="1091" y="58" type="line"/>
+      <point x="1172" y="19"/>
+      <point x="1304" y="-23"/>
+      <point x="1494" y="-23" type="curve" smooth="yes"/>
+      <point x="1797" y="-23"/>
+      <point x="1892" y="125"/>
+      <point x="1892" y="320" type="curve" smooth="yes"/>
+      <point x="1892" y="326" type="line" smooth="yes"/>
+      <point x="1892" y="532"/>
+      <point x="1772" y="625"/>
+      <point x="1517" y="625" type="curve" smooth="yes"/>
+      <point x="1184" y="625" type="line"/>
+    </contour>
+    <contour>
+      <point x="1497" y="1776" type="curve" smooth="yes"/>
+      <point x="1221" y="1776"/>
+      <point x="1069" y="1623"/>
+      <point x="1069" y="1383" type="curve" smooth="yes"/>
+      <point x="1069" y="1383" type="line" smooth="yes"/>
+      <point x="1069" y="1247"/>
+      <point x="1116" y="1153"/>
+      <point x="1152" y="1104" type="curve"/>
+      <point x="1191" y="1104" type="line"/>
+      <point x="1146" y="1169"/>
+      <point x="1107" y="1249"/>
+      <point x="1107" y="1383" type="curve" smooth="yes"/>
+      <point x="1107" y="1383" type="line" smooth="yes"/>
+      <point x="1107" y="1607"/>
+      <point x="1247" y="1741"/>
+      <point x="1497" y="1741" type="curve" smooth="yes"/>
+      <point x="1774" y="1741"/>
+      <point x="1890" y="1600"/>
+      <point x="1890" y="1302" type="curve" smooth="yes"/>
+      <point x="1890" y="695" type="line"/>
+      <point x="1927" y="695" type="line"/>
+      <point x="1927" y="1307" type="line" smooth="yes"/>
+      <point x="1927" y="1620"/>
+      <point x="1793" y="1776"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="63"/>
+    <component base="KaBeak_Nonexporting" xOffset="1280"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

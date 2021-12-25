@@ -1,0 +1,803 @@
+# automatic
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z OE Agrave Aacute Acircumflex Atilde Aring Adieresis AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Germandbls ];
+
+@figures = [ zero one two three four five six seven eight nine ];
+
+@figures_denominator = [ zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom ];
+
+@figures_numerator = [ zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr ];
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+languagesystem taml dflt;
+languagesystem tml2 dflt;
+
+
+feature aalt {
+# automatic
+feature subs;
+feature sinf;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature tnum;
+feature case;
+feature zero;
+feature psts;
+feature abvs;
+feature akhn;
+feature haln;
+feature ss01;
+feature ss02;
+feature pnum;
+
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb circumflexcomb dieresiscomb dotaccentcomb gravecomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb];
+	sub [i]' @CombiningTopAccents by [idotless];
+	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [idotless];
+	@Markscomb = [dieresiscomb gravecomb acutecomb circumflexcomb ringcomb tildecomb macroncomb cedillacomb];
+	@MarkscombCase = [dieresiscomb.case gravecomb.case acutecomb.case circumflexcomb.case ringcomb.case tildecomb.case macroncomb.case cedillacomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+} ccmp;
+
+feature subs {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+
+} subs;
+
+feature sinf {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+
+} sinf;
+
+feature sups {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub zero by zerosuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+
+} sups;
+
+feature numr {
+# automatic
+sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+
+} numr;
+
+feature dnom {
+# automatic
+sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+
+} dnom;
+
+feature frac {
+lookup FractionBar {
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures slash;
+        ignore sub slash @figures @figures slash';
+        ignore sub slash' @figures @figures slash;
+        ignore sub slash @figures slash';
+        ignore sub slash' @figures slash;
+        ignore sub slash slash';
+        ignore sub slash' slash;
+        sub @figures slash' @figures by fraction;
+    } FractionBar;
+    
+    lookup Numerator1 {
+        sub @figures' fraction by @figures_numerator;
+    } Numerator1;
+
+    lookup Numerator2 {
+        sub @figures' @figures_numerator fraction by @figures_numerator;
+    } Numerator2;
+
+    lookup Numerator3 {
+        sub @figures' @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator3;
+
+    lookup Numerator4 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator4;
+
+    lookup Numerator5 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator5;
+
+    lookup Numerator6 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator6;
+
+    lookup Numerator7 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator7;
+
+    lookup Numerator8 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator8;
+
+    lookup Numerator9 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator9;
+
+    lookup Numerator10 {
+        sub @figures' @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator @figures_numerator fraction by @figures_numerator;
+    } Numerator10;
+
+    lookup Denominator {
+        sub [fraction @figures_denominator] @figures' by @figures_denominator;
+    } Denominator;
+
+    sub @figures space' @figures_numerator by thinspace;
+
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+
+} ordn;
+
+feature tnum {
+# automatic
+sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+
+} tnum;
+
+feature case {
+# automatic
+sub dieresiscomb by dieresiscomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub macroncomb by macroncomb.case;
+sub cedillacomb by cedillacomb.case;
+
+} case;
+
+feature dlig {
+# automatic
+lookupflag IgnoreMarks;
+sub r t by r_t;
+
+} dlig;
+
+feature liga {
+# automatic
+lookupflag IgnoreMarks;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+sub f f by f_f;
+sub f i by fi;
+sub f l by fl;
+
+} liga;
+
+feature zero {
+# automatic
+sub zero by zero.zero;
+sub zero.tf by zero.tf.zero;
+
+} zero;
+
+feature psts {
+    sub Ka.tm MatraIDflt.tm by KaMatraI.tm;
+	sub Ka_dummy.tm MatraIDflt_dummy.tm by KaMatraI.tm;
+    sub Ka.tm MatraUDflt.tm by KaMatraU.tm;
+	sub Ka_dummy.tm MatraUDflt_dummy.tm by KaMatraU_Simple.tm;
+    sub Ka.tm MatraUuDflt.tm by KaMatraUu.tm;
+	sub Ka_dummy.tm MatraUuDflt_Simple.tm by KaMatraUu.tm;
+    sub Nga.tm MatraIDflt.tm by NgaMatraI.tm;
+	sub Nga_dummy.tm MatraIDflt_dummy.tm by NgaMatraI_SimpleI.tm;
+    sub Nga.tm MatraUDflt.tm by NgaMatraU.tm;
+	sub Nga_dummy.tm MatraUDflt_dummy.tm by NgaMatraU.tm;
+    sub Nga.tm MatraUuDflt.tm by NgaMatraUu.tm;
+	sub Nga_dummy.tm MatraUuDflt_Simple.tm by NgaMatraUu_SimpleUu.tm;
+    sub Ca.tm MatraIDflt.tm by CaMatraI.tm;
+	sub Ca_dummy.tm MatraIDflt_dummy.tm by CaMatraI.tm;
+    sub Ca.tm MatraUDflt.tm by CaMatraU.tm;
+	sub Ca_dummy.tm MatraUDflt_dummy.tm by CaMatraU.tm;
+    sub Ca.tm MatraUuDflt.tm by CaMatraUu.tm;
+	sub Ca_dummy.tm MatraUuDflt_Simple.tm by CaMatraUu_Simple.tm;
+    sub Ja.tm MatraIDflt.tm by JaMatraI.tm;
+	sub Ja_dummy.tm MatraIDflt_dummy.tm by JaMatraI.tm;
+    sub Ja.tm MatraUDflt.tm by JaMatraU.tm;
+	sub Ja_dummy.tm MatraUDflt_dummy.tm by JaMatraU.tm;
+    sub Ja.tm MatraUuDflt.tm by JaMatraUu.tm;
+	sub Ja_dummy.tm MatraUuDflt_Simple.tm by JaMatraUu_SimpleUu.tm;
+	
+	sub Ja_Fused.tm MatraIDflt.tm by JaMatraI_Fused.tm;
+	sub Ja_Fused.tm MatraIDflt_dummy.tm by JaMatraI_Fused.tm;
+    sub Ja_Fused.tm MatraUDflt.tm by JaMatraU_Fused.tm;
+	sub Ja_Fused.tm MatraUDflt_dummy.tm by JaMatraU_Fused.tm;
+    sub Ja_Fused.tm MatraUuDflt.tm by JaMatraUu_Fused.tm;
+	sub Ja_Fused.tm MatraUuDflt_Simple.tm by JaMatraUu_Fused_SimpleUu.tm;
+
+    sub Nya.tm MatraIDflt.tm by NyaMatraI.tm;
+	sub Nya_Simple.tm MatraIDflt_dummy.tm by NyaMatraI_Simple.tm;
+    sub Nya.tm MatraUDflt.tm by NyaMatraU.tm;
+	sub Nya_Simple.tm MatraUDflt.tm by NyaMatraU.tm;
+    sub Nya_Simple.tm MatraUDflt_dummy.tm by NyaMatraU_Simple.tm;
+    sub Nya.tm MatraUuDflt.tm by NyaMatraUu.tm;
+    sub Nya_Simple.tm MatraUuDflt_Simple.tm by NyaMatraUu_Simple.tm;
+    sub Tta.tm MatraIDflt.tm by TtaMatraI.tm;
+    sub Tta_dummy.tm MatraIDflt.tm by TtaMatraI.tm;
+	sub Tta_dummy.tm MatraIDflt_dummy.tm by TtaMatraI_Simple.tm;
+    sub Tta.tm MatraUDflt.tm by TtaMatraU.tm;
+    sub Tta_dummy.tm MatraUDflt.tm by TtaMatraU.tm;
+	sub Tta_dummy.tm MatraUDflt_dummy.tm by TtaMatraU.tm;
+    sub Tta.tm MatraUuDflt.tm by TtaMatraUu.tm;
+    sub Tta_dummy.tm MatraUuDflt.tm by TtaMatraUu.tm;
+	sub Tta_dummy.tm MatraUuDflt_Simple.tm by TtaMatraUu.tm;
+    sub Nna.tm MatraIDflt.tm by NnaMatraI.tm;
+	sub Nna_dummy.tm MatraIDflt_dummy.tm by NnaMatraI.tm;
+    sub Nna.tm MatraUDflt.tm by NnaMatraU.tm;
+    sub Nna.tm MatraUuDflt.tm by NnaMatraUu.tm;
+	sub Nna_dummy.tm MatraUDflt_dummy.tm by NnaMatraU_Simple.tm;
+    sub Nna_dummy.tm MatraUuDflt_Simple.tm by NnaMatraUu_Simple.tm;
+    sub Ta.tm MatraIDflt.tm by TaMatraI.tm;
+	sub Ta_Simple.tm MatraIDflt_dummy.tm by TaMatraI_Simple.tm;
+    sub Ta.tm MatraUDflt.tm by TaMatraU.tm;
+	sub Ta_Simple.tm MatraUDflt_dummy.tm by TaMatraU_Simple.tm;
+    sub Ta.tm MatraUuDflt.tm by TaMatraUu.tm;
+	sub Ta_Simple.tm MatraUuDflt_Simple.tm by TaMatraUu_Simple.tm;
+    sub Na.tm MatraIDflt.tm by NaMatraI.tm;
+    sub Na.tm MatraUDflt.tm by NaMatraU.tm;
+    sub Na.tm MatraUuDflt.tm by NaMatraUu.tm;
+	sub Na_Simple.tm MatraIDflt_dummy.tm by NaMatraI_Simple.tm;
+	sub Na_Simple.tm MatraUDflt_dummy.tm by NaMatraU_Simple.tm;
+	sub Na_Simple.tm MatraUuDflt_Simple.tm by NaMatraUu_Simple.tm;
+    sub Nnna.tm MatraIDflt.tm by NnnaMatraI.tm;
+    sub Nnna.tm MatraUDflt.tm by NnnaMatraU.tm;
+    sub Nnna.tm MatraUuDflt.tm by NnnaMatraUu.tm;
+	sub Nnna_dummy.tm MatraIDflt_dummy.tm by NnnaMatraI.tm;
+    sub Nnna_dummy.tm MatraUDflt_dummy.tm by NnnaMatraU_Simple.tm;
+    sub Nnna_dummy.tm MatraUuDflt_Simple.tm by NnnaMatraUu_Simple.tm;
+    sub Pa.tm MatraIDflt.tm by PaMatraI.tm;
+	sub Pa_dummy.tm MatraIDflt_dummy.tm by PaMatraI_SimpleI.tm;
+    sub Pa.tm MatraUDflt.tm by PaMatraU.tm;
+	sub Pa_dummy.tm MatraUDflt_dummy.tm by PaMatraU.tm;
+    sub Pa.tm MatraUuDflt.tm by PaMatraUu.tm;
+	sub Pa_dummy.tm MatraUuDflt_Simple.tm by PaMatraUu_SimpleUu.tm;
+    sub Ma.tm MatraIDflt.tm by MaMatraI.tm;
+	sub Ma_dummy.tm MatraIDflt_dummy.tm by MaMatraI.tm;
+    sub Ma.tm MatraUDflt.tm by MaMatraU.tm;
+	sub Ma_dummy.tm MatraUDflt_dummy.tm by MaMatraU_Simple.tm;
+    sub Ma.tm MatraUuDflt.tm by MaMatraUu.tm;
+	sub Ma_dummy.tm MatraUuDflt_Simple.tm by MaMatraUu.tm;
+    sub Ya.tm MatraIDflt.tm by YaMatraI.tm;
+	sub Ya_dummy.tm MatraIDflt_dummy.tm by YaMatraI_SimpleI.tm;
+    sub Ya.tm MatraUDflt.tm by YaMatraU.tm;
+	sub Ya_dummy.tm MatraUDflt_dummy.tm by YaMatraU.tm;
+    sub Ya.tm MatraUuDflt.tm by YaMatraUu.tm;
+	sub Ya_dummy.tm MatraUuDflt_Simple.tm by YaMatraUu_SimpleUu.tm;
+    sub Ra.tm MatraIDflt.tm by RaMatraI.tm;
+    sub Ra_dummy.tm MatraIDflt.tm by RaMatraI.tm;
+	sub Ra_dummy.tm MatraIDflt_dummy.tm by RaMatraI.tm;
+    sub Ra.tm MatraUDflt.tm by RaMatraU.tm;
+    sub Ra_dummy.tm MatraUDflt.tm by RaMatraU.tm;
+	sub Ra_dummy.tm MatraUDflt_dummy.tm by RaMatraU_Simple.tm;
+    sub Ra.tm MatraUuDflt.tm by RaMatraUu.tm;
+    sub Ra_dummy.tm MatraUuDflt.tm by RaMatraUu.tm;
+	sub Ra_dummy.tm MatraUuDflt_Simple.tm by RaMatraUu.tm;
+    sub Rra.tm MatraIDflt.tm by RraMatraI.tm;
+    sub Rra.tm MatraUDflt.tm by RraMatraU.tm;
+    sub Rra.tm MatraUuDflt.tm by RraMatraUu.tm;
+	sub Rra_Simple.tm MatraIDflt_dummy.tm by RraMatraI_Simple.tm;
+    sub Rra_Simple.tm MatraUDflt_dummy.tm by RraMatraU_Simple.tm;
+    sub Rra_Simple.tm MatraUuDflt_Simple.tm by RraMatraUu_Simple.tm;
+    sub La.tm MatraIDflt.tm by LaMatraI.tm;
+    sub La.tm MatraUDflt.tm by LaMatraU.tm;
+    sub La.tm MatraUuDflt.tm by LaMatraUu.tm;
+	sub La_dummy.tm MatraIDflt_dummy.tm by LaMatraI.tm;
+	sub La_dummy.tm MatraUDflt_dummy.tm by LaMatraU_Simple.tm;
+    sub La_dummy.tm MatraUuDflt_Simple.tm by LaMatraUu_Simple.tm;
+    sub Lla.tm MatraIDflt.tm by LlaMatraI.tm;
+    sub Lla.tm MatraUDflt.tm by LlaMatraU.tm;
+    sub Lla.tm MatraUuDflt.tm by LlaMatraUu.tm;
+	sub Lla_dummy.tm MatraIDflt_dummy.tm by LlaMatraI.tm;
+    sub Lla_dummy.tm MatraUDflt_dummy.tm by LlaMatraU_Simple.tm;
+    sub Lla_dummy.tm MatraUuDflt_Simple.tm by LlaMatraUu.tm;
+    sub Llla.tm MatraIDflt.tm by LllaMatraI.tm;
+    sub Llla.tm MatraUDflt.tm by LllaMatraU.tm;
+    sub Llla.tm MatraUuDflt.tm by LllaMatraUu.tm;
+	sub Llla_Simple.tm MatraIDflt_dummy.tm by LllaMatraI_Simple.tm;
+    sub Llla_Simple.tm MatraUDflt_dummy.tm by LllaMatraU_Simple.tm;
+	sub Llla_Simple.tm MatraUuDflt_Simple.tm by LllaMatraUu.tm;
+    sub Va.tm MatraIDflt.tm by VaMatraI.tm;
+	sub Va_dummy.tm MatraIDflt_dummy.tm by VaMatraI_SimpleI.tm;
+    sub Va.tm MatraUDflt.tm by VaMatraU.tm;
+	sub Va_dummy.tm MatraUDflt_dummy.tm by VaMatraU.tm;
+    sub Va.tm MatraUuDflt.tm by VaMatraUu.tm;
+	sub Va_dummy.tm MatraUuDflt_Simple.tm by VaMatraUu_SimpleUu.tm;
+    sub Sha.tm MatraIDflt.tm by ShaMatraI.tm;
+    sub Sha.tm MatraUDflt.tm by ShaMatraU.tm;
+    sub Sha.tm MatraUuDflt.tm by ShaMatraUu.tm;
+	sub Sha_dummy.tm MatraIDflt_dummy.tm by ShaMatraI.tm;
+    sub Sha_dummy.tm MatraUDflt_dummy.tm by ShaMatraU.tm;
+	sub Sha_dummy.tm MatraUuDflt_Simple.tm by ShaMatraUu_SimpleUu.tm;
+    sub Ssa.tm MatraIDflt.tm by SsaMatraI.tm;
+    sub Ssa.tm MatraUDflt.tm by SsaMatraU.tm;
+    sub Ssa.tm MatraUuDflt.tm by SsaMatraUu.tm;
+	sub Ssa_Simple.tm MatraIDflt_dummy.tm by SsaMatraI_Simple.tm;
+    sub Ssa_Simple.tm MatraUDflt_dummy.tm by SsaMatraU_Simple.tm;
+    sub Ssa_Simple.tm MatraUuDflt_Simple.tm by SsaMatraUu_Simple_SimpleUu.tm;
+    sub Sa.tm MatraIDflt.tm by SaMatraI.tm;
+    sub Sa.tm MatraUDflt.tm by SaMatraU.tm;
+    sub Sa.tm MatraUuDflt.tm by SaMatraUu.tm;
+	sub Sa_dummy.tm MatraIDflt_dummy.tm by SaMatraI.tm;
+    sub Sa_dummy.tm MatraUDflt_dummy.tm by SaMatraU.tm;
+	sub Sa_dummy.tm MatraUuDflt_Simple.tm by SaMatraUu_SimpleUu.tm;
+    sub Ha.tm MatraIDflt.tm by HaMatraI.tm;
+    sub Ha.tm MatraUDflt.tm by HaMatraU.tm;
+    sub Ha.tm MatraUuDflt.tm by HaMatraUu.tm;
+	sub Ha_Simple.tm MatraIDflt_dummy.tm by HaMatraI_Simple.tm;
+    sub Ha_Simple.tm MatraUDflt_dummy.tm by HaMatraU_Simple.tm;
+    sub Ha_Simple.tm MatraUuDflt_Simple.tm by HaMatraUu_Simple_SimpleUu.tm;
+    sub Kssa.tm MatraIDflt.tm by KssaMatraI.tm;
+    sub Kssa.tm MatraUDflt.tm by KssaMatraU.tm;
+    sub Kssa.tm MatraUuDflt.tm by KssaMatraUu.tm;
+	sub Kssa_Simple.tm MatraIDflt_dummy.tm by KssaMatraI_Simple.tm;
+    sub Kssa_Simple.tm MatraUDflt_dummy.tm by KssaMatraU_Simple.tm;
+    sub Kssa_Simple.tm MatraUuDflt_Simple.tm by KssaMatraUu_Simple_SimpleUu.tm;
+	
+
+} psts;
+
+feature abvs {
+    sub Ka.tm MatraIiDflt.tm by KaMatraIi.tm;
+	sub Ka_dummy.tm MatraIiDflt_SimpleIi.tm by KaMatraIi_SimpleIi.tm;
+    sub Nga.tm MatraIiDflt.tm by NgaMatraIi.tm;
+	sub Nga_dummy.tm MatraIiDflt_SimpleIi.tm by NgaMatraIi_SimpleIi.tm;
+    sub Ca.tm MatraIiDflt.tm by CaMatraIi.tm;
+	sub Ca_dummy.tm MatraIiDflt_SimpleIi.tm by CaMatraIi_SimpleIi.tm;
+    sub Ja.tm MatraIiDflt.tm by JaMatraIi.tm;
+	sub Ja_dummy.tm MatraIiDflt_SimpleIi.tm by JaMatraIi_SimpleIi.tm;
+	sub Ja_Fused.tm MatraIiDflt.tm by JaMatraIi_Fused.tm;
+	sub Ja_Fused.tm MatraIiDflt_SimpleIi.tm by JaMatraIi_Fused_SimpleIi.tm;
+    sub Nya.tm MatraIiDflt.tm by NyaMatraIi.tm;
+	sub Nya_Simple.tm MatraIiDflt_SimpleIi.tm by NyaMatraIi_SimpleIi.tm;
+    sub Tta.tm MatraIiDflt.tm by TtaMatraIi.tm;
+    sub Tta_dummy.tm MatraIiDflt.tm by TtaMatraIi.tm;
+	sub Tta_dummy.tm MatraIiDflt_SimpleIi.tm by TtaMatraIi_SimpleIi.tm;
+    sub Nna.tm MatraIiDflt.tm by NnaMatraIi.tm;
+	sub Nna_dummy.tm MatraIiDflt_SimpleIi.tm by NnaMatraIi_SimpleIi.tm;
+    sub Ta.tm MatraIiDflt.tm by TaMatraIi.tm;
+	sub Ta_Simple.tm MatraIiDflt_SimpleIi.tm by TaMatraIi_Simple_SimpleIi.tm;
+    sub Na.tm MatraIiDflt.tm by NaMatraIi.tm;
+	sub Na_Simple.tm MatraIiDflt_SimpleIi.tm by NaMatraIi_Simple_SimpleIi.tm;
+    sub Nnna.tm MatraIiDflt.tm by NnnaMatraIi.tm;
+	sub Nnna_dummy.tm MatraIiDflt_SimpleIi.tm by NnnaMatraIi_SimpleIi.tm;
+    sub Pa.tm MatraIiDflt.tm by PaMatraIi.tm;
+	sub Pa_dummy.tm MatraIiDflt_SimpleIi.tm by PaMatraIi_SimpleIi.tm;
+    sub Ma.tm MatraIiDflt.tm by MaMatraIi.tm;
+	sub Ma_dummy.tm MatraIiDflt_SimpleIi.tm by MaMatraIi_SimpleIi.tm;
+    sub Ya.tm MatraIiDflt.tm by YaMatraIi.tm;
+	sub Ya_dummy.tm MatraIiDflt_SimpleIi.tm by YaMatraIi_SimpleIi.tm;
+    sub Ra.tm MatraIiDflt.tm by RaMatraIi.tm;
+    sub Ra_dummy.tm MatraIiDflt.tm by RaMatraIi.tm;
+	sub Ra_dummy.tm MatraIiDflt_SimpleIi.tm by RaMatraIi_SimpleIi.tm;
+    sub Rra.tm MatraIiDflt.tm by RraMatraIi.tm;
+	sub Rra_Simple.tm MatraIiDflt_SimpleIi.tm by RraMatraIi_Simple_SimpleIi.tm;
+    sub La.tm MatraIiDflt.tm by LaMatraIi.tm;
+	sub La_dummy.tm MatraIiDflt_SimpleIi.tm by LaMatraIi_SimpleIi.tm;
+    sub Lla.tm MatraIiDflt.tm by LlaMatraIi.tm;
+	sub Lla_dummy.tm MatraIiDflt_SimpleIi.tm by LlaMatraIi_SimpleIi.tm;
+    sub Llla.tm MatraIiDflt.tm by LllaMatraIi.tm;
+	sub Llla_Simple.tm MatraIiDflt_SimpleIi.tm by LllaMatraIi_Simple_SimpleIi.tm;
+    sub Va.tm MatraIiDflt.tm by VaMatraIi.tm;
+    sub Va_dummy.tm MatraIiDflt_SimpleIi.tm by VaMatraIi_SimpleIi.tm;
+    sub Sha.tm PulliDflt.tm Ra.tm MatraIiDflt.tm by Shree.tm;
+    sub Sha.tm MatraIiDflt.tm by ShaMatraIi.tm;
+	sub Sha_dummy.tm MatraIiDflt_SimpleIi.tm by ShaMatraIi_SimpleIi.tm;
+    sub Ssa.tm MatraIiDflt.tm by SsaMatraIi.tm;
+	sub Ssa_Simple.tm MatraIiDflt_SimpleIi.tm by SsaMatraIi_Simple_SimpleIi.tm;
+    sub Sa.tm MatraIiDflt.tm by SaMatraIi.tm;
+	sub Sa_dummy.tm MatraIiDflt_SimpleIi.tm by SaMatraIi_SimpleIi.tm;
+    sub Ha.tm MatraIiDflt.tm by HaMatraIi.tm;
+	sub Ha_Simple.tm MatraIiDflt_SimpleIi.tm by HaMatraIi_Simple_SimpleIi.tm;
+    sub Kssa.tm MatraIiDflt.tm by KssaMatraIi.tm;
+	sub Kssa_Simple.tm MatraIiDflt_SimpleIi.tm by KssaMatraIi_Simple_SimpleIi.tm;
+    sub Sa.tm PulliDflt.tm Ra.tm MatraIiDflt.tm by Shree.tm;
+	sub Sa_dummy.tm PulliDflt_Half.tm Ra_dummy.tm MatraIiDflt_SimpleIi.tm by Shree_SimpleIi.tm;
+    sub Sha.tm PulliDflt.tm Ra.tm MatraIiDflt.tm by Shree.tm;
+	sub Sha_dummy.tm PulliDflt_Half.tm Ra_dummy.tm MatraIiDflt_SimpleIi.tm by Shree_SimpleIi.tm;
+
+} abvs;
+
+feature akhn {
+	sub Ka.tm PulliDflt.tm Ssa.tm by Kssa.tm;
+	sub Ka.tm PulliDflt.tm Ssa_Simple.tm by Kssa_Simple.tm;
+	sub Ka_dummy.tm PulliDflt.tm Ssa_Simple.tm by Kssa_Simple.tm;
+	sub Ka.tm PulliDflt_Half.tm Ssa.tm by Kssa.tm;
+	sub Ka_dummy.tm PulliDflt_Half.tm Ssa_Simple.tm by Kssa_Simple.tm;
+    sub Sha.tm PulliDflt.tm Ra.tm MatraIiDflt.tm by Shree.tm;
+    sub Sha.tm PulliDflt.tm Ra_dummy.tm MatraIiDflt_SimpleIi.tm by Shree_SimpleIi.tm;
+    sub Sha_dummy.tm PulliDflt.tm Ra_dummy.tm MatraIiDflt_SimpleIi.tm by Shree_SimpleIi.tm;
+	sub Sha.tm PulliDflt_Half.tm Ra.tm MatraIiDflt.tm by Shree.tm;
+	sub Sha.tm PulliDflt_Half.tm Ra_dummy.tm MatraIiDflt.tm by Shree.tm;
+	sub Sha.tm PulliDflt_Half.tm Ra_dummy.tm MatraIiDflt_SimpleIi.tm by Shree_SimpleIi.tm;
+	sub Sha_dummy.tm PulliDflt_Half.tm Ra_dummy.tm MatraIiDflt.tm by Shree_SimpleIi.tm;
+	sub Sha.tm PulliDflt_Half.tm Ra.tm MatraIiDflt_SimpleIi.tm by Shree.tm;
+	sub Sha_dummy.tm PulliDflt_Half.tm Ra_dummy.tm MatraIiDflt_SimpleIi.tm by Shree_SimpleIi.tm;
+    sub Sa.tm PulliDflt.tm Ra.tm MatraIiDflt.tm by Shree.tm;
+	sub Sa.tm PulliDflt_Half.tm Ra.tm MatraIiDflt.tm by Shree.tm;
+	sub Sa_dummy.tm PulliDflt_Half.tm Ra_dummy.tm MatraIiDflt.tm by Shree_SimpleIi.tm;
+	sub Sa.tm PulliDflt_Half.tm Ra.tm MatraIiDflt_SimpleIi.tm by Shree.tm;
+	sub Sa_dummy.tm PulliDflt_Half.tm Ra_dummy.tm MatraIiDflt_SimpleIi.tm by Shree_SimpleIi.tm;
+
+} akhn;
+
+feature haln {
+    sub Tta.tm PulliDflt.tm by TtaPulli.tm;
+    sub Ra.tm PulliDflt.tm by RaPulli_Alt.tm;
+    sub Ra_dummy.tm PulliDflt.tm by RaPulli_Alt.tm;
+ 	sub Tta_dummy.tm PulliDflt_Half.tm by TtaPulli_Half.tm;
+	sub Ra_dummy.tm PulliDflt_Half.tm by RaPulli_Alt_Half.tm;
+
+} haln;
+
+feature ss01 {
+# notes:
+# Name: Name:
+#Traditional Aa and Ai Forms
+featureNames { name "Traditional Forms"; };
+
+	sub Nna.tm MatraAa.tm by NnaMatraAa.tm;
+	sub Nna_dummy.tm MatraAa_dummy.tm by NnaMatraAa_Simple.tm;
+	sub Nnna.tm MatraAa.tm by NnnaMatraAa.tm;
+	sub Nnna_dummy.tm MatraAa_dummy.tm by NnnaMatraAa_Simple.tm;
+	sub Rra.tm MatraAa.tm by RraMatraAa.tm;
+	sub Rra_Simple.tm MatraAa_dummy.tm by RraMatraAa_Simple.tm;
+	sub MatraAi.tm Nna.tm by NnaMatraAi.tm;
+	sub MatraAi.tm Nna_dummy.tm by NnaMatraAi.tm;
+	sub MatraAi.tm Nnna.tm by NnnaMatraAi.tm;
+	sub MatraAi.tm Nnna_dummy.tm by NnnaMatraAi.tm;
+	sub MatraAi.tm La.tm by LaMatraAi.tm;
+	sub MatraAi.tm La_dummy.tm by LaMatraAi.tm;
+	sub MatraAi.tm Lla.tm by LlaMatraAi.tm;
+	sub MatraAi.tm Lla_dummy.tm by LlaMatraAi.tm;
+
+} ss01;
+
+feature ss02 {
+# notes:
+# Name: Name:
+#MatraI Fly forms
+featureNames { name "Fly MatraI"; };
+
+	sub KaMatraI.tm by KaMatraI_Fly.tm;
+    sub NgaMatraI.tm by NgaMatraI_Fly.tm;
+	sub NgaMatraI_SimpleI.tm by NgaMatraI_SimpleFly.tm;
+    sub CaMatraI.tm by CaMatraI_Fly.tm;
+    sub JaMatraI.tm by JaMatraI_Fly.tm;
+	sub JaMatraI_Fused.tm by JaMatraI_Fused_Fly.tm;
+    sub NyaMatraI.tm by NyaMatraI_Fly.tm;
+	sub NyaMatraI_Simple.tm by NyaMatraI_Simple_Fly.tm;
+    sub TtaMatraI.tm by TtaMatraI_Fly.tm;
+	sub TtaMatraI_Simple.tm by TtaMatraI_Fly.tm;
+    sub NnaMatraI.tm by NnaMatraI_Fly.tm;
+    sub TaMatraI.tm by TaMatraI_Fly.tm;
+	sub TaMatraI_Simple.tm by TaMatraI_Simple_Fly.tm;
+    sub NaMatraI.tm by NaMatraI_Fly.tm;
+	sub NaMatraI_Simple.tm by NaMatraI_Simple_Fly.tm;
+    sub NnnaMatraI.tm by NnnaMatraI_Fly.tm;
+    sub PaMatraI.tm by PaMatraI_Fly.tm;
+	sub PaMatraI_SimpleI.tm by PaMatraI_SimpleFly.tm;
+    sub MaMatraI.tm by MaMatraI_Fly.tm;
+    sub YaMatraI.tm by YaMatraI_Fly.tm;
+	sub YaMatraI_SimpleI.tm by YaMatraI_SimpleFly.tm;
+    sub RaMatraI.tm by RaMatraI_Fly.tm;
+    sub RraMatraI.tm by RraMatraI_Fly.tm;
+	sub RraMatraI_Simple.tm by RraMatraI_Simple_Fly.tm;
+    sub LaMatraI.tm by LaMatraI_Fly.tm;
+    sub LlaMatraI.tm by LlaMatraI_Fly.tm;
+    sub LllaMatraI.tm by LllaMatraI_Fly.tm;
+	sub LllaMatraI_Simple.tm by LllaMatraI_Simple_Fly.tm;
+    sub VaMatraI.tm by VaMatraI_Fly.tm;
+	sub VaMatraI_SimpleI.tm by VaMatraI_SimpleFly.tm;
+    sub ShaMatraI.tm by ShaMatraI_Fly.tm;
+    sub SsaMatraI.tm by SsaMatraI_Fly.tm;
+	sub SsaMatraI_Simple.tm by SsaMatraI_Simple_Fly.tm;
+    sub SaMatraI.tm by SaMatraI_Fly.tm;
+    sub HaMatraI.tm by HaMatraI_Fly.tm;
+	sub HaMatraI_Simple.tm by HaMatraI_Simple_Fly.tm;
+    sub KssaMatraI.tm by KssaMatraI_Fly.tm;
+	sub KssaMatraI_Simple.tm by KssaMatraI_Simple_Fly.tm;
+
+} ss02;
+
+feature rlig {
+# disabled
+#	#Designspace-dependent Alternates
+#
+#	#For Condensed Variants
+#	#ifdef VARIABLE
+#	condition 100 < wght < 900, 75 < wdth < 90;
+#	#Simple tails and bowls
+#	sub Ta.tm by Ta_Simple.tm;
+#    sub TaMatraI.tm by TaMatraI_Simple.tm;
+#    sub TaMatraIi.tm by TaMatraIi_Simple_SimpleIi.tm;
+#    sub TaMatraU.tm by TaMatraU_Simple.tm;
+#    sub TaMatraUu.tm by TaMatraUu_Simple.tm;
+#    
+#    sub Na.tm by Na_Simple.tm;
+#    sub NaMatraI.tm by NaMatraI_Simple.tm;
+#    sub NaMatraIi.tm by NaMatraIi_Simple_SimpleIi.tm;
+#    sub NaMatraU.tm by NaMatraU_Simple.tm;
+#    sub NaMatraUu.tm by NaMatraUu_Simple.tm;
+#    
+#    sub Llla.tm by Llla_Simple.tm;
+#    sub LllaMatraI.tm by LllaMatraI_Simple.tm;
+#    sub LllaMatraIi.tm by LllaMatraIi_Simple_SimpleIi.tm;
+#    sub LllaMatraU.tm by LllaMatraU_Simple.tm;
+#    
+#    sub Rra.tm by Rra_Simple.tm;
+#    sub RraMatraI.tm by RraMatraI_Simple.tm;
+#    sub RraMatraIi.tm by RraMatraIi_Simple_SimpleIi.tm;
+#    sub RraMatraU.tm by RraMatraU_Simple.tm;
+#    sub RraMatraUu.tm by RraMatraUu_Simple.tm;
+#    
+#    sub Ha.tm by Ha_Simple.tm;
+#    sub HaMatraI.tm by HaMatraI_Simple.tm;
+#    sub HaMatraIi.tm by HaMatraIi_Simple_SimpleIi.tm;
+#    sub HaMatraU.tm by HaMatraU_Simple.tm;
+#    sub HaMatraUu.tm by HaMatraUu_Simple_SimpleUu.tm;
+#    
+#    sub NyaMatraU.tm by NyaMatraU_Simple.tm;
+#    sub NyaMatraUu.tm by NyaMatraUu_Simple.tm;
+#    sub NnaMatraU.tm by NnaMatraU_Simple.tm;
+#    sub NnaMatraUu.tm by NnaMatraUu_Simple.tm;
+#    sub NnnaMatraU.tm by NnnaMatraU_Simple.tm;
+#    sub NnnaMatraUu.tm by NnnaMatraUu_Simple.tm;
+#    sub LaMatraU.tm by LaMatraU_Simple.tm;
+#    sub LaMatraUu.tm by LaMatraUu_Simple.tm;
+#    
+#    sub Thousand.tm by Thousand_Simple.tm;
+#    sub DebitSign.tm by DebitSign_Simple.tm;
+#    sub NumberSign.tm by NumberSign_Simple.tm; 
+#    
+#    #Simple Ssa Vertical Tails
+#    sub Ssa.tm by Ssa_Simple.tm;
+#    sub SsaMatraI.tm by SsaMatraI_Simple.tm;
+#    sub SsaMatraIi.tm by SsaMatraIi_Simple_SimpleIi.tm;
+#    sub SsaMatraU.tm by SsaMatraU_Simple.tm;
+#    sub SsaMatraUu.tm by SsaMatraUu_Simple_SimpleUu.tm;
+#    
+#    sub Kssa.tm by Kssa_Simple.tm;
+#    sub KssaMatraI.tm by KssaMatraI_Simple.tm;
+#    sub KssaMatraIi.tm by KssaMatraIi_Simple_SimpleIi.tm;
+#    sub KssaMatraU.tm by KssaMatraU_Simple.tm;
+#    sub KssaMatraUu.tm by KssaMatraUu_Simple_SimpleUu.tm;
+#  
+#	sub TtaMatraI.tm by TtaMatraI_Simple.tm;
+#
+#	#Simple I Matras for Pa Group
+#    sub NgaMatraI.tm by NgaMatraI_SimpleI.tm;
+#    sub PaMatraI.tm by PaMatraI_SimpleI.tm;
+#    sub YaMatraI.tm by YaMatraI_SimpleI.tm;    
+#    sub VaMatraI.tm by VaMatraI_SimpleI.tm;
+#      	
+#    #Simple Ii matras excluding Ta, Na, Lla, Rra, Ha, Ssa, Kssa (mentioned above)
+#    sub KaMatraIi.tm by KaMatraIi_SimpleIi.tm;
+#    sub NgaMatraIi.tm by NgaMatraIi_SimpleIi.tm;
+#    sub CaMatraIi.tm by CaMatraIi_SimpleIi.tm;
+#    sub JaMatraIi.tm by JaMatraIi_SimpleIi.tm;
+#    sub NyaMatraIi.tm by NyaMatraIi_SimpleIi.tm;
+#    sub TtaMatraIi.tm by TtaMatraIi_SimpleIi.tm;
+#    sub NnaMatraIi.tm by NnaMatraIi_SimpleIi.tm;
+#    sub NnnaMatraIi.tm by NnnaMatraIi_SimpleIi.tm;
+#    sub PaMatraIi.tm by PaMatraIi_SimpleIi.tm;
+#    sub MaMatraIi.tm by MaMatraIi_SimpleIi.tm;
+#    sub YaMatraIi.tm by YaMatraIi_SimpleIi.tm;
+#    sub RaMatraIi.tm by RaMatraIi_SimpleIi.tm;  
+#    sub LaMatraIi.tm by LaMatraIi_SimpleIi.tm;
+#    sub LlaMatraIi.tm by LlaMatraIi_SimpleIi.tm;
+#    sub VaMatraIi.tm by VaMatraIi_SimpleIi.tm;
+#    sub ShaMatraIi.tm by ShaMatraIi_SimpleIi.tm;
+#    sub SaMatraIi.tm by SaMatraIi_SimpleIi.tm;
+#    
+#    #Simple Uu matras 
+#    sub NgaMatraUu.tm by NgaMatraUu_SimpleUu.tm;
+#    sub PaMatraUu.tm by PaMatraUu_SimpleUu.tm;
+#    sub YaMatraUu.tm by YaMatraUu_SimpleUu.tm;
+#    sub VaMatraUu.tm by VaMatraUu_SimpleUu.tm;
+#    
+#    #Simple Sweeping curves excluding NyaMatraI and NyaMatraIi
+#    sub Nya.tm by Nya_Simple.tm;
+#    sub NyaMatraI.tm by NyaMatraI_Simple.tm;
+#    sub KaMatraU.tm by KaMatraU_Simple.tm;
+#    sub MaMatraU.tm by MaMatraU_Simple.tm;
+#    sub RaMatraU.tm by RaMatraU_Simple.tm;
+#    sub CaMatraUu.tm by CaMatraUu_Simple.tm;
+#    sub NnaMatraAa.tm by NnaMatraAa_Simple.tm;
+#    sub NnnaMatraAa.tm by NnnaMatraAa_Simple.tm;
+#    sub RraMatraAa.tm by RraMatraAa_Simple.tm;
+#    
+#    #Simple Grantha MatraUu except Ssa, Kssa and Ha already detailed above
+#    sub JaMatraUu.tm by JaMatraUu_SimpleUu.tm;
+#    sub SaMatraUu.tm by SaMatraUu_SimpleUu.tm;
+#    sub ShaMatraUu.tm by ShaMatraUu_SimpleUu.tm;
+# 
+#    #Other Simple Characters
+#    sub AsAboveSign.tm by AsAboveSign_Simple.tm;
+#    sub MatraE.tm by MatraE_Simple.tm;
+#    sub MatraEe.tm by MatraEe_Simple.tm;
+#    sub MatraO.tm by MatraO_Simple.tm;
+#    sub MatraOo.tm by MatraOo_Simple.tm;
+#    sub MatraAu.tm by MatraAu_Simple.tm;
+#    sub MatraIiDflt.tm by MatraIiDflt_SimpleIi.tm;
+#    sub Shree.tm by Shree_SimpleIi.tm;
+#
+#	#Fly I Matra Variants
+#	sub TaMatraI_Fly.tm by TaMatraI_Simple_Fly.tm;
+#    sub NaMatraI_Fly.tm by NaMatraI_Simple_Fly.tm;
+#    sub LllaMatraI_Fly.tm by LllaMatraI_Simple_Fly.tm;
+#    sub RraMatraI_Fly.tm by RraMatraI_Simple_Fly.tm;
+#    sub HaMatraI_Fly.tm by HaMatraI_Simple_Fly.tm;
+#    sub SsaMatraI_Fly.tm by SsaMatraI_Simple_Fly.tm;
+#    sub KssaMatraI_Fly.tm by KssaMatraI_Simple_Fly.tm;
+#    sub NgaMatraI_Fly.tm by NgaMatraI_SimpleFly.tm;
+#    sub PaMatraI_Fly.tm by PaMatraI_SimpleFly.tm;
+#    sub YaMatraI_Fly.tm by YaMatraI_SimpleFly.tm;    
+#    sub VaMatraI_Fly.tm by VaMatraI_SimpleFly.tm;
+#   	#endif
+#
+#
+#	#Fused For Bolder Variants
+#	#ifdef VARIABLE
+#	condition 480 < wght < 900, 75 < wdth < 125;
+#	sub VowelU.tm by VowelU_Fused.tm;
+#	sub VowelUu.tm by VowelUu_Fused.tm;
+#	sub VowelAi.tm by VowelAi_Fused.tm;
+#	sub Ja.tm by Ja_Fused.tm;
+#	sub JaMatraI.tm by JaMatraI_Fused.tm;
+#	sub JaMatraIi.tm by JaMatraIi_Fused.tm;
+#	sub JaMatraU.tm by JaMatraU_Fused.tm;
+#	sub JaMatraUu.tm by JaMatraUu_Fused.tm;
+#	sub JaMatraUu_SimpleUu.tm by JaMatraUu_Fused_SimpleUu.tm;
+#	sub JaMatraI_Fly.tm by JaMatraI_Fused_Fly.tm;
+#	#endif
+#
+#	#Fused For Bolder Variants
+#	#ifdef VARIABLE
+#	condition 480 < wght < 900, 75 < wdth < 125;
+#	sub MatraEe.tm by MatraEe_Fused.tm;
+#	sub MatraOo.tm by MatraOo_Fused.tm;
+#	sub VowelOo.tm by VowelOo_Fused.tm;
+#	#endif
+#	
+#	#Half Pulli For Bolder Variants
+#	#ifdef VARIABLE
+#	condition 700 < wght < 900, 75 < wdth < 125;
+#	sub PulliDflt.tm by PulliDflt_Half.tm;
+#    sub TtaPulli.tm by TtaPulli_Half.tm;
+#    sub VowelIi.tm by VowelIi_Half.tm;
+#    sub RaPulli_Alt.tm by RaPulli_Alt_Half.tm;
+#	#endif
+#
+#	#Latin Lighter Variants
+#	#ifdef VARIABLE
+#	condition 100 < wght < 350, 75 < wdth < 125;
+#	sub dollar by dollar_alt;
+#	sub question by question_alt;
+#	#endif
+#
+} rlig;
+
+feature pnum {
+# automatic
+sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+
+} pnum;
+
+table GDEF {
+  # automatic
+  GlyphClassDef
+    [dollar A B C D E F G H I J K L M N O P Q R S T U V W X Y Z grave a b c d e f g h i k l m n o p q r s t u v w x y z OE oe cent yen Agrave Aacute Acircumflex Atilde Aring Adieresis AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis Germandbls idotless VowelAu.tm Ka.tm Nga.tm Ca.tm Ja.tm Nya.tm Tta.tm Nna.tm Ta.tm Na.tm Nnna.tm Pa.tm Ma.tm Ya.tm Ra.tm Rra.tm La.tm Lla.tm Llla.tm Va.tm Sha.tm Ssa.tm Sa.tm Ha.tm Kssa.tm TtaPulli.tm JaMatraI.tm MaMatraI.tm RraMatraI.tm LllaMatraI.tm ShaMatraI.tm SsaMatraI.tm HaMatraI.tm KssaMatraI.tm KaMatraIi.tm CaMatraIi.tm JaMatraIi.tm NyaMatraIi.tm NnaMatraIi.tm TaMatraIi.tm NaMatraIi.tm NnnaMatraIi.tm MaMatraIi.tm RraMatraIi.tm LlaMatraIi.tm LllaMatraIi.tm ShaMatraIi.tm SsaMatraIi.tm HaMatraIi.tm KssaMatraIi.tm NgaMatraU.tm PaMatraU.tm MaMatraU.tm YaMatraU.tm LaMatraU.tm LllaMatraU.tm VaMatraU.tm ShaMatraU.tm NgaMatraUu.tm PaMatraUu.tm MaMatraUu.tm YaMatraUu.tm LaMatraUu.tm LllaMatraUu.tm VaMatraUu.tm ShaMatraUu.tm KaMatraI_Fly.tm CaMatraI_Fly.tm JaMatraI_Fly.tm NyaMatraI_Fly.tm NnaMatraI_Fly.tm TaMatraI_Fly.tm NaMatraI_Fly.tm NnnaMatraI_Fly.tm MaMatraI_Fly.tm RraMatraI_Fly.tm LlaMatraI_Fly.tm LllaMatraI_Fly.tm ShaMatraI_Fly.tm SsaMatraI_Fly.tm HaMatraI_Fly.tm KssaMatraI_Fly.tm NnaMatraAi.tm NnnaMatraAi.tm LaMatraAi.tm LlaMatraAi.tm KaMatraIi_SimpleIi.tm CaMatraIi_SimpleIi.tm JaMatraIi_SimpleIi.tm NyaMatraIi_SimpleIi.tm NnaMatraIi_SimpleIi.tm TaMatraIi_Simple_SimpleIi.tm NaMatraIi_Simple_SimpleIi.tm NnnaMatraIi_SimpleIi.tm MaMatraIi_SimpleIi.tm RraMatraIi_Simple_SimpleIi.tm LlaMatraIi_SimpleIi.tm LllaMatraIi_Simple_SimpleIi.tm ShaMatraIi_SimpleIi.tm SsaMatraIi_Simple_SimpleIi.tm HaMatraIi_Simple_SimpleIi.tm KssaMatraIi_Simple_SimpleIi.tm NgaMatraUu_SimpleUu.tm PaMatraUu_SimpleUu.tm YaMatraUu_SimpleUu.tm VaMatraUu_SimpleUu.tm Nya_Simple.tm NyaMatraI_Simple_Fly.tm MaMatraU_Simple.tm ShaMatraUu_SimpleUu.tm Ssa_Simple.tm SsaMatraI_Simple.tm SsaMatraI_Simple_Fly.tm Kssa_Simple.tm KssaMatraI_Simple.tm KssaMatraI_Simple_Fly.tm Ta_Simple.tm TaMatraI_Simple_Fly.tm TaMatraIi_Simple.tm Na_Simple.tm NaMatraI_Simple_Fly.tm NaMatraIi_Simple.tm Llla_Simple.tm LllaMatraI_Simple.tm LllaMatraI_Simple_Fly.tm LllaMatraIi_Simple.tm LllaMatraU_Simple.tm Rra_Simple.tm RraMatraI_Simple.tm RraMatraI_Simple_Fly.tm RraMatraIi_Simple.tm Ha_Simple.tm HaMatraI_Simple.tm HaMatraI_Simple_Fly.tm HaMatraIi_Simple.tm LaMatraU_Simple.tm LaMatraUu_Simple.tm Ja_Fused.tm JaMatraI_Fused.tm JaMatraI_Fused_Fly.tm JaMatraIi_Fused.tm JaMatraIi_Fused_SimpleIi.tm One.tm MonthSign.tm DebitSign.tm NumberSign.tm DebitSign_Simple.tm NumberSign_Simple.tm MatraAu.tm MatraAuSpare.tm MatraAu_Simple.tm Ca_dummy.tm Ka_dummy.tm Kssa_dummy.tm La_dummy.tm Lla_dummy.tm Llla_dummy.tm Ma_dummy.tm Nga_dummy.tm Nna_dummy.tm Nnna_dummy.tm Nya_dummy.tm Pa_dummy.tm Ra_dummy.tm Sa_dummy.tm Sha_dummy.tm Ssa_dummy.tm Tta_dummy.tm Va_dummy.tm Ya_dummy.tm Ja_dummy.tm], # Base
+    [fi fl r_t f_f f_f_i f_f_l], # Liga
+    [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb ringcomb tildecomb macroncomb cedillacomb dieresiscomb.case gravecomb.case acutecomb.case circumflexcomb.case ringcomb.case tildecomb.case macroncomb.case cedillacomb.case dieresiscomb.narrow gravecomb.narrow acutecomb.narrow circumflexcomb.narrow tildecomb.narrow macroncomb.narrow PulliDflt.tm MatraIiDflt.tm Anusvara.tm PulliDflt_Half.tm MatraIDflt_Fly.tm MatraIiDflt_SimpleIi.tm], # Mark
+    ;
+  LigatureCaretByPos f_f 413;
+  LigatureCaretByPos f_f_i 363 725;
+  LigatureCaretByPos f_f_l 365 730;
+  LigatureCaretByPos fi 357;
+  LigatureCaretByPos fl 360;
+  LigatureCaretByPos r_t 406;
+} GDEF;

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaMatraI_Simple.tm" format="2">
+  <advance width="1395.5"/>
+  <note>
+TaMatraI.tm
+</note>
+  <outline>
+    <contour>
+      <point x="772.5" y="579.5" type="line"/>
+      <point x="844.0" y="579.5" type="line" smooth="yes"/>
+      <point x="1019.0" y="579.5"/>
+      <point x="1082.0" y="516.5"/>
+      <point x="1082.0" y="330.5" type="curve" smooth="yes"/>
+      <point x="1082.0" y="197.5" type="line" smooth="yes"/>
+      <point x="1082.0" y="-92.5"/>
+      <point x="979.0" y="-194.0"/>
+      <point x="678.0" y="-194.0" type="curve" smooth="yes"/>
+      <point x="408.5" y="-194.0" type="line"/>
+      <point x="430.0" y="-343.5" type="line"/>
+      <point x="690.5" y="-343.5" type="line" smooth="yes"/>
+      <point x="1114.5" y="-343.5"/>
+      <point x="1256.0" y="-195.5"/>
+      <point x="1256.0" y="203.0" type="curve" smooth="yes"/>
+      <point x="1256.0" y="340.5" type="line" smooth="yes"/>
+      <point x="1256.0" y="612.5"/>
+      <point x="1146.0" y="724.5"/>
+      <point x="863.5" y="724.5" type="curve" smooth="yes"/>
+      <point x="772.4955" y="724.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="968.0" y="1720.5" type="curve" smooth="yes"/>
+      <point x="732.5" y="1720.5"/>
+      <point x="618.5" y="1590.0"/>
+      <point x="618.5" y="1360.0" type="curve"/>
+      <point x="618.5" y="1332.5" type="line" smooth="yes"/>
+      <point x="618.5" y="1260.5"/>
+      <point x="634.5" y="1193.0"/>
+      <point x="664.0" y="1152.0" type="curve"/>
+      <point x="828.5" y="1152.0" type="line"/>
+      <point x="801.0" y="1193.5"/>
+      <point x="789.0" y="1244.0"/>
+      <point x="789.0" y="1319.0" type="curve" smooth="yes"/>
+      <point x="789.0" y="1345.0" type="line"/>
+      <point x="789.0" y="1497.5"/>
+      <point x="842.0" y="1569.5"/>
+      <point x="965.5" y="1569.5" type="curve" smooth="yes"/>
+      <point x="1093.0" y="1569.5"/>
+      <point x="1138.0" y="1495.0"/>
+      <point x="1138.0" y="1326.0" type="curve" smooth="yes"/>
+      <point x="1138.0" y="769.5" type="line"/>
+      <point x="1309.0" y="769.5" type="line"/>
+      <point x="1309.0" y="1321.0" type="line" smooth="yes"/>
+      <point x="1309.0" y="1591.5"/>
+      <point x="1209.0" y="1720.5"/>
+    </contour>
+    <component base="Tail_NonExporting" xOffset="7.0"/>
+    <component base="KaComponent_Nonexporting" xOffset="61.0"/>
+    <component base="KaBeak_Nonexporting" xOffset="794.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ta_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>TaMatraI.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ta_Simple.tm" format="2">
+  <advance width="1620"/>
+  <note>
+Ta.tm
+</note>
+  <anchor x="917" y="1239" name="top"/>
+  <outline>
+    <contour>
+      <point x="951" y="544" type="line"/>
+      <point x="1028" y="544" type="line" smooth="yes"/>
+      <point x="1249" y="544"/>
+      <point x="1335" y="466"/>
+      <point x="1335" y="254" type="curve" smooth="yes"/>
+      <point x="1335" y="207" type="line" smooth="yes"/>
+      <point x="1335" y="-103"/>
+      <point x="1208" y="-212"/>
+      <point x="845" y="-212" type="curve" smooth="yes"/>
+      <point x="49" y="-212" type="line"/>
+      <point x="74" y="-368" type="line"/>
+      <point x="857" y="-368" type="line" smooth="yes"/>
+      <point x="1351" y="-368"/>
+      <point x="1520" y="-210"/>
+      <point x="1520" y="210" type="curve" smooth="yes"/>
+      <point x="1520" y="260" type="line" smooth="yes"/>
+      <point x="1520" y="565"/>
+      <point x="1382" y="694"/>
+      <point x="1044" y="694" type="curve" smooth="yes"/>
+      <point x="951" y="694" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="83"/>
+    <component base="KaBeak_Nonexporting" xOffset="1055"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ta.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

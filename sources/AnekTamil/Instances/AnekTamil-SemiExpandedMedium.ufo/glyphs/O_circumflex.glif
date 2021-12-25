@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocircumflex" format="2">
+  <advance width="1454.0"/>
+  <unicode hex="00D4"/>
+  <anchor x="727.0" y="0.0" name="bottom"/>
+  <anchor x="727.0" y="639.0" name="center"/>
+  <anchor x="1039.0" y="5.0" name="ogonek"/>
+  <anchor x="728.5" y="1636.0" name="top"/>
+  <anchor x="13.0" y="1278.0" name="topleft"/>
+  <anchor x="1239.5" y="1278.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflexcomb.case" xOffset="267.0"/>
+  </outline>
+</glyph>

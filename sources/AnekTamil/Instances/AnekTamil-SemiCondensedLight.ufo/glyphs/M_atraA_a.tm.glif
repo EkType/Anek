@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraAa.tm" format="2">
+  <advance width="938.4749999999999"/>
+  <unicode hex="0BBE"/>
+  <note>
+RaAltMatraAa.tm
+</note>
+  <outline>
+    <contour>
+      <point x="636.85" y="1116.4950000000001" type="line"/>
+      <point x="636.85" y="0.0" type="line"/>
+      <point x="746.5500000000001" y="0.0" type="line"/>
+      <point x="746.5500000000001" y="1116.4950000000001" type="line"/>
+    </contour>
+    <contour>
+      <point x="726.24" y="1152.2450000000001" type="line"/>
+      <point x="153.39499999999998" y="1152.2450000000001" type="line"/>
+      <point x="153.39499999999998" y="0.0" type="line"/>
+      <point x="263.09499999999997" y="0.0" type="line"/>
+      <point x="263.09499999999997" y="1058.5300000000002" type="line"/>
+      <point x="726.24" y="1058.5300000000002" type="line"/>
+    </contour>
+    <component base="RaBeak_Nonexporting" xOffset="541.6550000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ra.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

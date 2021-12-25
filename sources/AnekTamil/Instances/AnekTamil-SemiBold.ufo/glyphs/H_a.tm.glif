@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ha.tm" format="2">
+  <advance width="3159.65"/>
+  <unicode hex="0BB9"/>
+  <note>
+Ha.tm
+</note>
+  <anchor x="1440.2666666666667" y="1237.0833333333333" name="top"/>
+  <outline>
+    <contour>
+      <point x="1397.25" y="199.0" type="line"/>
+      <point x="1397.25" y="0.0" type="line"/>
+      <point x="1743.4666666666667" y="0.0" type="line"/>
+      <point x="1743.4666666666667" y="199.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1832.8" y="-183.63333333333333" type="line"/>
+      <point x="464.5" y="-183.63333333333333" type="line"/>
+      <point x="496.6333333333333" y="-386.78333333333336" type="line"/>
+      <point x="1832.8" y="-386.78333333333336" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="8.394449999999999"/>
+    <component base="Rra_Simple.tm" xOffset="1467.2166666666667"/>
+    <component base="Tail_NonExporting" xOffset="5.35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Rra_Simple.tm</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>Tail_NonExporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Rra.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

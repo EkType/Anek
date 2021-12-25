@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nine.tm" format="2">
+  <advance width="2355.7799999999997"/>
+  <unicode hex="0BEF"/>
+  <note>
+Nine.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1050.8999999999999" y="567.69" type="line"/>
+      <point x="1209.51" y="567.69" type="line" smooth="yes"/>
+      <point x="1412.045" y="567.69"/>
+      <point x="1480.74" y="498.845"/>
+      <point x="1480.74" y="298.185" type="curve" smooth="yes"/>
+      <point x="1480.74" y="0.0" type="line"/>
+      <point x="1601.2450000000001" y="0.0" type="line"/>
+      <point x="1601.2450000000001" y="333.485" type="line" smooth="yes"/>
+      <point x="1601.2450000000001" y="558.8"/>
+      <point x="1712.925" y="662.755"/>
+      <point x="1890.1299999999999" y="662.755" type="curve" smooth="yes"/>
+      <point x="2064.07" y="662.755"/>
+      <point x="2137.025" y="564.24"/>
+      <point x="2137.025" y="395.35" type="curve" smooth="yes"/>
+      <point x="2137.025" y="351.53000000000003" type="line" smooth="yes"/>
+      <point x="2137.025" y="192.07999999999998"/>
+      <point x="2096.2400000000002" y="85.38"/>
+      <point x="2041.04" y="0.0" type="curve"/>
+      <point x="2164.805" y="0.0" type="line"/>
+      <point x="2211.8300000000004" y="77.235"/>
+      <point x="2256.675" y="195.8"/>
+      <point x="2256.675" y="372.23" type="curve" smooth="yes"/>
+      <point x="2256.675" y="415.72499999999997" type="line" smooth="yes"/>
+      <point x="2256.675" y="637.8249999999999"/>
+      <point x="2150.965" y="766.1850000000001"/>
+      <point x="1911.7099999999998" y="766.1850000000001" type="curve" smooth="yes"/>
+      <point x="1679.35" y="766.1850000000001"/>
+      <point x="1548.94" y="630.895"/>
+      <point x="1545.41" y="416.175" type="curve" smooth="yes"/>
+      <point x="1545.41" y="408.09000000000003" type="line"/>
+      <point x="1540.995" y="408.09000000000003" type="line"/>
+      <point x="1529.4" y="584.15"/>
+      <point x="1448.72" y="664.88"/>
+      <point x="1220.755" y="664.88" type="curve" smooth="yes"/>
+      <point x="1050.8999999999999" y="664.88" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="67.55"/>
+    <component base="KaBeak_Nonexporting" xOffset="1135.875"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal Digit</string>
+    </dict>
+  </lib>
+</glyph>

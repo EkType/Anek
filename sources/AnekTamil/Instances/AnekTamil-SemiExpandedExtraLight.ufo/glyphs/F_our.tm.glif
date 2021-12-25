@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Four.tm" format="2">
+  <advance width="1772.2649999999999"/>
+  <unicode hex="0BEA"/>
+  <note>
+Four.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1050.0025" y="589.4200000000001" type="line"/>
+      <point x="1606.3625000000002" y="589.4200000000001" type="line"/>
+      <point x="1605.435" y="654.015" type="line"/>
+      <point x="1050.0025" y="654.015" type="line"/>
+    </contour>
+    <contour>
+      <point x="1571.6275" y="1121.975" type="line"/>
+      <point x="1571.6275" y="589.4200000000001" type="line"/>
+      <point x="1646.3174999999999" y="589.4200000000001" type="line"/>
+      <point x="1646.3174999999999" y="1121.975" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="71.52499999999999"/>
+    <component base="KaBeak_Nonexporting" xOffset="1083.6200000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal Digit</string>
+    </dict>
+  </lib>
+</glyph>

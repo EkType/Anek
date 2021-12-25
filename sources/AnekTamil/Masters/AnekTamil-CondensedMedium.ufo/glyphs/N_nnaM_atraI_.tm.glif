@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NnnaMatraI.tm" format="2">
+  <advance width="2171"/>
+  <note>
+NnnaMatraI.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1473" y="1059" type="line"/>
+      <point x="1473" y="0" type="line"/>
+      <point x="1638" y="0" type="line"/>
+      <point x="1638" y="1056" type="line"/>
+    </contour>
+    <contour>
+      <point x="1593" y="1173" type="line"/>
+      <point x="1256" y="1173" type="line" smooth="yes"/>
+      <point x="1183" y="1173"/>
+      <point x="1112" y="1165"/>
+      <point x="1073" y="1157" type="curve"/>
+      <point x="1049" y="1017" type="line"/>
+      <point x="1108" y="1028"/>
+      <point x="1176" y="1034"/>
+      <point x="1254" y="1034" type="curve" smooth="yes"/>
+      <point x="1593" y="1034" type="line"/>
+    </contour>
+    <contour>
+      <point x="694" y="1205" type="curve" smooth="yes"/>
+      <point x="297" y="1205"/>
+      <point x="88" y="1013"/>
+      <point x="88" y="638" type="curve" smooth="yes"/>
+      <point x="88" y="279" type="line" smooth="yes"/>
+      <point x="88" y="89"/>
+      <point x="172" y="-22"/>
+      <point x="350" y="-22" type="curve" smooth="yes"/>
+      <point x="529" y="-22"/>
+      <point x="610" y="87"/>
+      <point x="610" y="274" type="curve" smooth="yes"/>
+      <point x="610" y="552" type="line" smooth="yes"/>
+      <point x="610" y="722"/>
+      <point x="552" y="810"/>
+      <point x="426" y="810" type="curve" smooth="yes"/>
+      <point x="323" y="810"/>
+      <point x="264" y="740"/>
+      <point x="248" y="656" type="curve"/>
+      <point x="240" y="656" type="line"/>
+      <point x="242" y="546" type="line"/>
+      <point x="256" y="616"/>
+      <point x="298" y="660"/>
+      <point x="354" y="660" type="curve" smooth="yes"/>
+      <point x="421" y="660"/>
+      <point x="450" y="612"/>
+      <point x="450" y="519" type="curve" smooth="yes"/>
+      <point x="450" y="268" type="line" smooth="yes"/>
+      <point x="450" y="165"/>
+      <point x="421" y="116"/>
+      <point x="350" y="116" type="curve" smooth="yes"/>
+      <point x="279" y="116"/>
+      <point x="249" y="165"/>
+      <point x="249" y="268" type="curve" smooth="yes"/>
+      <point x="249" y="656" type="line"/>
+      <point x="243" y="656" type="line"/>
+      <point x="243" y="657"/>
+      <point x="243" y="657"/>
+      <point x="243" y="658" type="curve" smooth="yes"/>
+      <point x="243" y="927"/>
+      <point x="385" y="1059"/>
+      <point x="694" y="1059" type="curve" smooth="yes"/>
+      <point x="843" y="1059"/>
+      <point x="930" y="1032"/>
+      <point x="992" y="996" type="curve"/>
+      <point x="1001" y="994" type="line"/>
+      <point x="1102" y="927"/>
+      <point x="1127" y="824"/>
+      <point x="1127" y="628" type="curve" smooth="yes"/>
+      <point x="1127" y="278" type="line" smooth="yes"/>
+      <point x="1127" y="170"/>
+      <point x="1094" y="124"/>
+      <point x="1022" y="124" type="curve" smooth="yes"/>
+      <point x="947" y="124"/>
+      <point x="912" y="170"/>
+      <point x="912" y="277" type="curve" smooth="yes"/>
+      <point x="912" y="627" type="line" smooth="yes"/>
+      <point x="912" y="823"/>
+      <point x="941" y="927"/>
+      <point x="1047" y="994" type="curve"/>
+      <point x="974" y="1086" type="line"/>
+      <point x="804" y="1007"/>
+      <point x="750" y="853"/>
+      <point x="750" y="620" type="curve" smooth="yes"/>
+      <point x="750" y="281" type="line" smooth="yes"/>
+      <point x="750" y="88"/>
+      <point x="835" y="-22"/>
+      <point x="1022" y="-22" type="curve" smooth="yes"/>
+      <point x="1207" y="-22"/>
+      <point x="1290" y="85"/>
+      <point x="1290" y="281" type="curve" smooth="yes"/>
+      <point x="1290" y="620" type="line" smooth="yes"/>
+      <point x="1290" y="854"/>
+      <point x="1241" y="1003"/>
+      <point x="1096" y="1084" type="curve"/>
+      <point x="1095" y="1096" type="line"/>
+      <point x="1017" y="1159"/>
+      <point x="882" y="1205"/>
+    </contour>
+    <component base="RaBeak_Nonexporting" xOffset="1387"/>
+    <component base="MatraIDflt.tm" xOffset="1443"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>MatraIDflt.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Nna.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

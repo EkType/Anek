@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ShaMatraU.tm" format="2">
+  <advance width="2669.4"/>
+  <note>
+ShaMatraU.tm
+</note>
+  <anchor x="954.9666666666667" y="1241.1916666666666" name="top"/>
+  <outline>
+    <contour>
+      <point x="1874.2166666666667" y="1166.1333333333334" type="line"/>
+      <point x="1656.6416666666667" y="1166.1333333333334" type="line"/>
+      <point x="1661.8833333333332" y="974.9333333333333" type="line"/>
+      <point x="1874.2166666666667" y="974.9333333333333" type="line"/>
+    </contour>
+    <component base="Sha_dummy.tm"/>
+    <component base="MatraUDflt_dummy.tm" xOffset="1710.7666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Sha.tm</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>MatraUDflt.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Sha.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraUDflt.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

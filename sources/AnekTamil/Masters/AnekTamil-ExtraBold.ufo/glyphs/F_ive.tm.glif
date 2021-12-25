@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Five.tm" format="2">
+  <advance width="2251"/>
+  <unicode hex="0BEB"/>
+  <note>
+Five.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1264" y="1087" type="line"/>
+      <point x="1264" y="0" type="line"/>
+      <point x="1598" y="0" type="line"/>
+      <point x="1598" y="1087" type="line"/>
+    </contour>
+    <contour>
+      <point x="1871" y="767" type="curve" smooth="yes"/>
+      <point x="1714" y="767"/>
+      <point x="1627" y="680"/>
+      <point x="1608" y="561" type="curve"/>
+      <point x="1562" y="561" type="line"/>
+      <point x="1562" y="389" type="line"/>
+      <point x="1584" y="389" type="line"/>
+      <point x="1600" y="448"/>
+      <point x="1651" y="489"/>
+      <point x="1718" y="489" type="curve" smooth="yes"/>
+      <point x="1804" y="489"/>
+      <point x="1839" y="436"/>
+      <point x="1839" y="318" type="curve" smooth="yes"/>
+      <point x="1839" y="263" type="line" smooth="yes"/>
+      <point x="1839" y="-72"/>
+      <point x="1670" y="-254"/>
+      <point x="1207" y="-254" type="curve" smooth="yes"/>
+      <point x="1199" y="-254" type="line" smooth="yes"/>
+      <point x="661" y="-254"/>
+      <point x="439" y="-18"/>
+      <point x="439" y="485" type="curve" smooth="yes"/>
+      <point x="439" y="653" type="line" smooth="yes"/>
+      <point x="439" y="1196"/>
+      <point x="682" y="1431"/>
+      <point x="1276" y="1431" type="curve" smooth="yes"/>
+      <point x="1598" y="1431"/>
+      <point x="1852" y="1372"/>
+      <point x="2073" y="1255" type="curve"/>
+      <point x="2026" y="1567" type="line"/>
+      <point x="1826" y="1666"/>
+      <point x="1560" y="1719"/>
+      <point x="1270" y="1719" type="curve" smooth="yes"/>
+      <point x="483" y="1719"/>
+      <point x="101" y="1369"/>
+      <point x="101" y="652" type="curve" smooth="yes"/>
+      <point x="101" y="486" type="line" smooth="yes"/>
+      <point x="101" y="-213"/>
+      <point x="473" y="-543"/>
+      <point x="1200" y="-543" type="curve" smooth="yes"/>
+      <point x="1206" y="-543" type="line" smooth="yes"/>
+      <point x="1878" y="-543"/>
+      <point x="2177" y="-256"/>
+      <point x="2177" y="270" type="curve" smooth="yes"/>
+      <point x="2177" y="348" type="line" smooth="yes"/>
+      <point x="2177" y="624"/>
+      <point x="2087" y="767"/>
+    </contour>
+    <contour>
+      <point x="1666" y="1163" type="line"/>
+      <point x="699" y="1163" type="line"/>
+      <point x="699" y="0" type="line"/>
+      <point x="1034" y="0" type="line"/>
+      <point x="1034" y="890" type="line"/>
+      <point x="1666" y="890" type="line"/>
+    </contour>
+    <component base="RaBeak_Nonexporting" xOffset="1415"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Na.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal Digit</string>
+    </dict>
+  </lib>
+</glyph>

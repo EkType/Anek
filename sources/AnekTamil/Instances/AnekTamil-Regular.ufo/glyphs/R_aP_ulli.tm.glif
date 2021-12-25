@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="RaPulli.tm" format="2">
+  <advance width="1146.38"/>
+  <anchor x="542.97" y="1240.29" name="top"/>
+  <outline>
+    <component base="Ra.tm"/>
+    <component base="PulliDflt.tm" xOffset="436.945" yOffset="-0.785"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>PulliDflt.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ra.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ra.tm</string>
+    </dict>
+  </lib>
+</glyph>

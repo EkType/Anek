@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VaMatraI.tm" format="2">
+  <advance width="2415.5"/>
+  <note>
+VaMatraI.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1481.5" y="1176.0" type="line"/>
+      <point x="1481.5" y="263.5" type="line"/>
+      <point x="1176.5" y="263.5" type="line"/>
+      <point x="1181.0" y="0.0" type="line"/>
+      <point x="1794.5" y="0.0" type="line"/>
+      <point x="1794.5" y="1176.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1732.0" y="1768.5" type="curve" smooth="yes"/>
+      <point x="1378.0" y="1768.5"/>
+      <point x="1186.5" y="1597.0"/>
+      <point x="1186.5" y="1339.0" type="curve" smooth="yes"/>
+      <point x="1186.5" y="1335.5" type="line" smooth="yes"/>
+      <point x="1186.5" y="1100.5"/>
+      <point x="1320.5" y="952.0"/>
+      <point x="1603.0" y="939.0" type="curve"/>
+      <point x="1705.5" y="1176.0" type="line"/>
+      <point x="1556.5" y="1176.0"/>
+      <point x="1498.5" y="1235.0"/>
+      <point x="1498.5" y="1327.0" type="curve" smooth="yes"/>
+      <point x="1498.5" y="1330.5" type="line" smooth="yes"/>
+      <point x="1498.5" y="1434.5"/>
+      <point x="1579.5" y="1496.0"/>
+      <point x="1732.0" y="1496.0" type="curve" smooth="yes"/>
+      <point x="1921.0" y="1496.0"/>
+      <point x="1990.5" y="1426.0"/>
+      <point x="1990.5" y="1250.5" type="curve" smooth="yes"/>
+      <point x="1990.5" y="0.0" type="line"/>
+      <point x="2304.5" y="0.0" type="line"/>
+      <point x="2304.5" y="1228.0" type="line" smooth="yes"/>
+      <point x="2304.5" y="1595.5"/>
+      <point x="2139.0" y="1768.5"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="5.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Va.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

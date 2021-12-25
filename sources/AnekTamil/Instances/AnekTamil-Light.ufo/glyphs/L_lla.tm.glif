@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Llla.tm" format="2">
+  <advance width="1648.87"/>
+  <unicode hex="0BB4"/>
+  <note>
+Llla.tm
+</note>
+  <anchor x="804.39" y="1241.82" name="top"/>
+  <outline>
+    <contour>
+      <point x="741.5" y="-620.04" type="curve" smooth="yes"/>
+      <point x="961.41" y="-620.04"/>
+      <point x="1038.65" y="-519.27"/>
+      <point x="1108.95" y="-354.44" type="curve" smooth="yes"/>
+      <point x="1116.42" y="-336.03" type="line" smooth="yes"/>
+      <point x="1129.07" y="-306.85"/>
+      <point x="1139.13" y="-291.85"/>
+      <point x="1175.31" y="-291.85" type="curve" smooth="yes"/>
+      <point x="1288.59" y="-291.85" type="line"/>
+      <point x="1306.01" y="-200.49" type="line"/>
+      <point x="1117.68" y="-200.49" type="line" smooth="yes"/>
+      <point x="941.12" y="-200.49"/>
+      <point x="895.48" y="-146.97"/>
+      <point x="895.48" y="-11.93" type="curve" smooth="yes"/>
+      <point x="895.48" y="48.75" type="line"/>
+      <point x="782.1" y="48.75" type="line"/>
+      <point x="782.1" y="-18.7" type="line" smooth="yes"/>
+      <point x="782.1" y="-194.47"/>
+      <point x="849.04" y="-264.95"/>
+      <point x="1045.98" y="-272.19" type="curve"/>
+      <point x="1045.98" y="-276.31" type="line"/>
+      <point x="1025.57" y="-278.37"/>
+      <point x="1014.57" y="-293.84"/>
+      <point x="1002.51" y="-318.84" type="curve" smooth="yes"/>
+      <point x="997.04" y="-332.25" type="line" smooth="yes"/>
+      <point x="946.46" y="-446.05"/>
+      <point x="892.53" y="-527.15"/>
+      <point x="741.5" y="-527.15" type="curve" smooth="yes"/>
+      <point x="578.88" y="-527.15"/>
+      <point x="492.19" y="-444.69"/>
+      <point x="492.19" y="-275.07" type="curve" smooth="yes"/>
+      <point x="492.19" y="-233.6"/>
+      <point x="496.66" y="-192.19"/>
+      <point x="500.13" y="-164.01" type="curve"/>
+      <point x="387.81" y="-164.01" type="line"/>
+      <point x="384.34" y="-190.66"/>
+      <point x="379.87" y="-228.6"/>
+      <point x="379.87" y="-272.95" type="curve" smooth="yes"/>
+      <point x="379.87" y="-500.61"/>
+      <point x="507.29" y="-620.04"/>
+    </contour>
+    <component base="Ma.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ma.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ma.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ShaMatraI.tm" format="2">
+  <advance width="2647.385"/>
+  <note>
+ShaMatraI.tm
+</note>
+  <anchor x="1066.39" y="1240.29" name="top"/>
+  <outline>
+    <contour>
+      <point x="2098.49" y="1732.54" type="curve" smooth="yes"/>
+      <point x="1854.885" y="1732.54"/>
+      <point x="1721.26" y="1598.775"/>
+      <point x="1721.26" y="1379.0" type="curve" smooth="yes"/>
+      <point x="1721.26" y="1372.355" type="line" smooth="yes"/>
+      <point x="1721.26" y="1274.84"/>
+      <point x="1754.27" y="1190.13"/>
+      <point x="1804.775" y="1143.56" type="curve"/>
+      <point x="1952.395" y="1143.56" type="line"/>
+      <point x="1899.88" y="1189.28"/>
+      <point x="1869.515" y="1258.215"/>
+      <point x="1869.515" y="1350.375" type="curve" smooth="yes"/>
+      <point x="1869.515" y="1355.805" type="line" smooth="yes"/>
+      <point x="1869.515" y="1519.33"/>
+      <point x="1949.105" y="1602.77"/>
+      <point x="2096.92" y="1602.77" type="curve" smooth="yes"/>
+      <point x="2256.165" y="1602.77"/>
+      <point x="2318.465" y="1518.975"/>
+      <point x="2318.465" y="1329.02" type="curve" smooth="yes"/>
+      <point x="2318.465" y="0.0" type="line"/>
+      <point x="2471.43" y="0.0" type="line"/>
+      <point x="2471.43" y="1325.385" type="line" smooth="yes"/>
+      <point x="2471.43" y="1603.775"/>
+      <point x="2358.945" y="1732.54"/>
+    </contour>
+    <component base="Sha.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Sha.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Sha.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

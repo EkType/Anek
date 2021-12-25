@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NgaMatraU.tm" format="2">
+  <advance width="1938.0633333333335"/>
+  <note>
+NgaMatraU.tm
+</note>
+  <anchor x="1084.2183333333332" y="1241.3483333333334" name="top"/>
+  <outline>
+    <contour>
+      <point x="1545.5816666666667" y="202.92166666666668" type="line"/>
+      <point x="1545.5816666666667" y="-348.2816666666667" type="line"/>
+      <point x="1817.4183333333335" y="-348.2816666666667" type="line"/>
+      <point x="1817.4183333333335" y="202.92166666666668" type="line"/>
+    </contour>
+    <component base="Nga_dummy.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Nga.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

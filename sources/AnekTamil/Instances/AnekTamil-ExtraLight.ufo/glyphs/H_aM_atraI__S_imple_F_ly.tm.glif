@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="HaMatraI_Simple_Fly.tm" format="2">
+  <advance width="2972.375"/>
+  <note>
+HaMatraI.tm
+</note>
+  <anchor x="2163.365" y="1243.41" name="top"/>
+  <outline>
+    <contour>
+      <point x="1278.86" y="64.8" type="line"/>
+      <point x="1278.86" y="0.0" type="line"/>
+      <point x="1603.27" y="0.0" type="line"/>
+      <point x="1603.27" y="64.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="1635.355" y="-265.655" type="line"/>
+      <point x="105.955" y="-265.655" type="line"/>
+      <point x="119.93" y="-331.25" type="line"/>
+      <point x="1635.355" y="-331.25" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="21.817615"/>
+    <component base="RraMatraI_Simple_Fly.tm" xOffset="1376.79"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>RraMatraI_Simple_Fly.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ha_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>RraMatraI_Fly.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

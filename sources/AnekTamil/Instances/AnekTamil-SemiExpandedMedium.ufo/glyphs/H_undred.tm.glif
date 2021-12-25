@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hundred.tm" format="2">
+  <advance width="1904.0"/>
+  <unicode hex="0BF1"/>
+  <note>
+Hundred.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1456.0" y="1083.5" type="line"/>
+      <point x="1456.0" y="0.0" type="line"/>
+      <point x="1652.0" y="0.0" type="line"/>
+      <point x="1652.0" y="1083.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="1576.5" y="1134.0" type="line"/>
+      <point x="861.5" y="1134.0" type="line"/>
+      <point x="864.5" y="914.5" type="line"/>
+      <point x="855.5" y="914.5" type="line"/>
+      <point x="833.5" y="1068.5"/>
+      <point x="740.5" y="1157.5"/>
+      <point x="549.5" y="1157.5" type="curve" smooth="yes"/>
+      <point x="308.5" y="1157.5"/>
+      <point x="174.0" y="1025.5"/>
+      <point x="174.0" y="730.5" type="curve" smooth="yes"/>
+      <point x="174.0" y="0.0" type="line"/>
+      <point x="370.0" y="0.0" type="line"/>
+      <point x="370.0" y="738.0" type="line" smooth="yes"/>
+      <point x="370.0" y="916.5"/>
+      <point x="450.5" y="994.5"/>
+      <point x="587.0" y="994.5" type="curve" smooth="yes"/>
+      <point x="732.5" y="994.5"/>
+      <point x="795.0" y="912.0"/>
+      <point x="795.0" y="716.0" type="curve" smooth="yes"/>
+      <point x="795.0" y="0.0" type="line"/>
+      <point x="991.0" y="0.0" type="line"/>
+      <point x="991.0" y="976.5" type="line"/>
+      <point x="1576.5" y="976.5" type="line"/>
+    </contour>
+    <component base="RaBeak_Nonexporting" xOffset="1353.4955"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ra.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

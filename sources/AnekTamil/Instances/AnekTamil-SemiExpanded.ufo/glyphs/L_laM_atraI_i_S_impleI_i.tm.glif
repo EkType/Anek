@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LlaMatraIi_SimpleIi.tm" format="2">
+  <advance width="2346.535"/>
+  <note>
+LlaMatraIi.tm
+</note>
+  <anchor x="1336.3249999999998" y="1239.9724999999999" name="top"/>
+  <outline>
+    <component base="Lla.tm"/>
+    <component base="MatraIiDflt_SimpleIi.tm" xOffset="1800.8175"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>MatraIiDflt_SimpleIi.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Lla.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>RaMatraIi_SimpleIi.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

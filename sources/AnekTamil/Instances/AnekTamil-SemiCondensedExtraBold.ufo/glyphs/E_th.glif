@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="1084.5"/>
+  <unicode hex="00D0"/>
+  <anchor x="524.0" y="0.0" name="bottom"/>
+  <anchor x="542.5" y="639.0" name="center"/>
+  <anchor x="524.0" y="1278.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="2.0" y="553.0" type="line"/>
+      <point x="566.5" y="552.5" type="line"/>
+      <point x="566.5" y="743.5" type="line"/>
+      <point x="2.0" y="744.0" type="line"/>
+    </contour>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>D</string>
+    </dict>
+  </lib>
+</glyph>

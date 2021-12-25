@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ra_dummy.tm" format="2">
+  <advance width="969.4250000000001"/>
+  <note>
+Ra.tm
+</note>
+  <anchor x="462.7825" y="1240.8925" name="top"/>
+  <outline>
+    <contour>
+      <point x="784.5125" y="1114.3275" type="line"/>
+      <point x="639.1125" y="1114.3275" type="line"/>
+      <point x="639.1125" y="-94.80499999999999" type="line"/>
+      <point x="98.12750000000001" y="-178.025" type="line"/>
+      <point x="98.12750000000001" y="-298.73" type="line"/>
+      <point x="784.5125" y="-202.59" type="line"/>
+    </contour>
+    <contour>
+      <point x="753.86" y="1156.4524999999999" type="line"/>
+      <point x="146.12750000000003" y="1156.4524999999999" type="line"/>
+      <point x="146.12750000000003" y="0.0" type="line"/>
+      <point x="291.5275" y="0.0" type="line"/>
+      <point x="291.5275" y="1033.285" type="line"/>
+      <point x="753.86" y="1033.285" type="line"/>
+    </contour>
+    <component base="RaBeak_Nonexporting" xOffset="548.635"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

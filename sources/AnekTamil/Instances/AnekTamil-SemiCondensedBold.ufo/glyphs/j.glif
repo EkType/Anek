@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="474.08166666666665"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="98.57166666666666" y="172.91500000000002" type="line"/>
+      <point x="386.33" y="172.91500000000002" type="line"/>
+      <point x="386.33" y="993.225" type="line"/>
+      <point x="98.57166666666666" y="993.225" type="line"/>
+    </contour>
+    <contour>
+      <point x="242.62500000000003" y="1076.79" type="curve" smooth="yes"/>
+      <point x="346.71666666666664" y="1076.79"/>
+      <point x="394.49833333333333" y="1130.5716666666667"/>
+      <point x="394.49833333333333" y="1217.8816666666667" type="curve" smooth="yes"/>
+      <point x="394.49833333333333" y="1226.9266666666667" type="line" smooth="yes"/>
+      <point x="394.49833333333333" y="1313.2366666666667"/>
+      <point x="346.71666666666664" y="1367.8666666666668"/>
+      <point x="242.62500000000003" y="1367.8666666666668" type="curve" smooth="yes"/>
+      <point x="137.685" y="1367.8666666666668"/>
+      <point x="90.75166666666667" y="1313.2366666666667"/>
+      <point x="90.75166666666667" y="1226.9266666666667" type="curve" smooth="yes"/>
+      <point x="90.75166666666667" y="1217.8816666666667" type="line" smooth="yes"/>
+      <point x="90.75166666666667" y="1131.0716666666667"/>
+      <point x="137.685" y="1076.79"/>
+    </contour>
+    <component base="jbottom"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>jbottom</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>jbottom</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="JaMatraI_Fused.tm" format="2">
+  <advance width="2443"/>
+  <note>
+JaMatraI.tm
+</note>
+  <anchor x="1095" y="1239" name="top"/>
+  <outline>
+    <contour>
+      <point x="1817" y="1742" type="curve" smooth="yes"/>
+      <point x="1516" y="1742"/>
+      <point x="1357" y="1580"/>
+      <point x="1357" y="1331" type="curve" smooth="yes"/>
+      <point x="1357" y="1327" type="line" smooth="yes"/>
+      <point x="1357" y="1256"/>
+      <point x="1373" y="1185"/>
+      <point x="1397" y="1143" type="curve"/>
+      <point x="1574" y="1143" type="line"/>
+      <point x="1551" y="1182"/>
+      <point x="1539" y="1237"/>
+      <point x="1539" y="1304" type="curve" smooth="yes"/>
+      <point x="1539" y="1306" type="line" smooth="yes"/>
+      <point x="1539" y="1485"/>
+      <point x="1633" y="1582"/>
+      <point x="1815" y="1582" type="curve" smooth="yes"/>
+      <point x="2012" y="1582"/>
+      <point x="2089" y="1477"/>
+      <point x="2089" y="1246" type="curve" smooth="yes"/>
+      <point x="2089" y="0" type="line"/>
+      <point x="2275" y="0" type="line"/>
+      <point x="2275" y="1241" type="line" smooth="yes"/>
+      <point x="2275" y="1580"/>
+      <point x="2137" y="1742"/>
+    </contour>
+    <component base="Ja_Fused.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ja_Fused.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ja_Fused.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

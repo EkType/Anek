@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LaMatraU_Simple.tm" format="2">
+  <advance width="2041.945"/>
+  <note>
+LaMatraU.tm
+</note>
+  <anchor x="923.3050000000001" y="1240.7649999999999" name="top"/>
+  <outline>
+    <contour>
+      <point x="1778.8500000000001" y="1152.2450000000001" type="line"/>
+      <point x="1778.8500000000001" y="-261.735" type="line"/>
+      <point x="1888.5500000000002" y="-261.735" type="line"/>
+      <point x="1888.5500000000002" y="1152.2450000000001" type="line"/>
+    </contour>
+    <contour>
+      <point x="663.555" y="-649.62" type="curve" smooth="yes"/>
+      <point x="1022.5950000000001" y="-649.62"/>
+      <point x="1196.645" y="-498.48"/>
+      <point x="1240.025" y="-273.95" type="curve"/>
+      <point x="1240.76" y="-252.875" type="line"/>
+      <point x="1249.525" y="-198.72"/>
+      <point x="1259.73" y="-96.495"/>
+      <point x="1259.9950000000001" y="0.9250000000000003" type="curve"/>
+      <point x="1150.825" y="0.9250000000000003" type="line"/>
+      <point x="1150.5600000000002" y="-92.42999999999999"/>
+      <point x="1140.6200000000001" y="-195.215"/>
+      <point x="1132.18" y="-243.69000000000003" type="curve"/>
+      <point x="1129.03" y="-268.565" type="line"/>
+      <point x="1093.9799999999998" y="-439.235"/>
+      <point x="958.835" y="-558.3499999999999"/>
+      <point x="663.555" y="-558.3499999999999" type="curve" smooth="yes"/>
+      <point x="357.635" y="-558.3499999999999"/>
+      <point x="225.315" y="-438.97999999999996"/>
+      <point x="196.935" y="-297.585" type="curve"/>
+      <point x="1888.5500000000002" y="-297.585" type="line"/>
+      <point x="1888.5500000000002" y="-207.785" type="line"/>
+      <point x="68.93" y="-207.785" type="line"/>
+      <point x="95.305" y="-486.265"/>
+      <point x="284.305" y="-649.62"/>
+    </contour>
+    <component base="La_dummy.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>La.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

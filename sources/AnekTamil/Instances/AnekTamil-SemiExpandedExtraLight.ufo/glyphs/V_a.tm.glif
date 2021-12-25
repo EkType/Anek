@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Va.tm" format="2">
+  <advance width="2155.2175"/>
+  <unicode hex="0BB5"/>
+  <note>
+Va.tm
+</note>
+  <anchor x="1236.6825000000001" y="1245.9525" name="top"/>
+  <outline>
+    <contour>
+      <point x="1859.875" y="1122.24" type="line"/>
+      <point x="1859.875" y="66.125" type="line"/>
+      <point x="1383.095" y="66.125" type="line"/>
+      <point x="1384.95" y="0.0" type="line"/>
+      <point x="1938.6425" y="0.0" type="line"/>
+      <point x="1938.6425" y="1122.24" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="16.8375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

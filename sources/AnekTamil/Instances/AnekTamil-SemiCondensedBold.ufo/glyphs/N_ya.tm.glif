@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nya.tm" format="2">
+  <advance width="2318.2333333333336"/>
+  <unicode hex="0B9E"/>
+  <note>
+Nya.tm
+</note>
+  <anchor x="1183.8183333333334" y="1241.3483333333334" name="top"/>
+  <outline>
+    <contour>
+      <point x="1459.1100000000001" y="1107.5333333333333" type="line"/>
+      <point x="1459.1100000000001" y="0.0" type="line"/>
+      <point x="1731.795" y="0.0" type="line"/>
+      <point x="1731.795" y="1107.5333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="1973.7616666666665" y="789.27" type="curve" smooth="yes"/>
+      <point x="1835.795" y="789.27"/>
+      <point x="1758.75" y="708.545"/>
+      <point x="1740.0816666666667" y="599.5783333333333" type="curve"/>
+      <point x="1702.3283333333331" y="599.5783333333333" type="line"/>
+      <point x="1702.3283333333331" y="436.2966666666667" type="line"/>
+      <point x="1721.205" y="436.2966666666667" type="line"/>
+      <point x="1734.1316666666667" y="508.9916666666667"/>
+      <point x="1783.1366666666668" y="557.2716666666666"/>
+      <point x="1850.2533333333333" y="557.2716666666666" type="curve" smooth="yes"/>
+      <point x="1933.735" y="557.2716666666666"/>
+      <point x="1963.875" y="501.975"/>
+      <point x="1963.875" y="378.735" type="curve" smooth="yes"/>
+      <point x="1963.875" y="316.66833333333335" type="line" smooth="yes"/>
+      <point x="1963.875" y="-95.50333333333334"/>
+      <point x="1773.6399999999999" y="-291.03666666666663"/>
+      <point x="1241.3866666666668" y="-291.03666666666663" type="curve" smooth="yes"/>
+      <point x="1232.2516666666666" y="-291.03666666666663" type="line" smooth="yes"/>
+      <point x="613.2950000000001" y="-291.03666666666663"/>
+      <point x="388.91999999999996" y="-45.68833333333334"/>
+      <point x="388.91999999999996" y="478.65833333333336" type="curve"/>
+      <point x="388.91999999999996" y="1171.1466666666668" type="line"/>
+      <point x="114.03833333333334" y="1171.1466666666668" type="line"/>
+      <point x="114.03833333333334" y="470.71999999999997" type="line"/>
+      <point x="114.03833333333334" y="-199.92166666666665"/>
+      <point x="450.62333333333333" y="-531.3333333333334"/>
+      <point x="1232.2516666666666" y="-531.3333333333334" type="curve" smooth="yes"/>
+      <point x="1241.3866666666668" y="-531.3333333333334" type="line" smooth="yes"/>
+      <point x="1947.25" y="-531.3333333333334"/>
+      <point x="2237.56" y="-248.43333333333334"/>
+      <point x="2237.56" y="313.32" type="curve" smooth="yes"/>
+      <point x="2237.56" y="411.05" type="line" smooth="yes"/>
+      <point x="2237.56" y="660.545"/>
+      <point x="2163.6666666666665" y="789.27"/>
+    </contour>
+    <contour>
+      <point x="1802.8383333333331" y="1171.1466666666668" type="line"/>
+      <point x="1281.4083333333335" y="1171.1466666666668" type="line"/>
+      <point x="1281.4083333333335" y="942.6816666666666" type="line"/>
+      <point x="1802.8383333333331" y="942.6816666666666" type="line"/>
+    </contour>
+    <component base="VowelE_NonExporting" xOffset="513.6366666666667"/>
+    <component base="RaBeak_Nonexporting" xOffset="1568.73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>VowelE_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="HaMatraIi_Simple_SimpleIi.tm" format="2">
+  <advance width="3162.35"/>
+  <note>
+HaMatraIi.tm
+</note>
+  <anchor x="2313.766666666667" y="1237.0833333333333" name="top"/>
+  <outline>
+    <contour>
+      <point x="1414.85" y="199.0" type="line"/>
+      <point x="1414.85" y="0.0" type="line"/>
+      <point x="1734.7833333333333" y="0.0" type="line"/>
+      <point x="1734.7833333333333" y="199.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1717.2833333333333" y="-183.63333333333333" type="line"/>
+      <point x="46.3" y="-183.63333333333333" type="line"/>
+      <point x="77.43333333333334" y="-386.78333333333336" type="line"/>
+      <point x="1717.2833333333333" y="-386.78333333333336" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="8.394449999999999"/>
+    <component base="RraMatraIi_Simple_SimpleIi.tm" xOffset="1466.8333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>RraMatraIi_Simple_SimpleIi.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ha_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>RraMatraIi_Simple_SimpleIi.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

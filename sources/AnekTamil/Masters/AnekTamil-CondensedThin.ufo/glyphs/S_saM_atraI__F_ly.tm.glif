@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SsaMatraI_Fly.tm" format="2">
+  <advance width="1480"/>
+  <note>
+SsaMatraI.tm
+</note>
+  <anchor x="831" y="1236" name="top"/>
+  <outline>
+    <contour>
+      <point x="1453" y="1459" type="line"/>
+      <point x="1278" y="1459" type="line" smooth="yes"/>
+      <point x="1154" y="1459"/>
+      <point x="1118" y="1408"/>
+      <point x="1118" y="1325" type="curve" smooth="yes"/>
+      <point x="1118" y="1295"/>
+      <point x="1124" y="1260"/>
+      <point x="1144" y="1170" type="curve"/>
+      <point x="1177" y="1170" type="line"/>
+      <point x="1159" y="1255"/>
+      <point x="1152" y="1290"/>
+      <point x="1152" y="1319" type="curve" smooth="yes"/>
+      <point x="1152" y="1384"/>
+      <point x="1173" y="1426"/>
+      <point x="1278" y="1426" type="curve" smooth="yes"/>
+      <point x="1460" y="1426" type="line"/>
+    </contour>
+    <component base="Ssa.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Va.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

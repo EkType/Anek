@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ca.tm" format="2">
+  <advance width="1362.1"/>
+  <unicode hex="0B9A"/>
+  <note>
+Ca.tm
+</note>
+  <anchor x="899.55" y="1240.29" name="top"/>
+  <outline>
+    <contour>
+      <point x="932.735" y="569.05" type="line"/>
+      <point x="1340.24" y="569.05" type="line"/>
+      <point x="1321.82" y="693.68" type="line"/>
+      <point x="932.735" y="693.68" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="77.01"/>
+    <component base="KaBeak_Nonexporting" xOffset="964.455"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

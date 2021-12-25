@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TtaPulli_Half.tm" format="2">
+  <advance width="1732.5"/>
+  <note>
+TtaPulli.tm
+</note>
+  <anchor x="1069.0" y="1226.0" name="top"/>
+  <outline>
+    <component base="Tta_dummy.tm"/>
+    <component base="PulliDflt_Half.tm" xOffset="864.0" yOffset="-1.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Tta.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

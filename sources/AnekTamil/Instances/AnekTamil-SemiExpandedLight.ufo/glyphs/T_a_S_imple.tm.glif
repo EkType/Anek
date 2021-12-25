@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ta_Simple.tm" format="2">
+  <advance width="1788.44"/>
+  <note>
+Ta.tm
+</note>
+  <anchor x="1030.27" y="1242.905" name="top"/>
+  <outline>
+    <contour>
+      <point x="1055.555" y="567.69" type="line"/>
+      <point x="1128.675" y="567.69" type="line" smooth="yes"/>
+      <point x="1427.5949999999998" y="567.69"/>
+      <point x="1549.78" y="472.495"/>
+      <point x="1549.78" y="220.795" type="curve" smooth="yes"/>
+      <point x="1549.78" y="193.885" type="line" smooth="yes"/>
+      <point x="1549.78" y="-153.48499999999999"/>
+      <point x="1392.9099999999999" y="-271.065"/>
+      <point x="937.46" y="-271.065" type="curve" smooth="yes"/>
+      <point x="68.595" y="-271.065" type="line"/>
+      <point x="89.105" y="-372.7" type="line"/>
+      <point x="944.76" y="-372.7" type="line" smooth="yes"/>
+      <point x="1481.5749999999998" y="-372.7"/>
+      <point x="1671.285" y="-221.48"/>
+      <point x="1671.285" y="194.15" type="curve" smooth="yes"/>
+      <point x="1671.285" y="222.12" type="line" smooth="yes"/>
+      <point x="1671.285" y="534.2800000000001"/>
+      <point x="1512.78" y="664.88"/>
+      <point x="1138.385" y="664.88" type="curve" smooth="yes"/>
+      <point x="1055.555" y="664.88" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="69.93499999999999"/>
+    <component base="KaBeak_Nonexporting" xOffset="1153.34"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ta.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

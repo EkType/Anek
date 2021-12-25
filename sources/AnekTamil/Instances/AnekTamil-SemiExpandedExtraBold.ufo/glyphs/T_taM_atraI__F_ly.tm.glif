@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TtaMatraI_Fly.tm" format="2">
+  <advance width="1809.5"/>
+  <note>
+TtaMatraI.tm
+</note>
+  <outline>
+    <contour>
+      <point x="497.0" y="1150.0" type="line"/>
+      <point x="138.0" y="1150.0" type="line"/>
+      <point x="138.0" y="0.0" type="line"/>
+      <point x="1784.5" y="0.0" type="line"/>
+      <point x="1821.0" y="281.5" type="line"/>
+      <point x="495.5" y="281.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="1505.0" y="816.0" type="line"/>
+      <point x="1045.5" y="816.0" type="line" smooth="yes"/>
+      <point x="822.5" y="816.0"/>
+      <point x="716.5" y="744.0"/>
+      <point x="716.5" y="586.5" type="curve" smooth="yes"/>
+      <point x="716.5" y="489.5"/>
+      <point x="749.0" y="406.0"/>
+      <point x="833.0" y="275.0" type="curve"/>
+      <point x="1180.0" y="275.0" type="line"/>
+      <point x="1123.5" y="355.0"/>
+      <point x="1092.0" y="418.0"/>
+      <point x="1092.0" y="463.0" type="curve" smooth="yes"/>
+      <point x="1092.0" y="509.0"/>
+      <point x="1117.0" y="527.0"/>
+      <point x="1176.0" y="527.0" type="curve" smooth="yes"/>
+      <point x="1546.5" y="527.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

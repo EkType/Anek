@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelUu_Fused.tm" format="2">
+  <advance width="2995.5"/>
+  <note>
+vowelUu.tm
+</note>
+  <outline>
+    <contour>
+      <point x="976.0" y="0.0" type="line"/>
+      <point x="2971.5" y="0.0" type="line"/>
+      <point x="3002.5" y="234.0" type="line"/>
+      <point x="976.0" y="234.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2568.0" y="1129.5" type="line"/>
+      <point x="2568.0" y="326.0" type="line"/>
+      <point x="2847.0" y="326.0" type="line"/>
+      <point x="2847.0" y="1129.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="1838.5" y="1211.0" type="curve" smooth="yes"/>
+      <point x="1532.5" y="1211.0"/>
+      <point x="1358.0" y="1036.5"/>
+      <point x="1358.0" y="718.0" type="curve" smooth="yes"/>
+      <point x="1358.0" y="640.0" type="line" smooth="yes"/>
+      <point x="1358.0" y="443.5"/>
+      <point x="1462.0" y="311.0"/>
+      <point x="1694.0" y="311.0" type="curve" smooth="yes"/>
+      <point x="1921.0" y="311.0"/>
+      <point x="2013.5" y="431.5"/>
+      <point x="2013.5" y="613.5" type="curve" smooth="yes"/>
+      <point x="2013.5" y="653.0" type="line" smooth="yes"/>
+      <point x="2013.5" y="816.5"/>
+      <point x="1953.0" y="904.5"/>
+      <point x="1810.5" y="904.5" type="curve" smooth="yes"/>
+      <point x="1696.5" y="904.5"/>
+      <point x="1636.5" y="833.0"/>
+      <point x="1625.0" y="748.5" type="curve"/>
+      <point x="1612.5" y="748.5" type="line"/>
+      <point x="1620.5" y="651.0" type="line"/>
+      <point x="1627.0" y="680.0"/>
+      <point x="1654.5" y="704.5"/>
+      <point x="1688.0" y="704.5" type="curve" smooth="yes"/>
+      <point x="1729.5" y="704.5"/>
+      <point x="1746.5" y="681.0"/>
+      <point x="1746.5" y="632.0" type="curve" smooth="yes"/>
+      <point x="1746.5" y="591.0" type="line" smooth="yes"/>
+      <point x="1746.5" y="542.0"/>
+      <point x="1733.0" y="514.0"/>
+      <point x="1689.5" y="514.0" type="curve" smooth="yes"/>
+      <point x="1643.5" y="514.0"/>
+      <point x="1626.5" y="543.5"/>
+      <point x="1626.5" y="600.0" type="curve"/>
+      <point x="1626.5" y="748.5" type="line"/>
+      <point x="1619.0" y="748.5" type="line"/>
+      <point x="1619.0" y="750.5"/>
+      <point x="1619.0" y="750.5"/>
+      <point x="1619.0" y="749.0" type="curve" smooth="yes"/>
+      <point x="1620.5" y="889.5"/>
+      <point x="1697.5" y="969.5"/>
+      <point x="1865.0" y="969.5" type="curve" smooth="yes"/>
+      <point x="2049.0" y="969.5"/>
+      <point x="2122.0" y="872.5"/>
+      <point x="2122.0" y="695.5" type="curve" smooth="yes"/>
+      <point x="2122.0" y="326.0" type="line"/>
+      <point x="2401.5" y="326.0" type="line"/>
+      <point x="2401.5" y="940.5" type="line"/>
+      <point x="2989.0" y="940.5" type="line"/>
+      <point x="2962.0" y="1178.0" type="line"/>
+      <point x="2221.5" y="1178.0" type="line"/>
+      <point x="2215.5" y="989.0" type="line"/>
+      <point x="2209.5" y="989.0" type="line"/>
+      <point x="2172.0" y="1124.0"/>
+      <point x="2055.0" y="1211.0"/>
+    </contour>
+    <component base="VowelU_Fused.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>VowelU_Fused.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>VowelU_Fused.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>VowelUu.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

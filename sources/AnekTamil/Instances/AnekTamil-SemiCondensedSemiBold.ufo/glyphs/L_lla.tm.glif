@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Llla.tm" format="2">
+  <advance width="1478.05"/>
+  <unicode hex="0BB4"/>
+  <note>
+Llla.tm
+</note>
+  <anchor x="752.3416666666667" y="1241.1916666666666" name="top"/>
+  <outline>
+    <contour>
+      <point x="637.5833333333334" y="109.95833333333334" type="line"/>
+      <point x="637.5833333333334" y="-11.616666666666667" type="line" smooth="yes"/>
+      <point x="637.5833333333334" y="-134.09166666666667"/>
+      <point x="619.8833333333333" y="-173.91666666666669"/>
+      <point x="506.9916666666666" y="-173.91666666666669" type="curve" smooth="yes"/>
+      <point x="24.274999999999995" y="-173.91666666666669" type="line"/>
+      <point x="52.333333333333336" y="-366.5" type="line"/>
+      <point x="521.4083333333334" y="-366.5" type="line" smooth="yes"/>
+      <point x="677.1583333333334" y="-366.5"/>
+      <point x="734.7333333333333" y="-319.76666666666665"/>
+      <point x="749.15" y="-175.25" type="curve"/>
+      <point x="755.9166666666666" y="-175.25" type="line"/>
+      <point x="773.6416666666667" y="-319.76666666666665"/>
+      <point x="829.0333333333334" y="-366.5"/>
+      <point x="956.9083333333333" y="-366.5" type="curve" smooth="yes"/>
+      <point x="1212.0500000000002" y="-366.5" type="line"/>
+      <point x="1238.5333333333333" y="-178.375" type="line"/>
+      <point x="999.4499999999999" y="-178.375" type="line" smooth="yes"/>
+      <point x="891.65" y="-178.375"/>
+      <point x="862.4083333333334" y="-135.97500000000002"/>
+      <point x="862.4083333333334" y="-8.85" type="curve" smooth="yes"/>
+      <point x="862.4083333333334" y="109.95833333333334" type="line"/>
+    </contour>
+    <component base="Ma_dummy.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ma.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ma.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="1170.97"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="130.81" y="564.34" type="line"/>
+      <point x="1040.16" y="564.34" type="line"/>
+      <point x="1040.16" y="668.0649999999999" type="line"/>
+      <point x="130.81" y="668.0649999999999" type="line"/>
+    </contour>
+    <contour>
+      <point x="588.735" y="143.08" type="curve" smooth="yes"/>
+      <point x="648.175" y="143.08"/>
+      <point x="677.3050000000001" y="175.095"/>
+      <point x="677.3050000000001" y="230.67499999999998" type="curve" smooth="yes"/>
+      <point x="677.3050000000001" y="237.41000000000003" type="line" smooth="yes"/>
+      <point x="677.3050000000001" y="292.255"/>
+      <point x="648.175" y="323.53499999999997"/>
+      <point x="588.735" y="323.53499999999997" type="curve" smooth="yes"/>
+      <point x="530.735" y="323.53499999999997"/>
+      <point x="501.37" y="292.255"/>
+      <point x="501.37" y="237.41000000000003" type="curve" smooth="yes"/>
+      <point x="501.37" y="230.67499999999998" type="line" smooth="yes"/>
+      <point x="501.37" y="175.095"/>
+      <point x="530.735" y="143.08"/>
+    </contour>
+    <contour>
+      <point x="588.735" y="911.52" type="curve" smooth="yes"/>
+      <point x="648.175" y="911.52"/>
+      <point x="677.3050000000001" y="943.5350000000001"/>
+      <point x="677.3050000000001" y="999.1149999999999" type="curve" smooth="yes"/>
+      <point x="677.3050000000001" y="1005.85" type="line" smooth="yes"/>
+      <point x="677.3050000000001" y="1060.695"/>
+      <point x="648.175" y="1091.975"/>
+      <point x="588.735" y="1091.975" type="curve" smooth="yes"/>
+      <point x="530.735" y="1091.975"/>
+      <point x="501.37" y="1060.695"/>
+      <point x="501.37" y="1005.85" type="curve" smooth="yes"/>
+      <point x="501.37" y="999.1149999999999" type="line" smooth="yes"/>
+      <point x="501.37" y="943.5350000000001"/>
+      <point x="530.735" y="911.52"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>minus</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>minus</string>
+    </dict>
+  </lib>
+</glyph>

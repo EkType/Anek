@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="RaMatraU_Simple.tm" format="2">
+  <advance width="2211.5833333333335"/>
+  <note>
+RaMatraU.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1296.1166666666666" y="1094.1666666666667" type="line"/>
+      <point x="1296.1166666666666" y="0.6166666666666667" type="line"/>
+      <point x="1539.2333333333333" y="0.6166666666666667" type="line"/>
+      <point x="1539.2333333333333" y="1094.1666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="1814.0833333333333" y="762.6833333333333" type="curve" smooth="yes"/>
+      <point x="1660.1666666666667" y="762.6833333333333"/>
+      <point x="1569.7" y="677.5333333333333"/>
+      <point x="1547.3833333333334" y="561.6166666666667" type="curve"/>
+      <point x="1509.6333333333334" y="561.6166666666667" type="line"/>
+      <point x="1509.6333333333334" y="401.3333333333333" type="line"/>
+      <point x="1526.7" y="401.3333333333333" type="line"/>
+      <point x="1549.8666666666666" y="494.8666666666667"/>
+      <point x="1616.9" y="553.1333333333333"/>
+      <point x="1710.4166666666667" y="553.1333333333333" type="curve" smooth="yes"/>
+      <point x="1827.8666666666666" y="553.1333333333333"/>
+      <point x="1871.7333333333333" y="478.55"/>
+      <point x="1871.7333333333333" y="327.25" type="curve" smooth="yes"/>
+      <point x="1871.7333333333333" y="268.56666666666666" type="line" smooth="yes"/>
+      <point x="1871.7333333333333" y="-115.45"/>
+      <point x="1683.3666666666666" y="-306.4166666666667"/>
+      <point x="1192.4833333333333" y="-306.4166666666667" type="curve" smooth="yes"/>
+      <point x="1184.8666666666666" y="-306.4166666666667" type="line" smooth="yes"/>
+      <point x="626.5166666666667" y="-306.4166666666667"/>
+      <point x="391.23333333333335" y="-79.05"/>
+      <point x="391.23333333333335" y="419.26666666666665" type="curve"/>
+      <point x="391.23333333333335" y="1153.1333333333334" type="line"/>
+      <point x="145.73333333333332" y="1153.1333333333334" type="line"/>
+      <point x="145.73333333333332" y="426.56666666666666" type="line"/>
+      <point x="145.73333333333332" y="-220.93333333333334"/>
+      <point x="484.31666666666666" y="-517.1"/>
+      <point x="1185.25" y="-517.1" type="curve" smooth="yes"/>
+      <point x="1192.4833333333333" y="-517.1" type="line" smooth="yes"/>
+      <point x="1836.4833333333333" y="-517.1"/>
+      <point x="2117.233333333333" y="-247.65"/>
+      <point x="2117.233333333333" y="272.71666666666664" type="curve" smooth="yes"/>
+      <point x="2117.233333333333" y="348.6166666666667" type="line" smooth="yes"/>
+      <point x="2117.233333333333" y="620.9166666666666"/>
+      <point x="2028.85" y="762.6833333333333"/>
+    </contour>
+    <contour>
+      <point x="1632.3" y="1153.1333333333334" type="line"/>
+      <point x="728.4166666666666" y="1153.1333333333334" type="line"/>
+      <point x="728.4166666666666" y="0.0" type="line"/>
+      <point x="970.5333333333333" y="0.0" type="line"/>
+      <point x="970.5333333333333" y="954.1333333333333" type="line"/>
+      <point x="1632.3" y="954.1333333333333" type="line"/>
+    </contour>
+    <component base="RaBeak_Nonexporting" xOffset="1415.7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>RaMatraU.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

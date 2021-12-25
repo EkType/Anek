@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelAa.tm" format="2">
+  <advance width="2996.6916666666666"/>
+  <unicode hex="0B86"/>
+  <note>
+vowelAa.tm
+</note>
+  <outline>
+    <contour>
+      <point x="2600.4" y="615.75" type="curve" smooth="yes"/>
+      <point x="2439.6833333333334" y="615.75"/>
+      <point x="2346.0249999999996" y="519.4416666666667"/>
+      <point x="2322.516666666667" y="393.3" type="curve"/>
+      <point x="2280.8083333333334" y="393.3" type="line"/>
+      <point x="2280.8083333333334" y="239.025" type="line"/>
+      <point x="2297.5666666666666" y="239.025" type="line"/>
+      <point x="2324.425" y="336.8666666666666"/>
+      <point x="2395.6916666666666" y="395.6333333333333"/>
+      <point x="2493.6666666666665" y="395.6333333333333" type="curve" smooth="yes"/>
+      <point x="2621.1916666666666" y="395.6333333333333"/>
+      <point x="2668.866666666667" y="315.2833333333333"/>
+      <point x="2668.866666666667" y="157.41666666666669" type="curve" smooth="yes"/>
+      <point x="2668.866666666667" y="121.625" type="line" smooth="yes"/>
+      <point x="2668.866666666667" y="-126.26666666666667"/>
+      <point x="2577.608333333333" y="-236.73333333333332"/>
+      <point x="2314.6583333333333" y="-236.73333333333332" type="curve" smooth="yes"/>
+      <point x="2166.4916666666663" y="-236.73333333333332"/>
+      <point x="2022.2833333333333" y="-209.36666666666667"/>
+      <point x="1889.1333333333332" y="-166.375" type="curve"/>
+      <point x="1928.4166666666667" y="-384.09999999999997" type="line"/>
+      <point x="2054.5583333333334" y="-425.125"/>
+      <point x="2190.775" y="-451.2583333333333"/>
+      <point x="2348.358333333333" y="-451.2583333333333" type="curve" smooth="yes"/>
+      <point x="2766.5333333333333" y="-451.2583333333333"/>
+      <point x="2927.8166666666666" y="-268.0416666666667"/>
+      <point x="2927.8166666666666" y="124.39166666666667" type="curve" smooth="yes"/>
+      <point x="2927.8166666666666" y="173.94166666666666" type="line" smooth="yes"/>
+      <point x="2927.8166666666666" y="462.06666666666666"/>
+      <point x="2831.975" y="615.75"/>
+    </contour>
+    <component base="VowelA.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>VowelA.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>VowelA.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

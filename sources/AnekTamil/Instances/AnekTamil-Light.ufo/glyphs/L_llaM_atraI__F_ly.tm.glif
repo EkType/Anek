@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LllaMatraI_Fly.tm" format="2">
+  <advance width="1648.87"/>
+  <note>
+LllaMatraI.tm
+</note>
+  <anchor x="824.8" y="1241.82" name="top"/>
+  <outline>
+    <contour>
+      <point x="756.2" y="-620.04" type="curve" smooth="yes"/>
+      <point x="967.29" y="-620.04"/>
+      <point x="1040.18" y="-518.8"/>
+      <point x="1108.95" y="-353.91" type="curve" smooth="yes"/>
+      <point x="1116.95" y="-336.03" type="line" smooth="yes"/>
+      <point x="1129.6" y="-306.32"/>
+      <point x="1139.13" y="-291.85"/>
+      <point x="1175.31" y="-291.85" type="curve" smooth="yes"/>
+      <point x="1288.59" y="-291.85" type="line"/>
+      <point x="1306.01" y="-200.49" type="line"/>
+      <point x="1117.68" y="-200.49" type="line" smooth="yes"/>
+      <point x="941.65" y="-200.49"/>
+      <point x="895.48" y="-146.97"/>
+      <point x="895.48" y="-11.93" type="curve" smooth="yes"/>
+      <point x="895.48" y="48.75" type="line"/>
+      <point x="782.1" y="48.75" type="line"/>
+      <point x="782.1" y="-18.7" type="line" smooth="yes"/>
+      <point x="782.1" y="-194.47"/>
+      <point x="849.04" y="-264.95"/>
+      <point x="1045.98" y="-272.19" type="curve"/>
+      <point x="1045.98" y="-275.78" type="line"/>
+      <point x="1025.57" y="-277.84"/>
+      <point x="1014.57" y="-293.84"/>
+      <point x="1003.04" y="-318.84" type="curve" smooth="yes"/>
+      <point x="997.04" y="-331.72" type="line" smooth="yes"/>
+      <point x="947.46" y="-445.05"/>
+      <point x="898.41" y="-527.15"/>
+      <point x="756.73" y="-527.15" type="curve" smooth="yes"/>
+      <point x="602.87" y="-527.15"/>
+      <point x="522.12" y="-444.69"/>
+      <point x="522.12" y="-275.07" type="curve" smooth="yes"/>
+      <point x="522.12" y="-233.6"/>
+      <point x="526.06" y="-192.19"/>
+      <point x="530.06" y="-164.01" type="curve"/>
+      <point x="417.21" y="-164.01" type="line"/>
+      <point x="413.74" y="-190.66"/>
+      <point x="409.8" y="-228.6"/>
+      <point x="409.8" y="-272.95" type="curve" smooth="yes"/>
+      <point x="409.8" y="-500.61"/>
+      <point x="531.81" y="-620.04"/>
+    </contour>
+    <component base="MaMatraI_Fly.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>MaMatraI_Fly.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MaMatraI_Fly.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

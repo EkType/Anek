@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ha_Simple.tm" format="2">
+  <advance width="2518.34"/>
+  <note>
+Ha.tm
+</note>
+  <anchor x="1143.7" y="1240.7649999999999" name="top"/>
+  <outline>
+    <contour>
+      <point x="1086.71" y="93.71499999999999" type="line"/>
+      <point x="1086.71" y="0.0" type="line"/>
+      <point x="1380.9" y="0.0" type="line"/>
+      <point x="1380.9" y="93.71499999999999" type="line"/>
+    </contour>
+    <contour>
+      <point x="1406.23" y="-220.555" type="line"/>
+      <point x="363.35499999999996" y="-220.555" type="line"/>
+      <point x="378.775" y="-315.065" type="line"/>
+      <point x="1406.23" y="-315.065" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="13.257615"/>
+    <component base="Rra.tm" xOffset="1169.165"/>
+    <component base="Tail_NonExporting" xOffset="31.749999999999996"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Rra_Simple.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Rra.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

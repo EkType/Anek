@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nya.tm" format="2">
+  <advance width="2487.385"/>
+  <unicode hex="0B9E"/>
+  <note>
+Nya.tm
+</note>
+  <anchor x="1306.025" y="1240.29" name="top"/>
+  <outline>
+    <contour>
+      <point x="1641.185" y="1101.58" type="line"/>
+      <point x="1641.185" y="0.0" type="line"/>
+      <point x="1794.935" y="0.0" type="line"/>
+      <point x="1794.935" y="1101.58" type="line"/>
+    </contour>
+    <contour>
+      <point x="2074.73" y="750.485" type="curve" smooth="yes"/>
+      <point x="1920.87" y="750.485"/>
+      <point x="1828.365" y="663.84"/>
+      <point x="1800.43" y="545.98" type="curve"/>
+      <point x="1773.3" y="545.98" type="line"/>
+      <point x="1773.3" y="405.88" type="line"/>
+      <point x="1785.795" y="405.88" type="line"/>
+      <point x="1814.945" y="535.275"/>
+      <point x="1896.32" y="611.865"/>
+      <point x="2016.565" y="611.865" type="curve" smooth="yes"/>
+      <point x="2164.315" y="611.865"/>
+      <point x="2217.755" y="513.985"/>
+      <point x="2217.755" y="325.665" type="curve" smooth="yes"/>
+      <point x="2217.755" y="305.87" type="line" smooth="yes"/>
+      <point x="2217.755" y="-170.76"/>
+      <point x="1950.09" y="-396.565"/>
+      <point x="1333.865" y="-396.565" type="curve" smooth="yes"/>
+      <point x="1328.725" y="-396.565" type="line" smooth="yes"/>
+      <point x="631.38" y="-396.565"/>
+      <point x="313.845" y="-102.92"/>
+      <point x="313.845" y="544.68" type="curve" smooth="yes"/>
+      <point x="313.845" y="792.035"/>
+      <point x="334.275" y="966.7"/>
+      <point x="377.78" y="1143.56" type="curve"/>
+      <point x="220.675" y="1143.56" type="line"/>
+      <point x="181.955" y="991.12"/>
+      <point x="157.525" y="794.175"/>
+      <point x="157.525" y="541.11" type="curve" smooth="yes"/>
+      <point x="157.525" y="-187.075"/>
+      <point x="538.73" y="-531.045"/>
+      <point x="1328.725" y="-531.045" type="curve" smooth="yes"/>
+      <point x="1333.865" y="-531.045" type="line" smooth="yes"/>
+      <point x="2052.235" y="-531.045"/>
+      <point x="2373.29" y="-251.915"/>
+      <point x="2373.29" y="306.225" type="curve" smooth="yes"/>
+      <point x="2373.29" y="339.655" type="line" smooth="yes"/>
+      <point x="2373.29" y="608.85"/>
+      <point x="2287.15" y="750.485"/>
+    </contour>
+    <contour>
+      <point x="1927.19" y="1143.56" type="line"/>
+      <point x="1363.39" y="1143.56" type="line"/>
+      <point x="1363.39" y="1016.36" type="line"/>
+      <point x="1927.19" y="1016.36" type="line"/>
+    </contour>
+    <component base="VowelE_NonExporting" xOffset="572.11"/>
+    <component base="RaBeak_Nonexporting" xOffset="1712.265"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>VowelE_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

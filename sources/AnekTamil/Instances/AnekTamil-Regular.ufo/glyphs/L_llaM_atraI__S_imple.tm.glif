@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LllaMatraI_Simple.tm" format="2">
+  <advance width="2176.675"/>
+  <note>
+LllaMatraI.tm
+</note>
+  <anchor x="840.1" y="1240.29" name="top"/>
+  <outline>
+    <contour>
+      <point x="773.665" y="73.025" type="line"/>
+      <point x="773.665" y="-15.075" type="line" smooth="yes"/>
+      <point x="773.665" y="-175.04"/>
+      <point x="749.945" y="-227.695"/>
+      <point x="598.27" y="-227.695" type="curve" smooth="yes"/>
+      <point x="62.88" y="-227.695" type="line"/>
+      <point x="85.44" y="-357.25" type="line"/>
+      <point x="610.765" y="-357.25" type="line" smooth="yes"/>
+      <point x="776.4" y="-357.25"/>
+      <point x="839.4" y="-303.82"/>
+      <point x="851.54" y="-156.045" type="curve"/>
+      <point x="857.465" y="-156.045" type="line"/>
+      <point x="874.39" y="-303.82"/>
+      <point x="939.11" y="-357.25"/>
+      <point x="1085.53" y="-357.25" type="curve" smooth="yes"/>
+      <point x="1334.06" y="-357.25" type="line"/>
+      <point x="1355.835" y="-230.835" type="line"/>
+      <point x="1105.445" y="-230.835" type="line" smooth="yes"/>
+      <point x="965.78" y="-230.835"/>
+      <point x="925.845" y="-175.825"/>
+      <point x="925.845" y="-11.935" type="curve" smooth="yes"/>
+      <point x="925.845" y="73.025" type="line"/>
+    </contour>
+    <component base="MaMatraI.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>MaMatraI.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Llla_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

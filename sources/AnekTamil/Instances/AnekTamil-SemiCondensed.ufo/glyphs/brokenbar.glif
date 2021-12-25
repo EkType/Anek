@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <advance width="431.28249999999997"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="283.43499999999995" y="587.0425" type="line"/>
+      <point x="283.43499999999995" y="1423.5" type="line"/>
+      <point x="147.8475" y="1423.5" type="line"/>
+      <point x="147.8475" y="587.0425" type="line"/>
+    </contour>
+    <contour>
+      <point x="283.43499999999995" y="-429.37" type="line"/>
+      <point x="283.43499999999995" y="410.04999999999995" type="line"/>
+      <point x="147.8475" y="410.04999999999995" type="line"/>
+      <point x="147.8475" y="-429.37" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>bar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>bar</string>
+    </dict>
+  </lib>
+</glyph>

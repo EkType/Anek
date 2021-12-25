@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ha.tm" format="2">
+  <advance width="2965.025"/>
+  <unicode hex="0BB9"/>
+  <note>
+Ha.tm
+</note>
+  <anchor x="1333.705" y="1243.41" name="top"/>
+  <outline>
+    <contour>
+      <point x="1275.415" y="64.8" type="line"/>
+      <point x="1275.415" y="0.0" type="line"/>
+      <point x="1609.33" y="0.0" type="line"/>
+      <point x="1609.33" y="64.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="1650.99" y="-265.655" type="line"/>
+      <point x="429.48" y="-265.655" type="line"/>
+      <point x="443.72" y="-331.25" type="line"/>
+      <point x="1650.99" y="-331.25" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="21.817615"/>
+    <component base="Rra_Simple.tm" xOffset="1376.79"/>
+    <component base="Tail_NonExporting" xOffset="42.989999999999995"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Rra_Simple.tm</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>Tail_NonExporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Rra.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

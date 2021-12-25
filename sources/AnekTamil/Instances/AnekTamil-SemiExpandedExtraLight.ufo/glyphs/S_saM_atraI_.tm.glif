@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SsaMatraI.tm" format="2">
+  <advance width="3333.8575"/>
+  <note>
+SsaMatraI.tm
+</note>
+  <anchor x="1540.99" y="1245.9525" name="top"/>
+  <outline>
+    <contour>
+      <point x="2626.125" y="1743.7575000000002" type="curve" smooth="yes"/>
+      <point x="2327.3275" y="1743.7575000000002"/>
+      <point x="2142.4674999999997" y="1582.9275"/>
+      <point x="2142.4674999999997" y="1317.9775" type="curve" smooth="yes"/>
+      <point x="2142.4674999999997" y="1315.9775" type="line" smooth="yes"/>
+      <point x="2142.4674999999997" y="1239.3500000000001"/>
+      <point x="2160.5099999999998" y="1170.5424999999998"/>
+      <point x="2184.45" y="1125.94" type="curve"/>
+      <point x="2260.9950000000003" y="1124.7475" type="line"/>
+      <point x="2236.82" y="1168.3925"/>
+      <point x="2218.675" y="1233.315"/>
+      <point x="2218.675" y="1308.3825000000002" type="curve" smooth="yes"/>
+      <point x="2218.675" y="1308.75" type="line" smooth="yes"/>
+      <point x="2218.675" y="1546.8725"/>
+      <point x="2376.195" y="1674.3075000000001"/>
+      <point x="2625.8599999999997" y="1674.3075000000001" type="curve" smooth="yes"/>
+      <point x="2912.7725" y="1674.3075000000001"/>
+      <point x="3038.5150000000003" y="1536.6375"/>
+      <point x="3038.5150000000003" y="1209.58" type="curve" smooth="yes"/>
+      <point x="3038.5150000000003" y="0.0" type="line"/>
+      <point x="3117.2825000000003" y="0.0" type="line"/>
+      <point x="3117.2825000000003" y="1211.635" type="line" smooth="yes"/>
+      <point x="3117.2825000000003" y="1579.4275"/>
+      <point x="2962.5125" y="1743.7575000000002"/>
+    </contour>
+    <component base="Ssa.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ssa.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Va.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

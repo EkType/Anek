@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Va_dummy.tm" format="2">
+  <advance width="1900.0"/>
+  <note>
+Va.tm
+</note>
+  <anchor x="1107.0" y="1241.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="1474.0" y="1176.0" type="line"/>
+      <point x="1474.0" y="263.5" type="line"/>
+      <point x="1248.0" y="263.5" type="line"/>
+      <point x="1252.5" y="0.0" type="line"/>
+      <point x="1789.0" y="0.0" type="line"/>
+      <point x="1789.0" y="1176.0" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="5.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

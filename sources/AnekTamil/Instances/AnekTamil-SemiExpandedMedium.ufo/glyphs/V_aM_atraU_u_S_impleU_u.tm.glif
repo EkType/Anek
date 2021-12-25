@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VaMatraUu_SimpleUu.tm" format="2">
+  <advance width="2640.0"/>
+  <note>
+VaMatraUu.tm
+</note>
+  <anchor x="1288.5" y="1237.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="1841.5" y="280.5" type="line"/>
+      <point x="1841.5" y="-338.5" type="line"/>
+      <point x="2037.5" y="-338.5" type="line"/>
+      <point x="2037.5" y="280.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="2311.0" y="324.0" type="curve" smooth="yes"/>
+      <point x="2160.0" y="324.0"/>
+      <point x="2070.0" y="231.5"/>
+      <point x="2044.5" y="116.5" type="curve"/>
+      <point x="2011.0" y="116.5" type="line"/>
+      <point x="2011.0" y="-32.5" type="line"/>
+      <point x="2024.5" y="-32.5" type="line"/>
+      <point x="2053.5" y="81.5"/>
+      <point x="2130.5" y="148.0"/>
+      <point x="2239.0" y="148.0" type="curve" smooth="yes"/>
+      <point x="2379.0" y="148.0"/>
+      <point x="2430.5" y="51.0"/>
+      <point x="2430.5" y="-128.5" type="curve" smooth="yes"/>
+      <point x="2430.5" y="-160.0" type="line" smooth="yes"/>
+      <point x="2430.5" y="-447.5"/>
+      <point x="2301.0" y="-600.0"/>
+      <point x="1988.5" y="-600.0" type="curve" smooth="yes"/>
+      <point x="1662.0" y="-600.0"/>
+      <point x="1528.5" y="-448.0"/>
+      <point x="1528.5" y="-168.5" type="curve"/>
+      <point x="1528.5" y="-104.0" type="line"/>
+      <point x="1334.5" y="-121.5" type="line"/>
+      <point x="1334.5" y="-170.0" type="line" smooth="yes"/>
+      <point x="1334.5" y="-550.0"/>
+      <point x="1533.5" y="-766.5"/>
+      <point x="1988.5" y="-766.5" type="curve" smooth="yes"/>
+      <point x="2435.5" y="-766.5"/>
+      <point x="2626.5" y="-554.0"/>
+      <point x="2626.5" y="-157.5" type="curve" smooth="yes"/>
+      <point x="2626.5" y="-116.5" type="line" smooth="yes"/>
+      <point x="2626.5" y="169.5"/>
+      <point x="2535.5" y="324.0"/>
+    </contour>
+    <component base="Va.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Va.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>PaMatraUu.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

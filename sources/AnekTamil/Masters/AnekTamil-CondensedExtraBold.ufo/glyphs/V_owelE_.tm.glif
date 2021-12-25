@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelE.tm" format="2">
+  <advance width="1279"/>
+  <unicode hex="0B8E"/>
+  <note>
+vowelE.tm
+</note>
+  <outline>
+    <contour>
+      <point x="679" y="935" type="line"/>
+      <point x="1293" y="935" type="line"/>
+      <point x="1272" y="1189" type="line"/>
+      <point x="679" y="1189" type="line"/>
+    </contour>
+    <contour>
+      <point x="854" y="1121" type="line"/>
+      <point x="854" y="0" type="line"/>
+      <point x="1149" y="0" type="line"/>
+      <point x="1149" y="1121" type="line"/>
+    </contour>
+    <component base="VowelE_NonExporting"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ra.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

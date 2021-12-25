@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kssa_Simple.tm" format="2">
+  <advance width="4193"/>
+  <note>
+Ksha.tm
+</note>
+  <anchor x="2369" y="1253" name="top"/>
+  <outline>
+    <contour>
+      <point x="1174" y="593" type="line"/>
+      <point x="1376" y="593" type="line" smooth="yes"/>
+      <point x="1625" y="593"/>
+      <point x="1713" y="516"/>
+      <point x="1713" y="282" type="curve"/>
+      <point x="1713" y="0" type="line"/>
+      <point x="1750" y="0" type="line"/>
+      <point x="1750" y="312" type="line" smooth="yes"/>
+      <point x="1750" y="590"/>
+      <point x="1926" y="702"/>
+      <point x="2156" y="702" type="curve" smooth="yes"/>
+      <point x="2397" y="702"/>
+      <point x="2504" y="586"/>
+      <point x="2504" y="389" type="curve" smooth="yes"/>
+      <point x="2504" y="385" type="line" smooth="yes"/>
+      <point x="2504" y="202"/>
+      <point x="2428" y="99"/>
+      <point x="2312" y="9" type="curve"/>
+      <point x="2312" y="0" type="line"/>
+      <point x="3025" y="0" type="line"/>
+      <point x="3025" y="33" type="line"/>
+      <point x="2363" y="33" type="line"/>
+      <point x="2365" y="16" type="line"/>
+      <point x="2451" y="79"/>
+      <point x="2543" y="194"/>
+      <point x="2543" y="385" type="curve" smooth="yes"/>
+      <point x="2543" y="389" type="line" smooth="yes"/>
+      <point x="2543" y="610"/>
+      <point x="2423" y="737"/>
+      <point x="2159" y="737" type="curve" smooth="yes"/>
+      <point x="1907" y="737"/>
+      <point x="1733" y="601"/>
+      <point x="1733" y="355" type="curve" smooth="yes"/>
+      <point x="1733" y="340" type="line"/>
+      <point x="1730" y="340" type="line"/>
+      <point x="1726" y="532"/>
+      <point x="1640" y="625"/>
+      <point x="1379" y="625" type="curve" smooth="yes"/>
+      <point x="1174" y="625" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="63"/>
+    <component base="Ssa_Above_NonExporting" xOffset="2495"/>
+    <component base="KaBeak_Nonexporting" xOffset="1279"/>
+    <component base="Ssa_Below_Simple_NonExporting" xOffset="3064"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ssa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

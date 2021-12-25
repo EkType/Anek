@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelAa.tm" format="2">
+  <advance width="2577.42"/>
+  <unicode hex="0B86"/>
+  <note>
+vowelAa.tm
+</note>
+  <outline>
+    <contour>
+      <point x="2225.71" y="613.7" type="curve" smooth="yes"/>
+      <point x="2089.785" y="613.7"/>
+      <point x="2007.925" y="526.27"/>
+      <point x="1983.42" y="415.13" type="curve"/>
+      <point x="1953.58" y="415.13" type="line"/>
+      <point x="1953.58" y="276.6" type="line"/>
+      <point x="1964.86" y="276.6" type="line"/>
+      <point x="1990.58" y="400.705"/>
+      <point x="2063.88" y="475.295"/>
+      <point x="2168.975" y="475.295" type="curve" smooth="yes"/>
+      <point x="2301.575" y="475.295"/>
+      <point x="2348.37" y="382.63"/>
+      <point x="2348.37" y="208.6" type="curve" smooth="yes"/>
+      <point x="2348.37" y="122.075" type="line" smooth="yes"/>
+      <point x="2348.37" y="-137.085"/>
+      <point x="2257.715" y="-254.815"/>
+      <point x="2003.91" y="-254.815" type="curve" smooth="yes"/>
+      <point x="1864.265" y="-254.815"/>
+      <point x="1731.405" y="-219.02"/>
+      <point x="1618.125" y="-166.365" type="curve"/>
+      <point x="1642.47" y="-303.995" type="line"/>
+      <point x="1747.03" y="-351.79"/>
+      <point x="1876.965" y="-385.37"/>
+      <point x="2021.18" y="-385.37" type="curve" smooth="yes"/>
+      <point x="2369.85" y="-385.37"/>
+      <point x="2503.12" y="-222.885"/>
+      <point x="2503.12" y="122.075" type="curve" smooth="yes"/>
+      <point x="2503.12" y="222.59" type="line" smooth="yes"/>
+      <point x="2503.12" y="478.495"/>
+      <point x="2423.625" y="613.7"/>
+    </contour>
+    <component base="VowelA.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>VowelA.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>VowelA.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

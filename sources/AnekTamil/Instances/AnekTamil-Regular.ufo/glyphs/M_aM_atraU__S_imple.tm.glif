@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MaMatraU_Simple.tm" format="2">
+  <advance width="2290.5"/>
+  <note>
+MaMatraU.tm
+</note>
+  <anchor x="1461.585" y="1240.29" name="top"/>
+  <outline>
+    <contour>
+      <point x="167.03" y="1143.56" type="line"/>
+      <point x="167.03" y="342.325" type="line"/>
+      <point x="167.03" y="-211.41"/>
+      <point x="392.29" y="-520.195"/>
+      <point x="891.68" y="-520.195" type="curve" smooth="yes"/>
+      <point x="895.895" y="-520.195" type="line" smooth="yes"/>
+      <point x="1328.5" y="-520.195"/>
+      <point x="1530.265" y="-323.355"/>
+      <point x="1541.05" y="31.12" type="curve"/>
+      <point x="1542.62" y="82.735" type="line"/>
+      <point x="1388.085" y="84.305" type="line"/>
+      <point x="1386.515" y="35.26" type="line"/>
+      <point x="1377.3" y="-241.63"/>
+      <point x="1229.28" y="-387.285"/>
+      <point x="895.895" y="-387.285" type="curve" smooth="yes"/>
+      <point x="891.68" y="-387.285" type="line" smooth="yes"/>
+      <point x="487.725" y="-387.285"/>
+      <point x="323.35" y="-123.545"/>
+      <point x="323.35" y="337.615" type="curve"/>
+      <point x="323.35" y="1143.56" type="line"/>
+    </contour>
+    <component base="Ma.tm" xOffset="621.485"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ma.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ma.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

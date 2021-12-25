@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ShaMatraI_Fly.tm" format="2">
+  <advance width="2179.2"/>
+  <note>
+ShaMatraI.tm
+</note>
+  <anchor x="1097.1666666666667" y="1237.0833333333333" name="top"/>
+  <outline>
+    <contour>
+      <point x="2372.3333333333335" y="1599.6166666666666" type="line"/>
+      <point x="2012.95" y="1599.6166666666666" type="line" smooth="yes"/>
+      <point x="1813.75" y="1599.6166666666666"/>
+      <point x="1725.85" y="1531.9333333333334"/>
+      <point x="1725.85" y="1392.65" type="curve" smooth="yes"/>
+      <point x="1725.85" y="1317.0333333333333"/>
+      <point x="1754.0166666666667" y="1248.4833333333333"/>
+      <point x="1806.7666666666667" y="1153.1333333333334" type="curve"/>
+      <point x="2038.05" y="1153.1333333333334" type="line"/>
+      <point x="2003.05" y="1210.6"/>
+      <point x="1975.5" y="1267.2333333333333"/>
+      <point x="1975.5" y="1311.95" type="curve" smooth="yes"/>
+      <point x="1975.5" y="1371.6"/>
+      <point x="2007.1333333333334" y="1396.2333333333333"/>
+      <point x="2091.883333333333" y="1396.2333333333333" type="curve" smooth="yes"/>
+      <point x="2402.0833333333335" y="1396.2333333333333" type="line"/>
+    </contour>
+    <component base="Sha.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Sha.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Sha.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

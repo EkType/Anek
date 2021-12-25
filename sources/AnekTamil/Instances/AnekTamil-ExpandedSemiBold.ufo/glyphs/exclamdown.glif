@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="596.2333333333333"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="423.4" y="546.2666666666667" type="line"/>
+      <point x="173.83333333333334" y="546.2666666666667" type="line"/>
+      <point x="142.55" y="-318.0833333333333" type="line"/>
+      <point x="453.68333333333334" y="-318.0833333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="298.1166666666666" y="987.3666666666667" type="curve" smooth="yes"/>
+      <point x="184.79999999999998" y="987.3666666666667"/>
+      <point x="131.51666666666665" y="931.1666666666666"/>
+      <point x="131.51666666666665" y="840.3666666666667" type="curve" smooth="yes"/>
+      <point x="131.51666666666665" y="835.9833333333333" type="line" smooth="yes"/>
+      <point x="131.51666666666665" y="744.8"/>
+      <point x="184.79999999999998" y="688.2166666666667"/>
+      <point x="298.1166666666666" y="688.2166666666667" type="curve" smooth="yes"/>
+      <point x="412.6666666666667" y="688.2166666666667"/>
+      <point x="465.7166666666667" y="744.8"/>
+      <point x="465.7166666666667" y="835.9833333333333" type="curve" smooth="yes"/>
+      <point x="465.7166666666667" y="840.3666666666667" type="line" smooth="yes"/>
+      <point x="465.7166666666667" y="931.1666666666666"/>
+      <point x="412.6666666666667" y="987.3666666666667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>exclam</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>exclam</string>
+    </dict>
+  </lib>
+</glyph>

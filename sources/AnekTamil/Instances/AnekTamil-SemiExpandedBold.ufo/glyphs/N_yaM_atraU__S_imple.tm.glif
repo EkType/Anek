@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NyaMatraU_Simple.tm" format="2">
+  <advance width="2883.2633333333333"/>
+  <note>
+NyaMatraU.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1199.5883333333334" y="1074.9433333333332" type="line"/>
+      <point x="1199.5883333333334" y="0.0" type="line"/>
+      <point x="1505.3583333333333" y="0.0" type="line"/>
+      <point x="1505.3583333333333" y="1074.9433333333332" type="line"/>
+    </contour>
+    <contour>
+      <point x="1828.3750000000002" y="738.315" type="curve" smooth="yes"/>
+      <point x="1646.5883333333334" y="738.315"/>
+      <point x="1541.7683333333332" y="645.7983333333333"/>
+      <point x="1515.1" y="519.04" type="curve"/>
+      <point x="1469.3016666666667" y="519.04" type="line"/>
+      <point x="1469.3016666666667" y="353.53333333333336" type="line"/>
+      <point x="1490.2233333333331" y="353.53333333333336" type="line"/>
+      <point x="1516.3633333333335" y="432.20500000000004"/>
+      <point x="1587.0700000000002" y="482.1083333333333"/>
+      <point x="1681.5849999999998" y="482.1083333333333" type="curve" smooth="yes"/>
+      <point x="1804.1333333333334" y="482.1083333333333"/>
+      <point x="1853.1999999999998" y="406.75"/>
+      <point x="1853.1999999999998" y="254.27999999999997" type="curve" smooth="yes"/>
+      <point x="1853.1999999999998" y="195.6616666666667" type="line" smooth="yes"/>
+      <point x="1853.1999999999998" y="-55.733333333333334"/>
+      <point x="1744.3083333333334" y="-165.95166666666665"/>
+      <point x="1423.4533333333334" y="-165.95166666666665" type="curve" smooth="yes"/>
+      <point x="37.57666666666667" y="-165.95166666666665" type="line"/>
+      <point x="78.26833333333333" y="-418.67" type="line"/>
+      <point x="2731.4616666666666" y="-418.67" type="line"/>
+      <point x="2731.4616666666666" y="-166.64833333333334" type="line"/>
+      <point x="1976.2783333333332" y="-166.64833333333334" type="line"/>
+      <point x="1976.2783333333332" y="-156.66500000000002" type="line"/>
+      <point x="2111.2466666666664" y="-98.22666666666666"/>
+      <point x="2168.6049999999996" y="44.114999999999995"/>
+      <point x="2168.6049999999996" y="244.71333333333334" type="curve" smooth="yes"/>
+      <point x="2168.6049999999996" y="313.4666666666667" type="line" smooth="yes"/>
+      <point x="2168.6049999999996" y="585.27"/>
+      <point x="2065.1049999999996" y="738.315"/>
+    </contour>
+    <contour>
+      <point x="2424.6916666666666" y="1145.1466666666668" type="line"/>
+      <point x="2424.6916666666666" y="-382.585" type="line"/>
+      <point x="2731.4616666666666" y="-382.585" type="line"/>
+      <point x="2731.4616666666666" y="1145.1466666666668" type="line"/>
+    </contour>
+    <contour>
+      <point x="1617.8" y="1145.1466666666668" type="line"/>
+      <point x="1003.5133333333333" y="1145.1466666666668" type="line"/>
+      <point x="1003.5133333333333" y="900.7149999999999" type="line"/>
+      <point x="1617.8" y="900.7149999999999" type="line"/>
+    </contour>
+    <component base="VowelE_NonExporting" xOffset="21.0"/>
+    <component base="RaBeak_Nonexporting" xOffset="1387.2963650000002"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>VowelE_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

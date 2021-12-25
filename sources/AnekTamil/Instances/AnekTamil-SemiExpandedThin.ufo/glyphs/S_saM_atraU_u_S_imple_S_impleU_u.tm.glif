@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SsaMatraUu_Simple_SimpleUu.tm" format="2">
+  <advance width="4157.0"/>
+  <note>
+SsaMatraUu.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1349.0" y="33.0" type="line"/>
+      <point x="1349.0" y="0.0" type="line"/>
+      <point x="2783.5" y="0.0" type="line"/>
+      <point x="2794.0" y="33.0" type="line"/>
+      <point x="2190.0" y="33.0" type="line"/>
+      <point x="2167.0" y="24.0" type="line"/>
+      <point x="2144.5" y="33.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2166.0" y="1138.0" type="curve" smooth="yes"/>
+      <point x="1885.5" y="1138.0"/>
+      <point x="1745.5" y="964.0"/>
+      <point x="1745.5" y="678.5" type="curve" smooth="yes"/>
+      <point x="1745.5" y="560.0" type="line" smooth="yes"/>
+      <point x="1745.5" y="291.5"/>
+      <point x="1854.5" y="97.0"/>
+      <point x="2145.0" y="10.5" type="curve"/>
+      <point x="2182.0" y="24.5" type="line"/>
+      <point x="1883.5" y="112.5"/>
+      <point x="1783.5" y="299.5"/>
+      <point x="1783.5" y="560.0" type="curve" smooth="yes"/>
+      <point x="1783.5" y="678.0" type="line" smooth="yes"/>
+      <point x="1783.5" y="944.0"/>
+      <point x="1908.0" y="1103.5"/>
+      <point x="2166.0" y="1103.5" type="curve" smooth="yes"/>
+      <point x="2424.5" y="1103.5"/>
+      <point x="2549.0" y="944.0"/>
+      <point x="2549.0" y="678.0" type="curve" smooth="yes"/>
+      <point x="2549.0" y="560.0" type="line" smooth="yes"/>
+      <point x="2549.0" y="299.5"/>
+      <point x="2448.5" y="112.5"/>
+      <point x="2150.0" y="24.5" type="curve"/>
+      <point x="2187.0" y="10.5" type="line"/>
+      <point x="2477.5" y="97.0"/>
+      <point x="2587.0" y="291.5"/>
+      <point x="2587.0" y="560.0" type="curve" smooth="yes"/>
+      <point x="2587.0" y="678.5" type="line" smooth="yes"/>
+      <point x="2587.0" y="881.5"/>
+      <point x="2516.5" y="1034.0"/>
+      <point x="2367.5" y="1097.0" type="curve"/>
+      <point x="2358.5" y="1104.5" type="line"/>
+      <point x="2305.0" y="1127.5"/>
+      <point x="2240.5" y="1138.0"/>
+    </contour>
+    <contour>
+      <point x="2670.0" y="1118.0" type="line"/>
+      <point x="2301.0" y="1118.0" type="line"/>
+      <point x="2370.5" y="1085.0" type="line"/>
+      <point x="2670.0" y="1085.0" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="17.5"/>
+    <component base="MatraUuDflt_Simple.tm" xOffset="2463.5"/>
+    <component base="Ssa_Below_Simple_NonExporting" xOffset="1867.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>MatraUuDflt_Simple.tm</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>Ssa_Below_Simple_NonExporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Va.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraUuDflt_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NumberSign_Simple.tm" format="2">
+  <advance width="1992"/>
+  <note>
+NumberSign.tm
+</note>
+  <anchor x="1020" y="1253" name="top"/>
+  <outline>
+    <contour>
+      <point x="1846" y="1884" type="curve" smooth="yes"/>
+      <point x="1620" y="1884"/>
+      <point x="1479" y="1763"/>
+      <point x="1479" y="1507" type="curve" smooth="yes"/>
+      <point x="1479" y="1499" type="line"/>
+      <point x="1477" y="1499" type="line"/>
+      <point x="1467" y="1665"/>
+      <point x="1374" y="1769"/>
+      <point x="1180" y="1769" type="curve" smooth="yes"/>
+      <point x="979" y="1769"/>
+      <point x="862" y="1633"/>
+      <point x="862" y="1427" type="curve" smooth="yes"/>
+      <point x="862" y="1427" type="line"/>
+      <point x="862" y="1277"/>
+      <point x="930" y="1162"/>
+      <point x="994" y="1104" type="curve"/>
+      <point x="1036" y="1104" type="line"/>
+      <point x="960" y="1176"/>
+      <point x="899" y="1288"/>
+      <point x="899" y="1427" type="curve" smooth="yes"/>
+      <point x="899" y="1427" type="line"/>
+      <point x="899" y="1613"/>
+      <point x="998" y="1734"/>
+      <point x="1180" y="1734" type="curve" smooth="yes"/>
+      <point x="1366" y="1734"/>
+      <point x="1462" y="1638"/>
+      <point x="1462" y="1396" type="curve" smooth="yes"/>
+      <point x="1462" y="1349" type="line"/>
+      <point x="1498" y="1349" type="line"/>
+      <point x="1498" y="1469" type="line" smooth="yes"/>
+      <point x="1498" y="1736"/>
+      <point x="1634" y="1850"/>
+      <point x="1846" y="1850" type="curve" smooth="yes"/>
+      <point x="2040" y="1850"/>
+      <point x="2133" y="1740"/>
+      <point x="2133" y="1578" type="curve" smooth="yes"/>
+      <point x="2133" y="1572" type="line" smooth="yes"/>
+      <point x="2133" y="1412"/>
+      <point x="2064" y="1319"/>
+      <point x="1967" y="1240" type="curve"/>
+      <point x="1967" y="1229" type="line"/>
+      <point x="2659" y="1229" type="line"/>
+      <point x="2664" y="1263" type="line"/>
+      <point x="2022" y="1263" type="line"/>
+      <point x="2023" y="1247" type="line"/>
+      <point x="2094" y="1303"/>
+      <point x="2171" y="1407"/>
+      <point x="2171" y="1572" type="curve" smooth="yes"/>
+      <point x="2171" y="1578" type="line" smooth="yes"/>
+      <point x="2171" y="1762"/>
+      <point x="2061" y="1884"/>
+    </contour>
+    <component base="Na_Simple.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Na_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>NumberSign.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

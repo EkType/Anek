@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MaMatraU_Simple.tm" format="2">
+  <advance width="2596.0775"/>
+  <note>
+MaMatraU.tm
+</note>
+  <anchor x="1662.83" y="1239.9724999999999" name="top"/>
+  <outline>
+    <contour>
+      <point x="186.7125" y="1130.56" type="line"/>
+      <point x="186.7125" y="336.25" type="line"/>
+      <point x="186.7125" y="-239.20499999999998"/>
+      <point x="446.1225" y="-570.6350000000001"/>
+      <point x="1011.1949999999999" y="-570.6350000000001" type="curve" smooth="yes"/>
+      <point x="1017.41" y="-570.6350000000001" type="line" smooth="yes"/>
+      <point x="1490.9875" y="-570.6350000000001"/>
+      <point x="1721.575" y="-357.96750000000003"/>
+      <point x="1739.3225" y="18.087500000000002" type="curve"/>
+      <point x="1742.2849999999999" y="71.6375" type="line"/>
+      <point x="1579.0075" y="73.9925" type="line"/>
+      <point x="1576.4375" y="23.904999999999998" type="line"/>
+      <point x="1560.6525" y="-271.2475"/>
+      <point x="1388.9125" y="-432.1225"/>
+      <point x="1017.0174999999999" y="-432.1225" type="curve" smooth="yes"/>
+      <point x="1011.1949999999999" y="-432.1225" type="line" smooth="yes"/>
+      <point x="549.1225000000001" y="-432.1225"/>
+      <point x="351.88250000000005" y="-148.485"/>
+      <point x="351.88250000000005" y="334.2875" type="curve"/>
+      <point x="351.88250000000005" y="1130.56" type="line"/>
+    </contour>
+    <component base="Ma.tm" xOffset="711.86"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ma.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ma.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

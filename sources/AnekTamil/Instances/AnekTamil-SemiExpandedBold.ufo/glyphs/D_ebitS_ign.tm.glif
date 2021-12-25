@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DebitSign.tm" format="2">
+  <advance width="2355.3633333333337"/>
+  <unicode hex="0BF6"/>
+  <note>
+DebitSign.tm
+</note>
+  <anchor x="853.1416666666667" y="1229.4883333333332" name="top"/>
+  <outline>
+    <contour>
+      <point x="1894.2466666666667" y="1143.7983333333334" type="line"/>
+      <point x="1894.2466666666667" y="-343.955" type="line"/>
+      <point x="2203.5616666666665" y="-343.955" type="line"/>
+      <point x="2203.5616666666665" y="1143.7983333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="809.1700000000001" y="-817.7033333333333" type="curve" smooth="yes"/>
+      <point x="1295.5983333333334" y="-817.7033333333333"/>
+      <point x="1514.4416666666666" y="-614.8483333333334"/>
+      <point x="1553.0033333333333" y="-299.34166666666664" type="curve"/>
+      <point x="1555.3516666666667" y="-232.45833333333331" type="line"/>
+      <point x="1560.655" y="-170.41333333333336"/>
+      <point x="1564.065" y="-82.05499999999999"/>
+      <point x="1564.065" y="-1.2133333333333334" type="curve" smooth="yes"/>
+      <point x="1564.065" y="112.77166666666666" type="line"/>
+      <point x="1257.8400000000001" y="101.39500000000001" type="line"/>
+      <point x="1257.8400000000001" y="-10.044999999999998" type="line" smooth="yes"/>
+      <point x="1257.8400000000001" y="-86.49333333333333"/>
+      <point x="1253.0816666666665" y="-167.01999999999998"/>
+      <point x="1246.1266666666668" y="-221.62666666666667" type="curve"/>
+      <point x="1241.7333333333333" y="-295.7966666666666" type="line"/>
+      <point x="1230.8349999999998" y="-474.8516666666667"/>
+      <point x="1093.4483333333333" y="-587.0083333333333"/>
+      <point x="804.0799999999999" y="-587.0083333333333" type="curve" smooth="yes"/>
+      <point x="514.7016666666667" y="-587.0083333333333"/>
+      <point x="375.7583333333333" y="-477.7966666666666"/>
+      <point x="360.6066666666667" y="-360.59000000000003" type="curve"/>
+      <point x="1303.83" y="-360.59000000000003" type="line"/>
+      <point x="1407.995" y="-373.82666666666665" type="line"/>
+      <point x="2203.5616666666665" y="-373.82666666666665" type="line"/>
+      <point x="2203.5616666666665" y="-142.14833333333334" type="line"/>
+      <point x="12.1" y="-142.14833333333334" type="line"/>
+      <point x="26.358333333333334" y="-570.4666666666667"/>
+      <point x="282.77" y="-817.7033333333333"/>
+    </contour>
+    <component base="Pa.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Pa.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

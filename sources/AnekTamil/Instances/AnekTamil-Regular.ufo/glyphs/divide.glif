@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="1001.42"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="103.515" y="555.62" type="line"/>
+      <point x="897.905" y="555.62" type="line"/>
+      <point x="897.905" y="688.315" type="line"/>
+      <point x="103.515" y="688.315" type="line"/>
+    </contour>
+    <contour>
+      <point x="505.065" y="173.62" type="curve" smooth="yes"/>
+      <point x="567.25" y="173.62"/>
+      <point x="597.165" y="209.89"/>
+      <point x="597.165" y="273.01" type="curve" smooth="yes"/>
+      <point x="597.165" y="282.225" type="line" smooth="yes"/>
+      <point x="597.165" y="344.345"/>
+      <point x="567.25" y="380.4"/>
+      <point x="505.065" y="380.4" type="curve" smooth="yes"/>
+      <point x="442.525" y="380.4"/>
+      <point x="413.395" y="344.345"/>
+      <point x="413.395" y="282.225" type="curve" smooth="yes"/>
+      <point x="413.395" y="273.01" type="line" smooth="yes"/>
+      <point x="413.395" y="209.89"/>
+      <point x="442.525" y="173.62"/>
+    </contour>
+    <contour>
+      <point x="505.065" y="864.32" type="curve" smooth="yes"/>
+      <point x="567.25" y="864.32"/>
+      <point x="597.165" y="900.59"/>
+      <point x="597.165" y="963.71" type="curve" smooth="yes"/>
+      <point x="597.165" y="972.925" type="line" smooth="yes"/>
+      <point x="597.165" y="1035.045"/>
+      <point x="567.25" y="1071.1"/>
+      <point x="505.065" y="1071.1" type="curve" smooth="yes"/>
+      <point x="442.525" y="1071.1"/>
+      <point x="413.395" y="1035.045"/>
+      <point x="413.395" y="972.925" type="curve" smooth="yes"/>
+      <point x="413.395" y="963.71" type="line" smooth="yes"/>
+      <point x="413.395" y="900.59"/>
+      <point x="442.525" y="864.32"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>minus</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>minus</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraAa_dummy.tm" format="2">
+  <advance width="1154"/>
+  <note>
+RaAltMatraAa.tm
+</note>
+  <outline>
+    <contour>
+      <point x="752" y="1098" type="line"/>
+      <point x="752" y="0" type="line"/>
+      <point x="938" y="0" type="line"/>
+      <point x="938" y="1098" type="line"/>
+    </contour>
+    <contour>
+      <point x="901" y="1147" type="line"/>
+      <point x="168" y="1147" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="354" y="994" type="line"/>
+      <point x="901" y="994" type="line"/>
+    </contour>
+    <component base="RaBeak_Nonexporting" xOffset="657"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ra.tm</string>
+    </dict>
+  </lib>
+</glyph>

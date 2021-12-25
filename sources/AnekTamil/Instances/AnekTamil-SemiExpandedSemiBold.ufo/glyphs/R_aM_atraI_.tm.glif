@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="RaMatraI.tm" format="2">
+  <advance width="1898.8166666666666"/>
+  <note>
+RaMatraI.tm
+</note>
+  <outline>
+    <contour>
+      <point x="821.0416666666666" y="1078.7083333333335" type="line"/>
+      <point x="821.0416666666666" y="0.0" type="line"/>
+      <point x="1077.9916666666668" y="0.0" type="line"/>
+      <point x="1077.9916666666668" y="1078.7083333333335" type="line"/>
+    </contour>
+    <contour>
+      <point x="1022.8833333333333" y="1140.1333333333334" type="line"/>
+      <point x="166.05833333333334" y="1140.1333333333334" type="line"/>
+      <point x="166.05833333333334" y="0.0" type="line"/>
+      <point x="423.0083333333333" y="0.0" type="line"/>
+      <point x="423.0083333333333" y="934.7166666666667" type="line"/>
+      <point x="1022.8833333333333" y="934.7166666666667" type="line"/>
+    </contour>
+    <component base="MatraIDflt.tm" xOffset="787.0416666666667"/>
+    <component base="RaBeak_Nonexporting" xOffset="748.05"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>MatraIDflt.tm</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

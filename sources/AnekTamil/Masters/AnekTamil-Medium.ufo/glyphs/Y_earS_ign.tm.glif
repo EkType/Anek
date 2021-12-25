@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="YearSign.tm" format="2">
+  <advance width="4683"/>
+  <unicode hex="0BF5"/>
+  <note>
+YearSign.tm
+</note>
+  <outline>
+    <contour>
+      <point x="2741" y="1098" type="line"/>
+      <point x="2741" y="0" type="line"/>
+      <point x="2927" y="0" type="line"/>
+      <point x="2927" y="1098" type="line"/>
+    </contour>
+    <contour>
+      <point x="1921" y="0" type="line"/>
+      <point x="2252" y="0" type="line"/>
+      <point x="2252" y="153" type="line"/>
+      <point x="1917" y="153" type="line"/>
+    </contour>
+    <contour>
+      <point x="1870" y="1716" type="line" smooth="yes"/>
+      <point x="659" y="1716"/>
+      <point x="135" y="1359"/>
+      <point x="135" y="607" type="curve" smooth="yes"/>
+      <point x="135" y="498" type="line" smooth="yes"/>
+      <point x="135" y="-254"/>
+      <point x="645" y="-605"/>
+      <point x="1837" y="-605" type="curve" smooth="yes"/>
+      <point x="2035" y="-605" type="line" smooth="yes"/>
+      <point x="3066" y="-605"/>
+      <point x="3502" y="-304"/>
+      <point x="3502" y="288" type="curve" smooth="yes"/>
+      <point x="3502" y="349" type="line" smooth="yes"/>
+      <point x="3502" y="619"/>
+      <point x="3414" y="760"/>
+      <point x="3201" y="760" type="curve" smooth="yes"/>
+      <point x="3049" y="760"/>
+      <point x="2959" y="671"/>
+      <point x="2934" y="552" type="curve"/>
+      <point x="2902" y="552" type="line"/>
+      <point x="2902" y="399" type="line"/>
+      <point x="2916" y="399" type="line"/>
+      <point x="2942" y="521"/>
+      <point x="3017" y="593"/>
+      <point x="3128" y="593" type="curve" smooth="yes"/>
+      <point x="3263" y="593"/>
+      <point x="3313" y="505"/>
+      <point x="3313" y="333" type="curve" smooth="yes"/>
+      <point x="3313" y="286" type="line" smooth="yes"/>
+      <point x="3313" y="-202"/>
+      <point x="2949" y="-444"/>
+      <point x="2039" y="-444" type="curve" smooth="yes"/>
+      <point x="1832" y="-444" type="line" smooth="yes"/>
+      <point x="753" y="-444"/>
+      <point x="324" y="-152"/>
+      <point x="324" y="501" type="curve" smooth="yes"/>
+      <point x="324" y="604" type="line" smooth="yes"/>
+      <point x="324" y="1257"/>
+      <point x="766" y="1555"/>
+      <point x="1865" y="1555" type="curve" smooth="yes"/>
+      <point x="2169" y="1555" type="line" smooth="yes"/>
+      <point x="3300" y="1555"/>
+      <point x="3759" y="1251"/>
+      <point x="3771" y="574" type="curve" smooth="yes"/>
+      <point x="3774" y="407" type="line" smooth="yes"/>
+      <point x="3779" y="125"/>
+      <point x="3895" y="-23"/>
+      <point x="4166" y="-23" type="curve" smooth="yes"/>
+      <point x="4440" y="-23"/>
+      <point x="4550" y="137"/>
+      <point x="4550" y="436" type="curve" smooth="yes"/>
+      <point x="4550" y="697" type="line" smooth="yes"/>
+      <point x="4550" y="1001"/>
+      <point x="4452" y="1174"/>
+      <point x="4148" y="1174" type="curve" smooth="yes"/>
+      <point x="4112" y="1174"/>
+      <point x="4077" y="1170"/>
+      <point x="4049" y="1165" type="curve"/>
+      <point x="4021" y="1006" type="line"/>
+      <point x="4047" y="1010"/>
+      <point x="4075" y="1013"/>
+      <point x="4107" y="1013" type="curve" smooth="yes"/>
+      <point x="4304" y="1013"/>
+      <point x="4361" y="897"/>
+      <point x="4361" y="688" type="curve" smooth="yes"/>
+      <point x="4361" y="427" type="line" smooth="yes"/>
+      <point x="4361" y="237"/>
+      <point x="4308" y="136"/>
+      <point x="4166" y="136" type="curve" smooth="yes"/>
+      <point x="4020" y="136"/>
+      <point x="3963" y="227"/>
+      <point x="3959" y="411" type="curve" smooth="yes"/>
+      <point x="3955" y="587" type="line" smooth="yes"/>
+      <point x="3937" y="1361"/>
+      <point x="3400" y="1716"/>
+      <point x="2165" y="1716" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="3035" y="1147" type="line"/>
+      <point x="2171" y="1147" type="line"/>
+      <point x="2171" y="0" type="line"/>
+      <point x="2356" y="0" type="line"/>
+      <point x="2356" y="994" type="line"/>
+      <point x="3035" y="994" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="579"/>
+    <component base="RaBeak_Nonexporting" xOffset="2794"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>La.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

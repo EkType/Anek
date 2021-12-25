@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaMatraU_Simple.tm" format="2">
+  <advance width="2350.425"/>
+  <note>
+KaMatraU.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1621.8049999999998" y="572.195" type="line"/>
+      <point x="1708.37" y="572.195" type="line" smooth="yes"/>
+      <point x="1996.345" y="572.195"/>
+      <point x="2112.2650000000003" y="466.24"/>
+      <point x="2112.2650000000003" y="210.48499999999999" type="curve" smooth="yes"/>
+      <point x="2112.2650000000003" y="189.835" type="line" smooth="yes"/>
+      <point x="2112.2650000000003" y="-182.665"/>
+      <point x="1872.2250000000001" y="-402.02500000000003"/>
+      <point x="1298.665" y="-402.02500000000003" type="curve" smooth="yes"/>
+      <point x="1294.635" y="-402.02500000000003" type="line" smooth="yes"/>
+      <point x="633.1550000000001" y="-402.02500000000003"/>
+      <point x="321.47999999999996" y="-125.105"/>
+      <point x="321.47999999999996" y="423.485" type="curve"/>
+      <point x="321.47999999999996" y="1126.48" type="line"/>
+      <point x="197.88500000000002" y="1126.48" type="line"/>
+      <point x="197.88500000000002" y="421.895" type="line"/>
+      <point x="197.88500000000002" y="-195.01000000000002"/>
+      <point x="556.9499999999999" y="-506.78000000000003"/>
+      <point x="1294.635" y="-506.78000000000003" type="curve" smooth="yes"/>
+      <point x="1299.195" y="-506.78000000000003" type="line" smooth="yes"/>
+      <point x="1944.46" y="-506.78000000000003"/>
+      <point x="2234.535" y="-250.805"/>
+      <point x="2234.535" y="190.895" type="curve" smooth="yes"/>
+      <point x="2234.535" y="213.135" type="line" smooth="yes"/>
+      <point x="2234.535" y="525.465"/>
+      <point x="2086.83" y="667.5300000000001"/>
+      <point x="1719.9650000000001" y="667.5300000000001" type="curve" smooth="yes"/>
+      <point x="1621.8049999999998" y="667.5300000000001" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="663.68"/>
+    <component base="KaBeak_Nonexporting" xOffset="1739.665"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>KaMatraU.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

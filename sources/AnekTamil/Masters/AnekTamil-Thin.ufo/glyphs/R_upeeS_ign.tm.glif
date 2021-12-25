@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="RupeeSign.tm" format="2">
+  <advance width="3076"/>
+  <unicode hex="0BF9"/>
+  <note>
+RupeeSign.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1344" y="1109" type="line"/>
+      <point x="1344" y="1" type="line"/>
+      <point x="1380" y="1" type="line"/>
+      <point x="1380" y="1109" type="line"/>
+    </contour>
+    <contour>
+      <point x="1664" y="734" type="curve" smooth="yes"/>
+      <point x="1509" y="734"/>
+      <point x="1412" y="636"/>
+      <point x="1380" y="504" type="curve"/>
+      <point x="1367" y="504" type="line"/>
+      <point x="1367" y="411" type="line"/>
+      <point x="1374" y="411" type="line"/>
+      <point x="1408" y="595"/>
+      <point x="1508" y="699"/>
+      <point x="1661" y="699" type="curve" smooth="yes"/>
+      <point x="1843" y="699"/>
+      <point x="1909" y="576"/>
+      <point x="1909" y="350" type="curve" smooth="yes"/>
+      <point x="1909" y="300" type="line" smooth="yes"/>
+      <point x="1909" y="-186"/>
+      <point x="1654" y="-424"/>
+      <point x="1147" y="-424" type="curve" smooth="yes"/>
+      <point x="1139" y="-424" type="line" smooth="yes"/>
+      <point x="536" y="-424"/>
+      <point x="227" y="-125"/>
+      <point x="227" y="477" type="curve" smooth="yes"/>
+      <point x="227" y="639" type="line" smooth="yes"/>
+      <point x="227" y="1280"/>
+      <point x="555" y="1615"/>
+      <point x="1251" y="1615" type="curve" smooth="yes"/>
+      <point x="1259" y="1615" type="line" smooth="yes"/>
+      <point x="1891" y="1615"/>
+      <point x="2173" y="1327"/>
+      <point x="2173" y="714" type="curve" smooth="yes"/>
+      <point x="2173" y="673" type="line"/>
+      <point x="2209" y="673" type="line"/>
+      <point x="2209" y="855" type="line" smooth="yes"/>
+      <point x="2209" y="1085"/>
+      <point x="2309" y="1193"/>
+      <point x="2473" y="1193" type="curve" smooth="yes"/>
+      <point x="2622" y="1193"/>
+      <point x="2693" y="1101"/>
+      <point x="2693" y="941" type="curve" smooth="yes"/>
+      <point x="2693" y="899" type="line" smooth="yes"/>
+      <point x="2693" y="720"/>
+      <point x="2634" y="625"/>
+      <point x="2536" y="530" type="curve"/>
+      <point x="2536" y="522" type="line"/>
+      <point x="3067" y="522" type="line"/>
+      <point x="3076" y="554" type="line"/>
+      <point x="2584" y="554" type="line"/>
+      <point x="2587" y="538" type="line"/>
+      <point x="2666" y="615"/>
+      <point x="2729" y="716"/>
+      <point x="2729" y="898" type="curve" smooth="yes"/>
+      <point x="2729" y="942" type="line" smooth="yes"/>
+      <point x="2729" y="1123"/>
+      <point x="2644" y="1225"/>
+      <point x="2476" y="1225" type="curve" smooth="yes"/>
+      <point x="2295" y="1225"/>
+      <point x="2189" y="1110"/>
+      <point x="2189" y="886" type="curve" smooth="yes"/>
+      <point x="2189" y="879" type="line"/>
+      <point x="2187" y="879" type="line"/>
+      <point x="2158" y="1359"/>
+      <point x="1891" y="1649"/>
+      <point x="1259" y="1649" type="curve" smooth="yes"/>
+      <point x="1251" y="1649" type="line" smooth="yes"/>
+      <point x="531" y="1649"/>
+      <point x="190" y="1299"/>
+      <point x="190" y="639" type="curve" smooth="yes"/>
+      <point x="190" y="477" type="line" smooth="yes"/>
+      <point x="190" y="-144"/>
+      <point x="512" y="-459"/>
+      <point x="1139" y="-459" type="curve" smooth="yes"/>
+      <point x="1147" y="-459" type="line" smooth="yes"/>
+      <point x="1683" y="-459"/>
+      <point x="1946" y="-201"/>
+      <point x="1946" y="300" type="curve" smooth="yes"/>
+      <point x="1946" y="353" type="line" smooth="yes"/>
+      <point x="1946" y="601"/>
+      <point x="1863" y="734"/>
+    </contour>
+    <contour>
+      <point x="1537" y="1131" type="line"/>
+      <point x="770" y="1131" type="line"/>
+      <point x="770" y="0" type="line"/>
+      <point x="806" y="0" type="line"/>
+      <point x="806" y="1098" type="line"/>
+      <point x="1537" y="1098" type="line"/>
+    </contour>
+    <component base="RaBeak_Nonexporting" xOffset="1345"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

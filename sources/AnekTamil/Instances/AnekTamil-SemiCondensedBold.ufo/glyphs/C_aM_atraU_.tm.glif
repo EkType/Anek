@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="CaMatraU.tm" format="2">
+  <advance width="1540.9666666666667"/>
+  <note>
+CaMatraU.tm
+</note>
+  <outline>
+    <contour>
+      <point x="823.7783333333333" y="519.935" type="line"/>
+      <point x="1522.7083333333333" y="519.935" type="line"/>
+      <point x="1495.8483333333334" y="743.3100000000001" type="line"/>
+      <point x="823.7783333333333" y="743.3100000000001" type="line"/>
+    </contour>
+    <contour>
+      <point x="1092.2433333333333" y="581.4416666666667" type="line"/>
+      <point x="1092.2433333333333" y="0.0" type="line"/>
+      <point x="1362.3833333333334" y="0.0" type="line"/>
+      <point x="1362.3833333333334" y="581.4416666666667" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="53.016666666666666"/>
+    <component base="KaBeak_Nonexporting" xOffset="945.645"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

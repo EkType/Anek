@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="HaMatraU.tm" format="2">
+  <advance width="4316.0"/>
+  <note>
+HaMatraU.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1464.5" y="32.0" type="line"/>
+      <point x="1464.5" y="0.0" type="line"/>
+      <point x="1843.0" y="0.0" type="line"/>
+      <point x="1843.0" y="32.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2161.5" y="1137.5" type="curve" smooth="yes"/>
+      <point x="1942.5" y="1137.5"/>
+      <point x="1814.5" y="1009.5"/>
+      <point x="1814.5" y="737.0" type="curve" smooth="yes"/>
+      <point x="1814.5" y="0.0" type="line"/>
+      <point x="1851.0" y="0.0" type="line"/>
+      <point x="1851.0" y="736.0" type="line" smooth="yes"/>
+      <point x="1851.0" y="989.0"/>
+      <point x="1963.5" y="1102.5"/>
+      <point x="2161.5" y="1102.5" type="curve" smooth="yes"/>
+      <point x="2371.5" y="1102.5"/>
+      <point x="2461.0" y="994.0"/>
+      <point x="2461.0" y="736.0" type="curve"/>
+      <point x="2461.0" y="0.0" type="line"/>
+      <point x="2497.5" y="0.0" type="line"/>
+      <point x="2497.5" y="710.5" type="line" smooth="yes"/>
+      <point x="2497.5" y="1001.5"/>
+      <point x="2638.5" y="1102.5"/>
+      <point x="2850.5" y="1102.5" type="curve" smooth="yes"/>
+      <point x="3074.5" y="1102.5"/>
+      <point x="3157.5" y="986.5"/>
+      <point x="3157.5" y="814.0" type="curve" smooth="yes"/>
+      <point x="3157.5" y="803.0" type="line" smooth="yes"/>
+      <point x="3157.5" y="625.5"/>
+      <point x="3073.0" y="521.5"/>
+      <point x="2847.5" y="520.5" type="curve" smooth="yes"/>
+      <point x="2699.5" y="520.0" type="line"/>
+      <point x="2699.5" y="487.5" type="line"/>
+      <point x="2842.5" y="487.0" type="line" smooth="yes"/>
+      <point x="3075.0" y="486.0"/>
+      <point x="3200.0" y="387.0"/>
+      <point x="3200.0" y="152.5" type="curve" smooth="yes"/>
+      <point x="3200.0" y="139.0" type="line" smooth="yes"/>
+      <point x="3200.0" y="-195.5"/>
+      <point x="3046.5" y="-318.5"/>
+      <point x="2561.0" y="-318.5" type="curve" smooth="yes"/>
+      <point x="497.0" y="-318.5" type="line"/>
+      <point x="508.5" y="-351.5" type="line"/>
+      <point x="2565.5" y="-351.5" type="line" smooth="yes"/>
+      <point x="3074.5" y="-351.5"/>
+      <point x="3238.0" y="-214.5"/>
+      <point x="3238.0" y="138.0" type="curve" smooth="yes"/>
+      <point x="3238.0" y="153.0" type="line" smooth="yes"/>
+      <point x="3238.0" y="401.5"/>
+      <point x="3100.5" y="497.5"/>
+      <point x="2911.0" y="502.5" type="curve"/>
+      <point x="2911.0" y="504.5" type="line"/>
+      <point x="3089.5" y="510.5"/>
+      <point x="3195.5" y="605.5"/>
+      <point x="3195.5" y="803.0" type="curve" smooth="yes"/>
+      <point x="3195.5" y="815.0" type="line" smooth="yes"/>
+      <point x="3195.5" y="943.0"/>
+      <point x="3149.5" y="1048.0"/>
+      <point x="3045.5" y="1096.5" type="curve"/>
+      <point x="3028.5" y="1106.5" type="line"/>
+      <point x="2981.0" y="1127.0"/>
+      <point x="2922.0" y="1137.5"/>
+      <point x="2852.5" y="1137.5" type="curve" smooth="yes"/>
+      <point x="2635.0" y="1137.5"/>
+      <point x="2499.5" y="1021.5"/>
+      <point x="2483.0" y="820.0" type="curve"/>
+      <point x="2481.5" y="820.0" type="line"/>
+      <point x="2466.5" y="1026.0"/>
+      <point x="2371.5" y="1137.5"/>
+    </contour>
+    <contour>
+      <point x="3284.0" y="1118.0" type="line"/>
+      <point x="2966.5" y="1118.0" type="line"/>
+      <point x="3022.5" y="1085.0" type="line"/>
+      <point x="3284.0" y="1085.0" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="17.5"/>
+    <component base="MatraUDflt.tm" xOffset="3094.0"/>
+    <component base="Tail_NonExporting" xOffset="43.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>MatraUDflt.tm</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>Tail_NonExporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ha.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraUDflt.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

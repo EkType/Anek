@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaMatraU.tm" format="2">
+  <advance width="2416.8166666666666"/>
+  <note>
+TaMatraU.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1992.7333333333333" y="1140.1333333333334" type="line"/>
+      <point x="1992.7333333333333" y="-336.3333333333333" type="line"/>
+      <point x="2250.758333333333" y="-336.3333333333333" type="line"/>
+      <point x="2250.758333333333" y="1140.1333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="1066.9" y="508.7083333333333" type="line"/>
+      <point x="1112.9166666666667" y="508.7083333333333" type="line" smooth="yes"/>
+      <point x="1350.1083333333333" y="508.7083333333333"/>
+      <point x="1450.8166666666666" y="397.8666666666667"/>
+      <point x="1450.8166666666666" y="111.14166666666665" type="curve" smooth="yes"/>
+      <point x="1450.8166666666666" y="71.08333333333333" type="line" smooth="yes"/>
+      <point x="1450.8166666666666" y="-47.15833333333333"/>
+      <point x="1440.0416666666667" y="-163.84166666666667"/>
+      <point x="1425.6166666666666" y="-232.49166666666667" type="curve"/>
+      <point x="1416.5083333333334" y="-294.1333333333334" type="line"/>
+      <point x="1377.2916666666667" y="-489.69166666666666"/>
+      <point x="1211.6" y="-615.0083333333333"/>
+      <point x="871.0666666666666" y="-615.0083333333333" type="curve" smooth="yes"/>
+      <point x="517.4583333333334" y="-615.0083333333333"/>
+      <point x="349.30833333333334" y="-499.2083333333333"/>
+      <point x="319.6166666666667" y="-363.35" type="curve"/>
+      <point x="2250.758333333333" y="-363.35" type="line"/>
+      <point x="2250.758333333333" y="-166.79999999999998" type="line"/>
+      <point x="7.516666666666666" y="-166.79999999999998" type="line"/>
+      <point x="32.86666666666667" y="-569.5083333333334"/>
+      <point x="307.8666666666667" y="-817.3583333333333"/>
+      <point x="871.0666666666666" y="-817.3583333333333" type="curve" smooth="yes"/>
+      <point x="1378.8083333333334" y="-817.3583333333333"/>
+      <point x="1618.025" y="-605.65"/>
+      <point x="1677.15" y="-310.5416666666667" type="curve"/>
+      <point x="1685.7583333333332" y="-247.9" type="line"/>
+      <point x="1699.1833333333334" y="-168.25833333333335"/>
+      <point x="1709.15" y="-59.22500000000001"/>
+      <point x="1709.15" y="79.19166666666666" type="curve" smooth="yes"/>
+      <point x="1709.15" y="125.78333333333333" type="line" smooth="yes"/>
+      <point x="1709.15" y="531.6750000000001"/>
+      <point x="1539.4166666666667" y="710.8583333333333"/>
+      <point x="1134.6333333333332" y="710.8583333333333" type="curve" smooth="yes"/>
+      <point x="1066.9" y="710.8583333333333" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="56.95"/>
+    <component base="KaBeak_Nonexporting" xOffset="1211.9583333333335"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

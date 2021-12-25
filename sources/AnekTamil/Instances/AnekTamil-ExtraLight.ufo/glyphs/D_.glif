@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="1152.37"/>
+  <unicode hex="0044"/>
+  <anchor x="570.625" y="0.0" name="bottom"/>
+  <anchor x="584.685" y="639.0" name="center"/>
+  <anchor x="570.625" y="1278.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="224.61" y="0.0" type="line"/>
+      <point x="555.19" y="0.0" type="line" smooth="yes"/>
+      <point x="866.26" y="0.0"/>
+      <point x="1033.38" y="174.325"/>
+      <point x="1033.38" y="487.505" type="curve" smooth="yes"/>
+      <point x="1033.38" y="791.025" type="line" smooth="yes"/>
+      <point x="1033.38" y="1104.675"/>
+      <point x="865.995" y="1278.0"/>
+      <point x="555.19" y="1278.0" type="curve" smooth="yes"/>
+      <point x="222.875" y="1278.0" type="line"/>
+      <point x="222.875" y="1208.02" type="line"/>
+      <point x="552.6" y="1208.02" type="line" smooth="yes"/>
+      <point x="814.05" y="1208.02"/>
+      <point x="951.185" y="1060.885"/>
+      <point x="951.185" y="790.025" type="curve" smooth="yes"/>
+      <point x="951.185" y="488.505" type="line" smooth="yes"/>
+      <point x="951.185" y="218.64499999999998"/>
+      <point x="814.05" y="70.51"/>
+      <point x="552.6" y="70.51" type="curve" smooth="yes"/>
+      <point x="224.61" y="70.51" type="line"/>
+    </contour>
+    <contour>
+      <point x="173.605" y="0.0" type="line"/>
+      <point x="254.74" y="0.0" type="line"/>
+      <point x="254.74" y="1278.0" type="line"/>
+      <point x="173.605" y="1278.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=H</string>
+    </dict>
+  </lib>
+</glyph>

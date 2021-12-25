@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelAu.tm" format="2">
+  <advance width="3737.155"/>
+  <unicode hex="0B94"/>
+  <note>
+vowelAu.tm
+</note>
+  <anchor x="2865.205" y="1243.41" name="top"/>
+  <outline>
+    <component base="VowelO.tm"/>
+    <component base="Lla.tm" xOffset="1725.595"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ra.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Letter</string>
+    </dict>
+  </lib>
+</glyph>

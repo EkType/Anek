@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ShaMatraI.tm" format="2">
+  <advance width="3009.8300000000004"/>
+  <note>
+ShaMatraI.tm
+</note>
+  <anchor x="1199.1416666666667" y="1229.4883333333332" name="top"/>
+  <outline>
+    <contour>
+      <point x="2380.3399999999997" y="1780.265" type="curve" smooth="yes"/>
+      <point x="2074.72" y="1780.265"/>
+      <point x="1907.3933333333332" y="1620.7866666666666"/>
+      <point x="1907.3933333333332" y="1370.8983333333333" type="curve" smooth="yes"/>
+      <point x="1907.3933333333332" y="1368.595" type="line" smooth="yes"/>
+      <point x="1907.3933333333332" y="1288.54"/>
+      <point x="1933.55" y="1196.7366666666667"/>
+      <point x="1975.4483333333333" y="1145.1466666666668" type="curve"/>
+      <point x="2262.6783333333333" y="1145.1466666666668" type="line"/>
+      <point x="2227.3366666666666" y="1186.5733333333333"/>
+      <point x="2204.831666666667" y="1250.23"/>
+      <point x="2204.831666666667" y="1326.1783333333333" type="curve" smooth="yes"/>
+      <point x="2204.831666666667" y="1328.3300000000002" type="line" smooth="yes"/>
+      <point x="2204.831666666667" y="1459.57"/>
+      <point x="2265.8416666666667" y="1527.395"/>
+      <point x="2378.295" y="1527.395" type="curve" smooth="yes"/>
+      <point x="2504.72" y="1527.395"/>
+      <point x="2551.4100000000003" y="1456.3283333333334"/>
+      <point x="2551.4100000000003" y="1291.6166666666666" type="curve" smooth="yes"/>
+      <point x="2551.4100000000003" y="0.0" type="line"/>
+      <point x="2858.0283333333336" y="0.0" type="line"/>
+      <point x="2858.0283333333336" y="1275.4083333333333" type="line" smooth="yes"/>
+      <point x="2858.0283333333336" y="1622.1966666666667"/>
+      <point x="2721.3816666666667" y="1780.265"/>
+    </contour>
+    <component base="Sha.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Sha.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Sha.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

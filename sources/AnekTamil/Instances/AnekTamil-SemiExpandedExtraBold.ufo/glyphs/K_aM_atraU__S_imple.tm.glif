@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaMatraU_Simple.tm" format="2">
+  <advance width="2452.5"/>
+  <note>
+KaMatraU.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1646.0" y="471.5" type="line"/>
+      <point x="1821.0" y="471.5" type="line" smooth="yes"/>
+      <point x="1973.5" y="471.5"/>
+      <point x="2035.0" y="405.0"/>
+      <point x="2035.0" y="247.0" type="curve" smooth="yes"/>
+      <point x="2035.0" y="219.0" type="line" smooth="yes"/>
+      <point x="2035.0" y="-80.0"/>
+      <point x="1842.5" y="-243.5"/>
+      <point x="1341.5" y="-243.5" type="curve" smooth="yes"/>
+      <point x="1336.0" y="-243.5" type="line" smooth="yes"/>
+      <point x="725.5" y="-243.5"/>
+      <point x="491.5" y="-20.0"/>
+      <point x="491.5" y="459.0" type="curve"/>
+      <point x="491.5" y="1150.0" type="line"/>
+      <point x="131.0" y="1150.0" type="line"/>
+      <point x="131.0" y="453.0" type="line"/>
+      <point x="131.0" y="-219.5"/>
+      <point x="504.0" y="-544.5"/>
+      <point x="1336.0" y="-544.5" type="curve" smooth="yes"/>
+      <point x="1343.0" y="-544.5" type="line" smooth="yes"/>
+      <point x="2061.5" y="-544.5"/>
+      <point x="2390.5" y="-277.0"/>
+      <point x="2390.5" y="222.0" type="curve" smooth="yes"/>
+      <point x="2390.5" y="257.5" type="line" smooth="yes"/>
+      <point x="2390.5" y="585.0"/>
+      <point x="2246.5" y="742.0"/>
+      <point x="1849.0" y="742.0" type="curve" smooth="yes"/>
+      <point x="1646.0" y="742.0" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="671.0"/>
+    <component base="KaBeak_Nonexporting" xOffset="1855.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>KaMatraU.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

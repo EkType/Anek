@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NyaMatraI_Simple.tm" format="2">
+  <advance width="2795.0"/>
+  <note>
+NyaMatraI.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1879.5" y="1097.5" type="line"/>
+      <point x="1879.5" y="0.0" type="line"/>
+      <point x="1916.0" y="0.0" type="line"/>
+      <point x="1916.0" y="1097.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="2265.5" y="714.5" type="curve" smooth="yes"/>
+      <point x="2076.0" y="714.5"/>
+      <point x="1955.5" y="610.0"/>
+      <point x="1916.0" y="470.5" type="curve"/>
+      <point x="1902.5" y="470.5" type="line"/>
+      <point x="1902.5" y="382.5" type="line"/>
+      <point x="1909.5" y="382.5" type="line"/>
+      <point x="1955.5" y="575.5"/>
+      <point x="2081.0" y="679.5"/>
+      <point x="2262.5" y="679.5" type="curve" smooth="yes"/>
+      <point x="2484.0" y="679.5"/>
+      <point x="2566.5" y="546.0"/>
+      <point x="2566.5" y="303.5" type="curve" smooth="yes"/>
+      <point x="2566.5" y="284.0" type="line" smooth="yes"/>
+      <point x="2566.5" y="-251.5"/>
+      <point x="2221.5" y="-522.5"/>
+      <point x="1488.0" y="-522.5" type="curve" smooth="yes"/>
+      <point x="1484.5" y="-522.5" type="line" smooth="yes"/>
+      <point x="677.0" y="-522.5"/>
+      <point x="258.0" y="-197.5"/>
+      <point x="258.0" y="512.0" type="curve"/>
+      <point x="258.0" y="1118.0" type="line"/>
+      <point x="220.0" y="1118.0" type="line"/>
+      <point x="220.0" y="511.0" type="line"/>
+      <point x="220.0" y="-217.0"/>
+      <point x="654.5" y="-557.0"/>
+      <point x="1484.5" y="-557.0" type="curve" smooth="yes"/>
+      <point x="1488.0" y="-557.0" type="line" smooth="yes"/>
+      <point x="2248.0" y="-557.0"/>
+      <point x="2604.5" y="-269.0"/>
+      <point x="2604.5" y="283.0" type="curve" smooth="yes"/>
+      <point x="2604.5" y="305.0" type="line" smooth="yes"/>
+      <point x="2604.5" y="569.5"/>
+      <point x="2506.0" y="714.5"/>
+    </contour>
+    <contour>
+      <point x="2118.0" y="1118.0" type="line"/>
+      <point x="1513.0" y="1118.0" type="line"/>
+      <point x="1513.0" y="1085.0" type="line"/>
+      <point x="2118.0" y="1085.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2180.5" y="1737.0" type="curve" smooth="yes"/>
+      <point x="1935.5" y="1737.0"/>
+      <point x="1804.5" y="1599.5"/>
+      <point x="1804.5" y="1369.0" type="curve"/>
+      <point x="1804.5" y="1366.5" type="line" smooth="yes"/>
+      <point x="1804.5" y="1246.5"/>
+      <point x="1842.0" y="1164.0"/>
+      <point x="1875.5" y="1116.5" type="curve"/>
+      <point x="1914.0" y="1116.5" type="line"/>
+      <point x="1873.0" y="1176.5"/>
+      <point x="1842.0" y="1246.5"/>
+      <point x="1842.0" y="1366.5" type="curve" smooth="yes"/>
+      <point x="1842.0" y="1367.5" type="line"/>
+      <point x="1842.0" y="1581.5"/>
+      <point x="1959.0" y="1702.0"/>
+      <point x="2180.5" y="1702.0" type="curve" smooth="yes"/>
+      <point x="2420.5" y="1702.0"/>
+      <point x="2519.0" y="1576.5"/>
+      <point x="2519.0" y="1307.0" type="curve" smooth="yes"/>
+      <point x="2519.0" y="806.5" type="line"/>
+      <point x="2555.5" y="806.5" type="line"/>
+      <point x="2555.5" y="1312.0" type="line" smooth="yes"/>
+      <point x="2555.5" y="1597.0"/>
+      <point x="2439.0" y="1737.0"/>
+    </contour>
+    <component base="VowelE_NonExporting" xOffset="629.0"/>
+    <component base="RaBeak_Nonexporting" xOffset="1751.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>VowelE_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>RaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Nya_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>NyaMatraI.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

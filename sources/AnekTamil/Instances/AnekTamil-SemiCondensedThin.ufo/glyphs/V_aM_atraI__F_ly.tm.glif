@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VaMatraI_Fly.tm" format="2">
+  <advance width="1521.0"/>
+  <outline>
+    <contour>
+      <point x="1317.0" y="1143.5" type="line"/>
+      <point x="1317.0" y="32.5" type="line"/>
+      <point x="1019.5" y="32.5" type="line"/>
+      <point x="1019.5" y="0.0" type="line"/>
+      <point x="1352.5" y="0.0" type="line"/>
+      <point x="1352.5" y="1143.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="1467.0" y="1488.0" type="line"/>
+      <point x="1229.5" y="1488.0" type="line" smooth="yes"/>
+      <point x="1078.5" y="1488.0"/>
+      <point x="1025.5" y="1430.0"/>
+      <point x="1025.5" y="1323.0" type="curve" smooth="yes"/>
+      <point x="1025.5" y="1236.5"/>
+      <point x="1063.5" y="1105.0"/>
+      <point x="1086.5" y="1044.0" type="curve" smooth="yes"/>
+      <point x="1117.5" y="953.0"/>
+      <point x="1150.0" y="930.5"/>
+      <point x="1242.5" y="930.5" type="curve" smooth="yes"/>
+      <point x="1318.0" y="930.5" type="line"/>
+      <point x="1318.0" y="962.0" type="line"/>
+      <point x="1241.5" y="962.0" type="line" smooth="yes"/>
+      <point x="1167.5" y="962.0"/>
+      <point x="1144.5" y="978.5"/>
+      <point x="1118.0" y="1058.0" type="curve" smooth="yes"/>
+      <point x="1097.5" y="1114.5"/>
+      <point x="1061.0" y="1243.0"/>
+      <point x="1061.0" y="1322.5" type="curve" smooth="yes"/>
+      <point x="1061.0" y="1409.5"/>
+      <point x="1100.5" y="1454.5"/>
+      <point x="1232.0" y="1454.5" type="curve" smooth="yes"/>
+      <point x="1475.0" y="1454.5" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="14.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Va.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>PaMatraI_Fly.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

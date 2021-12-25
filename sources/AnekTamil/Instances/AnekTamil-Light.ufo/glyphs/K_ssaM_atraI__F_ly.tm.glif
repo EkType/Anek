@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KssaMatraI_Fly.tm" format="2">
+  <advance width="3162.51"/>
+  <note>
+KshaMatraI.tm
+</note>
+  <anchor x="1807.35" y="1241.82" name="top"/>
+  <outline>
+    <contour>
+      <point x="3022.09" y="1548.8" type="line"/>
+      <point x="2715.17" y="1548.8" type="line" smooth="yes"/>
+      <point x="2536.45" y="1548.8"/>
+      <point x="2463.91" y="1487.09"/>
+      <point x="2463.91" y="1364.02" type="curve" smooth="yes"/>
+      <point x="2463.91" y="1287.43"/>
+      <point x="2499.61" y="1215.61"/>
+      <point x="2544.27" y="1136.59" type="curve"/>
+      <point x="2656.94" y="1136.59" type="line"/>
+      <point x="2618.35" y="1202.53"/>
+      <point x="2582.53" y="1268.88"/>
+      <point x="2582.53" y="1330.34" type="curve" smooth="yes"/>
+      <point x="2582.53" y="1412.56"/>
+      <point x="2626.58" y="1449.61"/>
+      <point x="2749.26" y="1449.61" type="curve" smooth="yes"/>
+      <point x="3040.04" y="1449.61" type="line"/>
+    </contour>
+    <component base="Kssa.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>SsaMatraI_Fly.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>
