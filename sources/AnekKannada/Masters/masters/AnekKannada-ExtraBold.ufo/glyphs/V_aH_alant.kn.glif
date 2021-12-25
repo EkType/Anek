@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VaHalant.kn" format="2">
+  <advance width="2404"/>
+  <outline>
+    <component base="Halant.kn" xOffset="1621"/>
+    <contour>
+      <point x="1181" y="-32" type="curve" smooth="yes"/>
+      <point x="1437" y="-32"/>
+      <point x="1571" y="115.984"/>
+      <point x="1571" y="399" type="curve" smooth="yes"/>
+      <point x="1571" y="455" type="line" smooth="yes"/>
+      <point x="1571" y="741.016"/>
+      <point x="1463" y="885"/>
+      <point x="1238" y="913" type="curve"/>
+      <point x="1238" y="948" type="line"/>
+      <point x="685" y="947" type="line"/>
+      <point x="685" y="922" type="line"/>
+      <point x="1063" y="922"/>
+      <point x="1221" y="783.015"/>
+      <point x="1221" y="480" type="curve" smooth="yes"/>
+      <point x="1221" y="431" type="line" smooth="yes"/>
+      <point x="1221" y="330.995"/>
+      <point x="1190" y="281"/>
+      <point x="1116" y="281" type="curve" smooth="yes"/>
+      <point x="1045" y="281"/>
+      <point x="1012" y="323"/>
+      <point x="1007" y="408" type="curve" smooth="yes"/>
+      <point x="1002" y="499" type="line"/>
+      <point x="662" y="499" type="line"/>
+      <point x="657" y="414" type="line" smooth="yes"/>
+      <point x="652" y="321"/>
+      <point x="604" y="274"/>
+      <point x="515" y="274" type="curve" smooth="yes"/>
+      <point x="440" y="274"/>
+      <point x="406" y="307"/>
+      <point x="406" y="372" type="curve" smooth="yes"/>
+      <point x="406" y="375" type="line" smooth="yes"/>
+      <point x="406" y="438"/>
+      <point x="436" y="467"/>
+      <point x="501" y="467" type="curve" smooth="yes"/>
+      <point x="530" y="467"/>
+      <point x="559" y="462"/>
+      <point x="582" y="453" type="curve"/>
+      <point x="565" y="739" type="line"/>
+      <point x="522" y="755"/>
+      <point x="477" y="763"/>
+      <point x="414" y="763" type="curve" smooth="yes"/>
+      <point x="187" y="763"/>
+      <point x="65" y="629"/>
+      <point x="65" y="385" type="curve" smooth="yes"/>
+      <point x="65" y="361" type="line" smooth="yes"/>
+      <point x="65" y="103"/>
+      <point x="203" y="-32"/>
+      <point x="468" y="-32" type="curve" smooth="yes"/>
+      <point x="690" y="-32"/>
+      <point x="808" y="61"/>
+      <point x="827" y="233" type="curve"/>
+      <point x="836" y="233" type="line"/>
+      <point x="854" y="61"/>
+      <point x="970" y="-32"/>
+    </contour>
+    <contour>
+      <point x="1238" y="922" type="line"/>
+      <point x="1238" y="1191" type="line"/>
+      <point x="122" y="1191" type="line"/>
+      <point x="122" y="922" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1151" y="0"/>
+  <guideline angle="90" x="102" y="0"/>
+  <guideline angle="0" x="0" y="955"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Va.kn</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Halant.kn</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

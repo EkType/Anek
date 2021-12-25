@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="GamatraAa.kn" format="2">
+  <advance width="1506"/>
+  <outline>
+    <component base="matraAa.kn" xOffset="617"/>
+    <contour>
+      <point x="242" y="1064" type="line"/>
+      <point x="242" y="1039.66" type="line"/>
+      <point x="145.494" y="1010.78"/>
+      <point x="98" y="917.157"/>
+      <point x="98" y="737" type="curve" smooth="yes"/>
+      <point x="98" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="270" y="812" type="line" smooth="yes"/>
+      <point x="270" y="969"/>
+      <point x="322" y="1046"/>
+      <point x="432" y="1046" type="curve" smooth="yes"/>
+      <point x="542.7" y="1046"/>
+      <point x="594" y="969"/>
+      <point x="594" y="812" type="curve" smooth="yes"/>
+      <point x="594" y="0" type="line"/>
+      <point x="766" y="0" type="line"/>
+      <point x="766" y="737" type="line" smooth="yes"/>
+      <point x="766" y="917.171"/>
+      <point x="718.007" y="1010.79"/>
+      <point x="622" y="1039.66" type="curve"/>
+      <point x="622" y="1064" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="1193" type="line"/>
+      <point x="78" y="1046" type="line"/>
+      <point x="602" y="1046" type="line"/>
+      <point x="590" y="1193" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="603" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ga.kn</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraAa.kn</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

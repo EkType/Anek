@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DdhaHalant.kn" format="2">
+  <advance width="2353"/>
+  <outline>
+    <component base="DdaHalant.kn"/>
+    <contour>
+      <point x="811" y="-443" type="curve" smooth="yes"/>
+      <point x="930.978" y="-443"/>
+      <point x="993" y="-384"/>
+      <point x="993" y="-267" type="curve" smooth="yes"/>
+      <point x="993" y="-261" type="line" smooth="yes"/>
+      <point x="993" y="-150.723"/>
+      <point x="930.978" y="-48.3941"/>
+      <point x="811" y="44" type="curve"/>
+      <point x="692.028" y="-48.3941"/>
+      <point x="630" y="-150.723"/>
+      <point x="630" y="-261" type="curve" smooth="yes"/>
+      <point x="630" y="-267" type="line" smooth="yes"/>
+      <point x="630" y="-384"/>
+      <point x="691.011" y="-443"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="-274"/>
+  <guideline angle="90" x="112" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ddha.kn</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Halant.kn</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

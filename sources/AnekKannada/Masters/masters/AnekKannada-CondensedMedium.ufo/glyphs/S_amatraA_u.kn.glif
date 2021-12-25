@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SamatraAu.kn" format="2">
+  <advance width="1553"/>
+  <outline>
+    <component base="matraAu.kn" xOffset="565"/>
+    <contour>
+      <point x="708" y="1045" type="line"/>
+      <point x="708" y="1193" type="line"/>
+      <point x="89" y="1193" type="line"/>
+      <point x="89" y="1045" type="line"/>
+    </contour>
+    <contour>
+      <point x="489" y="677" type="curve" smooth="yes"/>
+      <point x="545" y="677"/>
+      <point x="573" y="715"/>
+      <point x="573" y="799" type="curve" smooth="yes"/>
+      <point x="573" y="884" type="line" smooth="yes"/>
+      <point x="573" y="968"/>
+      <point x="545" y="1007"/>
+      <point x="489" y="1007" type="curve" smooth="yes"/>
+      <point x="433" y="1007"/>
+      <point x="405" y="968"/>
+      <point x="405" y="884" type="curve" smooth="yes"/>
+      <point x="405" y="800" type="line" smooth="yes"/>
+      <point x="405" y="716"/>
+      <point x="433" y="677"/>
+    </contour>
+    <contour>
+      <point x="923" y="285" type="curve" smooth="yes"/>
+      <point x="923" y="515" type="line" smooth="yes"/>
+      <point x="923" y="669"/>
+      <point x="896" y="781"/>
+      <point x="837" y="871" type="curve"/>
+      <point x="670" y="871" type="line"/>
+      <point x="725" y="785"/>
+      <point x="751" y="667"/>
+      <point x="751" y="519" type="curve" smooth="yes"/>
+      <point x="751" y="282" type="line" smooth="yes"/>
+      <point x="751" y="184.356"/>
+      <point x="724" y="138"/>
+      <point x="666" y="138" type="curve" smooth="yes"/>
+      <point x="608.081" y="138"/>
+      <point x="586.688" y="182.263"/>
+      <point x="572" y="277" type="curve" smooth="yes"/>
+      <point x="552" y="406" type="line" smooth="yes"/>
+      <point x="525.508" y="576.871"/>
+      <point x="457.086" y="658"/>
+      <point x="304" y="658" type="curve" smooth="yes"/>
+      <point x="148" y="658"/>
+      <point x="71" y="566"/>
+      <point x="71" y="379" type="curve" smooth="yes"/>
+      <point x="71" y="318" type="line" smooth="yes"/>
+      <point x="71" y="173"/>
+      <point x="91" y="63"/>
+      <point x="129" y="-9" type="curve"/>
+      <point x="300" y="-9" type="line"/>
+      <point x="263" y="72"/>
+      <point x="239" y="189"/>
+      <point x="239" y="319" type="curve" smooth="yes"/>
+      <point x="239" y="377" type="line" smooth="yes"/>
+      <point x="239" y="462.154"/>
+      <point x="261.421" y="500"/>
+      <point x="310" y="500" type="curve" smooth="yes"/>
+      <point x="361.488" y="500"/>
+      <point x="379.4" y="462.162"/>
+      <point x="392" y="379" type="curve" smooth="yes"/>
+      <point x="412" y="247" type="line" smooth="yes"/>
+      <point x="439.128" y="67.9552"/>
+      <point x="509.5" y="-21"/>
+      <point x="672" y="-21" type="curve" smooth="yes"/>
+      <point x="839" y="-21"/>
+      <point x="923" y="83"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="410" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Sa.kn</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraAu.kn</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

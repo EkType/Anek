@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="JhamatraUu.kn" format="2">
+  <advance width="1847"/>
+  <outline>
+    <component base="Ra.kn"/>
+    <component base="matraUu.kn" xOffset="1050" yOffset="-1"/>
+    <component base="matraU.kn" xOffset="714"/>
+    <contour>
+      <point x="920" y="-349" type="curve" smooth="yes"/>
+      <point x="935" y="-349"/>
+      <point x="941" y="-338"/>
+      <point x="941" y="-314" type="curve" smooth="yes"/>
+      <point x="941" y="-244" type="line" smooth="yes"/>
+      <point x="941" y="-118"/>
+      <point x="936" y="-35"/>
+      <point x="920" y="35" type="curve"/>
+      <point x="904" y="-35"/>
+      <point x="899" y="-118"/>
+      <point x="899" y="-244" type="curve" smooth="yes"/>
+      <point x="899" y="-314" type="line" smooth="yes"/>
+      <point x="899" y="-338"/>
+      <point x="905" y="-349"/>
+    </contour>
+    <contour>
+      <point x="581" y="234" type="line"/>
+      <point x="604" y="234" type="line"/>
+      <point x="604" y="316" type="line"/>
+      <point x="581" y="316" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="-349"/>
+  <guideline angle="90" x="899" y="0"/>
+  <guideline angle="0" x="0" y="1195"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Jha.kn</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraUu.kn</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

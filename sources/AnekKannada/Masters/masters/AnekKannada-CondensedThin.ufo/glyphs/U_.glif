@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="2">
+  <advance width="686"/>
+  <unicode hex="0055"/>
+  <anchor x="343" y="0" name="bottom"/>
+  <anchor x="491" y="10" name="ogonek"/>
+  <anchor x="343" y="1278" name="top"/>
+  <anchor x="665" y="1278" name="topright"/>
+  <outline>
+    <contour>
+      <point x="343" y="-15" type="curve" smooth="yes"/>
+      <point x="497" y="-15"/>
+      <point x="572" y="86"/>
+      <point x="572" y="281" type="curve"/>
+      <point x="572" y="1278" type="line"/>
+      <point x="533" y="1278" type="line"/>
+      <point x="533" y="281" type="line" smooth="yes"/>
+      <point x="533" y="113"/>
+      <point x="474" y="21"/>
+      <point x="343" y="21" type="curve" smooth="yes"/>
+      <point x="212" y="21"/>
+      <point x="153" y="113"/>
+      <point x="153" y="281" type="curve" smooth="yes"/>
+      <point x="153" y="1278" type="line"/>
+      <point x="114" y="1278" type="line"/>
+      <point x="114" y="281" type="line"/>
+      <point x="114" y="86"/>
+      <point x="189" y="-15"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

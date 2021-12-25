@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RamatraU.kn" format="2">
+  <advance width="1052"/>
+  <outline>
+    <component base="Ra.kn"/>
+    <component base="matraU.kn" xOffset="714"/>
+    <contour>
+      <point x="583" y="249" type="line"/>
+      <point x="604" y="250" type="line"/>
+      <point x="604" y="312" type="line"/>
+      <point x="583" y="312" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ra.kn</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraU.kn</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

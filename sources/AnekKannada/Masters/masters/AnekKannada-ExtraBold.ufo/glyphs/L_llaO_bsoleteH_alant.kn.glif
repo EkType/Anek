@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LllaObsoleteHalant.kn" format="2">
+  <advance width="3196"/>
+  <outline>
+    <component base="LllaObsolete.kn"/>
+    <component base="Halant.kn" xOffset="2413"/>
+    <contour>
+      <point x="2334" y="718" type="line" smooth="yes"/>
+      <point x="2334" y="835"/>
+      <point x="2281" y="901"/>
+      <point x="2183" y="913" type="curve"/>
+      <point x="2183" y="977" type="line"/>
+      <point x="1902" y="977" type="line"/>
+      <point x="1887" y="922" type="line"/>
+      <point x="1972" y="922"/>
+      <point x="2008" y="893"/>
+      <point x="2008" y="828" type="curve" smooth="yes"/>
+      <point x="2008" y="823" type="line" smooth="yes"/>
+      <point x="2008" y="764"/>
+      <point x="1975" y="733"/>
+      <point x="1908" y="733" type="curve" smooth="yes"/>
+      <point x="1860" y="733"/>
+      <point x="1817" y="750"/>
+      <point x="1794" y="776" type="curve"/>
+      <point x="1687" y="653" type="line"/>
+      <point x="1733" y="515"/>
+      <point x="1840" y="437"/>
+      <point x="2011" y="437" type="curve" smooth="yes"/>
+      <point x="2210" y="437"/>
+      <point x="2334" y="533"/>
+      <point x="2334" y="715" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="2123" y="922" type="line"/>
+      <point x="2123" y="1191" type="line"/>
+      <point x="1856" y="1191" type="line"/>
+      <point x="1856" y="922" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1581" y="0"/>
+  <guideline angle="0" x="0" y="537"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>LllaObsolete.kn</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Halant.kn</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

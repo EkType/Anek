@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+  <advance width="1028"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <component base="period" xScale="0.8" yScale="0.8" xOffset="307" yOffset="141"/>
+    <component base="period" xScale="0.8" yScale="0.8" xOffset="307" yOffset="834"/>
+    <contour>
+      <point x="944" y="478" type="line"/>
+      <point x="944" y="758" type="line"/>
+      <point x="84" y="758" type="line"/>
+      <point x="84" y="478" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>
