@@ -1,5 +1,5 @@
 # Anek Multi-script
-![Anek Multi-script Typefamily Sample Image](promotion/Anek_header.gif)
+![Anek Multi-script Typefamily Sample Image](promotion/Anek_Header.gif)
 Anek, as the meaning of the word suggests, is an exercise in multiplicity — multiple scripts designed in multiple weights and widths by multiple designers. Embracing the variable font technology, Anek meets the demands of the modern multiscript page with it's confident and contemporary design.
 
 It’s expansive design space allows Anek to don multiple personalities. At its most condensed, capsular forms keep structures compact for that graphic texture. On the wide end of the spectrum, the extra legroom lets each letter yawn and stretch into their message. But it is in the boldest weights that Anek comes alive. Sharp terminals and tapered joineries sparkle amidst regimented forms making this ideal for setting titillating headlines or that magnetic word-mark.
