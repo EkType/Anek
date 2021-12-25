@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LllaMatraI_Fly.tm" format="2">
+  <advance width="2102"/>
+  <note>
+LllaMatraI.tm
+</note>
+  <anchor x="1067" y="1236" name="top"/>
+  <outline>
+    <contour>
+      <point x="941" y="-759" type="curve" smooth="yes"/>
+      <point x="1226" y="-759"/>
+      <point x="1336" y="-638"/>
+      <point x="1437" y="-454" type="curve" smooth="yes"/>
+      <point x="1449" y="-430" type="line" smooth="yes"/>
+      <point x="1474" y="-387"/>
+      <point x="1486" y="-371"/>
+      <point x="1542" y="-371" type="curve" smooth="yes"/>
+      <point x="1660" y="-371" type="line"/>
+      <point x="1691" y="-206" type="line"/>
+      <point x="1418" y="-206" type="line" smooth="yes"/>
+      <point x="1214" y="-206"/>
+      <point x="1159" y="-150"/>
+      <point x="1159" y="-7" type="curve" smooth="yes"/>
+      <point x="1159" y="64" type="line"/>
+      <point x="953" y="64" type="line"/>
+      <point x="953" y="-17" type="line" smooth="yes"/>
+      <point x="953" y="-232"/>
+      <point x="1030" y="-321"/>
+      <point x="1298" y="-338" type="curve"/>
+      <point x="1298" y="-342" type="line"/>
+      <point x="1271" y="-345"/>
+      <point x="1255" y="-360"/>
+      <point x="1238" y="-385" type="curve" smooth="yes"/>
+      <point x="1229" y="-400" type="line" smooth="yes"/>
+      <point x="1169" y="-504"/>
+      <point x="1107" y="-596"/>
+      <point x="941" y="-596" type="curve" smooth="yes"/>
+      <point x="749" y="-596"/>
+      <point x="652" y="-498"/>
+      <point x="652" y="-308" type="curve" smooth="yes"/>
+      <point x="652" y="-266"/>
+      <point x="658" y="-222"/>
+      <point x="666" y="-191" type="curve"/>
+      <point x="462" y="-191" type="line"/>
+      <point x="455" y="-220"/>
+      <point x="449" y="-262"/>
+      <point x="449" y="-307" type="curve" smooth="yes"/>
+      <point x="449" y="-596"/>
+      <point x="618" y="-759"/>
+    </contour>
+    <component base="MaMatraI_Fly.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>MaMatraI_Fly.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MaMatraI_Fly.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thousand_Simple.tm" format="2">
+  <advance width="2667"/>
+  <note>
+Thousand.tm
+</note>
+  <guideline x="5421" y="-85" angle="90"/>
+  <outline>
+    <contour>
+      <point x="1183" y="593" type="line"/>
+      <point x="2402" y="593" type="line"/>
+      <point x="2387" y="625" type="line"/>
+      <point x="1183" y="625" type="line"/>
+    </contour>
+    <contour>
+      <point x="2074" y="600" type="line"/>
+      <point x="2074" y="313" type="line"/>
+      <point x="2074" y="306" type="line"/>
+      <point x="2074" y="162" type="line" smooth="yes"/>
+      <point x="2074" y="-46"/>
+      <point x="1984" y="-137"/>
+      <point x="1764" y="-137" type="curve" smooth="yes"/>
+      <point x="1559" y="-137"/>
+      <point x="1435" y="-49"/>
+      <point x="1435" y="104" type="curve" smooth="yes"/>
+      <point x="1435" y="106" type="line" smooth="yes"/>
+      <point x="1435" y="238"/>
+      <point x="1513" y="294"/>
+      <point x="1685" y="294" type="curve" smooth="yes"/>
+      <point x="2085" y="294" type="line"/>
+      <point x="2097" y="294" type="line"/>
+      <point x="2150" y="294" type="line" smooth="yes"/>
+      <point x="2439" y="294"/>
+      <point x="2562" y="206"/>
+      <point x="2562" y="-21" type="curve" smooth="yes"/>
+      <point x="2562" y="-23" type="line" smooth="yes"/>
+      <point x="2562" y="-304"/>
+      <point x="2424" y="-401"/>
+      <point x="2027" y="-401" type="curve" smooth="yes"/>
+      <point x="1314" y="-401" type="line"/>
+      <point x="1330" y="-431" type="line"/>
+      <point x="2027" y="-431" type="line" smooth="yes"/>
+      <point x="2444" y="-431"/>
+      <point x="2597" y="-326"/>
+      <point x="2597" y="-23" type="curve" smooth="yes"/>
+      <point x="2597" y="-21" type="line" smooth="yes"/>
+      <point x="2597" y="224"/>
+      <point x="2463" y="324"/>
+      <point x="2155" y="324" type="curve" smooth="yes"/>
+      <point x="2097" y="324" type="line"/>
+      <point x="2085" y="324" type="line"/>
+      <point x="1682" y="324" type="line" smooth="yes"/>
+      <point x="1488" y="324"/>
+      <point x="1400" y="253"/>
+      <point x="1400" y="106" type="curve" smooth="yes"/>
+      <point x="1400" y="104" type="line" smooth="yes"/>
+      <point x="1400" y="-65"/>
+      <point x="1532" y="-169"/>
+      <point x="1764" y="-169" type="curve" smooth="yes"/>
+      <point x="2007" y="-169"/>
+      <point x="2108" y="-62"/>
+      <point x="2108" y="160" type="curve" smooth="yes"/>
+      <point x="2108" y="306" type="line"/>
+      <point x="2108" y="313" type="line"/>
+      <point x="2108" y="600" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="63"/>
+    <component base="KaBeak_Nonexporting" xOffset="1279"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Thousand.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

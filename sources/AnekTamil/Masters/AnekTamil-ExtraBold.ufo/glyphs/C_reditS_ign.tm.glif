@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="CreditSign.tm" format="2">
+  <advance width="2882"/>
+  <unicode hex="0BF7"/>
+  <note>
+CreditSign.tm
+</note>
+  <outline>
+    <contour>
+      <point x="2155" y="798" type="curve" smooth="yes"/>
+      <point x="1913" y="798"/>
+      <point x="1795" y="670"/>
+      <point x="1795" y="490" type="curve" smooth="yes"/>
+      <point x="1795" y="490" type="line"/>
+      <point x="1787" y="490" type="line"/>
+      <point x="1763" y="664"/>
+      <point x="1683" y="732"/>
+      <point x="1483" y="732" type="curve" smooth="yes"/>
+      <point x="1326" y="732" type="line"/>
+      <point x="1326" y="464" type="line"/>
+      <point x="1457" y="464" type="line" smooth="yes"/>
+      <point x="1582" y="464"/>
+      <point x="1618" y="422"/>
+      <point x="1618" y="278" type="curve" smooth="yes"/>
+      <point x="1618" y="0" type="line"/>
+      <point x="1950" y="0" type="line"/>
+      <point x="1950" y="347" type="line" smooth="yes"/>
+      <point x="1950" y="458"/>
+      <point x="1992" y="518"/>
+      <point x="2072" y="518" type="curve" smooth="yes"/>
+      <point x="2154" y="518"/>
+      <point x="2181" y="461"/>
+      <point x="2181" y="354" type="curve" smooth="yes"/>
+      <point x="2181" y="311" type="line" smooth="yes"/>
+      <point x="2181" y="180"/>
+      <point x="2160" y="98"/>
+      <point x="2108" y="18" type="curve"/>
+      <point x="2108" y="0" type="line"/>
+      <point x="2848" y="0" type="line"/>
+      <point x="2882" y="275" type="line"/>
+      <point x="2385" y="275" type="line"/>
+      <point x="2453" y="192" type="line"/>
+      <point x="2488" y="253"/>
+      <point x="2505" y="317"/>
+      <point x="2505" y="428" type="curve" smooth="yes"/>
+      <point x="2505" y="456" type="line" smooth="yes"/>
+      <point x="2505" y="676"/>
+      <point x="2401" y="798"/>
+    </contour>
+    <component base="VowelE.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>VowelE.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>VowelE.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Tta.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

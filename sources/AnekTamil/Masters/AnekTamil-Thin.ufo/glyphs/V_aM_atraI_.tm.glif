@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VaMatraI.tm" format="2">
+  <advance width="2356"/>
+  <note>
+VaMatraI.tm
+</note>
+  <outline>
+    <contour>
+      <point x="1638" y="1131" type="line"/>
+      <point x="1638" y="33" type="line"/>
+      <point x="1212" y="33" type="line"/>
+      <point x="1212" y="0" type="line"/>
+      <point x="1674" y="0" type="line"/>
+      <point x="1674" y="1131" type="line"/>
+    </contour>
+    <contour>
+      <point x="1707" y="1698" type="curve" smooth="yes"/>
+      <point x="1421" y="1698"/>
+      <point x="1262" y="1524"/>
+      <point x="1262" y="1235" type="curve" smooth="yes"/>
+      <point x="1262" y="1198" type="line" smooth="yes"/>
+      <point x="1262" y="939"/>
+      <point x="1400" y="795"/>
+      <point x="1639" y="772" type="curve"/>
+      <point x="1640" y="805" type="line"/>
+      <point x="1413" y="831"/>
+      <point x="1299" y="965"/>
+      <point x="1299" y="1198" type="curve" smooth="yes"/>
+      <point x="1299" y="1234" type="line" smooth="yes"/>
+      <point x="1299" y="1504"/>
+      <point x="1443" y="1663"/>
+      <point x="1707" y="1663" type="curve" smooth="yes"/>
+      <point x="1996" y="1663"/>
+      <point x="2115" y="1508"/>
+      <point x="2115" y="1197" type="curve" smooth="yes"/>
+      <point x="2115" y="0" type="line"/>
+      <point x="2151" y="0" type="line"/>
+      <point x="2151" y="1201" type="line" smooth="yes"/>
+      <point x="2151" y="1529"/>
+      <point x="2013" y="1698"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Va.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

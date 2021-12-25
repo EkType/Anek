@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaMatraU.tm" format="2">
+  <advance width="2156"/>
+  <note>
+TaMatraU.tm
+</note>
+  <guideline x="1004" y="-186" angle="180"/>
+  <outline>
+    <contour>
+      <point x="1802" y="1147" type="line"/>
+      <point x="1802" y="-295" type="line"/>
+      <point x="1988" y="-295" type="line"/>
+      <point x="1988" y="1147" type="line"/>
+    </contour>
+    <contour>
+      <point x="940" y="554" type="line"/>
+      <point x="992" y="554" type="line" smooth="yes"/>
+      <point x="1219" y="554"/>
+      <point x="1313" y="453"/>
+      <point x="1313" y="169" type="curve" smooth="yes"/>
+      <point x="1313" y="104" type="line" smooth="yes"/>
+      <point x="1313" y="-38"/>
+      <point x="1301" y="-171"/>
+      <point x="1286" y="-241" type="curve"/>
+      <point x="1278" y="-287" type="line"/>
+      <point x="1237" y="-465"/>
+      <point x="1085" y="-589"/>
+      <point x="767" y="-589" type="curve" smooth="yes"/>
+      <point x="423" y="-589"/>
+      <point x="269" y="-471"/>
+      <point x="240" y="-336" type="curve"/>
+      <point x="1988" y="-336" type="line"/>
+      <point x="1988" y="-186" type="line"/>
+      <point x="19" y="-186" type="line"/>
+      <point x="43" y="-527"/>
+      <point x="281" y="-741"/>
+      <point x="767" y="-741" type="curve" smooth="yes"/>
+      <point x="1204" y="-741"/>
+      <point x="1410" y="-556"/>
+      <point x="1466" y="-297" type="curve"/>
+      <point x="1473" y="-255" type="line"/>
+      <point x="1488" y="-175"/>
+      <point x="1499" y="-53"/>
+      <point x="1499" y="109" type="curve" smooth="yes"/>
+      <point x="1499" y="183" type="line" smooth="yes"/>
+      <point x="1499" y="549"/>
+      <point x="1356" y="704"/>
+      <point x="1014" y="704" type="curve" smooth="yes"/>
+      <point x="940" y="704" type="line"/>
+    </contour>
+    <component base="KaComponent_Nonexporting" xOffset="83"/>
+    <component base="KaBeak_Nonexporting" xOffset="1050"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>KaComponent_Nonexporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>KaBeak_Nonexporting</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

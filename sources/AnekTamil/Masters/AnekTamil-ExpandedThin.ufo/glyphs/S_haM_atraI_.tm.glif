@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ShaMatraI.tm" format="2">
+  <advance width="3114"/>
+  <note>
+ShaMatraI.tm
+</note>
+  <anchor x="1260" y="1253" name="top"/>
+  <outline>
+    <contour>
+      <point x="2482" y="1776" type="curve" smooth="yes"/>
+      <point x="2255" y="1776"/>
+      <point x="2110" y="1640"/>
+      <point x="2110" y="1413" type="curve" smooth="yes"/>
+      <point x="2110" y="1413" type="line" smooth="yes"/>
+      <point x="2110" y="1261"/>
+      <point x="2181" y="1153"/>
+      <point x="2252" y="1105" type="curve"/>
+      <point x="2304" y="1105" type="line"/>
+      <point x="2209" y="1163"/>
+      <point x="2147" y="1271"/>
+      <point x="2147" y="1413" type="curve" smooth="yes"/>
+      <point x="2147" y="1413" type="line" smooth="yes"/>
+      <point x="2147" y="1626"/>
+      <point x="2281" y="1742"/>
+      <point x="2482" y="1742" type="curve" smooth="yes"/>
+      <point x="2719" y="1742"/>
+      <point x="2825" y="1626"/>
+      <point x="2825" y="1351" type="curve" smooth="yes"/>
+      <point x="2825" y="0" type="line"/>
+      <point x="2862" y="0" type="line"/>
+      <point x="2862" y="1356" type="line" smooth="yes"/>
+      <point x="2862" y="1647"/>
+      <point x="2739" y="1776"/>
+    </contour>
+    <component base="Sha.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Sha.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Sha.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

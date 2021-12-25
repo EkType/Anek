@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="HaMatraUu_Simple_SimpleUu.tm" format="2">
+  <advance width="4705"/>
+  <note>
+HaMatraUu.tm
+</note>
+  <outline>
+    <contour>
+      <point x="2026" y="1192" type="curve" smooth="yes"/>
+      <point x="1763" y="1192"/>
+      <point x="1621" y="1058"/>
+      <point x="1621" y="744" type="curve" smooth="yes"/>
+      <point x="1621" y="0" type="line"/>
+      <point x="1956" y="0" type="line"/>
+      <point x="1956" y="765" type="line" smooth="yes"/>
+      <point x="1956" y="870"/>
+      <point x="2001" y="912"/>
+      <point x="2074" y="912" type="curve" smooth="yes"/>
+      <point x="2153" y="912"/>
+      <point x="2187" y="870"/>
+      <point x="2187" y="765" type="curve" smooth="yes"/>
+      <point x="2187" y="0" type="line"/>
+      <point x="2521" y="0" type="line"/>
+      <point x="2521" y="740" type="line" smooth="yes"/>
+      <point x="2521" y="863"/>
+      <point x="2575" y="914"/>
+      <point x="2684" y="914" type="curve" smooth="yes"/>
+      <point x="2784" y="914"/>
+      <point x="2825" y="874"/>
+      <point x="2825" y="778" type="curve" smooth="yes"/>
+      <point x="2825" y="757" type="line" smooth="yes"/>
+      <point x="2825" y="672"/>
+      <point x="2785" y="626"/>
+      <point x="2669" y="618" type="curve" smooth="yes"/>
+      <point x="2608" y="615" type="line"/>
+      <point x="2608" y="350" type="line"/>
+      <point x="2666" y="346" type="line" smooth="yes"/>
+      <point x="2792" y="338"/>
+      <point x="2831" y="292"/>
+      <point x="2831" y="174" type="curve" smooth="yes"/>
+      <point x="2831" y="131" type="line" smooth="yes"/>
+      <point x="2831" y="-61"/>
+      <point x="2764" y="-138"/>
+      <point x="2491" y="-138" type="curve" smooth="yes"/>
+      <point x="13" y="-138" type="line"/>
+      <point x="54" y="-417" type="line"/>
+      <point x="2520" y="-417" type="line" smooth="yes"/>
+      <point x="3028" y="-417"/>
+      <point x="3169" y="-256"/>
+      <point x="3169" y="111" type="curve" smooth="yes"/>
+      <point x="3169" y="156" type="line" smooth="yes"/>
+      <point x="3169" y="361"/>
+      <point x="3102" y="474"/>
+      <point x="2911" y="489" type="curve"/>
+      <point x="2911" y="498" type="line"/>
+      <point x="3091" y="514"/>
+      <point x="3146" y="629"/>
+      <point x="3146" y="794" type="curve" smooth="yes"/>
+      <point x="3146" y="808" type="line" smooth="yes"/>
+      <point x="3146" y="878"/>
+      <point x="3131" y="944"/>
+      <point x="3091" y="989" type="curve"/>
+      <point x="3092" y="1056" type="line"/>
+      <point x="3033" y="1148"/>
+      <point x="2929" y="1194"/>
+      <point x="2761" y="1194" type="curve" smooth="yes"/>
+      <point x="2519" y="1194"/>
+      <point x="2396" y="1099"/>
+      <point x="2367" y="922" type="curve"/>
+      <point x="2359" y="922" type="line"/>
+      <point x="2337" y="1095"/>
+      <point x="2231" y="1192"/>
+    </contour>
+    <contour>
+      <point x="1480" y="273" type="line"/>
+      <point x="1480" y="0" type="line"/>
+      <point x="1753" y="0" type="line"/>
+      <point x="1753" y="273" type="line"/>
+    </contour>
+    <contour>
+      <point x="3178" y="1163" type="line"/>
+      <point x="2865" y="1163" type="line"/>
+      <point x="2865" y="891" type="line"/>
+      <point x="3178" y="891" type="line"/>
+    </contour>
+    <component base="Va_NonExporting" xOffset="1"/>
+    <component base="MatraUuDflt_Simple.tm" xOffset="3006"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Va_NonExporting</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>MatraUuDflt_Simple.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ha_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraUuDflt_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

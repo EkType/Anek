@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelIi_Half.tm" format="2">
+  <advance width="789"/>
+  <note>
+vowelIi.tm
+</note>
+  <outline>
+    <contour>
+      <point x="520" y="0" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="555" y="1133" type="line"/>
+      <point x="520" y="1133" type="line"/>
+    </contour>
+    <contour>
+      <point x="322" y="524" type="line"/>
+      <point x="325" y="524" type="line" smooth="yes"/>
+      <point x="363" y="524"/>
+      <point x="370" y="545"/>
+      <point x="370" y="594" type="curve" smooth="yes"/>
+      <point x="370" y="653" type="line" smooth="yes"/>
+      <point x="370" y="701"/>
+      <point x="357" y="721"/>
+      <point x="325" y="721" type="curve" smooth="yes"/>
+      <point x="322" y="721" type="line"/>
+    </contour>
+    <contour>
+      <point x="684" y="524" type="line"/>
+      <point x="688" y="524" type="line" smooth="yes"/>
+      <point x="724" y="524"/>
+      <point x="732" y="545"/>
+      <point x="732" y="594" type="curve" smooth="yes"/>
+      <point x="732" y="653" type="line" smooth="yes"/>
+      <point x="732" y="701"/>
+      <point x="719" y="721"/>
+      <point x="688" y="721" type="curve" smooth="yes"/>
+      <point x="684" y="721" type="line"/>
+    </contour>
+    <contour>
+      <point x="568" y="1156" type="line"/>
+      <point x="132" y="1156" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="167" y="1124" type="line"/>
+      <point x="568" y="1124" type="line"/>
+    </contour>
+    <component base="RaBeak_Nonexporting" xOffset="467"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Pa.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="RraMatraI_Simple_Fly.tm" format="2">
+  <advance width="1572"/>
+  <note>
+RraMatraI.tm
+</note>
+  <anchor x="772" y="1245" name="top"/>
+  <outline>
+    <contour>
+      <point x="1491" y="1517" type="line"/>
+      <point x="1218" y="1517" type="line" smooth="yes"/>
+      <point x="1052" y="1517"/>
+      <point x="989" y="1459"/>
+      <point x="989" y="1346" type="curve" smooth="yes"/>
+      <point x="989" y="1271"/>
+      <point x="1030" y="1196"/>
+      <point x="1063" y="1135" type="curve"/>
+      <point x="1102" y="1135" type="line"/>
+      <point x="1065" y="1202"/>
+      <point x="1026" y="1271"/>
+      <point x="1026" y="1342" type="curve" smooth="yes"/>
+      <point x="1026" y="1438"/>
+      <point x="1078" y="1483"/>
+      <point x="1224" y="1483" type="curve" smooth="yes"/>
+      <point x="1501" y="1483" type="line"/>
+    </contour>
+    <component base="Rra_Simple.tm"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Rra_Simple.tm</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Rra_Simple.tm</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>RraMatraI_Fly.tm</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tamil</string>
+    </dict>
+  </lib>
+</glyph>

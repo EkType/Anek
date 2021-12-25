@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro" format="2">
+  <advance width="1452"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="956" y="-45" type="curve" smooth="yes"/>
+      <point x="1132" y="-45"/>
+      <point x="1272" y="-7"/>
+      <point x="1336" y="17" type="curve"/>
+      <point x="1370" y="363" type="line"/>
+      <point x="1294" y="327"/>
+      <point x="1162" y="297"/>
+      <point x="1020" y="297" type="curve" smooth="yes"/>
+      <point x="707" y="297"/>
+      <point x="594" y="427"/>
+      <point x="594" y="637" type="curve"/>
+      <point x="594" y="653" type="line"/>
+      <point x="594" y="859"/>
+      <point x="707" y="988"/>
+      <point x="998" y="988" type="curve" smooth="yes"/>
+      <point x="1147" y="988"/>
+      <point x="1272" y="962"/>
+      <point x="1365" y="922" type="curve"/>
+      <point x="1331" y="1255" type="line"/>
+      <point x="1247" y="1290"/>
+      <point x="1111" y="1322"/>
+      <point x="956" y="1322" type="curve" smooth="yes"/>
+      <point x="409" y="1322"/>
+      <point x="166" y="1069"/>
+      <point x="166" y="651" type="curve"/>
+      <point x="166" y="635" type="line"/>
+      <point x="166" y="207"/>
+      <point x="413" y="-45"/>
+    </contour>
+    <contour>
+      <point x="20" y="400" type="line"/>
+      <point x="1178" y="400" type="line"/>
+      <point x="1197" y="594" type="line"/>
+      <point x="39" y="594" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="692" type="line"/>
+      <point x="1178" y="692" type="line"/>
+      <point x="1197" y="886" type="line"/>
+      <point x="39" y="886" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>C</string>
+    </dict>
+  </lib>
+</glyph>
