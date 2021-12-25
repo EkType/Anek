@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="MaDa.bn" format="2">
+	<advance width="2512"/>
+	<anchor x="2398" y="0" name="bottom1"/>
+	<anchor x="1284" y="1438" name="top"/>
+	<anchor x="1467" y="1782" name="top2"/>
+	<outline>
+		<contour>
+			<point x="1319" y="1035" type="line"/>
+			<point x="2569" y="1035" type="line"/>
+			<point x="2551" y="1289" type="line"/>
+			<point x="1319" y="1289" type="line"/>
+		</contour>
+		<contour>
+			<point x="2062" y="-58" type="line"/>
+			<point x="2398" y="-58" type="line"/>
+			<point x="2398" y="876" type="line"/>
+			<point x="2040" y="876" type="line"/>
+			<point x="1838" y="737"/>
+			<point x="1645" y="569"/>
+			<point x="1505" y="422" type="curve"/>
+			<point x="1627" y="311" type="line"/>
+			<point x="1655" y="797" type="line"/>
+			<point x="1655" y="1214" type="line"/>
+			<point x="1319" y="1214" type="line"/>
+			<point x="1319" y="186" type="line"/>
+			<point x="1641" y="186" type="line"/>
+			<point x="1828" y="365"/>
+			<point x="2080" y="557"/>
+			<point x="2270" y="695" type="curve"/>
+			<point x="2087" y="801" type="line"/>
+			<point x="2062" y="370" type="line"/>
+		</contour>
+		<contour>
+			<point x="93" y="484" type="curve"/>
+			<point x="422" y="484" type="line"/>
+			<point x="422" y="515"/>
+			<point x="422" y="542"/>
+			<point x="422" y="567" type="curve" smooth="yes"/>
+			<point x="422" y="633"/>
+			<point x="457" y="670"/>
+			<point x="523" y="670" type="curve" smooth="yes"/>
+			<point x="576" y="670"/>
+			<point x="604" y="641"/>
+			<point x="716" y="587" type="curve" smooth="yes"/>
+			<point x="805" y="544"/>
+			<point x="873" y="513"/>
+			<point x="1007" y="513" type="curve" smooth="yes"/>
+			<point x="1239" y="513"/>
+			<point x="1374" y="638"/>
+			<point x="1374" y="874" type="curve" smooth="yes"/>
+			<point x="1374" y="891" type="line" smooth="yes"/>
+			<point x="1374" y="1120"/>
+			<point x="1222" y="1289"/>
+			<point x="864" y="1289" type="curve" smooth="yes"/>
+			<point x="-129" y="1289" type="line"/>
+			<point x="-112" y="1035" type="line"/>
+			<point x="864" y="1035" type="line" smooth="yes"/>
+			<point x="964" y="1035"/>
+			<point x="1033" y="1003"/>
+			<point x="1033" y="899" type="curve" smooth="yes"/>
+			<point x="1033" y="888" type="line" smooth="yes"/>
+			<point x="1033" y="821"/>
+			<point x="1000" y="793"/>
+			<point x="940" y="793" type="curve" smooth="yes"/>
+			<point x="899" y="793"/>
+			<point x="858" y="811"/>
+			<point x="773" y="850" type="curve" smooth="yes"/>
+			<point x="650" y="907"/>
+			<point x="572" y="949"/>
+			<point x="466" y="949" type="curve" smooth="yes"/>
+			<point x="232" y="949"/>
+			<point x="93" y="829"/>
+			<point x="93" y="590" type="curve" smooth="yes"/>
+			<point x="93" y="555"/>
+			<point x="93" y="519"/>
+		</contour>
+		<contour>
+			<point x="251" y="911" type="curve"/>
+			<point x="251" y="856" type="line"/>
+			<point x="531" y="906" type="line"/>
+			<point x="496" y="933"/>
+			<point x="482" y="969"/>
+			<point x="482" y="1020" type="curve" smooth="yes"/>
+			<point x="482" y="1144" type="line"/>
+			<point x="84" y="1144" type="line"/>
+			<point x="84" y="1065" type="line" smooth="yes"/>
+			<point x="84" y="987"/>
+			<point x="137" y="920"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>MaPa.bn</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Da.bn</string>
+		</dict>
+	</lib>
+</glyph>

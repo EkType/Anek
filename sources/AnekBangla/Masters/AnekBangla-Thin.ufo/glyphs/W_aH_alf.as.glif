@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="WaHalf.as" format="2">
+	<advance width="1050"/>
+	<anchor x="831" y="185" name="bottom1"/>
+	<anchor x="824" y="1418" name="top"/>
+	<anchor x="571" y="1724" name="top2"/>
+	<outline>
+		<contour>
+			<point x="610" y="130" type="line"/>
+			<point x="610" y="166" type="line"/>
+			<point x="255" y="309" type="line"/>
+			<point x="255" y="273" type="line"/>
+		</contour>
+		<contour>
+			<point x="-48" y="1198" type="line"/>
+			<point x="860" y="1198" type="line"/>
+			<point x="860" y="1228" type="line"/>
+			<point x="-53" y="1228" type="line"/>
+		</contour>
+		<contour>
+			<point x="830" y="275" type="line"/>
+			<point x="860" y="275" type="line"/>
+			<point x="860" y="1208" type="line"/>
+			<point x="825" y="1208" type="line"/>
+			<point x="825" y="1004" type="line"/>
+			<point x="825" y="995" type="line"/>
+			<point x="825" y="417" type="line"/>
+			<point x="827" y="300" type="line"/>
+			<point x="834" y="313" type="line"/>
+			<point x="170" y="577" type="line"/>
+			<point x="181" y="548" type="line"/>
+			<point x="181" y="787" type="line"/>
+			<point x="169" y="772" type="line"/>
+			<point x="366" y="857"/>
+			<point x="610" y="935"/>
+			<point x="855" y="987" type="curve"/>
+			<point x="837" y="1017" type="line"/>
+			<point x="578" y="965"/>
+			<point x="339" y="882"/>
+			<point x="146" y="799" type="curve"/>
+			<point x="146" y="552" type="line"/>
+		</contour>
+		<contour>
+			<point x="837" y="1220" type="line"/>
+			<point x="837" y="968" type="line"/>
+			<point x="860" y="968" type="line"/>
+			<point x="860" y="1220" type="line"/>
+		</contour>
+		<contour>
+			<point x="837" y="1197" type="line"/>
+			<point x="1149" y="1197" type="line"/>
+			<point x="1144" y="1228" type="line"/>
+			<point x="837" y="1228" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>BaHalf.bn</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>BaHalf.bn</string>
+		</dict>
+	</lib>
+</glyph>

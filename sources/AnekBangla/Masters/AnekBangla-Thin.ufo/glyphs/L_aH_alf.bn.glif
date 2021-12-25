@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LaHalf.bn" format="2">
+	<advance width="1272"/>
+	<anchor x="1082" y="185" name="bottom1"/>
+	<anchor x="1046" y="1418" name="top"/>
+	<anchor x="793" y="1724" name="top2"/>
+	<outline>
+		<contour>
+			<point x="1047" y="354" type="line"/>
+			<point x="1082" y="354" type="line"/>
+			<point x="1082" y="1216" type="line"/>
+			<point x="1047" y="1216" type="line"/>
+			<point x="1047" y="971" type="line"/>
+			<point x="1048" y="834" type="line"/>
+			<point x="1047" y="775" type="line"/>
+		</contour>
+		<contour>
+			<point x="392" y="401" type="curve" smooth="yes"/>
+			<point x="425" y="401"/>
+			<point x="454" y="405"/>
+			<point x="487" y="410" type="curve"/>
+			<point x="496" y="444" type="line"/>
+			<point x="459" y="437"/>
+			<point x="430" y="434"/>
+			<point x="395" y="434" type="curve" smooth="yes"/>
+			<point x="215" y="434"/>
+			<point x="132" y="524"/>
+			<point x="132" y="676" type="curve" smooth="yes"/>
+			<point x="132" y="705" type="line" smooth="yes"/>
+			<point x="132" y="857"/>
+			<point x="216" y="944"/>
+			<point x="378" y="944" type="curve" smooth="yes"/>
+			<point x="515" y="944"/>
+			<point x="624" y="877"/>
+			<point x="627" y="714" type="curve" smooth="yes"/>
+			<point x="628" y="650" type="line"/>
+			<point x="660" y="650" type="line"/>
+			<point x="660" y="714" type="line" smooth="yes"/>
+			<point x="660" y="840"/>
+			<point x="698" y="944"/>
+			<point x="869" y="944" type="curve" smooth="yes"/>
+			<point x="956" y="944"/>
+			<point x="1032" y="899"/>
+			<point x="1052" y="808" type="curve"/>
+			<point x="1068" y="853" type="line"/>
+			<point x="1058" y="853" type="line"/>
+			<point x="1037" y="925"/>
+			<point x="961" y="977"/>
+			<point x="864" y="977" type="curve" smooth="yes"/>
+			<point x="721" y="977"/>
+			<point x="642" y="899"/>
+			<point x="636" y="765" type="curve"/>
+			<point x="652" y="807" type="line"/>
+			<point x="631" y="807" type="line"/>
+			<point x="648" y="765" type="line"/>
+			<point x="636" y="906"/>
+			<point x="519" y="977"/>
+			<point x="378" y="977" type="curve" smooth="yes"/>
+			<point x="194" y="977"/>
+			<point x="96" y="879"/>
+			<point x="96" y="705" type="curve" smooth="yes"/>
+			<point x="96" y="676" type="line" smooth="yes"/>
+			<point x="96" y="502"/>
+			<point x="190" y="401"/>
+		</contour>
+		<contour>
+			<point x="-64" y="1197" type="line"/>
+			<point x="1081" y="1197" type="line"/>
+			<point x="1081" y="1228" type="line"/>
+			<point x="-69" y="1228" type="line"/>
+		</contour>
+		<contour>
+			<point x="1059" y="1220" type="line"/>
+			<point x="1059" y="968" type="line"/>
+			<point x="1082" y="968" type="line"/>
+			<point x="1082" y="1220" type="line"/>
+		</contour>
+		<contour>
+			<point x="1059" y="1197" type="line"/>
+			<point x="1371" y="1197" type="line"/>
+			<point x="1366" y="1228" type="line"/>
+			<point x="1059" y="1228" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>La.bn</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>BaHalf.bn</string>
+		</dict>
+	</lib>
+</glyph>

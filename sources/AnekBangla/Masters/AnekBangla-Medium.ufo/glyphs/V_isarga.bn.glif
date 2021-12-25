@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Visarga.bn" format="2">
+	<advance width="1009"/>
+	<unicode hex="0983"/>
+	<outline>
+		<contour>
+			<point x="507" y="669" type="curve" smooth="yes"/>
+			<point x="748" y="669"/>
+			<point x="879" y="773"/>
+			<point x="879" y="968" type="curve" smooth="yes"/>
+			<point x="879" y="981" type="line" smooth="yes"/>
+			<point x="879" y="1174"/>
+			<point x="746" y="1280"/>
+			<point x="504" y="1280" type="curve" smooth="yes"/>
+			<point x="264" y="1280"/>
+			<point x="131" y="1174"/>
+			<point x="131" y="981" type="curve" smooth="yes"/>
+			<point x="131" y="968" type="line" smooth="yes"/>
+			<point x="131" y="773"/>
+			<point x="263" y="669"/>
+		</contour>
+		<contour>
+			<point x="506" y="803" type="curve" smooth="yes"/>
+			<point x="374" y="803"/>
+			<point x="304" y="858"/>
+			<point x="304" y="966" type="curve" smooth="yes"/>
+			<point x="304" y="982" type="line" smooth="yes"/>
+			<point x="304" y="1090"/>
+			<point x="374" y="1146"/>
+			<point x="506" y="1146" type="curve" smooth="yes"/>
+			<point x="636" y="1146"/>
+			<point x="707" y="1090"/>
+			<point x="707" y="982" type="curve" smooth="yes"/>
+			<point x="707" y="966" type="line" smooth="yes"/>
+			<point x="707" y="858"/>
+			<point x="636" y="803"/>
+		</contour>
+		<contour>
+			<point x="506" y="-25" type="curve" smooth="yes"/>
+			<point x="747" y="-25"/>
+			<point x="878" y="79"/>
+			<point x="878" y="274" type="curve" smooth="yes"/>
+			<point x="878" y="287" type="line" smooth="yes"/>
+			<point x="878" y="480"/>
+			<point x="745" y="586"/>
+			<point x="503" y="586" type="curve" smooth="yes"/>
+			<point x="263" y="586"/>
+			<point x="130" y="480"/>
+			<point x="130" y="287" type="curve" smooth="yes"/>
+			<point x="130" y="274" type="line" smooth="yes"/>
+			<point x="130" y="79"/>
+			<point x="262" y="-25"/>
+		</contour>
+		<contour>
+			<point x="505" y="109" type="curve" smooth="yes"/>
+			<point x="373" y="109"/>
+			<point x="303" y="164"/>
+			<point x="303" y="272" type="curve" smooth="yes"/>
+			<point x="303" y="288" type="line" smooth="yes"/>
+			<point x="303" y="396"/>
+			<point x="373" y="452"/>
+			<point x="505" y="452" type="curve" smooth="yes"/>
+			<point x="635" y="452"/>
+			<point x="706" y="396"/>
+			<point x="706" y="288" type="curve" smooth="yes"/>
+			<point x="706" y="272" type="line" smooth="yes"/>
+			<point x="706" y="164"/>
+			<point x="635" y="109"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Anuswara.bn</string>
+		</dict>
+	</lib>
+</glyph>

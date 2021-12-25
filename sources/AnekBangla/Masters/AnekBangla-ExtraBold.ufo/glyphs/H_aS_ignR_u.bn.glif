@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="HaSignRu.bn" format="2">
+	<advance width="1722"/>
+	<anchor x="883" y="101" name="bottom1"/>
+	<anchor x="331" y="1437" name="top"/>
+	<anchor x="201" y="1782" name="top2"/>
+	<outline>
+		<contour>
+			<point x="638" y="1035" type="line"/>
+			<point x="1764" y="1035" type="line"/>
+			<point x="1747" y="1289" type="line"/>
+			<point x="620" y="1289" type="line"/>
+		</contour>
+		<contour>
+			<point x="1276" y="160" type="line"/>
+			<point x="1603" y="160" type="line"/>
+			<point x="1603" y="863" type="line"/>
+			<point x="1258" y="863" type="line"/>
+			<point x="946" y="758" type="line"/>
+			<point x="946" y="459" type="line"/>
+			<point x="1276" y="599" type="line"/>
+		</contour>
+		<contour>
+			<point x="1136" y="-216" type="line"/>
+			<point x="1159" y="74" type="line"/>
+			<point x="877" y="164" type="line"/>
+			<point x="733" y="209" type="line"/>
+			<point x="745" y="293" type="line"/>
+			<point x="518" y="253" type="line"/>
+			<point x="579" y="230"/>
+			<point x="641" y="219"/>
+			<point x="693" y="219" type="curve" smooth="yes"/>
+			<point x="957" y="219"/>
+			<point x="1095" y="351"/>
+			<point x="1095" y="584" type="curve" smooth="yes"/>
+			<point x="1095" y="633" type="line" smooth="yes"/>
+			<point x="1095" y="909"/>
+			<point x="915" y="1049"/>
+			<point x="597" y="1049" type="curve" smooth="yes"/>
+			<point x="278" y="1049"/>
+			<point x="112" y="914"/>
+			<point x="112" y="645" type="curve" smooth="yes"/>
+			<point x="112" y="617"/>
+			<point x="112" y="583"/>
+			<point x="112" y="549" type="curve"/>
+			<point x="451" y="549" type="line"/>
+			<point x="451" y="583"/>
+			<point x="451" y="617"/>
+			<point x="451" y="637" type="curve" smooth="yes"/>
+			<point x="451" y="732"/>
+			<point x="505" y="789"/>
+			<point x="600" y="790" type="curve" smooth="yes"/>
+			<point x="700" y="792"/>
+			<point x="755" y="731"/>
+			<point x="755" y="634" type="curve" smooth="yes"/>
+			<point x="755" y="588" type="line" smooth="yes"/>
+			<point x="755" y="459"/>
+			<point x="666" y="397"/>
+			<point x="475" y="397" type="curve" smooth="yes"/>
+			<point x="374" y="397"/>
+			<point x="267" y="408"/>
+			<point x="148" y="426" type="curve" smooth="yes"/>
+			<point x="108" y="432" type="line"/>
+			<point x="90" y="141" type="line"/>
+		</contour>
+		<contour>
+			<point x="-23" y="1035" type="line"/>
+			<point x="1228" y="1035" type="line"/>
+			<point x="1211" y="1289" type="line"/>
+			<point x="-41" y="1289" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Ha.bn</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>SignAa.bn</string>
+		</dict>
+	</lib>
+</glyph>

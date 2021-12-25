@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ssa.bn" format="2">
+	<advance width="1360"/>
+	<unicode hex="09B7"/>
+	<anchor x="1244" y="-3" name="bottom1"/>
+	<anchor x="870" y="1433" name="top"/>
+	<anchor x="684" y="1777" name="top2"/>
+	<outline>
+		<contour>
+			<point x="1109" y="1159" type="line"/>
+			<point x="1109" y="699" type="line"/>
+			<point x="1244" y="699" type="line"/>
+			<point x="1244" y="1159" type="line"/>
+		</contour>
+		<contour>
+			<point x="1109" y="1035" type="line"/>
+			<point x="1402" y="1035" type="line"/>
+			<point x="1384" y="1289" type="line"/>
+			<point x="1109" y="1289" type="line"/>
+		</contour>
+		<contour>
+			<point x="954" y="-3" type="line"/>
+			<point x="1243" y="-3" type="line"/>
+			<point x="1243" y="1200" type="line"/>
+			<point x="909" y="1200" type="line"/>
+			<point x="909" y="469" type="line"/>
+			<point x="924" y="215" type="line"/>
+			<point x="945" y="278" type="line"/>
+			<point x="414" y="424" type="line"/>
+			<point x="456" y="325" type="line"/>
+			<point x="456" y="535" type="line"/>
+			<point x="409" y="446" type="line"/>
+			<point x="781" y="600" type="line"/>
+			<point x="722" y="705" type="line"/>
+			<point x="588" y="653" type="line"/>
+			<point x="1029" y="450" type="line"/>
+			<point x="1058" y="688" type="line"/>
+			<point x="742" y="851" type="line"/>
+			<point x="538" y="969"/>
+			<point x="304" y="1100"/>
+			<point x="191" y="1156" type="curve"/>
+			<point x="67" y="1162" type="line"/>
+			<point x="67" y="854" type="line"/>
+			<point x="437" y="741" type="line"/>
+			<point x="437" y="724" type="line"/>
+			<point x="126" y="614" type="line"/>
+			<point x="126" y="236" type="line"/>
+		</contour>
+		<contour>
+			<point x="-64" y="1035" type="line"/>
+			<point x="1243" y="1035" type="line"/>
+			<point x="1243" y="1289" type="line"/>
+			<point x="-82" y="1289" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Ya.bn</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>SignAa.bn</string>
+		</dict>
+	</lib>
+</glyph>
