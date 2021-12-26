@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="matraIeleven.dv" format="2">
+  <advance width="466"/>
+  <outline>
+    <contour>
+      <point x="627.205" y="1763" type="curve" smooth="yes"/>
+      <point x="836.921" y="1763"/>
+      <point x="1039.84" y="1709.21"/>
+      <point x="1192.22" y="1625" type="curve"/>
+      <point x="1226" y="1348" type="line"/>
+      <point x="1218.25" y="1346" type="line"/>
+      <point x="1033.39" y="1447"/>
+      <point x="840.608" y="1501"/>
+      <point x="651.795" y="1501" type="curve" smooth="yes"/>
+      <point x="465.403" y="1501"/>
+      <point x="381" y="1436"/>
+      <point x="381" y="1308" type="curve" smooth="yes"/>
+      <point x="381" y="1257" type="line"/>
+      <point x="87" y="1257" type="line"/>
+      <point x="87" y="1308" type="line" smooth="yes"/>
+      <point x="87" y="1613.68"/>
+      <point x="264.693" y="1763"/>
+    </contour>
+    <contour>
+      <point x="385" y="0" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="81" y="1156" type="line"/>
+      <point x="385" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="508" y="1067" type="line"/>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="494" y="1308" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1226" y="0"/>
+  <guideline angle="90" x="81" y="0"/>
+  <guideline angle="90" x="81" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>matraA.dv</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>matraA.dv</string>
+  <key>note</key>
+  <string>matraITaTa.dv</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1f920039271a998faee2a0911c623aee8aecd8284835e54bd030703f5e510cfe944b15cbbd36475592434e991fd4ecaefd2b3dc75b378470c530dbd4d6c591d0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 45 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

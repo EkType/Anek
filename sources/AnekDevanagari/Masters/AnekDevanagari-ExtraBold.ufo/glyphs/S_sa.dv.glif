@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ssa.dv" format="2">
+  <advance width="1277"/>
+  <unicode hex="0937"/>
+  <anchor x="990.5" y="37" name="bottom"/>
+  <anchor x="983" y="37" name="bottom2"/>
+  <anchor x="1162" y="37" name="bottom3"/>
+  <anchor x="990" y="55" name="bottom5"/>
+  <anchor x="990" y="1234.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="1162" y="1119" type="line"/>
+      <point x="1162" y="0" type="line"/>
+      <point x="818" y="0" type="line"/>
+      <point x="818" y="1119" type="line"/>
+    </contour>
+    <contour>
+      <point x="770" y="1033" type="line"/>
+      <point x="752.5" y="1287" type="line"/>
+      <point x="1309.5" y="1287" type="line"/>
+      <point x="1327" y="1033" type="line"/>
+    </contour>
+    <contour>
+      <point x="-32" y="1033" type="line"/>
+      <point x="-49.5" y="1287" type="line"/>
+      <point x="1209.5" y="1287" type="line"/>
+      <point x="1227" y="1033" type="line"/>
+    </contour>
+    <contour>
+      <point x="495.5" y="239" type="curve" smooth="yes"/>
+      <point x="248" y="239"/>
+      <point x="105.5" y="375.025"/>
+      <point x="105.5" y="670" type="curve" smooth="yes"/>
+      <point x="105.5" y="1119.5" type="line"/>
+      <point x="446.5" y="1119.5" type="line"/>
+      <point x="446.5" y="707.5" type="line" smooth="yes"/>
+      <point x="446.5" y="564.469"/>
+      <point x="504.5" y="508.5"/>
+      <point x="636" y="508.5" type="curve" smooth="yes"/>
+      <point x="739.5" y="508.5"/>
+      <point x="801.024" y="551.082"/>
+      <point x="822.5" y="631" type="curve"/>
+      <point x="840.5" y="440" type="line"/>
+      <point x="807" y="440" type="line"/>
+      <point x="774" y="321.5"/>
+      <point x="683" y="239"/>
+    </contour>
+    <contour>
+      <point x="358" y="989.5" type="curve"/>
+      <point x="421.5" y="1085.5" type="line"/>
+      <point x="683.843" y="853.933" type="line" smooth="yes"/>
+      <point x="777.634" y="771.144"/>
+      <point x="834.972" y="702.522"/>
+      <point x="903" y="596.5" type="curve"/>
+      <point x="829" y="500.5" type="line"/>
+      <point x="575.031" y="719.044" type="line" smooth="yes"/>
+      <point x="472.072" y="807.643"/>
+      <point x="411.832" y="881.515"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="865.5" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="90" x="870.5" y="0"/>
+  <guideline angle="90" x="853.5" y="0"/>
+  <guideline angle="0" x="0" y="1262"/>
+  <guideline angle="90" x="990.5" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-50</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

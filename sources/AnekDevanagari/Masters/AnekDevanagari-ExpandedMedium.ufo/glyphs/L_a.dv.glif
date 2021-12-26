@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="La.dv" format="2">
+  <advance width="1901"/>
+  <unicode hex="0932"/>
+  <anchor x="1571.5" y="23" name="bottom"/>
+  <anchor x="1566.5" y="23" name="bottom2"/>
+  <anchor x="1676" y="23" name="bottom3"/>
+  <anchor x="1571" y="42.5" name="bottom5"/>
+  <anchor x="1571" y="1217.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="1676" y="1145.5" type="line"/>
+      <point x="1676" y="0" type="line"/>
+      <point x="1466" y="0" type="line"/>
+      <point x="1466" y="1145.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="1342.5" y="1092.5" type="line"/>
+      <point x="1328.5" y="1248" type="line"/>
+      <point x="1936.5" y="1248" type="line"/>
+      <point x="1950.5" y="1092.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="-34" y="1093" type="line"/>
+      <point x="-48" y="1248" type="line"/>
+      <point x="1833" y="1248" type="line"/>
+      <point x="1847" y="1093" type="line"/>
+    </contour>
+    <contour>
+      <point x="587" y="866" type="curve" smooth="yes"/>
+      <point x="789.586" y="866"/>
+      <point x="897.89" y="782.908"/>
+      <point x="934" y="651" type="curve"/>
+      <point x="942" y="651" type="line"/>
+      <point x="972.888" y="784.995"/>
+      <point x="1084.53" y="864"/>
+      <point x="1246" y="864" type="curve" smooth="yes"/>
+      <point x="1361" y="864"/>
+      <point x="1435" y="828"/>
+      <point x="1478" y="770" type="curve"/>
+      <point x="1472" y="566" type="line"/>
+      <point x="1438" y="643"/>
+      <point x="1372" y="694"/>
+      <point x="1266" y="694" type="curve" smooth="yes"/>
+      <point x="1131" y="694"/>
+      <point x="1053.8" y="617.008"/>
+      <point x="1048" y="467" type="curve" smooth="yes"/>
+      <point x="1040" y="260" type="line"/>
+      <point x="841" y="260" type="line"/>
+      <point x="834" y="466" type="line" smooth="yes"/>
+      <point x="828.903" y="615.997"/>
+      <point x="757.849" y="696"/>
+      <point x="607.529" y="696" type="curve" smooth="yes"/>
+      <point x="453.2" y="696"/>
+      <point x="359" y="606"/>
+      <point x="359" y="457" type="curve" smooth="yes"/>
+      <point x="359" y="288"/>
+      <point x="459" y="161"/>
+      <point x="652" y="4" type="curve"/>
+      <point x="652" y="0" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="224.659" y="133"/>
+      <point x="139" y="283"/>
+      <point x="139" y="465" type="curve" smooth="yes"/>
+      <point x="139" y="713"/>
+      <point x="308" y="866"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="519"/>
+  <guideline angle="0" x="0" y="518"/>
+  <guideline angle="90" x="70" y="0"/>
+  <guideline angle="90" x="1404.5" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="90" x="1409.5" y="0"/>
+  <guideline angle="90" x="1392.5" y="0"/>
+  <guideline angle="0" x="0" y="1262"/>
+  <guideline angle="90" x="1571.5" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

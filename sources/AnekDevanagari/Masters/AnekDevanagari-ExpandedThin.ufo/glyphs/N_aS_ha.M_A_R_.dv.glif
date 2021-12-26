@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NaSha.MAR.dv" format="2">
+  <advance width="2960"/>
+  <anchor x="2643" y="9" name="bottom"/>
+  <anchor x="2638" y="9" name="bottom2"/>
+  <anchor x="2661" y="9" name="bottom3"/>
+  <anchor x="2643" y="30" name="bottom5"/>
+  <anchor x="2643" y="1221" name="top"/>
+  <outline>
+    <contour>
+      <point x="1083" y="1200" type="line"/>
+      <point x="-28" y="1200" type="line"/>
+      <point x="-35" y="1230" type="line"/>
+      <point x="1076" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="1013" y="648" type="line"/>
+      <point x="1013" y="616" type="line"/>
+      <point x="273" y="616" type="line"/>
+      <point x="273" y="648" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="201" type="line"/>
+      <point x="230" y="359"/>
+      <point x="220" y="448"/>
+      <point x="198" y="607" type="curve"/>
+      <point x="255" y="648" type="line"/>
+      <point x="296" y="648" type="line"/>
+      <point x="296" y="201" type="line"/>
+    </contour>
+    <contour>
+      <point x="2661" y="1209" type="line"/>
+      <point x="2661" y="0" type="line"/>
+      <point x="2625" y="0" type="line"/>
+      <point x="2625" y="1209" type="line"/>
+    </contour>
+    <contour>
+      <point x="2451" y="1200" type="line"/>
+      <point x="2444" y="1230" type="line"/>
+      <point x="2996" y="1230" type="line"/>
+      <point x="3003" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="957" y="1230" type="line"/>
+      <point x="2895" y="1230" type="line"/>
+      <point x="2902" y="1200" type="line"/>
+      <point x="964" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="1685" y="933" type="line"/>
+      <point x="1685" y="1214" type="line"/>
+      <point x="1720" y="1214" type="line"/>
+      <point x="1720" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="2041" y="-100" type="line"/>
+      <point x="1985" y="-100" type="line"/>
+      <point x="1364" y="285" type="line"/>
+      <point x="1164" y="313" type="line"/>
+      <point x="1164" y="349" type="line"/>
+      <point x="1393" y="310" type="line"/>
+      <point x="1393" y="303" type="line"/>
+      <point x="1528" y="225"/>
+      <point x="1570" y="198"/>
+      <point x="1712" y="110" type="curve" smooth="yes"/>
+      <point x="2041" y="-93" type="line"/>
+    </contour>
+    <contour>
+      <point x="1696" y="949" type="curve" smooth="yes"/>
+      <point x="1984" y="949"/>
+      <point x="2161" y="809"/>
+      <point x="2161" y="615" type="curve" smooth="yes"/>
+      <point x="2161" y="608" type="line" smooth="yes"/>
+      <point x="2161" y="397"/>
+      <point x="1975" y="277"/>
+      <point x="1602" y="277" type="curve" smooth="yes"/>
+      <point x="1459" y="277"/>
+      <point x="1383" y="289"/>
+      <point x="1276" y="308" type="curve"/>
+      <point x="1164" y="349" type="line"/>
+      <point x="1320" y="327"/>
+      <point x="1426" y="311"/>
+      <point x="1598" y="311" type="curve" smooth="yes"/>
+      <point x="1949" y="311"/>
+      <point x="2123" y="417"/>
+      <point x="2123" y="609" type="curve" smooth="yes"/>
+      <point x="2123" y="614" type="line" smooth="yes"/>
+      <point x="2123" y="790"/>
+      <point x="1961" y="915"/>
+      <point x="1696" y="915" type="curve" smooth="yes"/>
+      <point x="1502" y="915"/>
+      <point x="1345" y="874"/>
+      <point x="1190" y="780" type="curve"/>
+      <point x="1196" y="825" type="line"/>
+      <point x="1332" y="905"/>
+      <point x="1486" y="949"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="2643" y="0"/>
+  <guideline angle="90" x="2661" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="0" x="0" y="1221"/>
+  <guideline angle="90" x="2638" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Na.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b4155aa2a4191dcbe8a81010efdfdd071b95b5d5fe058581835ff2b1937a294a85009703e0f8ff74422445098b3da9b5576adecdceeeb75c31481119e442a6cd</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1665 2356</string>
+          <string>vstem 2444.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

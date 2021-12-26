@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NaNaYa.dv" format="2">
+  <advance width="1145"/>
+  <anchor x="976" y="9" name="bottom"/>
+  <anchor x="971" y="9" name="bottom2"/>
+  <anchor x="994" y="9" name="bottom3"/>
+  <anchor x="976" y="30" name="bottom5"/>
+  <anchor x="976" y="1262" name="top"/>
+  <outline>
+    <contour>
+      <point x="-24" y="1271" type="line"/>
+      <point x="478" y="1271" type="line"/>
+      <point x="483" y="1242" type="line"/>
+      <point x="-19" y="1242" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="370" type="line"/>
+      <point x="110" y="514"/>
+      <point x="103" y="593"/>
+      <point x="90" y="736" type="curve"/>
+      <point x="131" y="766" type="line"/>
+      <point x="158" y="766" type="line"/>
+      <point x="158" y="370" type="line"/>
+    </contour>
+    <contour>
+      <point x="561" y="754" type="curve"/>
+      <point x="505" y="734" type="line"/>
+      <point x="148" y="734" type="line"/>
+      <point x="148" y="766" type="line"/>
+      <point x="387" y="766" type="line" smooth="yes"/>
+      <point x="471" y="766"/>
+      <point x="500" y="763"/>
+    </contour>
+    <contour>
+      <point x="193" y="156" type="line"/>
+      <point x="204" y="180" type="line"/>
+      <point x="355" y="-79" type="line"/>
+      <point x="326" y="-99" type="line"/>
+      <point x="260" y="-7"/>
+      <point x="221" y="44"/>
+      <point x="155" y="136" type="curve"/>
+      <point x="169" y="182" type="line"/>
+      <point x="519" y="418" type="line"/>
+      <point x="526" y="384" type="line"/>
+    </contour>
+    <contour>
+      <point x="994" y="1251" type="line"/>
+      <point x="994" y="0" type="line"/>
+      <point x="959" y="0" type="line"/>
+      <point x="959" y="1251" type="line"/>
+    </contour>
+    <contour>
+      <point x="859" y="1242" type="line"/>
+      <point x="853" y="1271" type="line"/>
+      <point x="1163" y="1271" type="line"/>
+      <point x="1169" y="1242" type="line"/>
+    </contour>
+    <contour>
+      <point x="381" y="1271" type="line"/>
+      <point x="1063" y="1271" type="line"/>
+      <point x="1069" y="1242" type="line"/>
+      <point x="386" y="1242" type="line"/>
+    </contour>
+    <contour>
+      <point x="659" y="1249" type="line"/>
+      <point x="694" y="1199"/>
+      <point x="703" y="1129"/>
+      <point x="703" y="1018" type="curve" smooth="yes"/>
+      <point x="703" y="968" type="line" smooth="yes"/>
+      <point x="703" y="791"/>
+      <point x="644" y="723"/>
+      <point x="521" y="723" type="curve" smooth="yes"/>
+      <point x="504" y="723" type="line"/>
+      <point x="488" y="755" type="line"/>
+      <point x="514" y="755" type="line" smooth="yes"/>
+      <point x="615" y="755"/>
+      <point x="668" y="804"/>
+      <point x="668" y="970" type="curve" smooth="yes"/>
+      <point x="668" y="1016" type="line" smooth="yes"/>
+      <point x="668" y="1133"/>
+      <point x="659" y="1198"/>
+      <point x="622" y="1249" type="curve"/>
+    </contour>
+    <contour>
+      <point x="488" y="573" type="line" smooth="yes"/>
+      <point x="488" y="658"/>
+      <point x="488" y="714"/>
+      <point x="488" y="755" type="curve"/>
+      <point x="523" y="736" type="line"/>
+      <point x="523" y="555" type="line" smooth="yes"/>
+      <point x="523" y="354"/>
+      <point x="598" y="273"/>
+      <point x="736" y="273" type="curve" smooth="yes"/>
+      <point x="861" y="273"/>
+      <point x="933" y="336"/>
+      <point x="963" y="472" type="curve"/>
+      <point x="968" y="409" type="line"/>
+      <point x="964" y="409" type="line"/>
+      <point x="942" y="307"/>
+      <point x="871" y="240"/>
+      <point x="736" y="240" type="curve" smooth="yes"/>
+      <point x="574" y="240"/>
+      <point x="488" y="341"/>
+      <point x="488" y="551" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="971" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="90" x="976" y="0"/>
+  <guideline angle="90" x="959" y="0"/>
+  <guideline angle="0" x="0" y="1262"/>
+  <guideline angle="90" x="994" y="0"/>
+  <guideline angle="0" x="0" y="-125"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>NaNa.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ac7d2e320b58298595ad352d2457ed9f963361978fec87a312fa29a8002b0a31d400c6442e526cde87ae55c218f6d8cd8e30371ea3ddaa5baca3ac751677ce2a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 892 19</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

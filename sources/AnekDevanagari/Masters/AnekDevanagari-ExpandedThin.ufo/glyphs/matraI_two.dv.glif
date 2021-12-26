@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="matraItwo.dv" format="2">
+  <advance width="634"/>
+  <outline>
+    <contour>
+      <point x="335" y="0" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="299" y="1209" type="line"/>
+      <point x="335" y="1209" type="line"/>
+    </contour>
+    <contour>
+      <point x="677" y="1200" type="line"/>
+      <point x="-36" y="1200" type="line"/>
+      <point x="-43" y="1230" type="line"/>
+      <point x="670" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="858.869" y="1765" type="curve" smooth="yes"/>
+      <point x="1231.56" y="1765"/>
+      <point x="1527.2" y="1597.06"/>
+      <point x="1699" y="1404" type="curve"/>
+      <point x="1710" y="1359" type="line"/>
+      <point x="1703" y="1356" type="line"/>
+      <point x="1527.21" y="1557"/>
+      <point x="1223.57" y="1731"/>
+      <point x="859.24" y="1731" type="curve" smooth="yes"/>
+      <point x="531.137" y="1731"/>
+      <point x="334" y="1587"/>
+      <point x="334" y="1297" type="curve" smooth="yes"/>
+      <point x="334" y="1219" type="line"/>
+      <point x="299" y="1219" type="line"/>
+      <point x="299" y="1302" type="line" smooth="yes"/>
+      <point x="299" y="1607"/>
+      <point x="505.117" y="1765"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1710" y="0"/>
+  <guideline angle="90" x="335" y="0"/>
+  <guideline angle="90" x="75" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>matraA.dv</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>807d9dcfe2b09ebf5b28c77dacb76a297b629456c716083cc759e7b2a5adb66b791e0fcb730c87599d28acb074bc1654d0bfa77756393b9c66e0797f064c2cfd</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1665 2356</string>
+          <string>vstem 118.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

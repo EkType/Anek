@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lengthmark.kn" format="2">
+  <advance width="1153"/>
+  <unicode hex="0CD5"/>
+  <outline>
+    <contour>
+      <point x="436" y="675.336" type="line"/>
+      <point x="436" y="698" type="line" smooth="yes"/>
+      <point x="436" y="828"/>
+      <point x="495" y="901"/>
+      <point x="607" y="901" type="curve" smooth="yes"/>
+      <point x="686" y="901"/>
+      <point x="730" y="865"/>
+      <point x="730" y="797" type="curve"/>
+      <point x="730" y="795" type="line"/>
+      <point x="730" y="733"/>
+      <point x="689" y="698"/>
+      <point x="607" y="698" type="curve" smooth="yes"/>
+      <point x="523" y="698"/>
+      <point x="450" y="728"/>
+      <point x="393" y="787" type="curve"/>
+      <point x="383" y="635" type="line"/>
+      <point x="444" y="635" type="line"/>
+      <point x="476" y="511"/>
+      <point x="577" y="444"/>
+      <point x="738" y="444" type="curve" smooth="yes"/>
+      <point x="955" y="444"/>
+      <point x="1083" y="576"/>
+      <point x="1083" y="801" type="curve"/>
+      <point x="1083" y="803" type="line"/>
+      <point x="1083" y="1069"/>
+      <point x="917" y="1211"/>
+      <point x="605" y="1211" type="curve" smooth="yes"/>
+      <point x="255" y="1211"/>
+      <point x="56" y="1013"/>
+      <point x="56" y="654" type="curve" smooth="yes"/>
+      <point x="56" y="645.501" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="647" type="line"/>
+      <point x="56" y="637" type="line" smooth="yes"/>
+      <point x="56" y="206"/>
+      <point x="326" y="-19"/>
+      <point x="846" y="-19" type="curve" smooth="yes"/>
+      <point x="966" y="-19" type="line"/>
+      <point x="1032" y="271" type="line"/>
+      <point x="917" y="271" type="line" smooth="yes"/>
+      <point x="584" y="271"/>
+      <point x="436" y="384"/>
+      <point x="436" y="637" type="curve" smooth="yes"/>
+      <point x="436" y="681.013" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>vowelA.kn</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

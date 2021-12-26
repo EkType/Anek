@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="MaBha.dv" format="2">
+  <advance width="2427"/>
+  <anchor x="2110" y="9" name="bottom"/>
+  <anchor x="2105" y="9" name="bottom2"/>
+  <anchor x="2128" y="9" name="bottom3"/>
+  <anchor x="2110" y="30" name="bottom5"/>
+  <anchor x="2110" y="1221" name="top"/>
+  <outline>
+    <contour>
+      <point x="1037.07" y="568" type="line"/>
+      <point x="1037.07" y="600" type="line"/>
+      <point x="1207.07" y="600" type="line"/>
+      <point x="1207.07" y="568" type="line"/>
+    </contour>
+    <contour>
+      <point x="941" y="1200" type="line"/>
+      <point x="-32" y="1200" type="line"/>
+      <point x="-39" y="1230" type="line"/>
+      <point x="934" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="568" type="line"/>
+      <point x="321" y="600" type="line"/>
+      <point x="1049" y="600" type="line"/>
+      <point x="1049" y="568" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="1210" type="line"/>
+      <point x="339" y="573" type="line"/>
+      <point x="303" y="573" type="line"/>
+      <point x="303" y="1210" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="185" type="line"/>
+      <point x="273" y="333"/>
+      <point x="260" y="418"/>
+      <point x="239" y="566" type="curve"/>
+      <point x="303" y="596" type="line"/>
+      <point x="339" y="596" type="line"/>
+      <point x="339" y="556.624"/>
+      <point x="339" y="219.037"/>
+      <point x="339" y="185" type="curve"/>
+    </contour>
+    <contour>
+      <point x="2128" y="1209" type="line"/>
+      <point x="2128" y="0" type="line"/>
+      <point x="2092" y="0" type="line"/>
+      <point x="2092" y="1209" type="line"/>
+    </contour>
+    <contour>
+      <point x="1918" y="1200" type="line"/>
+      <point x="1911" y="1230" type="line"/>
+      <point x="2463" y="1230" type="line"/>
+      <point x="2470" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="1790" y="1200" type="line"/>
+      <point x="1783" y="1230" type="line"/>
+      <point x="2363" y="1230" type="line"/>
+      <point x="2370" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="1199" y="568" type="line"/>
+      <point x="1199" y="600" type="line"/>
+      <point x="2109" y="600" type="line"/>
+      <point x="2109" y="568" type="line"/>
+    </contour>
+    <contour>
+      <point x="1173" y="185" type="line"/>
+      <point x="1151" y="333"/>
+      <point x="1139" y="418"/>
+      <point x="1117" y="566" type="curve"/>
+      <point x="1181" y="596" type="line"/>
+      <point x="1217" y="596" type="line"/>
+      <point x="1217" y="185" type="line"/>
+    </contour>
+    <contour>
+      <point x="1181" y="573" type="line"/>
+      <point x="1181" y="970" type="line" smooth="yes"/>
+      <point x="1181" y="1141"/>
+      <point x="1132" y="1200"/>
+      <point x="975" y="1200" type="curve" smooth="yes"/>
+      <point x="834" y="1200" type="line"/>
+      <point x="827" y="1230" type="line"/>
+      <point x="977" y="1230" type="line" smooth="yes"/>
+      <point x="1155" y="1230"/>
+      <point x="1217" y="1155"/>
+      <point x="1217" y="974" type="curve" smooth="yes"/>
+      <point x="1217" y="573" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="2110" y="0"/>
+  <guideline angle="90" x="2128" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="0" x="0" y="1221"/>
+  <guideline angle="90" x="2105" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ma.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5bbd267cc5c268b4441d405d8c06ef9b3b5d76d3f655e8b6c725fbc0e12868a0229365ab8cd23fcd59528db37d769d900265562456e26ebbd8313c7b5ea770d2</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1665 2356</string>
+          <string>vstem 1911.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

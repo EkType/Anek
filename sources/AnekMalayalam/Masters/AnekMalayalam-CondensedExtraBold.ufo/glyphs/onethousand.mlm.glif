@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onethousand.mlm" format="2">
+  <advance width="2339"/>
+  <unicode hex="0D72"/>
+  <outline>
+    <component base="date.mlm"/>
+    <contour>
+      <point x="1934" y="753" type="line"/>
+      <point x="1934" y="900" type="line" smooth="yes"/>
+      <point x="1934" y="952"/>
+      <point x="1949" y="972"/>
+      <point x="1982" y="972" type="curve" smooth="yes"/>
+      <point x="2015" y="972"/>
+      <point x="2030" y="952"/>
+      <point x="2030" y="900" type="curve" smooth="yes"/>
+      <point x="2030" y="845" type="line" smooth="yes"/>
+      <point x="2030" y="797"/>
+      <point x="2009" y="776"/>
+      <point x="1965" y="776" type="curve" smooth="yes"/>
+      <point x="1581" y="776" type="line"/>
+      <point x="1582" y="537" type="line"/>
+      <point x="1974" y="537" type="line" smooth="yes"/>
+      <point x="2198" y="537"/>
+      <point x="2302" y="635"/>
+      <point x="2302" y="845" type="curve" smooth="yes"/>
+      <point x="2302" y="880" type="line" smooth="yes"/>
+      <point x="2302" y="1101"/>
+      <point x="2197" y="1216"/>
+      <point x="1984" y="1216" type="curve" smooth="yes"/>
+      <point x="1778" y="1216"/>
+      <point x="1673" y="1107"/>
+      <point x="1673" y="903" type="curve" smooth="yes"/>
+      <point x="1673" y="745" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Na.mlm</string>
+  </dict>
+  </lib>
+</glyph>

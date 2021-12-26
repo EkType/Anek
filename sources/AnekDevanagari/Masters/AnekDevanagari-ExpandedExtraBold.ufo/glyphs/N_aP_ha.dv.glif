@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NaPha.dv" format="2">
+  <advance width="3037"/>
+  <anchor x="1949" y="37" name="bottom"/>
+  <anchor x="1945" y="37" name="bottom2"/>
+  <anchor x="2523" y="37" name="bottom3"/>
+  <anchor x="1949" y="55" name="bottom5"/>
+  <anchor x="1949" y="1214" name="top"/>
+  <outline>
+    <contour>
+      <point x="1603" y="999" type="line"/>
+      <point x="-47" y="999" type="line"/>
+      <point x="-68" y="1266" type="line"/>
+      <point x="1582" y="1266" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="183" type="line"/>
+      <point x="151" y="303"/>
+      <point x="80" y="465"/>
+      <point x="66" y="655" type="curve"/>
+      <point x="254" y="767" type="line"/>
+      <point x="594" y="767" type="line"/>
+      <point x="594" y="183" type="line"/>
+    </contour>
+    <contour>
+      <point x="1064" y="735" type="curve"/>
+      <point x="1064" y="475" type="line"/>
+      <point x="397" y="475" type="line"/>
+      <point x="397" y="767" type="line"/>
+      <point x="751" y="767" type="line" smooth="yes"/>
+      <point x="915" y="767"/>
+      <point x="967" y="762"/>
+    </contour>
+    <contour>
+      <point x="800" y="999" type="line"/>
+      <point x="779" y="1266" type="line"/>
+      <point x="3072" y="1266" type="line"/>
+      <point x="3093" y="999" type="line"/>
+    </contour>
+    <contour>
+      <point x="1409" y="222" type="curve" smooth="yes"/>
+      <point x="1144" y="222"/>
+      <point x="973" y="356"/>
+      <point x="973" y="680" type="curve" smooth="yes"/>
+      <point x="973" y="1080" type="line"/>
+      <point x="1357" y="1080" type="line"/>
+      <point x="1357" y="726" type="line" smooth="yes"/>
+      <point x="1357" y="573"/>
+      <point x="1425" y="525"/>
+      <point x="1564" y="525" type="curve" smooth="yes"/>
+      <point x="1669" y="525"/>
+      <point x="1738" y="568"/>
+      <point x="1762" y="627" type="curve"/>
+      <point x="1776" y="429" type="line"/>
+      <point x="1744" y="429" type="line"/>
+      <point x="1708" y="306"/>
+      <point x="1603" y="222"/>
+    </contour>
+    <contour>
+      <point x="2390" y="602" type="curve" smooth="yes"/>
+      <point x="2264" y="602"/>
+      <point x="2169" y="550"/>
+      <point x="2128" y="470" type="curve"/>
+      <point x="2118" y="682" type="line"/>
+      <point x="2151" y="682" type="line"/>
+      <point x="2203" y="808"/>
+      <point x="2321" y="894"/>
+      <point x="2531" y="894" type="curve" smooth="yes"/>
+      <point x="2803" y="894"/>
+      <point x="2960" y="728"/>
+      <point x="2960" y="484" type="curve" smooth="yes"/>
+      <point x="2960" y="475" type="line" smooth="yes"/>
+      <point x="2960" y="215"/>
+      <point x="2799" y="75"/>
+      <point x="2499" y="75" type="curve" smooth="yes"/>
+      <point x="2419" y="75"/>
+      <point x="2351" y="82"/>
+      <point x="2297" y="96" type="curve"/>
+      <point x="2274" y="376" type="line"/>
+      <point x="2310" y="368"/>
+      <point x="2347" y="363"/>
+      <point x="2393" y="363" type="curve" smooth="yes"/>
+      <point x="2518" y="363"/>
+      <point x="2571" y="402"/>
+      <point x="2571" y="481" type="curve" smooth="yes"/>
+      <point x="2571" y="484" type="line" smooth="yes"/>
+      <point x="2571" y="557"/>
+      <point x="2520" y="602"/>
+    </contour>
+    <contour>
+      <point x="2141" y="1082" type="line"/>
+      <point x="2141" y="0" type="line"/>
+      <point x="1757" y="0" type="line"/>
+      <point x="1757" y="1082" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="542" y="0"/>
+  <guideline angle="90" x="1949" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1214"/>
+  <guideline angle="90" x="1945" y="0"/>
+  <guideline angle="90" x="2141" y="0"/>
+  <guideline angle="0" x="0" y="55"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Na.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Pha.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b2c8ec1ac65fe51ea73482e2320afa2debc413365eb37109af6aed0345fbfaa4bc55cb5d8425c012d2f6e675a3508a268a23d150f8ff3b58f219f3ab4266242b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 1681.67 216.32</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

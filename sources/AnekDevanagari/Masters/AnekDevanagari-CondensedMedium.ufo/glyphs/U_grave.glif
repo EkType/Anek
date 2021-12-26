@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ugrave" format="2">
+  <advance width="804"/>
+  <unicode hex="00D9"/>
+  <anchor x="402" y="0" name="bottom"/>
+  <anchor x="582" y="5" name="ogonek"/>
+  <anchor x="334" y="1567" name="top"/>
+  <anchor x="798" y="1278" name="topright"/>
+  <outline>
+    <contour>
+      <point x="402" y="-19" type="curve" smooth="yes"/>
+      <point x="612" y="-19"/>
+      <point x="713" y="106"/>
+      <point x="713" y="342" type="curve" smooth="yes"/>
+      <point x="713" y="1278" type="line"/>
+      <point x="533" y="1278" type="line"/>
+      <point x="533" y="327" type="line" smooth="yes"/>
+      <point x="533" y="200"/>
+      <point x="496" y="135"/>
+      <point x="402" y="135" type="curve" smooth="yes"/>
+      <point x="308" y="135"/>
+      <point x="271" y="200"/>
+      <point x="271" y="327" type="curve" smooth="yes"/>
+      <point x="271" y="1278" type="line"/>
+      <point x="91" y="1278" type="line"/>
+      <point x="91" y="342" type="line" smooth="yes"/>
+      <point x="91" y="106"/>
+      <point x="192" y="-19"/>
+    </contour>
+    <contour>
+      <point x="135" y="1604" type="line"/>
+      <point x="135" y="1604" type="line"/>
+      <point x="334" y="1367" type="line"/>
+      <point x="481" y="1367" type="line"/>
+      <point x="481" y="1367" type="line"/>
+      <point x="315" y="1604" type="line"/>
+    </contour>
+  </outline>
+</glyph>

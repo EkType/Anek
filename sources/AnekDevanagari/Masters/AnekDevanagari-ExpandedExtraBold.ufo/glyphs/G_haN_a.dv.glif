@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="GhaNa.dv" format="2">
+  <advance width="1713"/>
+  <anchor x="1371" y="-34" name="bottom"/>
+  <anchor x="1367" y="-34" name="bottom2"/>
+  <anchor x="1563" y="-34" name="bottom3"/>
+  <anchor x="1371" y="1214" name="top"/>
+  <outline>
+    <contour>
+      <point x="-41" y="999" type="line"/>
+      <point x="-62" y="1266" type="line"/>
+      <point x="1748" y="1266" type="line"/>
+      <point x="1770" y="999" type="line"/>
+    </contour>
+    <contour>
+      <point x="1563" y="1088" type="line"/>
+      <point x="1563" y="806" type="line"/>
+      <point x="1179" y="806" type="line"/>
+      <point x="1179" y="1088" type="line"/>
+    </contour>
+    <contour>
+      <point x="588" y="134" type="curve" smooth="yes"/>
+      <point x="321" y="134"/>
+      <point x="107" y="226"/>
+      <point x="107" y="418" type="curve" smooth="yes"/>
+      <point x="107" y="425" type="line" smooth="yes"/>
+      <point x="107" y="560"/>
+      <point x="200" y="657"/>
+      <point x="449" y="675" type="curve"/>
+      <point x="449" y="685" type="line"/>
+      <point x="202" y="708"/>
+      <point x="112" y="790"/>
+      <point x="112" y="911" type="curve" smooth="yes"/>
+      <point x="112" y="917" type="line" smooth="yes"/>
+      <point x="112" y="972"/>
+      <point x="134" y="1015"/>
+      <point x="180" y="1045" type="curve"/>
+      <point x="588" y="1045" type="line"/>
+      <point x="535" y="1017"/>
+      <point x="508" y="989"/>
+      <point x="508" y="943" type="curve" smooth="yes"/>
+      <point x="508" y="940" type="line" smooth="yes"/>
+      <point x="508" y="878"/>
+      <point x="556" y="835"/>
+      <point x="784" y="828" type="curve" smooth="yes"/>
+      <point x="949" y="822" type="line"/>
+      <point x="949" y="550" type="line"/>
+      <point x="760" y="545" type="line" smooth="yes"/>
+      <point x="571" y="540"/>
+      <point x="504" y="522"/>
+      <point x="504" y="463" type="curve" smooth="yes"/>
+      <point x="504" y="459" type="line" smooth="yes"/>
+      <point x="504" y="400"/>
+      <point x="586" y="377"/>
+      <point x="759" y="377" type="curve" smooth="yes"/>
+      <point x="914" y="377"/>
+      <point x="1022" y="404"/>
+      <point x="1154" y="450" type="curve" smooth="yes"/>
+      <point x="1204" y="468" type="line"/>
+      <point x="1204" y="185" type="line"/>
+      <point x="547" y="-82" type="line"/>
+      <point x="616" y="-11" type="line"/>
+      <point x="698" y="-224" type="line"/>
+      <point x="424" y="-340" type="line"/>
+      <point x="303" y="-283"/>
+      <point x="212" y="-194"/>
+      <point x="162" y="-69" type="curve"/>
+      <point x="260" y="75" type="line"/>
+      <point x="789" y="276" type="line"/>
+      <point x="881" y="185" type="line"/>
+      <point x="804" y="151"/>
+      <point x="709" y="134"/>
+    </contour>
+    <contour>
+      <point x="1563" y="861" type="line"/>
+      <point x="1563" y="-71" type="line"/>
+      <point x="1179" y="-71" type="line"/>
+      <point x="1179" y="861" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1371" y="0"/>
+  <guideline angle="90" x="1563" y="0"/>
+  <guideline angle="90" x="1371" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Gha.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>21a2c4031a3471983adb7917489493d754b9cb0eee502535e8d461360cd61828fc8a2e047ab1fb84b289467eadc553fa9a20c2e67eafa891b71aeb424136a75b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 1103.67 216.32</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nukta2.kn" format="2">
+  <anchor x="0" y="0" name="_nukta"/>
+  <outline>
+    <contour>
+      <point x="-331" y="-131" type="curve" smooth="yes"/>
+      <point x="-390" y="-131"/>
+      <point x="-424" y="-166"/>
+      <point x="-424" y="-236" type="curve" smooth="yes"/>
+      <point x="-424" y="-307"/>
+      <point x="-390" y="-341"/>
+      <point x="-331" y="-341" type="curve" smooth="yes"/>
+      <point x="-273" y="-341"/>
+      <point x="-239" y="-307"/>
+      <point x="-239" y="-236" type="curve" smooth="yes"/>
+      <point x="-239" y="-166"/>
+      <point x="-273" y="-131"/>
+    </contour>
+    <contour>
+      <point x="332" y="-131" type="curve" smooth="yes"/>
+      <point x="274" y="-131"/>
+      <point x="240" y="-166"/>
+      <point x="240" y="-236" type="curve" smooth="yes"/>
+      <point x="240" y="-307"/>
+      <point x="274" y="-341"/>
+      <point x="332" y="-341" type="curve" smooth="yes"/>
+      <point x="391" y="-341"/>
+      <point x="425" y="-307"/>
+      <point x="425" y="-236" type="curve" smooth="yes"/>
+      <point x="425" y="-166"/>
+      <point x="391" y="-131"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="-6" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

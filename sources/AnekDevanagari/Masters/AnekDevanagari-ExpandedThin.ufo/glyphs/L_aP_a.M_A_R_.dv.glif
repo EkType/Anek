@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LaPa.MAR.dv" format="2">
+  <advance width="2816"/>
+  <anchor x="2499" y="9" name="bottom"/>
+  <anchor x="2494" y="9" name="bottom2"/>
+  <anchor x="2517" y="9" name="bottom3"/>
+  <anchor x="2499" y="30" name="bottom5"/>
+  <anchor x="2499" y="1221" name="top"/>
+  <outline>
+    <contour>
+      <point x="1239" y="840" type="curve" smooth="yes"/>
+      <point x="1057" y="840"/>
+      <point x="946" y="721"/>
+      <point x="943" y="533" type="curve" smooth="yes"/>
+      <point x="940" y="315" type="line"/>
+      <point x="926" y="315" type="line"/>
+      <point x="926" y="605" type="line"/>
+      <point x="941" y="757"/>
+      <point x="1045" y="874"/>
+      <point x="1236" y="874" type="curve" smooth="yes"/>
+      <point x="1390" y="874"/>
+      <point x="1491" y="808"/>
+      <point x="1549" y="698" type="curve"/>
+      <point x="1530" y="677" type="line"/>
+      <point x="1470" y="781"/>
+      <point x="1379" y="840"/>
+    </contour>
+    <contour>
+      <point x="2517" y="1209" type="line"/>
+      <point x="2517" y="0" type="line"/>
+      <point x="2481" y="0" type="line"/>
+      <point x="2481" y="1209" type="line"/>
+    </contour>
+    <contour>
+      <point x="2307" y="1200" type="line"/>
+      <point x="2300" y="1230" type="line"/>
+      <point x="2852" y="1230" type="line"/>
+      <point x="2859" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="1244" y="1200" type="line"/>
+      <point x="1237" y="1230" type="line"/>
+      <point x="2852" y="1230" type="line"/>
+      <point x="2859" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="1999" y="349" type="curve" smooth="yes"/>
+      <point x="1691" y="349"/>
+      <point x="1511" y="484"/>
+      <point x="1511" y="824" type="curve" smooth="yes"/>
+      <point x="1511" y="1205" type="line"/>
+      <point x="1547" y="1205" type="line"/>
+      <point x="1547" y="824" type="line" smooth="yes"/>
+      <point x="1547" y="507"/>
+      <point x="1713" y="383"/>
+      <point x="1999" y="383" type="curve" smooth="yes"/>
+      <point x="2266" y="383"/>
+      <point x="2425" y="502"/>
+      <point x="2483" y="696" type="curve"/>
+      <point x="2489" y="644" type="line"/>
+      <point x="2485" y="644" type="line"/>
+      <point x="2441" y="481"/>
+      <point x="2282" y="349"/>
+    </contour>
+    <contour>
+      <point x="-30" y="1200" type="line"/>
+      <point x="-37" y="1230" type="line"/>
+      <point x="1334" y="1230" type="line"/>
+      <point x="1341" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="932" y="315" type="line"/>
+      <point x="909" y="315" type="line"/>
+      <point x="907" y="522" type="line" smooth="yes"/>
+      <point x="905" y="732"/>
+      <point x="785" y="840"/>
+      <point x="585" y="840" type="curve" smooth="yes"/>
+      <point x="369" y="840"/>
+      <point x="222" y="704"/>
+      <point x="222" y="489" type="curve" smooth="yes"/>
+      <point x="222" y="482" type="line" smooth="yes"/>
+      <point x="222" y="270"/>
+      <point x="337" y="132"/>
+      <point x="554" y="4" type="curve"/>
+      <point x="554" y="0" type="line"/>
+      <point x="494" y="0" type="line"/>
+      <point x="307" y="116"/>
+      <point x="184" y="258"/>
+      <point x="184" y="482" type="curve" smooth="yes"/>
+      <point x="184" y="489" type="line" smooth="yes"/>
+      <point x="184" y="719"/>
+      <point x="342" y="874"/>
+      <point x="583" y="874" type="curve" smooth="yes"/>
+      <point x="791" y="874"/>
+      <point x="905" y="773"/>
+      <point x="923" y="607" type="curve"/>
+      <point x="932" y="607" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="955"/>
+  <guideline angle="0" x="0" y="882"/>
+  <guideline angle="90" x="2499" y="0"/>
+  <guideline angle="90" x="2517" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="0" x="0" y="1221"/>
+  <guideline angle="90" x="2494" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>La.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1dc723516f55166b881b3b5f1b3ca45e577998950b9510343c39c47a3075d4b4153ed5b4cd0527754df8ef6e3c54bf3c06805337adcae64a6107260a8c7d334c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1665 2356</string>
+          <string>vstem 2300.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

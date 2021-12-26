@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="KaNa.dv" format="2">
+  <advance width="2955"/>
+  <anchor x="2613" y="37" name="bottom"/>
+  <anchor x="2609" y="37" name="bottom2"/>
+  <anchor x="2805" y="37" name="bottom3"/>
+  <anchor x="2613" y="55" name="bottom5"/>
+  <anchor x="2613" y="1214" name="top"/>
+  <outline>
+    <contour>
+      <point x="1425" y="999" type="line"/>
+      <point x="1404" y="1266" type="line"/>
+      <point x="2990" y="1266" type="line"/>
+      <point x="3012" y="999" type="line"/>
+    </contour>
+    <contour>
+      <point x="1821" y="767" type="line"/>
+      <point x="2581" y="767" type="line"/>
+      <point x="2581" y="475" type="line"/>
+      <point x="1821" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="1679" y="767" type="line"/>
+      <point x="2019" y="767" type="line"/>
+      <point x="2019" y="183" type="line"/>
+      <point x="1673" y="183" type="line"/>
+      <point x="1575" y="302"/>
+      <point x="1504" y="465"/>
+      <point x="1490" y="655" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1497" y="475" type="line" smooth="yes"/>
+      <point x="1361" y="475"/>
+      <point x="1290" y="429"/>
+      <point x="1265" y="327" type="curve"/>
+      <point x="1249" y="576" type="line"/>
+      <point x="1286" y="576" type="line"/>
+      <point x="1319" y="699"/>
+      <point x="1403" y="767"/>
+      <point x="1570" y="767" type="curve" smooth="yes"/>
+      <point x="1856" y="767" type="line"/>
+      <point x="1856" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="2805" y="1082" type="line"/>
+      <point x="2805" y="0" type="line"/>
+      <point x="2421" y="0" type="line"/>
+      <point x="2421" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="2348" y="999" type="line"/>
+      <point x="2327" y="1266" type="line"/>
+      <point x="2991" y="1266" type="line"/>
+      <point x="3012" y="999" type="line"/>
+    </contour>
+    <contour>
+      <point x="-36" y="999" type="line"/>
+      <point x="-57" y="1266" type="line"/>
+      <point x="1504" y="1266" type="line"/>
+      <point x="1525" y="999" type="line"/>
+    </contour>
+    <contour>
+      <point x="888" y="0" type="line"/>
+      <point x="888" y="1088" type="line"/>
+      <point x="1272" y="1088" type="line"/>
+      <point x="1272" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="488" type="curve" smooth="yes"/>
+      <point x="84" y="495" type="line" smooth="yes"/>
+      <point x="84" y="748"/>
+      <point x="249" y="894"/>
+      <point x="552" y="894" type="curve" smooth="yes"/>
+      <point x="635" y="894"/>
+      <point x="701" y="885"/>
+      <point x="758" y="869" type="curve"/>
+      <point x="778" y="600" type="line"/>
+      <point x="746" y="605"/>
+      <point x="712" y="609"/>
+      <point x="666" y="609" type="curve" smooth="yes"/>
+      <point x="527" y="609"/>
+      <point x="472" y="571"/>
+      <point x="472" y="498" type="curve" smooth="yes"/>
+      <point x="472" y="491" type="line" smooth="yes"/>
+      <point x="472" y="415"/>
+      <point x="527" y="383"/>
+      <point x="667" y="383" type="curve" smooth="yes"/>
+      <point x="796" y="383"/>
+      <point x="870" y="429"/>
+      <point x="894" y="502" type="curve"/>
+      <point x="910" y="294" type="line"/>
+      <point x="874" y="294" type="line"/>
+      <point x="838" y="167"/>
+      <point x="724" y="89"/>
+      <point x="529" y="89" type="curve" smooth="yes"/>
+      <point x="253" y="89"/>
+      <point x="84" y="240"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="2613" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1214"/>
+  <guideline angle="90" x="2609" y="0"/>
+  <guideline angle="90" x="2805" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ka.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8af450d4d8af2d4dbc661063c77458cc9838b93af22b8185b888af4ae8dd709433d27d9d645c5bfcddb1a37008128ee763259ce8f110653569320ded20c1fae5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 2345.67 216.32</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

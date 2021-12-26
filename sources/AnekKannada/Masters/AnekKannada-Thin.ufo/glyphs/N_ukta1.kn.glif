@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nukta1.kn" format="2">
+  <unicode hex="0CBC"/>
+  <anchor x="0" y="0" name="_nukta"/>
+  <outline>
+    <contour>
+      <point x="-200" y="-150" type="curve" smooth="yes"/>
+      <point x="-224" y="-150"/>
+      <point x="-234" y="-169"/>
+      <point x="-234" y="-213" type="curve" smooth="yes"/>
+      <point x="-234" y="-258"/>
+      <point x="-224" y="-275"/>
+      <point x="-200" y="-275" type="curve" smooth="yes"/>
+      <point x="-177" y="-275"/>
+      <point x="-165" y="-258"/>
+      <point x="-165" y="-213" type="curve" smooth="yes"/>
+      <point x="-165" y="-169"/>
+      <point x="-177" y="-150"/>
+    </contour>
+    <contour>
+      <point x="201" y="-150" type="curve" smooth="yes"/>
+      <point x="178" y="-150"/>
+      <point x="166" y="-169"/>
+      <point x="166" y="-213" type="curve" smooth="yes"/>
+      <point x="166" y="-258"/>
+      <point x="178" y="-275"/>
+      <point x="201" y="-275" type="curve" smooth="yes"/>
+      <point x="225" y="-275"/>
+      <point x="235" y="-258"/>
+      <point x="235" y="-213" type="curve" smooth="yes"/>
+      <point x="235" y="-169"/>
+      <point x="225" y="-150"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

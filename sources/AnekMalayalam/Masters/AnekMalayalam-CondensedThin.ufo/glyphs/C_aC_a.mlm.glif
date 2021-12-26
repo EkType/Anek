@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CaCa.mlm" format="2">
+  <advance width="935"/>
+  <outline>
+    <component base="Ca.mlm"/>
+    <contour>
+      <point x="773" y="17" type="line"/>
+      <point x="773" y="-386" type="line"/>
+      <point x="808" y="-386" type="line"/>
+      <point x="808" y="17" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="-355" type="line"/>
+      <point x="414" y="-282"/>
+      <point x="546" y="-137"/>
+      <point x="578" y="7" type="curve"/>
+      <point x="541" y="7" type="line"/>
+      <point x="509" y="-143"/>
+      <point x="367" y="-280"/>
+      <point x="237" y="-355" type="curve"/>
+      <point x="245" y="-386" type="line"/>
+      <point x="778" y="-386" type="line"/>
+      <point x="797" y="-355" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ca.mlm</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ca.mlm</string>
+  </dict>
+  </lib>
+</glyph>

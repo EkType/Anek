@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ra.dv" format="2">
+  <advance width="809"/>
+  <unicode hex="0930"/>
+  <anchor x="378.75" y="23" name="bottom2"/>
+  <anchor x="845.5" y="23" name="bottom3"/>
+  <anchor x="432" y="42.5" name="bottom5"/>
+  <anchor x="453" y="1238" name="top"/>
+  <outline>
+    <contour>
+      <point x="860.5" y="1124" type="line"/>
+      <point x="-30" y="1124" type="line"/>
+      <point x="-41.5" y="1269" type="line"/>
+      <point x="848.5" y="1269" type="line"/>
+    </contour>
+    <contour>
+      <point x="697.5" y="0" type="line"/>
+      <point x="474.162" y="0" type="line"/>
+      <point x="168.193" y="478.5" type="line"/>
+      <point x="54.5" y="486.5" type="line"/>
+      <point x="54.5" y="648" type="line"/>
+      <point x="298.5" y="584.5" type="line"/>
+      <point x="298.5" y="530.506" type="line"/>
+      <point x="390.856" y="446"/>
+      <point x="433.788" y="400.782"/>
+      <point x="508.502" y="289.5" type="curve" smooth="yes"/>
+      <point x="697.5" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="574" y="1159.5" type="line"/>
+      <point x="653.282" y="1101.62"/>
+      <point x="691" y="997.609"/>
+      <point x="691" y="875.779" type="curve" smooth="yes"/>
+      <point x="691" y="865.774" type="line" smooth="yes"/>
+      <point x="691" y="623.084"/>
+      <point x="555.724" y="500.798"/>
+      <point x="262.493" y="494.313" type="curve" smooth="yes"/>
+      <point x="170.5" y="492.5" type="line"/>
+      <point x="54.5" y="648" type="line"/>
+      <point x="208.78" y="648" type="line" smooth="yes"/>
+      <point x="412.118" y="648"/>
+      <point x="497.5" y="726.088"/>
+      <point x="497.5" y="881.5" type="curve" smooth="yes"/>
+      <point x="497.5" y="891" type="line" smooth="yes"/>
+      <point x="497.5" y="1011.02"/>
+      <point x="456.143" y="1102.35"/>
+      <point x="368.5" y="1159.5" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="205" y="0"/>
+  <guideline angle="0" x="0" y="1262"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

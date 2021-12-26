@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="GaNna.dv" format="2">
+  <advance width="3006"/>
+  <anchor x="2664" y="37" name="bottom"/>
+  <anchor x="2660" y="37" name="bottom2"/>
+  <anchor x="2856" y="37" name="bottom3"/>
+  <anchor x="2664" y="55" name="bottom5"/>
+  <anchor x="2664" y="1214" name="top"/>
+  <outline>
+    <contour>
+      <point x="2856" y="1082" type="line"/>
+      <point x="2856" y="0" type="line"/>
+      <point x="2472" y="0" type="line"/>
+      <point x="2472" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="2399" y="999" type="line"/>
+      <point x="2378" y="1266" type="line"/>
+      <point x="3042" y="1266" type="line"/>
+      <point x="3063" y="999" type="line"/>
+    </contour>
+    <contour>
+      <point x="882" y="999" type="line"/>
+      <point x="861" y="1266" type="line"/>
+      <point x="3042" y="1266" type="line"/>
+      <point x="3063" y="999" type="line"/>
+    </contour>
+    <contour>
+      <point x="1628" y="205" type="curve" smooth="yes"/>
+      <point x="1244" y="205"/>
+      <point x="1059" y="360"/>
+      <point x="1059" y="694" type="curve" smooth="yes"/>
+      <point x="1059" y="1080" type="line"/>
+      <point x="1434" y="1080" type="line"/>
+      <point x="1434" y="691" type="line" smooth="yes"/>
+      <point x="1434" y="559"/>
+      <point x="1496" y="498"/>
+      <point x="1628" y="498" type="curve" smooth="yes"/>
+      <point x="1758" y="498"/>
+      <point x="1820" y="559"/>
+      <point x="1820" y="691" type="curve" smooth="yes"/>
+      <point x="1820" y="1080" type="line"/>
+      <point x="2196" y="1080" type="line"/>
+      <point x="2196" y="694" type="line" smooth="yes"/>
+      <point x="2196" y="360"/>
+      <point x="2011" y="205"/>
+    </contour>
+    <contour>
+      <point x="-36" y="999" type="line"/>
+      <point x="-57" y="1266" type="line"/>
+      <point x="921" y="1266" type="line"/>
+      <point x="942" y="999" type="line"/>
+    </contour>
+    <contour>
+      <point x="666" y="1031" type="line"/>
+      <point x="755" y="951.008"/>
+      <point x="797" y="832.606"/>
+      <point x="797" y="704" type="curve" smooth="yes"/>
+      <point x="797" y="692" type="line" smooth="yes"/>
+      <point x="797" y="413.385"/>
+      <point x="620.895" y="247"/>
+      <point x="285" y="247" type="curve" smooth="yes"/>
+      <point x="201.077" y="247"/>
+      <point x="140.491" y="254.313"/>
+      <point x="79" y="268" type="curve"/>
+      <point x="52" y="576" type="line"/>
+      <point x="82.0681" y="571.209"/>
+      <point x="117.176" y="568"/>
+      <point x="163" y="568" type="curve" smooth="yes"/>
+      <point x="337.644" y="568"/>
+      <point x="406" y="635.67"/>
+      <point x="406" y="765" type="curve" smooth="yes"/>
+      <point x="406" y="772" type="line" smooth="yes"/>
+      <point x="406" y="870.391"/>
+      <point x="359" y="963.733"/>
+      <point x="249" y="1031" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="2664" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1214"/>
+  <guideline angle="90" x="2660" y="0"/>
+  <guideline angle="90" x="2856" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ga.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d0b02113f12f4a98d5c30418bd93b8dfe0c9162263e24675afe19762326973916ab15f5731496348d9686839299e54edee338f2e5e62e6e15e491052185cca89</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 2396.67 216.32</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

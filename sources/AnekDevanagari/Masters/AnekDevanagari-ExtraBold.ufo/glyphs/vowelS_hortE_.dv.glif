@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vowelShortE.dv" format="2">
+  <advance width="1191"/>
+  <unicode hex="090E"/>
+  <anchor x="1074.5" y="37" name="bottom3"/>
+  <anchor x="1029.5" y="1234.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="424.5" y="1802.5" type="curve"/>
+      <point x="427" y="1703"/>
+      <point x="461.498" y="1671.31"/>
+      <point x="592.5" y="1670" type="curve" smooth="yes"/>
+      <point x="692.5" y="1669" type="line" smooth="yes"/>
+      <point x="973.008" y="1666.19"/>
+      <point x="1074" y="1542"/>
+      <point x="1074" y="1313.5" type="curve" smooth="yes"/>
+      <point x="1074" y="1234.5" type="line"/>
+      <point x="773" y="1234.5" type="line"/>
+      <point x="773" y="1298.5" type="line" smooth="yes"/>
+      <point x="773" y="1374.5"/>
+      <point x="751.512" y="1407.21"/>
+      <point x="652.5" y="1408.5" type="curve" smooth="yes"/>
+      <point x="537.5" y="1410" type="line" smooth="yes"/>
+      <point x="245.972" y="1413.8"/>
+      <point x="122" y="1514"/>
+      <point x="122" y="1701.5" type="curve" smooth="yes"/>
+      <point x="122" y="1741.5"/>
+      <point x="128.5" y="1782"/>
+      <point x="141.5" y="1819" type="curve"/>
+      <point x="424" y="1819" type="line"/>
+      <point x="424.041" y="1817.65"/>
+      <point x="424.458" y="1803.89"/>
+    </contour>
+    <contour>
+      <point x="-32" y="1033" type="line"/>
+      <point x="-50" y="1287" type="line"/>
+      <point x="1222.5" y="1287" type="line"/>
+      <point x="1240.5" y="1033" type="line"/>
+    </contour>
+    <contour>
+      <point x="446" y="611.5" type="line" smooth="yes"/>
+      <point x="446" y="345.5"/>
+      <point x="564" y="258.5"/>
+      <point x="813.5" y="258.5" type="curve" smooth="yes"/>
+      <point x="893.5" y="258.5"/>
+      <point x="980.5" y="268.5"/>
+      <point x="1052" y="285.5" type="curve"/>
+      <point x="1019.5" y="8.5" type="line"/>
+      <point x="952.335" y="-11.6364"/>
+      <point x="867.409" y="-23"/>
+      <point x="761.5" y="-23" type="curve" smooth="yes"/>
+      <point x="330.648" y="-23"/>
+      <point x="102" y="172"/>
+      <point x="102" y="607.5" type="curve" smooth="yes"/>
+      <point x="102" y="1115.5" type="line"/>
+      <point x="446" y="1115.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="1097.5" y="812" type="line" smooth="yes"/>
+      <point x="1097.5" y="526.776"/>
+      <point x="974.877" y="407.5"/>
+      <point x="724.092" y="407.5" type="curve" smooth="yes"/>
+      <point x="690.082" y="407.5"/>
+      <point x="648.972" y="411.855"/>
+      <point x="618.5" y="417.852" type="curve"/>
+      <point x="618.5" y="684.5" type="line"/>
+      <point x="624.935" y="684.5"/>
+      <point x="628.565" y="684.5"/>
+      <point x="635" y="684.5" type="curve" smooth="yes"/>
+      <point x="718.595" y="684.5"/>
+      <point x="756" y="718.231"/>
+      <point x="756" y="815" type="curve" smooth="yes"/>
+      <point x="756" y="1105" type="line"/>
+      <point x="1097.5" y="1105" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="155" y="0"/>
+  <guideline angle="90" x="317" y="0"/>
+  <guideline angle="90" x="689" y="0"/>
+  <guideline angle="90" x="547" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>vowelE.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>vowelE.dv</string>
+  <key>public.markColor</key>
+  <string>0.805,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

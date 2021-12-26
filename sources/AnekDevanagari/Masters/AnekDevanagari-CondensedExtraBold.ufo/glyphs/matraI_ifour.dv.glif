@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="matraIifour.dv" format="2">
+  <advance width="464"/>
+  <outline>
+    <contour>
+      <point x="383" y="0" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="79" y="1156" type="line"/>
+      <point x="383" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="506" y="1067" type="line"/>
+      <point x="-30" y="1067" type="line"/>
+      <point x="-44" y="1308" type="line"/>
+      <point x="492" y="1308" type="line"/>
+    </contour>
+    <contour>
+      <point x="-36.913" y="1792" type="curve" smooth="yes"/>
+      <point x="226.217" y="1792"/>
+      <point x="377" y="1677"/>
+      <point x="377" y="1400" type="curve" smooth="yes"/>
+      <point x="377" y="1273" type="line"/>
+      <point x="83" y="1273" type="line"/>
+      <point x="83" y="1398" type="line" smooth="yes"/>
+      <point x="83" y="1503"/>
+      <point x="39.3096" y="1535"/>
+      <point x="-30.0251" y="1535" type="curve" smooth="yes"/>
+      <point x="-99.3598" y="1535"/>
+      <point x="-144" y="1505"/>
+      <point x="-144" y="1415" type="curve" smooth="yes"/>
+      <point x="-144" y="1351" type="line"/>
+      <point x="-426" y="1384" type="line"/>
+      <point x="-435" y="1428"/>
+      <point x="-439" y="1457"/>
+      <point x="-439" y="1503" type="curve" smooth="yes"/>
+      <point x="-439" y="1687"/>
+      <point x="-285.261" y="1792"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="-454" y="0"/>
+  <guideline angle="90" x="79" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>matraA.dv-2</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3f91bf91157288fee4e571e650506480af6cb939c8ac541a4a5540b3805ce3de5ce15789a2cd0005b18d21b9ff7b117ab4992f6d844ecc1e471aa329f313a8f1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 43 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

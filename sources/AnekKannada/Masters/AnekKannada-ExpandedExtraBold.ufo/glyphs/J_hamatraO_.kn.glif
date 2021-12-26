@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="JhamatraO.kn" format="2">
+  <advance width="4326"/>
+  <outline>
+    <component base="matraUu.kn" xOffset="2607" yOffset="2"/>
+    <component base="matraE.kn" xOffset="643"/>
+    <component base="matraU.kn" xOffset="1726"/>
+    <contour>
+      <point x="384" y="908" type="line"/>
+      <point x="384" y="880" type="line"/>
+      <point x="198" y="835"/>
+      <point x="93" y="701"/>
+      <point x="93" y="500" type="curve" smooth="yes"/>
+      <point x="93" y="482" type="line" smooth="yes"/>
+      <point x="93" y="137"/>
+      <point x="364" y="-51"/>
+      <point x="858" y="-51" type="curve" smooth="yes"/>
+      <point x="1352" y="-51"/>
+      <point x="1623" y="137"/>
+      <point x="1623" y="482" type="curve" smooth="yes"/>
+      <point x="1623" y="500" type="line" smooth="yes"/>
+      <point x="1623" y="701"/>
+      <point x="1518" y="835"/>
+      <point x="1332" y="880" type="curve"/>
+      <point x="1332" y="908" type="line"/>
+    </contour>
+    <contour>
+      <point x="858" y="279" type="curve" smooth="yes"/>
+      <point x="614" y="279"/>
+      <point x="483" y="386"/>
+      <point x="483" y="581" type="curve" smooth="yes"/>
+      <point x="483" y="587" type="line" smooth="yes"/>
+      <point x="483" y="782"/>
+      <point x="614" y="889"/>
+      <point x="858" y="889" type="curve" smooth="yes"/>
+      <point x="1102" y="889"/>
+      <point x="1233" y="782"/>
+      <point x="1233" y="587" type="curve" smooth="yes"/>
+      <point x="1233" y="581" type="line" smooth="yes"/>
+      <point x="1233" y="386"/>
+      <point x="1102" y="279"/>
+    </contour>
+    <contour>
+      <point x="1186" y="889" type="line"/>
+      <point x="1186" y="1174" type="line"/>
+      <point x="93" y="1174" type="line"/>
+      <point x="93" y="889" type="line"/>
+    </contour>
+    <contour>
+      <point x="2372" y="-462" type="curve" smooth="yes"/>
+      <point x="2508" y="-462"/>
+      <point x="2579" y="-397"/>
+      <point x="2579" y="-272" type="curve" smooth="yes"/>
+      <point x="2579" y="-264" type="line" smooth="yes"/>
+      <point x="2579" y="-153"/>
+      <point x="2522" y="-65"/>
+      <point x="2372" y="46" type="curve"/>
+      <point x="2222" y="-65"/>
+      <point x="2165" y="-153"/>
+      <point x="2165" y="-264" type="curve" smooth="yes"/>
+      <point x="2165" y="-272" type="line" smooth="yes"/>
+      <point x="2165" y="-397"/>
+      <point x="2236" y="-462"/>
+    </contour>
+    <contour>
+      <point x="1499" y="488" type="line"/>
+      <point x="1621" y="489" type="line"/>
+      <point x="1621" y="508" type="line"/>
+      <point x="1499" y="508" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1669" y="0"/>
+  <guideline angle="90" x="254" y="0"/>
+  <guideline angle="90" x="2165" y="0"/>
+  <guideline angle="90" x="2194" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Jha.kn</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraUu.kn</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

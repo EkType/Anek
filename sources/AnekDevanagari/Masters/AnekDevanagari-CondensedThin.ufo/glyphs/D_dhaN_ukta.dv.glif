@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DdhaNukta.dv" format="2">
+  <advance width="671"/>
+  <unicode hex="095D"/>
+  <anchor x="378" y="-426" name="bottom"/>
+  <anchor x="345" y="-311" name="bottom2"/>
+  <anchor x="576" y="9" name="bottom3"/>
+  <anchor x="364" y="30" name="bottom5"/>
+  <anchor x="516" y="1262" name="top"/>
+  <outline>
+    <contour>
+      <point x="399" y="1242" type="line"/>
+      <point x="393" y="1271" type="line"/>
+      <point x="653" y="1271" type="line"/>
+      <point x="659" y="1242" type="line"/>
+    </contour>
+    <contour>
+      <point x="534" y="1252" type="line"/>
+      <point x="534" y="1016" type="line"/>
+      <point x="500" y="1016" type="line"/>
+      <point x="500" y="1252" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="1242" type="line"/>
+      <point x="-16" y="1271" type="line"/>
+      <point x="713" y="1271" type="line"/>
+      <point x="718" y="1242" type="line"/>
+    </contour>
+    <contour>
+      <point x="499" y="1253" type="line"/>
+      <point x="534" y="1253" type="line"/>
+      <point x="534" y="924" type="line"/>
+      <point x="499" y="942" type="line"/>
+    </contour>
+    <contour>
+      <point x="109" y="659" type="line" smooth="yes"/>
+      <point x="109" y="878"/>
+      <point x="194" y="977"/>
+      <point x="378" y="977" type="curve" smooth="yes"/>
+      <point x="435" y="977"/>
+      <point x="481" y="972"/>
+      <point x="534" y="957" type="curve"/>
+      <point x="534" y="924" type="line"/>
+      <point x="477" y="938"/>
+      <point x="433" y="944"/>
+      <point x="380" y="944" type="curve" smooth="yes"/>
+      <point x="216" y="944"/>
+      <point x="144" y="857"/>
+      <point x="144" y="657" type="curve" smooth="yes"/>
+      <point x="144" y="280" type="line" smooth="yes"/>
+      <point x="144" y="110"/>
+      <point x="209" y="31"/>
+      <point x="350" y="31" type="curve" smooth="yes"/>
+      <point x="490" y="31"/>
+      <point x="555" y="110"/>
+      <point x="555" y="278" type="curve" smooth="yes"/>
+      <point x="555" y="495" type="line" smooth="yes"/>
+      <point x="555" y="591"/>
+      <point x="523" y="633"/>
+      <point x="457" y="633" type="curve" smooth="yes"/>
+      <point x="391" y="633"/>
+      <point x="360" y="591"/>
+      <point x="360" y="495" type="curve" smooth="yes"/>
+      <point x="360" y="272" type="line" smooth="yes"/>
+      <point x="360" y="131"/>
+      <point x="393" y="90"/>
+      <point x="465" y="42" type="curve"/>
+      <point x="437" y="31" type="line"/>
+      <point x="437" y="35" type="line"/>
+      <point x="371" y="75"/>
+      <point x="327" y="123"/>
+      <point x="327" y="269" type="curve" smooth="yes"/>
+      <point x="327" y="499" type="line" smooth="yes"/>
+      <point x="327" y="609"/>
+      <point x="371" y="664"/>
+      <point x="457" y="664" type="curve" smooth="yes"/>
+      <point x="544" y="664"/>
+      <point x="588" y="609"/>
+      <point x="588" y="499" type="curve" smooth="yes"/>
+      <point x="588" y="276" type="line" smooth="yes"/>
+      <point x="588" y="88"/>
+      <point x="509" y="0"/>
+      <point x="349" y="0" type="curve" smooth="yes"/>
+      <point x="190" y="0"/>
+      <point x="109" y="90"/>
+      <point x="109" y="278" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="349" y="-305" type="curve" smooth="yes"/>
+      <point x="327" y="-305"/>
+      <point x="320" y="-285"/>
+      <point x="320" y="-239" type="curve"/>
+      <point x="320" y="-237.343"/>
+      <point x="320" y="-225.435"/>
+      <point x="320" y="-224" type="curve"/>
+      <point x="320" y="-178"/>
+      <point x="327" y="-158"/>
+      <point x="349" y="-158" type="curve" smooth="yes"/>
+      <point x="371" y="-158"/>
+      <point x="378" y="-178"/>
+      <point x="378" y="-224" type="curve"/>
+      <point x="378" y="-225.657"/>
+      <point x="378" y="-237.565"/>
+      <point x="378" y="-239" type="curve"/>
+      <point x="378" y="-285"/>
+      <point x="371" y="-305"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="0" x="0" y="30"/>
+  <guideline angle="90" x="516" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ddha.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ddha.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>efdfde44f37bab949f503074b734852f29c5b7a74bade35a2418b30e7a42e7e51dd2ad292c8237c23a8c36a70b2bef17eccaa3021dab08e31f5505d9495c710b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 432 19</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

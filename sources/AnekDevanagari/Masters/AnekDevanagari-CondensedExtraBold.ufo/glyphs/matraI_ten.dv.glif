@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="matraIten.dv" format="2">
+  <advance width="466"/>
+  <outline>
+    <contour>
+      <point x="385" y="0" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="81" y="1156" type="line"/>
+      <point x="385" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="508" y="1067" type="line"/>
+      <point x="-28" y="1067" type="line"/>
+      <point x="-42" y="1308" type="line"/>
+      <point x="494" y="1308" type="line"/>
+    </contour>
+    <contour>
+      <point x="650.655" y="1763" type="curve" smooth="yes"/>
+      <point x="899.265" y="1763"/>
+      <point x="1133.93" y="1703.6"/>
+      <point x="1318.37" y="1618" type="curve"/>
+      <point x="1352" y="1348" type="line"/>
+      <point x="1343.93" y="1346" type="line"/>
+      <point x="1123.63" y="1449"/>
+      <point x="897.889" y="1501"/>
+      <point x="682.636" y="1501" type="curve" smooth="yes"/>
+      <point x="468.805" y="1501"/>
+      <point x="381" y="1435"/>
+      <point x="381" y="1308" type="curve" smooth="yes"/>
+      <point x="381" y="1257" type="line"/>
+      <point x="87" y="1257" type="line"/>
+      <point x="87" y="1313.41" type="line" smooth="yes"/>
+      <point x="87" y="1616.91"/>
+      <point x="260.767" y="1763"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="81" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>matraA.dv</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>597d0a0146b33d68a420ef92caa34893a012cf934dfa7afae9917d9c22c8db9bb8b46a5c760ab7a12aa68fa8d553d8281d118a6bc545022f37e839f43b16d16a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 45 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PaMa.dv" format="2">
+  <advance width="1945"/>
+  <anchor x="1658" y="37" name="bottom"/>
+  <anchor x="1650.5" y="37" name="bottom2"/>
+  <anchor x="1829.5" y="37" name="bottom3"/>
+  <anchor x="1657.5" y="55" name="bottom5"/>
+  <anchor x="1657.5" y="1234.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="-31.5" y="1033" type="line"/>
+      <point x="-49.5" y="1287" type="line"/>
+      <point x="837.5" y="1287" type="line"/>
+      <point x="855" y="1033" type="line"/>
+    </contour>
+    <contour>
+      <point x="449.5" y="237" type="curve" smooth="yes"/>
+      <point x="221.5" y="237"/>
+      <point x="105.5" y="374.5"/>
+      <point x="105.5" y="656.5" type="curve" smooth="yes"/>
+      <point x="105.5" y="1119.5" type="line"/>
+      <point x="449.5" y="1119.5" type="line"/>
+      <point x="449.5" y="690" type="line" smooth="yes"/>
+      <point x="449.5" y="570.5"/>
+      <point x="498" y="520.5"/>
+      <point x="599" y="520.5" type="curve" smooth="yes"/>
+      <point x="674" y="520.5"/>
+      <point x="718.5" y="551.5"/>
+      <point x="745.5" y="600" type="curve"/>
+      <point x="740.5" y="388.5" type="line"/>
+      <point x="713" y="388.5" type="line"/>
+      <point x="677" y="304"/>
+      <point x="600" y="237"/>
+    </contour>
+    <contour>
+      <point x="1829.5" y="1119" type="line"/>
+      <point x="1829.5" y="0" type="line"/>
+      <point x="1485.5" y="0" type="line"/>
+      <point x="1485.5" y="1119" type="line"/>
+    </contour>
+    <contour>
+      <point x="1437.5" y="1033" type="line"/>
+      <point x="1420" y="1287" type="line"/>
+      <point x="1977" y="1287" type="line"/>
+      <point x="1994.5" y="1033" type="line"/>
+    </contour>
+    <contour>
+      <point x="1897" y="1033" type="line"/>
+      <point x="605.5" y="1033" type="line"/>
+      <point x="588" y="1287" type="line"/>
+      <point x="1879.5" y="1287" type="line"/>
+    </contour>
+    <contour>
+      <point x="1617.5" y="679.5" type="line"/>
+      <point x="1617.5" y="408" type="line"/>
+      <point x="925" y="408" type="line"/>
+      <point x="925" y="679.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="1162" y="1123.5" type="line"/>
+      <point x="1162" y="531" type="line"/>
+      <point x="821.5" y="531" type="line"/>
+      <point x="821.5" y="1123.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="848" y="142" type="line"/>
+      <point x="762" y="255"/>
+      <point x="701" y="407"/>
+      <point x="688.5" y="579" type="curve"/>
+      <point x="822.5" y="660.5" type="line"/>
+      <point x="1162" y="660.5" type="line"/>
+      <point x="1162" y="142" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="191"/>
+  <guideline angle="90" color="1,0,1,1" name="Ma counter space" x="1162.5" y="0"/>
+  <guideline angle="90" x="1533" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="90" x="1538" y="0"/>
+  <guideline angle="90" x="1521" y="0"/>
+  <guideline angle="0" x="0" y="1262"/>
+  <guideline angle="90" x="1658" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Pa.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

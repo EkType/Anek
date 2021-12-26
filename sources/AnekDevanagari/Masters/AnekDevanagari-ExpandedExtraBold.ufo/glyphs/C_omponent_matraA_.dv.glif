@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Component_matraA.dv" format="2">
+  <advance width="684"/>
+  <anchor x="342" y="37" name="bottom"/>
+  <anchor x="338" y="37" name="bottom2"/>
+  <anchor x="534" y="37" name="bottom3"/>
+  <anchor x="342" y="55" name="bottom5"/>
+  <anchor x="342" y="1214" name="top"/>
+  <outline>
+    <contour>
+      <point x="534" y="1082" type="line"/>
+      <point x="534" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="999" type="line"/>
+      <point x="56" y="1266" type="line"/>
+      <point x="720" y="1266" type="line"/>
+      <point x="741" y="999" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="342" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1214"/>
+  <guideline angle="90" x="338" y="0"/>
+  <guideline angle="90" x="534" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w684m536,1082l536,0l152,0l152,1082m79,999l58,1266l722,1266l743,999</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 74.67 216.32</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

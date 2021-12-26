@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="JamatraU.kn" format="2">
+  <advance width="2932"/>
+  <anchor x="1041" y="0" name="nukta"/>
+  <outline>
+    <component base="Ja.kn"/>
+    <component base="matraU.kn" xOffset="2060"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ja.kn</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraU.kn</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

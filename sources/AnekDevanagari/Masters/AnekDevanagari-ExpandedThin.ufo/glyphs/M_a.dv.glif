@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ma.dv" format="2">
+  <advance width="1581"/>
+  <unicode hex="092E"/>
+  <anchor x="1264" y="9" name="bottom"/>
+  <anchor x="1259" y="9" name="bottom2"/>
+  <anchor x="1282" y="9" name="bottom3"/>
+  <anchor x="1264" y="30" name="bottom5"/>
+  <anchor x="1264" y="1221" name="top"/>
+  <outline>
+    <contour>
+      <point x="1282" y="1209" type="line"/>
+      <point x="1282" y="0" type="line"/>
+      <point x="1246" y="0" type="line"/>
+      <point x="1246" y="1209" type="line"/>
+    </contour>
+    <contour>
+      <point x="1072" y="1200" type="line"/>
+      <point x="1065" y="1230" type="line"/>
+      <point x="1617" y="1230" type="line"/>
+      <point x="1624" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="1624" y="1200" type="line"/>
+      <point x="-32" y="1200" type="line"/>
+      <point x="-39" y="1230" type="line"/>
+      <point x="1617" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="1262" y="600" type="line"/>
+      <point x="1262" y="568" type="line"/>
+      <point x="333" y="568" type="line"/>
+      <point x="333" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="1210" type="line"/>
+      <point x="351" y="573" type="line"/>
+      <point x="315" y="573" type="line"/>
+      <point x="315" y="1210" type="line"/>
+    </contour>
+    <contour>
+      <point x="307" y="185" type="line"/>
+      <point x="285" y="333"/>
+      <point x="273" y="418"/>
+      <point x="251" y="566" type="curve"/>
+      <point x="315" y="596" type="line"/>
+      <point x="351" y="596" type="line"/>
+      <point x="351" y="185" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1264" y="0"/>
+  <guideline angle="90" x="1282" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="0" x="0" y="1221"/>
+  <guideline angle="90" x="1259" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b078309d628677097c2db80d0aa04f0382ceed64b7f1e7cbd5296d886e1d84d7e193967a0589d852849362cfab1db249752656c9cf1dd7858bc40bb9b0f45176</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1665 2356</string>
+          <string>vstem 1065.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

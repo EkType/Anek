@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="YaNukta.dv" format="2">
+  <advance width="1654"/>
+  <unicode hex="095F"/>
+  <anchor x="1337" y="9" name="bottom"/>
+  <anchor x="1332" y="9" name="bottom2"/>
+  <anchor x="1355" y="9" name="bottom3"/>
+  <anchor x="1337" y="30" name="bottom5"/>
+  <anchor x="1337" y="1221" name="top"/>
+  <outline>
+    <contour>
+      <point x="1355" y="1209" type="line"/>
+      <point x="1355" y="0" type="line"/>
+      <point x="1319" y="0" type="line"/>
+      <point x="1319" y="1209" type="line"/>
+    </contour>
+    <contour>
+      <point x="1145" y="1200" type="line"/>
+      <point x="1138" y="1230" type="line"/>
+      <point x="1690" y="1230" type="line"/>
+      <point x="1697" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="-48" y="1230" type="line"/>
+      <point x="1689" y="1230" type="line"/>
+      <point x="1696" y="1200" type="line"/>
+      <point x="-41" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="575" y="1210" type="line"/>
+      <point x="660" y="1158"/>
+      <point x="717" y="1071"/>
+      <point x="717" y="965" type="curve" smooth="yes"/>
+      <point x="717" y="959" type="line" smooth="yes"/>
+      <point x="717" y="773"/>
+      <point x="574" y="698"/>
+      <point x="262" y="698" type="curve" smooth="yes"/>
+      <point x="176" y="698" type="line"/>
+      <point x="162" y="730" type="line"/>
+      <point x="253" y="730" type="line" smooth="yes"/>
+      <point x="537" y="730"/>
+      <point x="680" y="789"/>
+      <point x="680" y="958" type="curve" smooth="yes"/>
+      <point x="680" y="962" type="line" smooth="yes"/>
+      <point x="680" y="1072"/>
+      <point x="628" y="1146"/>
+      <point x="523" y="1210" type="curve"/>
+    </contour>
+    <contour>
+      <point x="157" y="667" type="line" smooth="yes"/>
+      <point x="157" y="684"/>
+      <point x="158" y="712"/>
+      <point x="162" y="730" type="curve"/>
+      <point x="193" y="721" type="line"/>
+      <point x="193" y="662" type="line" smooth="yes"/>
+      <point x="193" y="411"/>
+      <point x="412" y="251"/>
+      <point x="758" y="251" type="curve" smooth="yes"/>
+      <point x="1079" y="251"/>
+      <point x="1265" y="366"/>
+      <point x="1323" y="562" type="curve"/>
+      <point x="1326" y="507" type="line"/>
+      <point x="1324" y="507" type="line"/>
+      <point x="1274" y="342"/>
+      <point x="1103" y="217"/>
+      <point x="758" y="217" type="curve" smooth="yes"/>
+      <point x="381" y="217"/>
+      <point x="157" y="388"/>
+      <point x="157" y="662" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="303" y="-62" type="curve" smooth="yes"/>
+      <point x="258" y="-62"/>
+      <point x="237" y="-36"/>
+      <point x="237" y="-6" type="curve"/>
+      <point x="237" y="-5.3371"/>
+      <point x="237" y="-3.5742"/>
+      <point x="237" y="-3" type="curve"/>
+      <point x="237" y="31"/>
+      <point x="258" y="55"/>
+      <point x="303" y="55" type="curve" smooth="yes"/>
+      <point x="348" y="55"/>
+      <point x="369" y="31"/>
+      <point x="369" y="-3" type="curve"/>
+      <point x="369" y="-3.6629"/>
+      <point x="369" y="-5.4258"/>
+      <point x="369" y="-6" type="curve"/>
+      <point x="369" y="-37"/>
+      <point x="348" y="-62"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="139" y="0"/>
+  <guideline angle="0" x="0" y="-163"/>
+  <guideline angle="90" x="95" y="0"/>
+  <guideline angle="90" x="1337" y="0"/>
+  <guideline angle="90" x="1355" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="0" x="0" y="1221"/>
+  <guideline angle="90" x="1332" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ya.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>54ef900d75131910241ca952c10a4fa44f8ca12bce50b5063d9eb121539c87ab570d85ce28faad6e8ba1b10c581f1cf7cf23852df804ff1d9831acdac8fc022c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1665 2356</string>
+          <string>vstem 1138.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

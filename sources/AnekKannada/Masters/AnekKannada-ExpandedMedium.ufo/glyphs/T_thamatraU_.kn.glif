@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TthamatraU.kn" format="2">
+  <advance width="2583"/>
+  <outline>
+    <component base="Ttha.kn"/>
+    <component base="matraU.kn" xOffset="1718"/>
+    <contour>
+      <point x="1468" y="433" type="line"/>
+      <point x="1557" y="434" type="line"/>
+      <point x="1557" y="443" type="line"/>
+      <point x="1468" y="443" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ttha.kn</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraU.kn</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

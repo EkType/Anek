@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PaTta.dv" format="2">
+  <advance width="2319"/>
+  <anchor x="1722" y="2" name="bottom"/>
+  <anchor x="1549" y="2" name="bottom2"/>
+  <anchor x="2172" y="2" name="bottom3"/>
+  <anchor x="1656" y="-80" name="bottom4"/>
+  <anchor x="1646" y="23" name="bottom5"/>
+  <anchor x="2058" y="1221" name="top"/>
+  <outline>
+    <contour>
+      <point x="-36" y="1200" type="line"/>
+      <point x="-43" y="1230" type="line"/>
+      <point x="1490" y="1230" type="line"/>
+      <point x="1497" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="349" type="curve" smooth="yes"/>
+      <point x="394" y="349"/>
+      <point x="231" y="488"/>
+      <point x="231" y="814" type="curve" smooth="yes"/>
+      <point x="231" y="1205" type="line"/>
+      <point x="267" y="1205" type="line"/>
+      <point x="267" y="815" type="line" smooth="yes"/>
+      <point x="267" y="510"/>
+      <point x="414" y="383"/>
+      <point x="680" y="383" type="curve" smooth="yes"/>
+      <point x="857" y="383"/>
+      <point x="990" y="442"/>
+      <point x="1069" y="586" type="curve"/>
+      <point x="1070" y="538" type="line"/>
+      <point x="1065" y="538" type="line"/>
+      <point x="1001" y="414"/>
+      <point x="860" y="349"/>
+    </contour>
+    <contour>
+      <point x="1877" y="1200" type="line"/>
+      <point x="1870" y="1230" type="line"/>
+      <point x="2361" y="1230" type="line"/>
+      <point x="2368" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="2076" y="1209" type="line"/>
+      <point x="2076" y="931" type="line"/>
+      <point x="2041" y="931" type="line"/>
+      <point x="2041" y="1209" type="line"/>
+    </contour>
+    <contour>
+      <point x="838" y="1200" type="line"/>
+      <point x="831" y="1230" type="line"/>
+      <point x="2369" y="1230" type="line"/>
+      <point x="2376" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="2041" y="805" type="line"/>
+      <point x="2041" y="1212" type="line"/>
+      <point x="2076" y="1212" type="line"/>
+      <point x="2076" y="787" type="line"/>
+    </contour>
+    <contour>
+      <point x="2147" y="124" type="line"/>
+      <point x="2034" y="45"/>
+      <point x="1865" y="-7"/>
+      <point x="1641" y="-7" type="curve" smooth="yes"/>
+      <point x="1250" y="-7"/>
+      <point x="1043" y="151"/>
+      <point x="1043" y="427" type="curve" smooth="yes"/>
+      <point x="1043" y="438" type="line" smooth="yes"/>
+      <point x="1043" y="714"/>
+      <point x="1239" y="853"/>
+      <point x="1627" y="853" type="curve" smooth="yes"/>
+      <point x="1785" y="853"/>
+      <point x="1912" y="844"/>
+      <point x="2076" y="821" type="curve"/>
+      <point x="2076" y="787" type="line"/>
+      <point x="1908" y="812"/>
+      <point x="1785" y="819"/>
+      <point x="1627" y="819" type="curve" smooth="yes"/>
+      <point x="1260" y="819"/>
+      <point x="1081" y="694"/>
+      <point x="1081" y="436" type="curve" smooth="yes"/>
+      <point x="1081" y="429" type="line" smooth="yes"/>
+      <point x="1081" y="169"/>
+      <point x="1273" y="27"/>
+      <point x="1641" y="27" type="curve" smooth="yes"/>
+      <point x="1858" y="27"/>
+      <point x="2027" y="80"/>
+      <point x="2150" y="167" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="2"/>
+  <guideline angle="0" x="0" y="23"/>
+  <guideline angle="90" x="-2115" y="0"/>
+  <guideline angle="90" x="2058" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Pa.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Tta.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c33e76ceb25906d4e6864f6abbf57ef2df8ae568e3871b845413f5372379276804388da59df5705ae0e3a8189447054bb7fd3ad999c907b9a0e1787be434b130</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1665 2356</string>
+          <string>vstem 1859.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

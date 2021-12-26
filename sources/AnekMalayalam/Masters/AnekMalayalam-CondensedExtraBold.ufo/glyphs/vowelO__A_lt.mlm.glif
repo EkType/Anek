@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vowelO_Alt.mlm" format="2">
+  <advance width="2086"/>
+  <outline>
+    <component base="vowelshortO.mlm"/>
+    <component base="matraA_Alt.mlm" xOffset="1250"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>vowelO.mlm</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.mlm</string>
+  </dict>
+  </lib>
+</glyph>

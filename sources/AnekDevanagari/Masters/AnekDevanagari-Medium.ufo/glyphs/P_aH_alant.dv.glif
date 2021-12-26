@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PaHalant.dv" format="2">
+  <advance width="692"/>
+  <outline>
+    <contour>
+      <point x="-29.75" y="1123.75" type="line"/>
+      <point x="-41.75" y="1268.75" type="line"/>
+      <point x="861.25" y="1268.75" type="line"/>
+      <point x="873.25" y="1123.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="522.5" y="297.75" type="curve" smooth="yes"/>
+      <point x="279.63" y="297.75"/>
+      <point x="143.25" y="420"/>
+      <point x="143.25" y="704" type="curve" smooth="yes"/>
+      <point x="143.25" y="1174.5" type="line"/>
+      <point x="333" y="1174.5" type="line"/>
+      <point x="333" y="722.5" type="line" smooth="yes"/>
+      <point x="333" y="528.986"/>
+      <point x="416.5" y="460.75"/>
+      <point x="567.25" y="460.75" type="curve" smooth="yes"/>
+      <point x="708.25" y="460.75"/>
+      <point x="799" y="531.25"/>
+      <point x="847.5" y="645.75" type="curve"/>
+      <point x="845.5" y="527.25" type="line"/>
+      <point x="820.941" y="399.672"/>
+      <point x="724.5" y="297.75"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="191"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Pa.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

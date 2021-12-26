@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vowelAu.mlm" format="2">
+  <advance width="3782"/>
+  <unicode hex="0D14"/>
+  <outline>
+    <component base="vowelshortO.mlm"/>
+    <component base="lengthAu.mlm" xOffset="1929" yOffset="4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>vowelshortO.mlm</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>lengthAu.mlm</string>
+  </dict>
+  </lib>
+</glyph>

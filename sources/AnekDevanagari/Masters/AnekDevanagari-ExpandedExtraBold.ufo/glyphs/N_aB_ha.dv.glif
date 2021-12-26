@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NaBha.dv" format="2">
+  <advance width="2450"/>
+  <anchor x="2108" y="37" name="bottom"/>
+  <anchor x="2104" y="37" name="bottom2"/>
+  <anchor x="2300" y="37" name="bottom3"/>
+  <anchor x="2108" y="55" name="bottom5"/>
+  <anchor x="2108" y="1214" name="top"/>
+  <outline>
+    <contour>
+      <point x="897" y="999" type="line"/>
+      <point x="-47" y="999" type="line"/>
+      <point x="-68" y="1266" type="line"/>
+      <point x="875" y="1266" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="183" type="line"/>
+      <point x="151" y="303"/>
+      <point x="80" y="465"/>
+      <point x="66" y="655" type="curve"/>
+      <point x="254" y="767" type="line"/>
+      <point x="594" y="767" type="line"/>
+      <point x="594" y="183" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="767" type="line"/>
+      <point x="832" y="767" type="line" smooth="yes"/>
+      <point x="1015" y="767"/>
+      <point x="1080" y="754"/>
+      <point x="1177" y="716" type="curve"/>
+      <point x="1177" y="475" type="line"/>
+      <point x="397" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="2300" y="1082" type="line"/>
+      <point x="2300" y="0" type="line"/>
+      <point x="1916" y="0" type="line"/>
+      <point x="1916" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="1843" y="999" type="line"/>
+      <point x="1822" y="1266" type="line"/>
+      <point x="2486" y="1266" type="line"/>
+      <point x="2507" y="999" type="line"/>
+    </contour>
+    <contour>
+      <point x="1772" y="999" type="line"/>
+      <point x="1750" y="1266" type="line"/>
+      <point x="2386" y="1266" type="line"/>
+      <point x="2407" y="999" type="line"/>
+    </contour>
+    <contour>
+      <point x="1231" y="388" type="line"/>
+      <point x="1231" y="673" type="line"/>
+      <point x="2051" y="673" type="line"/>
+      <point x="2051" y="388" type="line"/>
+    </contour>
+    <contour>
+      <point x="1092" y="158" type="line"/>
+      <point x="1001" y="262"/>
+      <point x="932" y="400"/>
+      <point x="916" y="566" type="curve"/>
+      <point x="1095" y="662" type="line"/>
+      <point x="1476" y="662" type="line"/>
+      <point x="1476" y="158" type="line"/>
+    </contour>
+    <contour>
+      <point x="1095" y="525" type="line"/>
+      <point x="1095" y="856" type="line" smooth="yes"/>
+      <point x="1095" y="963"/>
+      <point x="1065" y="999"/>
+      <point x="962" y="999" type="curve" smooth="yes"/>
+      <point x="812" y="999" type="line"/>
+      <point x="791" y="1266" type="line"/>
+      <point x="1035" y="1266" type="line" smooth="yes"/>
+      <point x="1362" y="1266"/>
+      <point x="1476" y="1148"/>
+      <point x="1476" y="863" type="curve" smooth="yes"/>
+      <point x="1476" y="525" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="886" y="0"/>
+  <guideline angle="90" x="1772" y="0"/>
+  <guideline angle="90" x="2108" y="0"/>
+  <guideline angle="0" x="0" y="37"/>
+  <guideline angle="0" x="0" y="1214"/>
+  <guideline angle="90" x="2104" y="0"/>
+  <guideline angle="90" x="2300" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Na.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>cf6e2aa9d73ce34e621b95166f1dba2cdddada81e5411fd875e8699698c590afc5ae5102880074d2af96b6f2704c6149612b99237e1534cf1b004c27136d9756</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 1840.67 216.32</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

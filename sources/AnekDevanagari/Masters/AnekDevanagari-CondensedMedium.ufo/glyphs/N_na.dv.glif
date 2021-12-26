@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nna.dv" format="2">
+  <advance width="1145"/>
+  <unicode hex="0923"/>
+  <anchor x="945" y="23" name="bottom"/>
+  <anchor x="936.5" y="23" name="bottom2"/>
+  <anchor x="1029" y="23" name="bottom3"/>
+  <anchor x="944" y="42.5" name="bottom5"/>
+  <anchor x="942.5" y="1258.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="1028.5" y="1203.5" type="line"/>
+      <point x="1028.5" y="0" type="line"/>
+      <point x="859" y="0" type="line"/>
+      <point x="859" y="1203.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="796.5" y="1154.5" type="line"/>
+      <point x="786.5" y="1289.5" type="line"/>
+      <point x="1167.5" y="1289.5" type="line"/>
+      <point x="1177.5" y="1154.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="-24" y="1154.5" type="line"/>
+      <point x="-33.5" y="1289.5" type="line"/>
+      <point x="1156.5" y="1289.5" type="line"/>
+      <point x="1166" y="1154.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="381" y="266" type="curve" smooth="yes"/>
+      <point x="197" y="266"/>
+      <point x="102.5" y="369"/>
+      <point x="102.5" y="590" type="curve" smooth="yes"/>
+      <point x="102.5" y="1206" type="line"/>
+      <point x="272.5" y="1206" type="line"/>
+      <point x="272.5" y="584.5" type="line" smooth="yes"/>
+      <point x="272.5" y="465"/>
+      <point x="303.39" y="414"/>
+      <point x="379.991" y="414" type="curve" smooth="yes"/>
+      <point x="456.101" y="414"/>
+      <point x="486" y="465"/>
+      <point x="486" y="584.5" type="curve" smooth="yes"/>
+      <point x="486" y="1206" type="line"/>
+      <point x="656" y="1206" type="line"/>
+      <point x="656" y="590" type="line" smooth="yes"/>
+      <point x="656" y="369"/>
+      <point x="564" y="266"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="905" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="90" x="910" y="0"/>
+  <guideline angle="90" x="893" y="0"/>
+  <guideline angle="0" x="0" y="1262"/>
+  <guideline angle="90" x="943" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

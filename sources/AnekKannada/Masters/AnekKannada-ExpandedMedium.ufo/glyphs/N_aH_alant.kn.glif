@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NaHalant.kn" format="2">
+  <advance width="2687"/>
+  <outline>
+    <component base="Halant.kn" xOffset="1749"/>
+    <contour>
+      <point x="1264" y="-34" type="curve" smooth="yes"/>
+      <point x="1554" y="-34"/>
+      <point x="1717" y="132"/>
+      <point x="1717" y="434" type="curve" smooth="yes"/>
+      <point x="1717" y="446" type="line" smooth="yes"/>
+      <point x="1717" y="746.426"/>
+      <point x="1563.33" y="915.099"/>
+      <point x="1294" y="967" type="curve"/>
+      <point x="1294" y="989" type="line"/>
+      <point x="672" y="989" type="line"/>
+      <point x="672" y="974" type="line"/>
+      <point x="1240.19" y="974"/>
+      <point x="1505" y="799.341"/>
+      <point x="1505" y="458" type="curve" smooth="yes"/>
+      <point x="1505" y="444" type="line" smooth="yes"/>
+      <point x="1505" y="256"/>
+      <point x="1419.29" y="152"/>
+      <point x="1262" y="152" type="curve" smooth="yes"/>
+      <point x="1127.52" y="152"/>
+      <point x="1053.77" y="211.265"/>
+      <point x="984" y="345" type="curve" smooth="yes"/>
+      <point x="936" y="437" type="line" smooth="yes"/>
+      <point x="840.884" y="619.305"/>
+      <point x="731.499" y="698"/>
+      <point x="526" y="698" type="curve" smooth="yes"/>
+      <point x="269" y="698"/>
+      <point x="120" y="561"/>
+      <point x="120" y="298" type="curve" smooth="yes"/>
+      <point x="120" y="293" type="line" smooth="yes"/>
+      <point x="120" y="168"/>
+      <point x="151" y="55"/>
+      <point x="207" y="-26" type="curve"/>
+      <point x="424" y="-26" type="line"/>
+      <point x="369" y="60"/>
+      <point x="330" y="177"/>
+      <point x="330" y="288" type="curve" smooth="yes"/>
+      <point x="330" y="294" type="line" smooth="yes"/>
+      <point x="330" y="438.341"/>
+      <point x="402.727" y="513"/>
+      <point x="530" y="513" type="curve" smooth="yes"/>
+      <point x="646.483" y="513"/>
+      <point x="701.238" y="464.524"/>
+      <point x="771" y="325" type="curve" smooth="yes"/>
+      <point x="815" y="237" type="line" smooth="yes"/>
+      <point x="909.558" y="47.8843"/>
+      <point x="1045.49" y="-34"/>
+    </contour>
+    <contour>
+      <point x="1307" y="974" type="line"/>
+      <point x="1302" y="1148" type="line"/>
+      <point x="144" y="1148" type="line"/>
+      <point x="144" y="974" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1120" y="0"/>
+  <guideline angle="0" x="0" y="955"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Na.kn</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Halant.kn</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

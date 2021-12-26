@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NaMa.dv" format="2">
+  <advance width="1967"/>
+  <anchor x="1680.5" y="37" name="bottom"/>
+  <anchor x="1673" y="37" name="bottom2"/>
+  <anchor x="1852" y="37" name="bottom3"/>
+  <anchor x="1680" y="55" name="bottom5"/>
+  <anchor x="1680" y="1234.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="886" y="1033" type="line"/>
+      <point x="-37.5" y="1033" type="line"/>
+      <point x="-55" y="1287" type="line"/>
+      <point x="868" y="1287" type="line"/>
+    </contour>
+    <contour>
+      <point x="207.5" y="207.5" type="line"/>
+      <point x="122" y="337.5"/>
+      <point x="59.5" y="503"/>
+      <point x="45" y="691" type="curve"/>
+      <point x="198.198" y="795.5" type="line"/>
+      <point x="493.5" y="795.5" type="line"/>
+      <point x="493.5" y="207.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="368.5" y="795.5" type="line"/>
+      <point x="650" y="795.5" type="line" smooth="yes"/>
+      <point x="769" y="795.5"/>
+      <point x="827.277" y="788"/>
+      <point x="898" y="762.5" type="curve"/>
+      <point x="898" y="520" type="line"/>
+      <point x="368.5" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="1852" y="1119" type="line"/>
+      <point x="1852" y="0" type="line"/>
+      <point x="1508" y="0" type="line"/>
+      <point x="1508" y="1119" type="line"/>
+    </contour>
+    <contour>
+      <point x="1460" y="1033" type="line"/>
+      <point x="1442.5" y="1287" type="line"/>
+      <point x="1999.5" y="1287" type="line"/>
+      <point x="2017" y="1033" type="line"/>
+    </contour>
+    <contour>
+      <point x="1919.5" y="1033" type="line"/>
+      <point x="628" y="1033" type="line"/>
+      <point x="610.5" y="1287" type="line"/>
+      <point x="1902" y="1287" type="line"/>
+    </contour>
+    <contour>
+      <point x="1640" y="679.5" type="line"/>
+      <point x="1640" y="408" type="line"/>
+      <point x="947.5" y="408" type="line"/>
+      <point x="947.5" y="679.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="1184.5" y="1123.5" type="line"/>
+      <point x="1184.5" y="531" type="line"/>
+      <point x="844" y="531" type="line"/>
+      <point x="844" y="1123.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="870.5" y="142" type="line"/>
+      <point x="784.5" y="255"/>
+      <point x="723.5" y="407"/>
+      <point x="711" y="579" type="curve"/>
+      <point x="845" y="660.5" type="line"/>
+      <point x="1184.5" y="660.5" type="line"/>
+      <point x="1184.5" y="142" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="89"/>
+  <guideline angle="90" color="1,0,1,1" name="Ma counter space" x="1185" y="0"/>
+  <guideline angle="90" x="1555.5" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="90" x="1560.5" y="0"/>
+  <guideline angle="90" x="1543.5" y="0"/>
+  <guideline angle="0" x="0" y="1262"/>
+  <guideline angle="90" x="1680.5" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Na.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraA.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

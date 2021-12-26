@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="KaNukta.dv" format="2">
+  <advance width="2115"/>
+  <unicode hex="0958"/>
+  <anchor x="1065" y="9" name="bottom"/>
+  <anchor x="1060" y="9" name="bottom2"/>
+  <anchor x="1562" y="9" name="bottom3"/>
+  <anchor x="1065" y="30" name="bottom5"/>
+  <anchor x="1065" y="1221" name="top"/>
+  <outline>
+    <contour>
+      <point x="-35" y="1200" type="line"/>
+      <point x="-42" y="1230" type="line"/>
+      <point x="2153" y="1230" type="line"/>
+      <point x="2160" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="571" type="curve" smooth="yes"/>
+      <point x="174" y="577" type="line" smooth="yes"/>
+      <point x="174" y="800"/>
+      <point x="332" y="931"/>
+      <point x="595" y="931" type="curve" smooth="yes"/>
+      <point x="700" y="931"/>
+      <point x="785" y="914"/>
+      <point x="857" y="885" type="curve"/>
+      <point x="863" y="847" type="line"/>
+      <point x="777" y="883"/>
+      <point x="695" y="897"/>
+      <point x="597" y="897" type="curve" smooth="yes"/>
+      <point x="359" y="897"/>
+      <point x="212" y="781"/>
+      <point x="212" y="575" type="curve" smooth="yes"/>
+      <point x="212" y="571" type="line" smooth="yes"/>
+      <point x="212" y="360"/>
+      <point x="350" y="242"/>
+      <point x="615" y="242" type="curve" smooth="yes"/>
+      <point x="877" y="242"/>
+      <point x="1010" y="360"/>
+      <point x="1051" y="538" type="curve"/>
+      <point x="1055" y="480" type="line"/>
+      <point x="1053" y="480" type="line"/>
+      <point x="1023" y="339"/>
+      <point x="896" y="208"/>
+      <point x="612" y="208" type="curve" smooth="yes"/>
+      <point x="325" y="208"/>
+      <point x="174" y="339"/>
+    </contour>
+    <contour>
+      <point x="1943" y="571" type="curve" smooth="yes"/>
+      <point x="1943" y="562" type="line" smooth="yes"/>
+      <point x="1943" y="335"/>
+      <point x="1791" y="208"/>
+      <point x="1532" y="208" type="curve" smooth="yes"/>
+      <point x="1424" y="208"/>
+      <point x="1343" y="226"/>
+      <point x="1273" y="260" type="curve"/>
+      <point x="1267" y="299" type="line"/>
+      <point x="1345" y="261"/>
+      <point x="1424" y="242"/>
+      <point x="1530" y="242" type="curve" smooth="yes"/>
+      <point x="1765" y="242"/>
+      <point x="1905" y="354"/>
+      <point x="1905" y="564" type="curve" smooth="yes"/>
+      <point x="1905" y="568" type="line" smooth="yes"/>
+      <point x="1905" y="778"/>
+      <point x="1767" y="897"/>
+      <point x="1518" y="897" type="curve" smooth="yes"/>
+      <point x="1252" y="897"/>
+      <point x="1117" y="780"/>
+      <point x="1076" y="602" type="curve"/>
+      <point x="1073" y="660" type="line"/>
+      <point x="1074" y="660" type="line"/>
+      <point x="1105" y="800"/>
+      <point x="1233" y="931"/>
+      <point x="1516" y="931" type="curve" smooth="yes"/>
+      <point x="1793" y="931"/>
+      <point x="1943" y="794"/>
+    </contour>
+    <contour>
+      <point x="1083" y="1209" type="line"/>
+      <point x="1083" y="0" type="line"/>
+      <point x="1047" y="0" type="line"/>
+      <point x="1047" y="1209" type="line"/>
+    </contour>
+    <contour>
+      <point x="537" y="-125" type="curve" smooth="yes"/>
+      <point x="492" y="-125"/>
+      <point x="471" y="-99"/>
+      <point x="471" y="-69" type="curve"/>
+      <point x="471" y="-68.3371"/>
+      <point x="471" y="-66.5742"/>
+      <point x="471" y="-66" type="curve"/>
+      <point x="471" y="-32"/>
+      <point x="492" y="-8"/>
+      <point x="537" y="-8" type="curve" smooth="yes"/>
+      <point x="582" y="-8"/>
+      <point x="603" y="-32"/>
+      <point x="603" y="-66" type="curve"/>
+      <point x="603" y="-66.6629"/>
+      <point x="603" y="-68.4258"/>
+      <point x="603" y="-69" type="curve"/>
+      <point x="603" y="-100"/>
+      <point x="582" y="-125"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="174" y="0"/>
+  <guideline angle="90" x="1065" y="0"/>
+  <guideline angle="90" x="1083" y="0"/>
+  <guideline angle="0" x="0" y="9"/>
+  <guideline angle="0" x="0" y="1221"/>
+  <guideline angle="90" x="1060" y="0"/>
+  <guideline angle="0" x="0" y="30"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ka.dv</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ka.dv</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>6f30da350227178703d5c04a322ee0c9abbb98133e6626ac62cfb6329dc35eeb6a8265b1e38a2eb64ec5df0f9975c0b5227ed04ae4069c43b962f994b3678846</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1665 2356</string>
+          <string>vstem 866.52 20.34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

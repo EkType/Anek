@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DdhamatraAa.kn" format="2">
+  <advance width="2260"/>
+  <outline>
+    <component base="DdamatraAa.kn"/>
+    <contour>
+      <point x="727" y="-366" type="curve" smooth="yes"/>
+      <point x="745" y="-366"/>
+      <point x="752" y="-353"/>
+      <point x="752" y="-325" type="curve" smooth="yes"/>
+      <point x="752" y="-257" type="line" smooth="yes"/>
+      <point x="752" y="-109"/>
+      <point x="746" y="-10"/>
+      <point x="727" y="73" type="curve"/>
+      <point x="708" y="-10"/>
+      <point x="702" y="-109"/>
+      <point x="702" y="-257" type="curve" smooth="yes"/>
+      <point x="702" y="-325" type="line" smooth="yes"/>
+      <point x="702" y="-353"/>
+      <point x="709" y="-366"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="-274"/>
+  <guideline angle="90" x="112" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ddha.kn</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>matraAa.kn</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>
