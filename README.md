@@ -10,13 +10,15 @@ While the extreme styles wear their style on their sleeve, the middling widths a
 
 Anek comes in ten scripts: Bangla, Devanagari, Kannada, Latin, Gujarati, Gurmukhi, Malayalam, Odia, Tamil and Telugu. The design of each script borrows from its own typographic culture and reflects the perspectives of their designers. Yet they cohabit the page in visual harmony. Each script is equipped with multiple variations, thus allowing the page to be lavished with a finely tuned typographic hierarchy.
 
+This project is collaboratively designed, engineered and maintained by Ek Type, a collective of type designers based in Mumbai focused on designing contemporary Indian typefaces. Contributors of this project are: Maithili Shingre (Anek Malayalam, Anek Kannada), Yesha Goshar (Anek Latin, Anek Odia), Kailash Malviya (Anek Devanagari), Aadarsh Rajan (Anek Tamil), Sulekha Rajkumar (Anek Bangla), Vaishnavi Murthy (Anek Kannada), Omkar Bhoir (Anek Telugu), Mrunmayee Ghaisas (Anek Gujarati), Mahesh Sahu (Anek Odia), and Sarang Kulkarni (Anek Gurmukhi). Project management and design assistance by Noopur Datye; and Font engineering and type design assistance by Girish Dalvi.
+
 License
 -------
 Anek is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>). To view the copyright and specific terms and conditions, please refer to [OFL.txt](OFL.txt)
 
 ### Downloading the font files (TTF files)
 
-The font files are available for download on <https://github.com/EkType/Anek/releases>
+The font files can be downloaded from the [releases page.](https://github.com/EkType/Anek/releases)
 
 ### Getting Involved
 
