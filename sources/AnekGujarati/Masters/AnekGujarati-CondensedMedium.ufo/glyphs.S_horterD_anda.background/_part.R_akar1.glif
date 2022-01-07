@@ -4,13 +4,16 @@
   <guideline x="776" y="436" angle="0"/>
   <guideline x="366" y="64" angle="90"/>
   <guideline x="554" y="64" angle="90"/>
+  <anchor x="909" y="-63" name="Bottom"/>
+  <anchor x="892" y="1282" name="Top"/>
+  <anchor x="922" y="1282" name="Top2"/>
   <outline>
     <contour>
-      <point x="366" y="-13" type="line"/>
-      <point x="554" y="-13" type="line"/>
-      <point x="851" y="291" type="line"/>
-      <point x="846" y="436" type="line"/>
-      <point x="366" y="6" type="line"/>
+      <point x="351" y="-13" type="line"/>
+      <point x="568" y="-13" type="line"/>
+      <point x="851" y="273" type="line"/>
+      <point x="846" y="451" type="line"/>
+      <point x="351" y="6" type="line"/>
     </contour>
     <contour>
       <point x="845" y="0" type="line"/>
@@ -21,27 +24,8 @@
     <contour>
       <point x="835" y="308" type="line"/>
       <point x="1010" y="308" type="line"/>
-      <point x="1010" y="1212" type="line"/>
-      <point x="835" y="1212" type="line"/>
-    </contour>
-    <contour>
-      <point x="-336" y="-13" type="line"/>
-      <point x="-154" y="-13" type="line"/>
-      <point x="78" y="341" type="line"/>
-      <point x="46" y="457" type="line"/>
-      <point x="-336" y="6" type="line"/>
-    </contour>
-    <contour>
-      <point x="45" y="0" type="line"/>
-      <point x="210" y="0" type="line"/>
-      <point x="210" y="371" type="line"/>
-      <point x="45" y="371" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="308" type="line"/>
-      <point x="210" y="308" type="line"/>
-      <point x="210" y="1212" type="line"/>
-      <point x="35" y="1212" type="line"/>
+      <point x="1010" y="512" type="line"/>
+      <point x="835" y="512" type="line"/>
     </contour>
   </outline>
 </glyph>

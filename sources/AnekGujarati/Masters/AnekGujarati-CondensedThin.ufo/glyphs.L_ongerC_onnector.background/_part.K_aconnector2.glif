@@ -2,10 +2,14 @@
 <glyph name="_part.Kaconnector2" format="2">
   <outline>
     <contour>
-      <point x="450" y="716" type="line"/>
-      <point x="264" y="642" type="line"/>
+      <point x="569" y="716" type="line"/>
+      <point x="450" y="716"/>
+      <point x="440" y="714"/>
+      <point x="264" y="642" type="curve"/>
       <point x="302" y="624" type="line"/>
-      <point x="455" y="683" type="line"/>
+      <point x="445" y="681"/>
+      <point x="455" y="683"/>
+      <point x="569" y="683" type="curve"/>
       <point x="719" y="683" type="line"/>
       <point x="713" y="716" type="line"/>
     </contour>
