@@ -113,8 +113,6 @@
     <dict>
       <key>JaNya.or</key>
       <integer>100</integer>
-      <key>MatraE.or</key>
-      <integer>80</integer>
       <key>VowelIi.or</key>
       <integer>30</integer>
       <key>colon</key>
@@ -143,6 +141,8 @@
       <integer>40</integer>
       <key>public.kern2.Ma.or</key>
       <integer>100</integer>
+      <key>public.kern2.MatraE.or</key>
+      <integer>80</integer>
       <key>public.kern2.Nna.or</key>
       <integer>80</integer>
       <key>public.kern2.Nya.or</key>
@@ -414,19 +414,35 @@
       <key>equal</key>
       <integer>-50</integer>
       <key>five.or</key>
-      <integer>-30</integer>
+      <integer>-100</integer>
+      <key>four.or</key>
+      <integer>-20</integer>
       <key>greater</key>
       <integer>-40</integer>
       <key>less</key>
       <integer>-40</integer>
       <key>multiply</key>
       <integer>-30</integer>
+      <key>nine.or</key>
+      <integer>-80</integer>
+      <key>one.or</key>
+      <integer>-90</integer>
       <key>plusminus</key>
       <integer>-50</integer>
       <key>public.kern2.hyphen</key>
       <integer>-50</integer>
       <key>public.kern2.plus</key>
       <integer>-50</integer>
+      <key>seven.or</key>
+      <integer>-40</integer>
+      <key>six.or</key>
+      <integer>-40</integer>
+      <key>three.or</key>
+      <integer>-20</integer>
+      <key>two.or</key>
+      <integer>-30</integer>
+      <key>zero.or</key>
+      <integer>-100</integer>
     </dict>
     <key>equal</key>
     <dict>
@@ -498,12 +514,12 @@
       <key>equal</key>
       <integer>60</integer>
       <key>five.or</key>
-      <integer>40</integer>
+      <integer>20</integer>
+      <key>four.or</key>
+      <integer>-40</integer>
       <key>less</key>
       <integer>60</integer>
       <key>nine.or</key>
-      <integer>20</integer>
-      <key>one.or</key>
       <integer>20</integer>
       <key>plusminus</key>
       <integer>60</integer>
@@ -517,8 +533,12 @@
       <integer>10</integer>
       <key>six.or</key>
       <integer>20</integer>
+      <key>three.or</key>
+      <integer>-20</integer>
+      <key>two.or</key>
+      <integer>-30</integer>
       <key>zero.or</key>
-      <integer>40</integer>
+      <integer>20</integer>
     </dict>
     <key>four</key>
     <dict>
@@ -602,9 +622,11 @@
       <key>equal</key>
       <integer>-20</integer>
       <key>five.or</key>
-      <integer>-30</integer>
+      <integer>-100</integer>
       <key>multiply</key>
       <integer>-20</integer>
+      <key>one.or</key>
+      <integer>-30</integer>
       <key>plusminus</key>
       <integer>-20</integer>
       <key>public.kern2.hyphen</key>
@@ -613,6 +635,8 @@
       <integer>-30</integer>
       <key>rupeeIndian</key>
       <integer>40</integer>
+      <key>three.or</key>
+      <integer>-30</integer>
     </dict>
     <key>fraction</key>
     <dict>
@@ -705,7 +729,9 @@
       <key>degree</key>
       <integer>40</integer>
       <key>five.or</key>
-      <integer>20</integer>
+      <integer>-20</integer>
+      <key>four.or</key>
+      <integer>-30</integer>
     </dict>
     <key>ordmasculine</key>
     <dict>
@@ -1442,8 +1468,6 @@
       <integer>5</integer>
       <key>JaNya.or</key>
       <integer>10</integer>
-      <key>MatraE.or</key>
-      <integer>0</integer>
       <key>Wa.or</key>
       <integer>10</integer>
       <key>YyaSmall.or</key>
@@ -1466,6 +1490,8 @@
       <integer>20</integer>
       <key>public.kern2.Ma.or</key>
       <integer>30</integer>
+      <key>public.kern2.MatraE.or</key>
+      <integer>10</integer>
       <key>public.kern2.Na.or</key>
       <integer>20</integer>
       <key>public.kern2.NaDha.or</key>
@@ -1536,8 +1562,6 @@
     </dict>
     <key>public.kern1.Nga.or</key>
     <dict>
-      <key>MatraE.or</key>
-      <integer>10</integer>
       <key>YyaSmall.or</key>
       <integer>30</integer>
       <key>asterisk</key>
@@ -1550,6 +1574,8 @@
       <integer>-45</integer>
       <key>public.kern2.Ma.or</key>
       <integer>30</integer>
+      <key>public.kern2.MatraE.or</key>
+      <integer>10</integer>
       <key>public.kern2.NaDha.or</key>
       <integer>20</integer>
       <key>public.kern2.Nna.or</key>
@@ -1591,14 +1617,14 @@
     </dict>
     <key>public.kern1.NgaKa.or</key>
     <dict>
-      <key>MatraE.or</key>
-      <integer>-5</integer>
       <key>YyaSmall.or</key>
       <integer>30</integer>
       <key>public.kern2.Dha.or</key>
       <integer>-15</integer>
       <key>public.kern2.Ma.or</key>
       <integer>30</integer>
+      <key>public.kern2.MatraE.or</key>
+      <integer>-5</integer>
       <key>public.kern2.NaDha.or</key>
       <integer>20</integer>
       <key>public.kern2.Nna.or</key>
@@ -1670,8 +1696,6 @@
     </dict>
     <key>public.kern1.NnaTta.or</key>
     <dict>
-      <key>MatraE.or</key>
-      <integer>-10</integer>
       <key>colon</key>
       <integer>100</integer>
       <key>comma</key>
@@ -1690,6 +1714,8 @@
       <integer>10</integer>
       <key>public.kern2.Ma.or</key>
       <integer>25</integer>
+      <key>public.kern2.MatraE.or</key>
+      <integer>4</integer>
       <key>public.kern2.NaDha.or</key>
       <integer>20</integer>
       <key>public.kern2.Nna.or</key>
@@ -1940,6 +1966,8 @@
       <integer>-10</integer>
       <key>public.kern2.Ma.or</key>
       <integer>35</integer>
+      <key>public.kern2.MatraE.or</key>
+      <integer>5</integer>
       <key>public.kern2.NaDha.or</key>
       <integer>15</integer>
       <key>public.kern2.Sa.or</key>
@@ -2402,8 +2430,6 @@
     <dict>
       <key>JaNya.or</key>
       <integer>5</integer>
-      <key>MatraE.or</key>
-      <integer>-5</integer>
       <key>colon</key>
       <integer>20</integer>
       <key>comma</key>
@@ -2424,6 +2450,8 @@
       <integer>-5</integer>
       <key>public.kern2.Ma.or</key>
       <integer>25</integer>
+      <key>public.kern2.MatraE.or</key>
+      <integer>-5</integer>
       <key>public.kern2.Na.or</key>
       <integer>-5</integer>
       <key>public.kern2.NaDha.or</key>
@@ -2481,8 +2509,6 @@
     <dict>
       <key>DhaYya.or</key>
       <integer>-30</integer>
-      <key>MatraE.or</key>
-      <integer>-20</integer>
       <key>VowelIi.or</key>
       <integer>-30</integer>
       <key>Wa.or</key>
@@ -2505,6 +2531,8 @@
       <integer>-65</integer>
       <key>public.kern2.Ma.or</key>
       <integer>-65</integer>
+      <key>public.kern2.MatraE.or</key>
+      <integer>-20</integer>
       <key>public.kern2.Na.or</key>
       <integer>-70</integer>
       <key>public.kern2.NaDha.or</key>
@@ -4567,6 +4595,11 @@
       <key>two</key>
       <integer>-10</integer>
     </dict>
+    <key>two.or</key>
+    <dict>
+      <key>four.or</key>
+      <integer>-40</integer>
+    </dict>
     <key>underscore</key>
     <dict>
       <key>VowelIi.or</key>
@@ -4611,7 +4644,7 @@
     <key>zero.or</key>
     <dict>
       <key>five.or</key>
-      <integer>30</integer>
+      <integer>10</integer>
     </dict>
   </dict>
 </plist>

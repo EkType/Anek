@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3091</string>
+    <string>3108</string>
     <key>com.schriftgestaltung.customName</key>
     <string>Expanded Extra</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
@@ -425,6 +425,12 @@
       <string>Ssa.or</string>
       <string>Sa.or</string>
       <string>Ha.or</string>
+      <string>Wa.or</string>
+      <string>Rra.or</string>
+      <string>Rha.or</string>
+      <string>Yya.or</string>
+      <string>VocalicRr.or</string>
+      <string>VocalicLl.or</string>
       <string>Nukta.or</string>
       <string>Avagraha.or</string>
       <string>MatraAa.or</string>
@@ -434,6 +440,8 @@
       <string>MatraUu.or</string>
       <string>MatraVocalicR.or</string>
       <string>MatraVocalicRr.or</string>
+      <string>MatraVocalicL.or</string>
+      <string>MatraVocalicLl.or</string>
       <string>MatraE.or</string>
       <string>MatraAi.or</string>
       <string>MatraO.or</string>
@@ -441,13 +449,6 @@
       <string>Virama.or</string>
       <string>LengthmarkAi.or</string>
       <string>LengthmarkAu.or</string>
-      <string>Rra.or</string>
-      <string>Rha.or</string>
-      <string>Yya.or</string>
-      <string>VocalicRr.or</string>
-      <string>VocalicLl.or</string>
-      <string>MatraVocalicL.or</string>
-      <string>MatraVocalicLl.or</string>
       <string>zero.or</string>
       <string>one.or</string>
       <string>two.or</string>
@@ -459,7 +460,6 @@
       <string>eight.or</string>
       <string>nine.or</string>
       <string>Isshar.or</string>
-      <string>Wa.or</string>
       <string>onequarter.or</string>
       <string>onehalf.or</string>
       <string>threequarter.or</string>
