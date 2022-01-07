@@ -94,36 +94,12 @@
       <point x="1237" y="1143"/>
     </contour>
   </outline>
-  <guideline angle="90" x="74" y="0"/>
-  <guideline angle="90" x="2174" y="0"/>
-  <guideline angle="90" x="2192" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="0" x="0" y="1221"/>
-  <guideline angle="90" x="2169" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Ssa.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5fd0c2ac40d1377b1d71ff5de4f09fb1ae5355b2d3d7cd1ffa93beefa9140aeacd939619f4afc5e4fb489b25f0eff56a794f958084dd7e896a8e49c3b6e5e4e4</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1665 2356</string>
-          <string>vstem 1975.52 20.34</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

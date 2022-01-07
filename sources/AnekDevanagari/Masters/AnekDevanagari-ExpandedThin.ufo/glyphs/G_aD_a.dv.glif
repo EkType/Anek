@@ -102,32 +102,12 @@
       <point x="364" y="1205" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="-124"/>
-  <guideline angle="0" x="0" y="-103"/>
-  <guideline angle="90" x="2033" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Ga.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>Da.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>7f4e16c496df606f331300df471f87edde436dfe6dc6c563a77ff31804e5bd12b9b39b8e7e6727e2cc1ce2051479912c2c3d6b1fd502327a8ec55ea0c5097fac</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1665 2356</string>
-          <string>vstem 1834.52 20.34</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

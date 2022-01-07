@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="TaSaNa.dv" format="2">
-  <advance width="3644"/>
-  <anchor x="3327" y="9" name="bottom"/>
-  <anchor x="3322" y="9" name="bottom2"/>
-  <anchor x="3345" y="9" name="bottom3"/>
-  <anchor x="3327" y="30" name="bottom5"/>
-  <anchor x="3327" y="1221" name="top"/>
+  <advance width="3586"/>
+  <anchor x="3269" y="9" name="bottom"/>
+  <anchor x="3264" y="9" name="bottom2"/>
+  <anchor x="3287" y="9" name="bottom3"/>
+  <anchor x="3269" y="30" name="bottom5"/>
+  <anchor x="3269" y="1221" name="top"/>
   <outline>
     <contour>
       <point x="2165" y="626" type="line"/>
-      <point x="2444" y="626" type="line"/>
-      <point x="2444" y="594" type="line"/>
+      <point x="2364" y="626" type="line"/>
+      <point x="2364" y="594" type="line"/>
       <point x="2165" y="594" type="line"/>
     </contour>
     <contour>
-      <point x="3345" y="1209" type="line"/>
-      <point x="3345" y="0" type="line"/>
-      <point x="3309" y="0" type="line"/>
-      <point x="3309" y="1209" type="line"/>
+      <point x="3287" y="1209" type="line"/>
+      <point x="3287" y="0" type="line"/>
+      <point x="3251" y="0" type="line"/>
+      <point x="3251" y="1209" type="line"/>
     </contour>
     <contour>
-      <point x="3135" y="1200" type="line"/>
-      <point x="3128" y="1230" type="line"/>
-      <point x="3680" y="1230" type="line"/>
-      <point x="3687" y="1200" type="line"/>
+      <point x="3077" y="1200" type="line"/>
+      <point x="3070" y="1230" type="line"/>
+      <point x="3622" y="1230" type="line"/>
+      <point x="3629" y="1200" type="line"/>
     </contour>
     <contour>
-      <point x="3687" y="1200" type="line"/>
-      <point x="2134" y="1200" type="line"/>
-      <point x="2127" y="1230" type="line"/>
-      <point x="3680" y="1230" type="line"/>
+      <point x="3629" y="1200" type="line"/>
+      <point x="2076" y="1200" type="line"/>
+      <point x="2069" y="1230" type="line"/>
+      <point x="3622" y="1230" type="line"/>
     </contour>
     <contour>
-      <point x="3327" y="732" type="line"/>
-      <point x="3327" y="700" type="line"/>
-      <point x="2435" y="700" type="line"/>
-      <point x="2435" y="732" type="line"/>
+      <point x="3269" y="732" type="line"/>
+      <point x="3269" y="700" type="line"/>
+      <point x="2377" y="700" type="line"/>
+      <point x="2377" y="732" type="line"/>
     </contour>
     <contour>
-      <point x="2414" y="285" type="line"/>
-      <point x="2392" y="443"/>
-      <point x="2382" y="532"/>
-      <point x="2360" y="691" type="curve"/>
-      <point x="2417" y="732" type="line"/>
-      <point x="2458" y="732" type="line"/>
-      <point x="2458" y="285" type="line"/>
+      <point x="2356" y="285" type="line"/>
+      <point x="2334" y="443"/>
+      <point x="2324" y="532"/>
+      <point x="2302" y="691" type="curve"/>
+      <point x="2359" y="732" type="line"/>
+      <point x="2400" y="732" type="line"/>
+      <point x="2400" y="285" type="line"/>
     </contour>
     <contour>
       <point x="-30" y="1200" type="line"/>
@@ -116,36 +116,12 @@
       <point x="722" y="757" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <guideline angle="90" x="1323" y="0"/>
-  <guideline angle="90" x="3327" y="0"/>
-  <guideline angle="90" x="3345" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="0" x="0" y="1221"/>
-  <guideline angle="90" x="3322" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Ta.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f01bb1849a01d014f6f18164efa3895b5d8398033c044d462e680689481d29459ad2a2603ecc6d5021b7eb00de7c482d1b8f2264c422c3a13350e7e5fd208565</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1665 2356</string>
-          <string>vstem 3128.52 20.34</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

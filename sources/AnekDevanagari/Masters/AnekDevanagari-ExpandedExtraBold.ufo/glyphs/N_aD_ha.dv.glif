@@ -14,10 +14,10 @@
       <point x="2632" y="999" type="line"/>
     </contour>
     <contour>
-      <point x="962" y="393" type="line" smooth="yes"/>
-      <point x="962" y="528"/>
-      <point x="1052" y="621"/>
-      <point x="1330" y="643" type="curve"/>
+      <point x="962" y="381.708" type="line" smooth="yes"/>
+      <point x="962" y="512.144"/>
+      <point x="1052" y="602"/>
+      <point x="1330" y="624" type="curve"/>
       <point x="1330" y="666" type="line"/>
       <point x="1033" y="697.159"/>
       <point x="919" y="782.819"/>
@@ -63,8 +63,8 @@
       <point x="1903" y="59"/>
       <point x="1572" y="59" type="curve" smooth="yes"/>
       <point x="1154" y="59"/>
-      <point x="962" y="180"/>
-      <point x="962" y="386" type="curve" smooth="yes"/>
+      <point x="962" y="175.909"/>
+      <point x="962" y="374.945" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="2525" y="1082" type="line"/>
@@ -106,34 +106,12 @@
       <point x="1145.01" y="725.858"/>
     </contour>
   </outline>
-  <guideline angle="90" x="505" y="0"/>
-  <guideline angle="90" x="2333" y="0"/>
-  <guideline angle="0" x="0" y="37"/>
-  <guideline angle="0" x="0" y="1214"/>
-  <guideline angle="90" x="2329" y="0"/>
-  <guideline angle="90" x="2525" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Na.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>70d5f8db3bb893438e435731afb12405f956f7457687fe15f19b32d26e9cc4b17086f30635986d7f39ab06b2b3c51587172c7373475b7e26c5b69cb56a53bbad</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 2065.67 216.32</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

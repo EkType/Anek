@@ -68,14 +68,14 @@
       <point x="1778.5" y="251" type="line"/>
       <point x="1800.5" y="210.5" type="line"/>
       <point x="1730.07" y="182.911"/>
-      <point x="1597.5" y="154"/>
-      <point x="1491" y="154" type="curve" smooth="yes"/>
-      <point x="1121" y="154"/>
+      <point x="1596.5" y="151"/>
+      <point x="1480" y="151" type="curve" smooth="yes"/>
+      <point x="1130" y="151"/>
       <point x="927" y="249.581"/>
       <point x="927" y="416.852" type="curve" smooth="yes"/>
       <point x="927" y="421.473" type="line" smooth="yes"/>
       <point x="927" y="534.73"/>
-      <point x="1012.31" y="606.864"/>
+      <point x="1002.31" y="607.864"/>
       <point x="1258" y="618" type="curve"/>
       <point x="1258" y="687" type="line"/>
       <point x="1001.84" y="720.097"/>
@@ -111,21 +111,12 @@
       <point x="1145" y="453.763" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <guideline angle="90" x="2049" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="2054" y="0"/>
-  <guideline angle="90" x="2037" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="2216" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Na.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

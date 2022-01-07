@@ -87,33 +87,12 @@
       <point x="2106" y="167" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="2"/>
-  <guideline angle="0" x="0" y="23"/>
-  <guideline angle="90" x="-2159" y="0"/>
-  <guideline angle="90" x="2014" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Na.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>Tta.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5e49fa5858ba1dba8314d037d82b695f31b4a69d123f61d82f30f7f81e6e8fb6e74ebc14db43ea9cf996b667d69adc4e8927a67eba866f75032458a9b87c7c26</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1665 2356</string>
-          <string>vstem 1815.52 20.34</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

@@ -92,35 +92,12 @@
       <point x="2500" y="1200" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="2140" y="0"/>
-  <guideline angle="90" x="2158" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="0" x="0" y="1221"/>
-  <guideline angle="90" x="2135" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Bha.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>c0ebaece745e34419d755a230caf50eca7a2b131c76c741afc7c7b441c391e396909158a817aa7a3d0f64456421325ef2d83ffd329ab1a2cf12f27e44244d0aa</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1665 2356</string>
-          <string>vstem 1941.52 20.34</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="095C"/>
   <anchor x="783" y="-566" name="bottom"/>
   <anchor x="761" y="-395" name="bottom2"/>
-  <anchor x="1309" y="-25" name="bottom3"/>
+  <anchor x="1297" y="-365" name="bottom3"/>
   <anchor x="757" y="-6" name="bottom5"/>
   <anchor x="1102" y="1214" name="top"/>
   <outline>
@@ -105,35 +105,12 @@
       <point x="871" y="-502"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="-25"/>
-  <guideline angle="90" x="1389" y="0"/>
-  <guideline angle="90" x="680" y="0"/>
-  <guideline angle="0" x="0" y="-6"/>
-  <guideline angle="90" x="1102" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Dda.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>Dda.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>4a2cdcaae806d32dc60a9c3ac6bca6faf1f756385b01c97569b05e9450fc298ddaee9dc85d11fc7f3006be48b7e3dd49dd29756e889ebdea33392e01e6cb2d26</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 834.67 216.32</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="TaSaVa.dv" format="2">
-  <advance width="3685"/>
-  <anchor x="3368" y="9" name="bottom"/>
-  <anchor x="3363" y="9" name="bottom2"/>
-  <anchor x="3386" y="9" name="bottom3"/>
-  <anchor x="3368" y="30" name="bottom5"/>
-  <anchor x="3368" y="1221" name="top"/>
+  <advance width="3687"/>
+  <anchor x="3370" y="9" name="bottom"/>
+  <anchor x="3365" y="9" name="bottom2"/>
+  <anchor x="3388" y="9" name="bottom3"/>
+  <anchor x="3370" y="30" name="bottom5"/>
+  <anchor x="3370" y="1221" name="top"/>
   <outline>
     <contour>
-      <point x="3386" y="1209" type="line"/>
-      <point x="3386" y="0" type="line"/>
-      <point x="3350" y="0" type="line"/>
-      <point x="3350" y="1209" type="line"/>
+      <point x="3388" y="1209" type="line"/>
+      <point x="3388" y="0" type="line"/>
+      <point x="3352" y="0" type="line"/>
+      <point x="3352" y="1209" type="line"/>
     </contour>
     <contour>
-      <point x="3176" y="1200" type="line"/>
-      <point x="3169" y="1230" type="line"/>
-      <point x="3721" y="1230" type="line"/>
-      <point x="3728" y="1200" type="line"/>
+      <point x="3178" y="1200" type="line"/>
+      <point x="3171" y="1230" type="line"/>
+      <point x="3723" y="1230" type="line"/>
+      <point x="3730" y="1200" type="line"/>
     </contour>
     <contour>
-      <point x="2086" y="1200" type="line"/>
-      <point x="2079" y="1230" type="line"/>
-      <point x="3720" y="1230" type="line"/>
-      <point x="3728" y="1200" type="line"/>
+      <point x="2088" y="1200" type="line"/>
+      <point x="2081" y="1230" type="line"/>
+      <point x="3722" y="1230" type="line"/>
+      <point x="3730" y="1200" type="line"/>
     </contour>
     <contour>
-      <point x="2289" y="564" type="curve" smooth="yes"/>
-      <point x="2289" y="571" type="line" smooth="yes"/>
-      <point x="2289" y="803"/>
-      <point x="2469" y="931"/>
-      <point x="2804" y="931" type="curve" smooth="yes"/>
-      <point x="2940" y="931"/>
-      <point x="3050" y="912"/>
-      <point x="3143" y="878" type="curve"/>
-      <point x="3149" y="841" type="line"/>
-      <point x="3043" y="879"/>
-      <point x="2938" y="897"/>
-      <point x="2808" y="897" type="curve" smooth="yes"/>
-      <point x="2493" y="897"/>
-      <point x="2327" y="783"/>
-      <point x="2327" y="570" type="curve" smooth="yes"/>
-      <point x="2327" y="564" type="line" smooth="yes"/>
-      <point x="2327" y="353"/>
-      <point x="2504" y="232"/>
-      <point x="2822" y="232" type="curve" smooth="yes"/>
-      <point x="3142" y="232"/>
-      <point x="3302" y="350"/>
-      <point x="3354" y="528" type="curve"/>
-      <point x="3357" y="475" type="line"/>
-      <point x="3356" y="475" type="line"/>
-      <point x="3315" y="330"/>
-      <point x="3162" y="198"/>
-      <point x="2822" y="198" type="curve" smooth="yes"/>
-      <point x="2482" y="198"/>
-      <point x="2289" y="329"/>
+      <point x="2291" y="564" type="curve" smooth="yes"/>
+      <point x="2291" y="571" type="line" smooth="yes"/>
+      <point x="2291" y="803"/>
+      <point x="2471" y="931"/>
+      <point x="2806" y="931" type="curve" smooth="yes"/>
+      <point x="2942" y="931"/>
+      <point x="3052" y="912"/>
+      <point x="3145" y="878" type="curve"/>
+      <point x="3151" y="841" type="line"/>
+      <point x="3045" y="879"/>
+      <point x="2940" y="897"/>
+      <point x="2810" y="897" type="curve" smooth="yes"/>
+      <point x="2495" y="897"/>
+      <point x="2329" y="783"/>
+      <point x="2329" y="570" type="curve" smooth="yes"/>
+      <point x="2329" y="564" type="line" smooth="yes"/>
+      <point x="2329" y="353"/>
+      <point x="2506" y="232"/>
+      <point x="2824" y="232" type="curve" smooth="yes"/>
+      <point x="3144" y="232"/>
+      <point x="3304" y="350"/>
+      <point x="3356" y="528" type="curve"/>
+      <point x="3359" y="475" type="line"/>
+      <point x="3358" y="475" type="line"/>
+      <point x="3317" y="330"/>
+      <point x="3164" y="198"/>
+      <point x="2824" y="198" type="curve" smooth="yes"/>
+      <point x="2484" y="198"/>
+      <point x="2291" y="329"/>
     </contour>
     <contour>
       <point x="-30" y="1200" type="line"/>
@@ -126,36 +126,12 @@
       <point x="722" y="757" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <guideline angle="90" x="1284" y="0"/>
-  <guideline angle="90" x="3368" y="0"/>
-  <guideline angle="90" x="3386" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="0" x="0" y="1221"/>
-  <guideline angle="90" x="3363" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Ta.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>1a2a7494b4d8e52728d7d1390604aa9dd366e865258a69ca66fece7786c17909d60a5caab85dae9b3dd7bcf7e0e5bae45ba0696d06d68da6a2674f3a374916e1</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1665 2356</string>
-          <string>vstem 3169.52 20.34</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

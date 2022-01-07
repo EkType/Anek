@@ -121,35 +121,12 @@
       <point x="1819" y="662" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <guideline angle="90" x="2999" y="0"/>
-  <guideline angle="90" x="3017" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="0" x="0" y="1221"/>
-  <guideline angle="90" x="2994" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Na.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>cc8d8257c53ea19356e058c8908f6e44e65584ec3d797ec185a03d80a66618e9f6c926fe528f6a34a07ea44056c164ee4e9c18e477afbafe1ea49935b4687994</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1665 2356</string>
-          <string>vstem 2800.52 20.34</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

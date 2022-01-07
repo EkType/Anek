@@ -119,38 +119,12 @@
       <point x="2640" y="1230" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="362"/>
-  <guideline angle="90" x="1653" y="0"/>
-  <guideline angle="90" x="2305" y="0"/>
-  <guideline angle="0" x="0" y="362"/>
-  <guideline angle="90" x="1176" y="0"/>
-  <guideline angle="90" x="2305" y="0"/>
-  <guideline angle="90" x="2045" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>vowelA.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>17af1c5476c33fc66b670d3a595c5b4e7e9bea7d287d25509d852783c1cf56733f193017772560141e402232910ea0b71a0053e54a795178c3f52483e4710c99</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1665 2356</string>
-          <string>vstem 2088.52 20.34</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

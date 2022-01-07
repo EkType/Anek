@@ -107,59 +107,32 @@
       <point x="935" y="607" type="line"/>
     </contour>
     <contour>
-      <point x="1573" y="-190" type="curve" smooth="yes"/>
-      <point x="1528" y="-190"/>
-      <point x="1507" y="-164"/>
-      <point x="1507" y="-134" type="curve"/>
-      <point x="1507" y="-133.337"/>
-      <point x="1507" y="-131.574"/>
-      <point x="1507" y="-131" type="curve"/>
-      <point x="1507" y="-97"/>
-      <point x="1528" y="-73"/>
-      <point x="1573" y="-73" type="curve" smooth="yes"/>
-      <point x="1618" y="-73"/>
-      <point x="1639" y="-97"/>
-      <point x="1639" y="-131" type="curve"/>
-      <point x="1639" y="-131.663"/>
-      <point x="1639" y="-133.426"/>
-      <point x="1639" y="-134" type="curve"/>
-      <point x="1639" y="-165"/>
-      <point x="1618" y="-190"/>
+      <point x="1828.27" y="-225.992" type="curve" smooth="yes"/>
+      <point x="1783.27" y="-225.992"/>
+      <point x="1762.27" y="-199.992"/>
+      <point x="1762.27" y="-169.992" type="curve"/>
+      <point x="1762.27" y="-169.329"/>
+      <point x="1762.27" y="-167.566"/>
+      <point x="1762.27" y="-166.992" type="curve"/>
+      <point x="1762.27" y="-132.992"/>
+      <point x="1783.27" y="-108.992"/>
+      <point x="1828.27" y="-108.992" type="curve" smooth="yes"/>
+      <point x="1873.27" y="-108.992"/>
+      <point x="1894.27" y="-132.992"/>
+      <point x="1894.27" y="-166.992" type="curve"/>
+      <point x="1894.27" y="-167.655"/>
+      <point x="1894.27" y="-169.418"/>
+      <point x="1894.27" y="-169.992" type="curve"/>
+      <point x="1894.27" y="-200.992"/>
+      <point x="1873.27" y="-225.992"/>
     </contour>
   </outline>
-  <guideline angle="90" x="752" y="0"/>
-  <guideline angle="0" x="0" y="491"/>
-  <guideline angle="90" x="2740" y="0"/>
-  <guideline angle="90" x="2758" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="0" x="0" y="1221"/>
-  <guideline angle="90" x="2735" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
-  <guideline angle="0" x="0" y="69"/>
-  <guideline angle="90" x="1573" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>La.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a5709696004041bfe123e9fa9ce96b125f6522183b259e3a9ef5602880d92696f6f280a0468a32ef8ae7b4b020389b692963d94a1674b26b85af9eda26d1362f</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1665 2356</string>
-          <string>vstem 2541.52 20.34</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

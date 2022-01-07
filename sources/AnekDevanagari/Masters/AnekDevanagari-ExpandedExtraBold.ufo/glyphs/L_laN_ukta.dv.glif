@@ -2,9 +2,9 @@
 <glyph name="LlaNukta.dv" format="2">
   <advance width="1999"/>
   <unicode hex="0934"/>
-  <anchor x="1484" y="3" name="bottom"/>
-  <anchor x="1355" y="3" name="bottom2"/>
-  <anchor x="1578" y="3" name="bottom3"/>
+  <anchor x="1052" y="-516" name="bottom"/>
+  <anchor x="1030" y="-345" name="bottom2"/>
+  <anchor x="1577" y="-305" name="bottom3"/>
   <anchor x="1000" y="21" name="bottom5"/>
   <anchor x="1408" y="1214" name="top"/>
   <outline>
@@ -117,33 +117,12 @@
       <point x="1136" y="-441"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="3"/>
-  <guideline angle="90" x="1200" y="0"/>
-  <guideline angle="90" x="1529" y="0"/>
-  <guideline angle="0" x="0" y="21"/>
-  <guideline angle="90" x="1408" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Lla.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>Lla.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>58601eb89348cc175f333f2d9250e9a2e19be9025f2af51266c7ba988c3d6023bcd75878ab0e0e41285846c76a1cc13b3d2f5f539ce5d2d33ccdcf739efb6adc</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 1140.67 216.32</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

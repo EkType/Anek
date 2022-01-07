@@ -123,32 +123,12 @@
       <point x="1007" y="616" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="-124"/>
-  <guideline angle="0" x="0" y="-103"/>
-  <guideline angle="90" x="2270" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Sa.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>Da.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>0b151eefd169138667a016c5caf71d8909d724ae9f403e804474ba7694dc490b3114ef21d4f11d1a0a3917f5a0da547d0c1105469858efdc6ac3d4d3e4327680</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1665 2356</string>
-          <string>vstem 2071.52 20.34</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

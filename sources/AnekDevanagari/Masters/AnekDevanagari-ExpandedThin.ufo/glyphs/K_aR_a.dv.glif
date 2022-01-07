@@ -101,37 +101,12 @@
       <point x="685" y="210"/>
     </contour>
   </outline>
-  <guideline angle="90" x="1065" y="0"/>
-  <guideline angle="90" x="1083" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="0" x="0" y="1221"/>
-  <guideline angle="90" x="1060" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Ka.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>Ka.dv</string>
-  <key>public.markColor</key>
-  <string>1,0.801,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>0e6d5a781f8512e803428159462d3800f226bc203069634bb810f2ef291d50a9d7acfae8ae2978ecf063abc8be6ded4e6c707913d80df715f9b8e1aaf5a74ba2</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1665 2356</string>
-          <string>vstem 866.52 20.34</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

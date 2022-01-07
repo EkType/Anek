@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SaTa.dv" format="2">
-  <advance width="2661"/>
-  <anchor x="2332" y="23" name="bottom"/>
-  <anchor x="2327" y="23" name="bottom2"/>
-  <anchor x="2436.5" y="23" name="bottom3"/>
-  <anchor x="2331.5" y="42.5" name="bottom5"/>
-  <anchor x="2331.5" y="1217.5" name="top"/>
+  <advance width="2631"/>
+  <anchor x="2302" y="23" name="bottom"/>
+  <anchor x="2297" y="23" name="bottom2"/>
+  <anchor x="2406.5" y="23" name="bottom3"/>
+  <anchor x="2301.5" y="42.5" name="bottom5"/>
+  <anchor x="2301.5" y="1217.5" name="top"/>
   <outline>
     <contour>
       <point x="1015" y="647" type="line"/>
-      <point x="1327.5" y="647" type="line"/>
-      <point x="1327.5" y="481.5" type="line"/>
+      <point x="1307.5" y="647" type="line"/>
+      <point x="1307.5" y="481.5" type="line"/>
       <point x="1015" y="481.5" type="line"/>
     </contour>
     <contour>
-      <point x="2436.5" y="1145.5" type="line"/>
-      <point x="2436.5" y="0" type="line"/>
-      <point x="2226.5" y="0" type="line"/>
-      <point x="2226.5" y="1145.5" type="line"/>
+      <point x="2406.5" y="1145.5" type="line"/>
+      <point x="2406.5" y="0" type="line"/>
+      <point x="2196.5" y="0" type="line"/>
+      <point x="2196.5" y="1145.5" type="line"/>
     </contour>
     <contour>
-      <point x="2103" y="1092.5" type="line"/>
-      <point x="2089" y="1248" type="line"/>
-      <point x="2697" y="1248" type="line"/>
-      <point x="2711" y="1092.5" type="line"/>
+      <point x="2073" y="1092.5" type="line"/>
+      <point x="2059" y="1248" type="line"/>
+      <point x="2667" y="1248" type="line"/>
+      <point x="2681" y="1092.5" type="line"/>
     </contour>
     <contour>
-      <point x="1065" y="1093" type="line"/>
-      <point x="1051" y="1248" type="line"/>
-      <point x="2637" y="1248" type="line"/>
-      <point x="2651" y="1093" type="line"/>
+      <point x="1035" y="1093" type="line"/>
+      <point x="1021" y="1248" type="line"/>
+      <point x="2607" y="1248" type="line"/>
+      <point x="2621" y="1093" type="line"/>
     </contour>
     <contour>
-      <point x="1461.94" y="0" type="line"/>
-      <point x="1316.33" y="141"/>
-      <point x="1238" y="275"/>
-      <point x="1238" y="445" type="curve" smooth="yes"/>
-      <point x="1238" y="674"/>
-      <point x="1392" y="822"/>
-      <point x="1722" y="822" type="curve" smooth="yes"/>
-      <point x="2328" y="822" type="line"/>
-      <point x="2328" y="658" type="line"/>
-      <point x="1754.32" y="658" type="line" smooth="yes"/>
-      <point x="1548.79" y="658"/>
-      <point x="1458" y="579"/>
-      <point x="1458" y="431" type="curve" smooth="yes"/>
-      <point x="1458" y="285"/>
-      <point x="1546" y="158"/>
-      <point x="1712" y="0" type="curve"/>
+      <point x="1431.94" y="0" type="line"/>
+      <point x="1286.33" y="141"/>
+      <point x="1208" y="275"/>
+      <point x="1208" y="445" type="curve" smooth="yes"/>
+      <point x="1208" y="674"/>
+      <point x="1362" y="822"/>
+      <point x="1692" y="822" type="curve" smooth="yes"/>
+      <point x="2298" y="822" type="line"/>
+      <point x="2298" y="658" type="line"/>
+      <point x="1724.32" y="658" type="line" smooth="yes"/>
+      <point x="1518.79" y="658"/>
+      <point x="1428" y="579"/>
+      <point x="1428" y="431" type="curve" smooth="yes"/>
+      <point x="1428" y="285"/>
+      <point x="1516" y="158"/>
+      <point x="1682" y="0" type="curve"/>
     </contour>
     <contour>
       <point x="1163" y="1093" type="line"/>
@@ -95,22 +95,12 @@
       <point x="1087" y="647" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="286" y="0"/>
-  <guideline angle="90" x="2165" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="2170" y="0"/>
-  <guideline angle="90" x="2153" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="2332" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Sa.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

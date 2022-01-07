@@ -43,9 +43,7 @@
       <point x="537" y="1813"/>
       <point x="596" y="1808"/>
       <point x="654" y="1795" type="curve"/>
-      <point x="654.617" y="1792.3"/>
-      <point x="661.34" y="1762.89"/>
-      <point x="662" y="1760" type="curve"/>
+      <point x="662" y="1760" type="line"/>
       <point x="591" y="1775"/>
       <point x="540" y="1779"/>
       <point x="483" y="1779" type="curve" smooth="yes"/>
@@ -118,32 +116,10 @@
       <point x="689" y="1559.87"/>
     </contour>
   </outline>
-  <guideline angle="90" x="335" y="0"/>
-  <guideline angle="90" x="335" y="0"/>
-  <guideline angle="90" x="75" y="0"/>
-  <guideline angle="90" x="317" y="0"/>
-  <guideline angle="0" x="0" y="1406"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsWidth</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>54f3805d7d371d56e09302ffee91ad8368fe0f70a8c83138d089114afe6034fca69c30add76d713d1e28efa43c2f3d3d56dd70b0bde64dff2bf85d950ca3d03c</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -1665 2356</string>
-          <string>vstem 118.52 20.34</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>
