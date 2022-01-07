@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SaPa.dv" format="2">
-  <advance width="1149"/>
-  <anchor x="980" y="9" name="bottom"/>
-  <anchor x="975" y="9" name="bottom2"/>
-  <anchor x="998" y="9" name="bottom3"/>
-  <anchor x="980" y="30" name="bottom5"/>
-  <anchor x="980" y="1262" name="top"/>
+  <advance width="1135"/>
+  <anchor x="966" y="9" name="bottom"/>
+  <anchor x="961" y="9" name="bottom2"/>
+  <anchor x="984" y="9" name="bottom3"/>
+  <anchor x="966" y="30" name="bottom5"/>
+  <anchor x="966" y="1262" name="top"/>
   <outline>
     <contour>
       <point x="372" y="629" type="line"/>
-      <point x="594" y="629" type="line"/>
-      <point x="594" y="598" type="line"/>
+      <point x="575" y="629" type="line"/>
+      <point x="575" y="598" type="line"/>
       <point x="372" y="598" type="line"/>
     </contour>
     <contour>
-      <point x="998" y="1251" type="line"/>
-      <point x="998" y="0" type="line"/>
-      <point x="963" y="0" type="line"/>
-      <point x="963" y="1251" type="line"/>
+      <point x="984" y="1251" type="line"/>
+      <point x="984" y="0" type="line"/>
+      <point x="949" y="0" type="line"/>
+      <point x="949" y="1251" type="line"/>
     </contour>
     <contour>
-      <point x="863" y="1242" type="line"/>
-      <point x="857" y="1271" type="line"/>
-      <point x="1167" y="1271" type="line"/>
-      <point x="1173" y="1242" type="line"/>
+      <point x="849" y="1242" type="line"/>
+      <point x="843" y="1271" type="line"/>
+      <point x="1153" y="1271" type="line"/>
+      <point x="1159" y="1242" type="line"/>
     </contour>
     <contour>
-      <point x="430" y="1242" type="line"/>
-      <point x="424" y="1271" type="line"/>
-      <point x="1167" y="1271" type="line"/>
-      <point x="1173" y="1242" type="line"/>
+      <point x="416" y="1242" type="line"/>
+      <point x="410" y="1271" type="line"/>
+      <point x="1153" y="1271" type="line"/>
+      <point x="1159" y="1242" type="line"/>
     </contour>
     <contour>
-      <point x="783" y="333" type="curve" smooth="yes"/>
-      <point x="650" y="333"/>
-      <point x="580" y="414"/>
-      <point x="580" y="598" type="curve" smooth="yes"/>
-      <point x="580" y="1251" type="line"/>
-      <point x="615" y="1251" type="line"/>
-      <point x="615" y="602" type="line" smooth="yes"/>
-      <point x="615" y="436"/>
-      <point x="672" y="366"/>
-      <point x="783" y="366" type="curve" smooth="yes"/>
-      <point x="880" y="366"/>
-      <point x="939" y="418"/>
-      <point x="965" y="526" type="curve"/>
-      <point x="969" y="462" type="line"/>
-      <point x="965" y="462" type="line"/>
-      <point x="945" y="392"/>
-      <point x="893" y="333"/>
+      <point x="769" y="333" type="curve" smooth="yes"/>
+      <point x="636" y="333"/>
+      <point x="566" y="414"/>
+      <point x="566" y="598" type="curve" smooth="yes"/>
+      <point x="566" y="1251" type="line"/>
+      <point x="601" y="1251" type="line"/>
+      <point x="601" y="602" type="line" smooth="yes"/>
+      <point x="601" y="436"/>
+      <point x="658" y="366"/>
+      <point x="769" y="366" type="curve" smooth="yes"/>
+      <point x="866" y="366"/>
+      <point x="925" y="418"/>
+      <point x="951" y="526" type="curve"/>
+      <point x="955" y="462" type="line"/>
+      <point x="951" y="462" type="line"/>
+      <point x="931" y="392"/>
+      <point x="879" y="333"/>
     </contour>
     <contour>
       <point x="474" y="1242" type="line"/>
@@ -96,40 +96,12 @@
       <point x="419" y="629" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="322"/>
-  <guideline angle="0" x="0" y="339"/>
-  <guideline angle="0" x="0" y="329"/>
-  <guideline angle="90" x="313" y="0"/>
-  <guideline angle="0" x="0" y="333"/>
-  <guideline angle="90" x="975" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="980" y="0"/>
-  <guideline angle="90" x="963" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="998" y="0"/>
-  <guideline angle="0" x="0" y="-125"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Sa.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>fe97ad39bd3628403b4b6c80eda6223ca9cf68bbc693cbed9d98c6045bebaa15d669c4b1b613cf63bfbcd5cc8b9dc2ebcfe1c31a570bee09f232412d30559638</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 896 19</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

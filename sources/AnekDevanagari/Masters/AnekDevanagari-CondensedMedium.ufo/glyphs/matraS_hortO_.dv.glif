@@ -30,8 +30,8 @@
       <point x="-156.13" y="1761.11"/>
     </contour>
     <contour>
-      <point x="285.5" y="3.34186e-07" type="line"/>
-      <point x="116" y="3.34186e-07" type="line"/>
+      <point x="285.5" y="0" type="line"/>
+      <point x="116" y="0" type="line"/>
       <point x="116" y="1203.5" type="line"/>
       <point x="285.5" y="1203.5" type="line"/>
     </contour>
@@ -42,15 +42,12 @@
       <point x="424.5" y="1289.5" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="150" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
   <key>com.fontlab.metricsWidth</key>
   <string>matraA.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -109,46 +109,19 @@
       <point x="321" y="820" type="line" smooth="yes"/>
       <point x="446.629" y="820"/>
       <point x="500.812" y="762"/>
-      <point x="512" y="637" type="curve"/>
-      <point x="482" y="623" type="line"/>
+      <point x="513" y="637" type="curve"/>
+      <point x="483" y="623" type="line"/>
       <point x="471.473" y="737"/>
       <point x="430.646" y="788"/>
       <point x="321" y="788" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <guideline angle="90" x="552" y="0"/>
-  <guideline angle="90" x="1376" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="1381" y="0"/>
-  <guideline angle="90" x="1364" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="1399" y="0"/>
-  <guideline angle="0" x="0" y="-125"/>
-  <guideline angle="0" x="0" y="322"/>
-  <guideline angle="0" x="0" y="339"/>
-  <guideline angle="0" x="0" y="329"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Ta.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3726932fc102b57e729cb5471c8d4cd3e39b5f6c655e7242f47d9c014422a151a4021e71570cef223cbc4f45cda9facdb550f986d6b0ad381fabcfd04f20e8ad</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 1297 19</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

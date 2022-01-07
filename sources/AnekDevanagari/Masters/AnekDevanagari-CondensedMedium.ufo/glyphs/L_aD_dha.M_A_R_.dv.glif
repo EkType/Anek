@@ -39,8 +39,8 @@
     </contour>
     <contour>
       <point x="1362" y="1204" type="line"/>
-      <point x="1362" y="988.5" type="line"/>
-      <point x="1198" y="988.5" type="line"/>
+      <point x="1362" y="988.499" type="line"/>
+      <point x="1198" y="988.499" type="line"/>
       <point x="1198" y="1204" type="line"/>
     </contour>
     <contour>
@@ -143,17 +143,12 @@
       <point x="532" y="794.5" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="0" x="0" y="-44"/>
-  <guideline angle="90" x="1247" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>La.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>Ddha.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

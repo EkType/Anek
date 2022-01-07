@@ -48,36 +48,12 @@
       <point x="191" y="164" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" color="0,1,1,1" name="Ma counter space" x="191" y="0"/>
-  <guideline angle="90" x="546" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="551" y="0"/>
-  <guideline angle="90" x="534" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="569" y="0"/>
-  <guideline angle="0" x="0" y="-125"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>0c6d8cfe462b5f0cb9a6814c54eabdff1f78daa730ef5bf84ed5762f201468246f68052799b415b9da39cf9ffe62654f46d49a87454edb3503a06091749c2a1e</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 467 19</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>note</key>
+  <string>Weight of Danda in ExtBld Cond in different than the matraA.</string>
   </dict>
   </lib>
 </glyph>

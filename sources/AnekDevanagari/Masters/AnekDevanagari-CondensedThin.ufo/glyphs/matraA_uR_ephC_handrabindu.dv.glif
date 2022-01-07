@@ -43,9 +43,7 @@
       <point x="285" y="1757"/>
       <point x="310" y="1754"/>
       <point x="332" y="1749" type="curve"/>
-      <point x="332.463" y="1746.61"/>
-      <point x="337.505" y="1720.56"/>
-      <point x="338" y="1718" type="curve"/>
+      <point x="338" y="1718" type="line"/>
       <point x="307" y="1723"/>
       <point x="286" y="1725"/>
       <point x="262" y="1725" type="curve" smooth="yes"/>
@@ -118,28 +116,10 @@
       <point x="386" y="1545.49"/>
     </contour>
   </outline>
-  <guideline angle="90" x="144" y="0"/>
-  <guideline angle="90" x="168" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsWidth</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>2e7ebb7db6143d281f60ab52763d1079db9f2d4f96bf514a4d4729d716d9e358c858dfcf1ec7f3ac3413eb948d46062a4ce7d26211845953f7a2040426a8647f</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 80 19</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

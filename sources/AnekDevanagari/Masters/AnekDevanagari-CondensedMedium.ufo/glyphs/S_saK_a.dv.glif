@@ -27,10 +27,10 @@
       <point x="490" y="420.5"/>
       <point x="534.5" y="460"/>
       <point x="551" y="549.5" type="curve"/>
-      <point x="551.5" y="400" type="line"/>
-      <point x="530" y="400" type="line"/>
-      <point x="508" y="324.5"/>
-      <point x="452.042" y="275"/>
+      <point x="553.5" y="394" type="line"/>
+      <point x="532" y="394" type="line"/>
+      <point x="509.757" y="322.124"/>
+      <point x="453.181" y="275"/>
     </contour>
     <contour>
       <point x="247" y="1099" type="curve"/>
@@ -119,21 +119,12 @@
       <point x="934.5" y="1204.5" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="919.5" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="924.5" y="0"/>
-  <guideline angle="90" x="907.5" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="942.5" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Ssa.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>Ka.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

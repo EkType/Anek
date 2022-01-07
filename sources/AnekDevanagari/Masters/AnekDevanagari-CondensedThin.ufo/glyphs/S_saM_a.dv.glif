@@ -84,37 +84,12 @@
       <point x="563" y="164" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="287" y="0"/>
-  <guideline angle="90" color="0,1,1,1" name="Ma counter space" x="563" y="0"/>
-  <guideline angle="90" x="918" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="923" y="0"/>
-  <guideline angle="90" x="906" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="941" y="0"/>
-  <guideline angle="0" x="0" y="-125"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Ssa.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>9dee49d7fbc5605b58ead57c3382ee9693a7e3f9104a5286e41fa9af4e279421ff14819f6aea247feb691bfaf3a045260af7eb0e2b695c99c48315815a96b7a9</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 839 19</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

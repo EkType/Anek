@@ -170,20 +170,6 @@
       <point x="206" y="-128"/>
     </contour>
   </outline>
-  <guideline angle="90" x="423" y="0"/>
-  <guideline angle="0" x="0" y="18"/>
-  <guideline angle="90" x="830" y="0"/>
-  <guideline angle="0" x="0" y="-101"/>
-  <guideline angle="90" x="1041" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="1153" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="1158" y="0"/>
-  <guideline angle="90" x="1141" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="1176" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
-  <guideline angle="0" x="0" y="333"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -192,22 +178,6 @@
   <string>Pha.dv</string>
   <key>note</key>
   <string>Align Nuktas</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>9e3bd905d2773a321fb05f059574ca5807ee60b1f0314747713b4120a03b262d91cb7aa37941d1ed75d335a2dc5ce6ef4ecc8454d4a0460780123bb271564d2f</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 1074 19</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

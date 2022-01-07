@@ -73,36 +73,12 @@
       <point x="802" y="164" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" color="0,1,1,1" name="Ma counter space" x="802" y="0"/>
-  <guideline angle="90" x="1157" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="1162" y="0"/>
-  <guideline angle="90" x="1145" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="1180" y="0"/>
-  <guideline angle="0" x="0" y="-125"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Nna.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>fd2d164e9a6fd20f3eaead47dfd1380da0e557350ed72113dc51df59e5e76e2887e4171f91f7423cc19a28072d805604034fbe9ed8a632c88ca7315348a1facf</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 1078 19</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

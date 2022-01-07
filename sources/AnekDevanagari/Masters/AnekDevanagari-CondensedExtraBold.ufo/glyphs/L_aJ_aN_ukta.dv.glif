@@ -107,56 +107,32 @@
       <point x="621" y="786" type="line"/>
     </contour>
     <contour>
-      <point x="966" y="-318" type="curve" smooth="yes"/>
-      <point x="865" y="-318"/>
-      <point x="819" y="-259"/>
-      <point x="819" y="-163" type="curve"/>
-      <point x="819" y="-161.674"/>
-      <point x="819" y="-158.148"/>
-      <point x="819" y="-157" type="curve"/>
-      <point x="819" y="-61"/>
-      <point x="865" y="-2"/>
-      <point x="966" y="-2" type="curve" smooth="yes"/>
-      <point x="1067" y="-2"/>
-      <point x="1113" y="-61"/>
-      <point x="1113" y="-157" type="curve"/>
-      <point x="1113" y="-158.326"/>
-      <point x="1113" y="-161.852"/>
-      <point x="1113" y="-163" type="curve"/>
-      <point x="1113" y="-259"/>
-      <point x="1067" y="-318"/>
+      <point x="1022.53" y="-318" type="curve" smooth="yes"/>
+      <point x="921.53" y="-318"/>
+      <point x="875.53" y="-259"/>
+      <point x="875.53" y="-163" type="curve"/>
+      <point x="875.53" y="-161.674"/>
+      <point x="875.53" y="-158.148"/>
+      <point x="875.53" y="-157" type="curve"/>
+      <point x="875.53" y="-61"/>
+      <point x="921.53" y="-2"/>
+      <point x="1022.53" y="-2" type="curve" smooth="yes"/>
+      <point x="1123.53" y="-2"/>
+      <point x="1169.53" y="-61"/>
+      <point x="1169.53" y="-157" type="curve"/>
+      <point x="1169.53" y="-158.326"/>
+      <point x="1169.53" y="-161.852"/>
+      <point x="1169.53" y="-163" type="curve"/>
+      <point x="1169.53" y="-259"/>
+      <point x="1123.53" y="-318"/>
     </contour>
   </outline>
-  <guideline angle="90" x="437" y="0"/>
-  <guideline angle="0" x="0" y="499"/>
-  <guideline angle="90" x="1596" y="0"/>
-  <guideline angle="0" x="0" y="37"/>
-  <guideline angle="0" x="0" y="1255"/>
-  <guideline angle="90" x="1586" y="0"/>
-  <guideline angle="90" x="1748" y="0"/>
-  <guideline angle="0" x="0" y="55"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>La.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>02e3ea5e8d4f905d2cdff8b58fb7ce9fd896cda03eda73fcff28e444f90c66188205af4eb765da5fee1ea1f65416323d2e96e7299edab4c7875f44a34a221d0f</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 1410 164</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

@@ -244,6 +244,30 @@
     <key>comma</key>
     <integer>-0</integer>
   </dict>
+  <key>KhaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>-20</integer>
+  </dict>
+  <key>LaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>-12</integer>
+  </dict>
+  <key>MaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Ka</key>
+    <integer>20</integer>
+    <key>public.kern2._Tta1</key>
+    <integer>30</integer>
+  </dict>
+  <key>NaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>-20</integer>
+    <key>public.kern2._Tta1</key>
+    <integer>-10</integer>
+  </dict>
   <key>Nau.dv</key>
   <dict>
     <key>Aath.dv</key>
@@ -259,12 +283,32 @@
     <key>public.kern2.R_quotesingle</key>
     <integer>20</integer>
   </dict>
+  <key>NyaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Ca</key>
+    <integer>60</integer>
+    <key>public.kern2._Cha2</key>
+    <integer>20</integer>
+    <key>public.kern2._I</key>
+    <integer>-40</integer>
+    <key>public.kern2._Ja</key>
+    <integer>50</integer>
+    <key>public.kern2._Sha</key>
+    <integer>30</integer>
+    <key>public.kern2._Sha.MAR</key>
+    <integer>60</integer>
+  </dict>
   <key>Om.dv</key>
   <dict>
     <key>comma</key>
     <integer>-40</integer>
     <key>public.kern2.R_period</key>
     <integer>-40</integer>
+  </dict>
+  <key>PhaNuktaHalant.dv</key>
+  <dict>
+    <key>public.kern2._La</key>
+    <integer>-10</integer>
   </dict>
   <key>RamatraUu.dv</key>
   <dict>
@@ -382,6 +426,11 @@
     <integer>25</integer>
     <key>public.kern2.R_quotesingle</key>
     <integer>14</integer>
+  </dict>
+  <key>ShaHalant.MAR.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>-15</integer>
   </dict>
   <key>Shunya.dv</key>
   <dict>
@@ -899,6 +948,8 @@
   <dict>
     <key>BaLa.MAR.dv</key>
     <integer>-10</integer>
+    <key>SaPa.dv</key>
+    <integer>-12</integer>
   </dict>
   <key>matraIRephBinduthirtyfour.dv</key>
   <dict>
@@ -909,6 +960,8 @@
   <dict>
     <key>BaLa.MAR.dv</key>
     <integer>-10</integer>
+    <key>SaPa.dv</key>
+    <integer>-12</integer>
   </dict>
   <key>matraIRephthirtyfour.dv</key>
   <dict>
@@ -919,6 +972,8 @@
   <dict>
     <key>BaLa.MAR.dv</key>
     <integer>-10</integer>
+    <key>SaPa.dv</key>
+    <integer>-12</integer>
   </dict>
   <key>matraIthirtyfour.dv</key>
   <dict>
@@ -929,6 +984,8 @@
   <dict>
     <key>BaLa.MAR.dv</key>
     <integer>-10</integer>
+    <key>SaPa.dv</key>
+    <integer>-12</integer>
   </dict>
   <key>nine</key>
   <dict>

@@ -105,48 +105,26 @@
       <point x="-36" y="-8.5" type="curve"/>
       <point x="-36" y="-7.1742"/>
       <point x="-36" y="-3.64832"/>
-      <point x="-36" y="-2.50002" type="curve"/>
+      <point x="-36" y="-2.5" type="curve"/>
       <point x="-36" y="93.5"/>
       <point x="10" y="152.5"/>
       <point x="111" y="152.5" type="curve" smooth="yes"/>
       <point x="212" y="152.5"/>
       <point x="258" y="93.5"/>
-      <point x="258" y="-2.50002" type="curve"/>
-      <point x="258" y="-3.82582"/>
-      <point x="258" y="-7.3517"/>
+      <point x="258" y="-2.5" type="curve"/>
+      <point x="258" y="-3.8258"/>
+      <point x="258" y="-7.35168"/>
       <point x="258" y="-8.5" type="curve"/>
       <point x="258" y="-104.5"/>
       <point x="212" y="-163.5"/>
     </contour>
   </outline>
-  <guideline angle="90" x="1096" y="0"/>
-  <guideline angle="0" x="0" y="37"/>
-  <guideline angle="0" x="0" y="1255"/>
-  <guideline angle="90" x="1086" y="0"/>
-  <guideline angle="90" x="1248" y="0"/>
-  <guideline angle="0" x="0" y="55"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Kha.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>2ebba21e1fdf137e37fb31677e8bf43f40c7ae3d4b5b3f79f9fe7a6924149fe4b111fcc23044f4a5ca204acaa3b145126c0850a206b977940ed95621087fe9dc</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 910 164</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

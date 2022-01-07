@@ -56,8 +56,8 @@
       <point x="390" y="1271" type="line"/>
     </contour>
     <contour>
-      <point x="436" y="827" type="line"/>
-      <point x="440" y="796" type="line"/>
+      <point x="428" y="827" type="line"/>
+      <point x="432" y="796" type="line"/>
       <point x="146" y="796" type="line"/>
       <point x="146" y="827" type="line"/>
     </contour>
@@ -71,37 +71,12 @@
       <point x="158" y="336" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="119"/>
-  <guideline angle="90" x="718" y="0"/>
-  <guideline angle="90" x="860" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="865" y="0"/>
-  <guideline angle="90" x="848" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="883" y="0"/>
-  <guideline angle="0" x="0" y="-125"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Na.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>9ec7bb01132817f328ea75b38effef0c9fc018fcba9044e96124f33f85ff11886686064a0d23f4f6b6bd70078fa8b7cf2324b1e1b562028d5865b8de8f942122</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 781 19</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

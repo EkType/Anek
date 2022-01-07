@@ -95,8 +95,8 @@
     </contour>
     <contour>
       <point x="679" y="1203.5" type="line"/>
-      <point x="679" y="-2.23248e-05" type="line"/>
-      <point x="509.5" y="-2.23248e-05" type="line"/>
+      <point x="679" y="0" type="line"/>
+      <point x="509.5" y="0" type="line"/>
       <point x="509.5" y="1203.5" type="line"/>
     </contour>
     <contour>
@@ -114,30 +114,18 @@
       <point x="298.678" y="135.052"/>
       <point x="298.678" y="66.6149" type="curve"/>
       <point x="298.678" y="64.8345"/>
-      <point x="298.678" y="58.6791"/>
-      <point x="298.678" y="56.494" type="curve" smooth="yes"/>
-      <point x="298.678" y="-11.9429"/>
+      <point x="298.678" y="58.6792"/>
+      <point x="298.678" y="56.4941" type="curve" smooth="yes"/>
+      <point x="298.678" y="-11.9428"/>
       <point x="273.135" y="-50.0169"/>
     </contour>
   </outline>
-  <guideline angle="90" x="389" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="501" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="506" y="0"/>
-  <guideline angle="90" x="489" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="524" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
-  <guideline angle="0" x="0" y="282.5"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Pha.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>Pha.dv</string>
-  <key>public.markColor</key>
-  <string>1,0.801,0.6,1</string>
   </dict>
   </lib>
 </glyph>
