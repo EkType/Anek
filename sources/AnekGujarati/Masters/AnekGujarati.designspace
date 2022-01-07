@@ -397,6 +397,11 @@
   </instances>
   <lib>
     <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>3B7D2D6B-4C7F-469B-8FA8-9D341C52EB57</key>
+        <dict/>
+      </dict>
       <key>public.skipExportGlyphs</key>
       <array>
         <string>_BaComponent.gj</string>
@@ -505,7 +510,7 @@
       </array>
     </dict>
   </lib>
-  <rules>
+<rules>
   <rule>
    <!-- Latin Lighter Variants -->
    <sub with="question_alt" name="question"/>

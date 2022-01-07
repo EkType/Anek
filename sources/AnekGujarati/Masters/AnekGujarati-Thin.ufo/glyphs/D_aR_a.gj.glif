@@ -3,6 +3,7 @@
   <advance width="1063"/>
   <guideline x="522" y="28" angle="34.2326"/>
   <guideline x="217" y="-162" angle="0"/>
+  <guideline x="193" y="519" angle="270"/>
   <anchor x="900" y="-261" name="Bottom"/>
   <anchor x="806" y="1263" name="Top"/>
   <anchor x="834" y="1263" name="Top2"/>
@@ -69,6 +70,8 @@
       <string>gujarati</string>
       <key>com.schriftgestaltung.Glyphs.subCategory</key>
       <string>Other</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>
