@@ -21,9 +21,7 @@
       <point x="-129.157" y="1806.17"/>
       <point x="-78.0819" y="1800.43"/>
       <point x="-30" y="1790" type="curve"/>
-      <point x="-26.9308" y="1767.06"/>
-      <point x="-14.5858" y="1675.3"/>
-      <point x="-11" y="1648.5" type="curve"/>
+      <point x="-11" y="1648.5" type="line"/>
       <point x="-54.1257" y="1655.54"/>
       <point x="-97.0388" y="1658.75"/>
       <point x="-143.25" y="1658.75" type="curve" smooth="yes"/>
@@ -81,11 +79,4 @@
       <point x="-41.0165" y="1378.56"/>
     </contour>
   </outline>
-  <guideline angle="90" x="-10" y="0"/>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
-  </dict>
-  </lib>
 </glyph>

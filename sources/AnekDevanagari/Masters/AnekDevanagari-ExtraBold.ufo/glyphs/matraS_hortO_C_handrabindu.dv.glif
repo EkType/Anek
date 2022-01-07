@@ -50,10 +50,10 @@
       <point x="619.47" y="1754.64"/>
       <point x="666.54" y="1754.64" type="curve" smooth="yes"/>
       <point x="713.263" y="1754.64"/>
-      <point x="732.654" y="1726.1"/>
-      <point x="732.654" y="1676.41" type="curve" smooth="yes"/>
-      <point x="732.654" y="1667.71" type="line" smooth="yes"/>
-      <point x="732.654" y="1619.47"/>
+      <point x="732.653" y="1726.1"/>
+      <point x="732.653" y="1676.41" type="curve" smooth="yes"/>
+      <point x="732.653" y="1667.71" type="line" smooth="yes"/>
+      <point x="732.653" y="1619.47"/>
       <point x="713.2" y="1588.96"/>
     </contour>
     <contour>
@@ -81,16 +81,10 @@
       <point x="778.041" y="1651.47" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <guideline angle="90" x="115.5" y="0"/>
-  <guideline angle="90" x="400.5" y="0"/>
-  <guideline angle="90" x="526.5" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsWidth</key>
   <string>matraA.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -35,9 +35,9 @@
     <contour>
       <point x="2545.5" y="66.0263" type="line"/>
       <point x="2463.25" y="15.9738"/>
-      <point x="2349.43" y="-14.0003"/>
-      <point x="2206" y="-14.0003" type="curve" smooth="yes"/>
-      <point x="1888.65" y="-14.0003"/>
+      <point x="2349.43" y="-14"/>
+      <point x="2206" y="-14" type="curve" smooth="yes"/>
+      <point x="1888.65" y="-14"/>
       <point x="1717" y="125.5"/>
       <point x="1717" y="424.5" type="curve" smooth="yes"/>
       <point x="1717" y="456.5" type="line" smooth="yes"/>
@@ -81,17 +81,17 @@
       <point x="1349.75" y="498.5" type="line"/>
     </contour>
     <contour>
-      <point x="1478.75" y="-0.0003" type="line"/>
-      <point x="1260.25" y="-0.0003" type="line"/>
+      <point x="1478.75" y="0" type="line"/>
+      <point x="1260.25" y="0" type="line"/>
       <point x="972.49" y="480" type="line"/>
       <point x="856.25" y="485.5" type="line"/>
       <point x="856.25" y="648" type="line"/>
       <point x="1108.25" y="608.5" type="line"/>
       <point x="1108.25" y="532.5" type="line"/>
       <point x="1191.66" y="452.5"/>
-      <point x="1230.14" y="397.551"/>
+      <point x="1230.14" y="397.552"/>
       <point x="1308.25" y="275" type="curve" smooth="yes"/>
-      <point x="1478.75" y="7.4997" type="line"/>
+      <point x="1478.75" y="7.5" type="line"/>
     </contour>
     <contour>
       <point x="1311.75" y="1159.5" type="line"/>
@@ -101,7 +101,7 @@
       <point x="1432.75" y="861.5" type="line" smooth="yes"/>
       <point x="1432.75" y="626.482"/>
       <point x="1315.85" y="510.487"/>
-      <point x="1038.73" y="501.171" type="curve" smooth="yes"/>
+      <point x="1038.73" y="501.172" type="curve" smooth="yes"/>
       <point x="959.25" y="498.5" type="line"/>
       <point x="856.25" y="648" type="line"/>
       <point x="952.227" y="648" type="line" smooth="yes"/>
@@ -121,9 +121,9 @@
       <point x="536.75" y="974.5" type="curve" smooth="yes"/>
       <point x="610.828" y="974.5"/>
       <point x="676.572" y="967"/>
-      <point x="728.495" y="951.801" type="curve"/>
+      <point x="728.495" y="951.802" type="curve"/>
       <point x="745.076" y="802.36" type="line"/>
-      <point x="688.015" y="815.111"/>
+      <point x="688.015" y="815.112"/>
       <point x="624.277" y="821.5"/>
       <point x="557.25" y="821.5" type="curve" smooth="yes"/>
       <point x="379.25" y="821.5"/>
@@ -134,9 +134,9 @@
       <point x="385.589" y="337"/>
       <point x="567.212" y="337" type="curve" smooth="yes"/>
       <point x="741.212" y="337"/>
-      <point x="845.054" y="436.212"/>
+      <point x="845.054" y="436.213"/>
       <point x="858.462" y="557.25" type="curve"/>
-      <point x="976.727" y="508.236" type="line"/>
+      <point x="976.727" y="508.237" type="line"/>
       <point x="936.684" y="298.261"/>
       <point x="810.393" y="180.5"/>
       <point x="544.512" y="180.5" type="curve" smooth="yes"/>
@@ -144,17 +144,12 @@
       <point x="104.25" y="312.2"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="-46"/>
-  <guideline angle="0" x="0" y="-27"/>
-  <guideline angle="90" x="2317.5" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Ba.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>Tta.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

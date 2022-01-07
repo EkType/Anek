@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="TaSaNa.dv" format="2">
-  <advance width="2608"/>
-  <anchor x="2364.5" y="9" name="bottom"/>
-  <anchor x="2358.5" y="9" name="bottom2"/>
-  <anchor x="2381.5" y="9" name="bottom3"/>
-  <anchor x="2363.5" y="30" name="bottom5"/>
-  <anchor x="2363" y="1241.5" name="top"/>
+  <advance width="2588"/>
+  <anchor x="2344.5" y="9" name="bottom"/>
+  <anchor x="2338.5" y="9" name="bottom2"/>
+  <anchor x="2361.5" y="9" name="bottom3"/>
+  <anchor x="2343.5" y="30" name="bottom5"/>
+  <anchor x="2343" y="1241.5" name="top"/>
   <outline>
     <contour>
       <point x="1535" y="634.5" type="line"/>
-      <point x="1734" y="634.5" type="line"/>
-      <point x="1734" y="603" type="line"/>
+      <point x="1704" y="634.5" type="line"/>
+      <point x="1704" y="603" type="line"/>
       <point x="1535" y="603" type="line"/>
     </contour>
     <contour>
-      <point x="2381" y="1230" type="line"/>
-      <point x="2381" y="0" type="line"/>
-      <point x="2346.5" y="0" type="line"/>
-      <point x="2346.5" y="1230" type="line"/>
+      <point x="2361" y="1230" type="line"/>
+      <point x="2361" y="0" type="line"/>
+      <point x="2326.5" y="0" type="line"/>
+      <point x="2326.5" y="1230" type="line"/>
     </contour>
     <contour>
-      <point x="2208.5" y="1221" type="line"/>
-      <point x="2202" y="1250.5" type="line"/>
-      <point x="2634" y="1250.5" type="line"/>
-      <point x="2640.5" y="1221" type="line"/>
+      <point x="2188.5" y="1221" type="line"/>
+      <point x="2182" y="1250.5" type="line"/>
+      <point x="2614" y="1250.5" type="line"/>
+      <point x="2620.5" y="1221" type="line"/>
     </contour>
     <contour>
-      <point x="2535.5" y="1221" type="line"/>
-      <point x="1500" y="1221" type="line"/>
-      <point x="1493.5" y="1250.5" type="line"/>
-      <point x="2529" y="1250.5" type="line"/>
+      <point x="2515.5" y="1221" type="line"/>
+      <point x="1480" y="1221" type="line"/>
+      <point x="1473.5" y="1250.5" type="line"/>
+      <point x="2509" y="1250.5" type="line"/>
     </contour>
     <contour>
-      <point x="2361" y="774.5" type="line"/>
-      <point x="2361" y="743" type="line"/>
-      <point x="1733" y="743" type="line"/>
-      <point x="1733" y="774.5" type="line"/>
+      <point x="2341" y="774.5" type="line"/>
+      <point x="2341" y="743" type="line"/>
+      <point x="1713" y="743" type="line"/>
+      <point x="1713" y="774.5" type="line"/>
     </contour>
     <contour>
-      <point x="1711.5" y="305.5" type="line"/>
-      <point x="1694.53" y="473.005"/>
-      <point x="1684.97" y="567.495"/>
-      <point x="1668" y="735" type="curve"/>
-      <point x="1715.97" y="774.5" type="line"/>
-      <point x="1759" y="774.5" type="line"/>
-      <point x="1759" y="305.5" type="line"/>
+      <point x="1691.5" y="305.5" type="line"/>
+      <point x="1674.53" y="473.005"/>
+      <point x="1664.97" y="567.495"/>
+      <point x="1648" y="735" type="curve"/>
+      <point x="1695.97" y="774.5" type="line"/>
+      <point x="1739" y="774.5" type="line"/>
+      <point x="1739" y="305.5" type="line"/>
     </contour>
     <contour>
       <point x="-30.5" y="1221" type="line"/>
@@ -116,25 +116,12 @@
       <point x="519" y="772.5" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <guideline angle="90" x="552" y="0"/>
-  <guideline angle="90" x="2283.5" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="2288.5" y="0"/>
-  <guideline angle="90" x="2271.5" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="2306.5" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
-  <guideline angle="0" x="0" y="322"/>
-  <guideline angle="0" x="0" y="339"/>
-  <guideline angle="0" x="0" y="329"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Ta.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

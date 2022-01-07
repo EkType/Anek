@@ -31,14 +31,14 @@
     <contour>
       <point x="791.5" y="-364.5" type="line"/>
       <point x="565.804" y="-364.5" type="line"/>
-      <point x="275.637" y="2.83863" type="line"/>
-      <point x="110" y="72.9997" type="line"/>
-      <point x="442.5" y="20.4997" type="line"/>
-      <point x="442.5" y="-17.4434" type="line"/>
-      <point x="533.687" y="-73.7522"/>
+      <point x="275.637" y="2.83862" type="line"/>
+      <point x="110" y="73" type="line"/>
+      <point x="442.5" y="20.5" type="line"/>
+      <point x="442.5" y="-17.4431" type="line"/>
+      <point x="533.687" y="-73.7519"/>
       <point x="598.368" y="-129.716"/>
       <point x="667.842" y="-210.174" type="curve" smooth="yes"/>
-      <point x="791.5" y="-353.384" type="line"/>
+      <point x="791.5" y="-353.383" type="line"/>
     </contour>
     <contour>
       <point x="96.5" y="262" type="line"/>
@@ -57,7 +57,7 @@
       <point x="297.355" y="368.5" type="curve"/>
       <point x="179.353" y="440.281"/>
       <point x="112" y="529.422"/>
-      <point x="112" y="656.43" type="curve" smooth="yes"/>
+      <point x="112" y="656.431" type="curve" smooth="yes"/>
       <point x="112" y="662.951" type="line" smooth="yes"/>
       <point x="112" y="842.108"/>
       <point x="226.333" y="956"/>
@@ -67,14 +67,14 @@
       <point x="923.5" y="921" type="curve"/>
       <point x="923.5" y="778.5" type="line"/>
       <point x="814.529" y="796"/>
-      <point x="704.255" y="803.5"/>
+      <point x="704.256" y="803.5"/>
       <point x="593.539" y="803.5" type="curve" smooth="yes"/>
       <point x="380.417" y="803.5"/>
       <point x="304" y="750.352"/>
       <point x="304" y="653.059" type="curve" smooth="yes"/>
       <point x="304" y="648.144" type="line" smooth="yes"/>
-      <point x="304" y="603.041"/>
-      <point x="319.815" y="567.66"/>
+      <point x="304" y="603.042"/>
+      <point x="319.815" y="567.661"/>
       <point x="353.056" y="539.5" type="curve"/>
       <point x="436.066" y="567.5"/>
       <point x="522.256" y="584.5"/>
@@ -83,13 +83,13 @@
       <point x="996" y="470"/>
       <point x="996" y="288.5" type="curve" smooth="yes"/>
       <point x="996" y="277.5" type="line" smooth="yes"/>
-      <point x="996" y="80.1534"/>
-      <point x="873.907" y="-27.0003"/>
-      <point x="555.502" y="-27.0003" type="curve" smooth="yes"/>
-      <point x="449.965" y="-27.0003"/>
-      <point x="362.566" y="4.23459"/>
-      <point x="285.111" y="25.1196" type="curve" smooth="yes"/>
-      <point x="109.955" y="72.5071" type="line"/>
+      <point x="996" y="80.1537"/>
+      <point x="873.907" y="-27"/>
+      <point x="555.502" y="-27" type="curve" smooth="yes"/>
+      <point x="449.965" y="-27"/>
+      <point x="362.566" y="4.23489"/>
+      <point x="285.111" y="25.1199" type="curve" smooth="yes"/>
+      <point x="109.955" y="72.5074" type="line"/>
     </contour>
     <contour>
       <point x="728.75" y="1249.75" type="line"/>
@@ -138,16 +138,12 @@
       <point x="988.983" y="1378.56"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="-178"/>
-  <guideline angle="90" x="732.5" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>vowelI.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>vowelI.dv</string>
-  <key>public.markColor</key>
-  <string>0.999,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

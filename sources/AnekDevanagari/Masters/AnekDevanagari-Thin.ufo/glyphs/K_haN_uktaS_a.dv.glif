@@ -55,8 +55,8 @@
       <point x="1136.24" y="36"/>
     </contour>
     <contour>
-      <point x="1000.22" y="385" type="curve" smooth="yes"/>
-      <point x="818.821" y="385"/>
+      <point x="1005.22" y="385" type="curve" smooth="yes"/>
+      <point x="831.821" y="385"/>
       <point x="721" y="477.137"/>
       <point x="721" y="663.709" type="curve" smooth="yes"/>
       <point x="721" y="684.671" type="line" smooth="yes"/>
@@ -75,14 +75,14 @@
       <point x="758" y="684.65" type="curve" smooth="yes"/>
       <point x="758" y="665.809" type="line" smooth="yes"/>
       <point x="758" y="500.207"/>
-      <point x="839.652" y="419.527"/>
-      <point x="998.801" y="419.002" type="curve" smooth="yes"/>
-      <point x="1134.35" y="418.555"/>
-      <point x="1214.11" y="474.5"/>
-      <point x="1255" y="567.5" type="curve"/>
-      <point x="1275" y="541.5" type="line"/>
-      <point x="1233.09" y="444"/>
-      <point x="1143.26" y="385"/>
+      <point x="852.652" y="419.512"/>
+      <point x="1003.8" y="418.999" type="curve" smooth="yes"/>
+      <point x="1142.35" y="418.529"/>
+      <point x="1218.11" y="476.5"/>
+      <point x="1260" y="567.5" type="curve"/>
+      <point x="1280" y="541.5" type="line"/>
+      <point x="1237.09" y="446"/>
+      <point x="1151.26" y="385"/>
     </contour>
     <contour>
       <point x="2134.5" y="1230" type="line"/>
@@ -162,28 +162,12 @@
       <point x="196" y="-72"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="-40"/>
-  <guideline angle="90" x="37" y="0"/>
-  <guideline angle="90" x="800" y="0"/>
-  <guideline angle="0" x="0" y="383"/>
-  <guideline angle="0" x="0" y="337"/>
-  <guideline angle="90" x="1136" y="0"/>
-  <guideline angle="90" x="1609" y="0"/>
-  <guideline angle="90" x="2037" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="2042" y="0"/>
-  <guideline angle="90" x="2025" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="2060" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Kha.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

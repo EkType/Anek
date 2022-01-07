@@ -98,12 +98,12 @@
       <point x="2751.25" y="1123.5" type="line"/>
     </contour>
     <contour>
-      <point x="1038.93" y="361" type="curve" smooth="yes"/>
-      <point x="842.748" y="361"/>
-      <point x="725.5" y="458.659"/>
-      <point x="725.5" y="658.026" type="curve" smooth="yes"/>
-      <point x="725.5" y="674.472" type="line" smooth="yes"/>
-      <point x="725.5" y="861.325"/>
+      <point x="1041" y="361" type="curve" smooth="yes"/>
+      <point x="855" y="361"/>
+      <point x="725.5" y="461"/>
+      <point x="725.5" y="660.026" type="curve" smooth="yes"/>
+      <point x="725.5" y="676.472" type="line" smooth="yes"/>
+      <point x="725.5" y="862.325"/>
       <point x="822.992" y="971"/>
       <point x="1030.63" y="971" type="curve" smooth="yes"/>
       <point x="1073.22" y="971"/>
@@ -114,18 +114,18 @@
       <point x="1103.06" y="815.5"/>
       <point x="1075.62" y="815.5" type="curve" smooth="yes"/>
       <point x="968.32" y="815.5"/>
-      <point x="918" y="769.349"/>
-      <point x="918" y="673.692" type="curve" smooth="yes"/>
-      <point x="918" y="663.494" type="line" smooth="yes"/>
-      <point x="918" y="567.967"/>
-      <point x="967.52" y="517.5"/>
-      <point x="1076.63" y="517.5" type="curve" smooth="yes"/>
-      <point x="1153.87" y="517.5"/>
-      <point x="1200.63" y="546.905"/>
+      <point x="918" y="768.349"/>
+      <point x="918" y="671.692" type="curve" smooth="yes"/>
+      <point x="918" y="660" type="line" smooth="yes"/>
+      <point x="918" y="566"/>
+      <point x="964.89" y="515"/>
+      <point x="1074" y="515" type="curve" smooth="yes"/>
+      <point x="1151.24" y="515"/>
+      <point x="1204" y="545"/>
       <point x="1238.9" y="594.614" type="curve"/>
       <point x="1298" y="500" type="line"/>
       <point x="1257.12" y="415.685"/>
-      <point x="1179.79" y="361"/>
+      <point x="1180.86" y="361"/>
     </contour>
     <contour>
       <point x="-16.5" y="1124" type="line"/>
@@ -175,21 +175,12 @@
       <point x="1406.5" y="287.75" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="2341.5" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="2346.5" y="0"/>
-  <guideline angle="90" x="2329.5" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="2443.5" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Kha.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

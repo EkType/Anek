@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LaHa.MAR.dv" format="2">
-  <advance width="2073"/>
+  <advance width="2074"/>
   <anchor x="1615.75" y="-96" name="bottom"/>
   <anchor x="1498.25" y="-173.25" name="bottom2"/>
   <anchor x="1953" y="-173.25" name="bottom3"/>
@@ -34,8 +34,8 @@
     </contour>
     <contour>
       <point x="1913.5" y="1174.65" type="line"/>
-      <point x="1913.5" y="950.402" type="line"/>
-      <point x="1731.25" y="951.402" type="line"/>
+      <point x="1913.5" y="950.403" type="line"/>
+      <point x="1731.25" y="951.403" type="line"/>
       <point x="1731.25" y="1174.65" type="line"/>
     </contour>
     <contour>
@@ -147,20 +147,12 @@
       <point x="753.25" y="707" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="369" y="0"/>
-  <guideline angle="0" x="0" y="467"/>
-  <guideline angle="0" x="0" y="320"/>
-  <guideline angle="0" x="0" y="-111"/>
-  <guideline angle="0" x="0" y="-90"/>
-  <guideline angle="90" x="1722.75" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>La.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>Ha.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

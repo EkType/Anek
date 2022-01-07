@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SaTa.dv" format="2">
-  <advance width="1884"/>
-  <anchor x="1641" y="9" name="bottom"/>
-  <anchor x="1635" y="9" name="bottom2"/>
-  <anchor x="1658" y="9" name="bottom3"/>
-  <anchor x="1640" y="30" name="bottom5"/>
-  <anchor x="1639.5" y="1241.5" name="top"/>
+  <advance width="1863"/>
+  <anchor x="1620" y="9" name="bottom"/>
+  <anchor x="1614" y="9" name="bottom2"/>
+  <anchor x="1637" y="9" name="bottom3"/>
+  <anchor x="1619" y="30" name="bottom5"/>
+  <anchor x="1618.5" y="1241.5" name="top"/>
   <outline>
     <contour>
       <point x="669" y="622.5" type="line"/>
-      <point x="920.5" y="622.5" type="line"/>
-      <point x="920.5" y="591" type="line"/>
+      <point x="910.5" y="622.5" type="line"/>
+      <point x="910.5" y="591" type="line"/>
       <point x="669" y="591" type="line"/>
     </contour>
     <contour>
-      <point x="1657.5" y="1230" type="line"/>
-      <point x="1657.5" y="0" type="line"/>
-      <point x="1623" y="0" type="line"/>
-      <point x="1623" y="1230" type="line"/>
+      <point x="1636.5" y="1230" type="line"/>
+      <point x="1636.5" y="0" type="line"/>
+      <point x="1602" y="0" type="line"/>
+      <point x="1602" y="1230" type="line"/>
     </contour>
     <contour>
-      <point x="1485" y="1221" type="line"/>
-      <point x="1478.5" y="1250.5" type="line"/>
-      <point x="1910.5" y="1250.5" type="line"/>
-      <point x="1917" y="1221" type="line"/>
+      <point x="1464" y="1221" type="line"/>
+      <point x="1457.5" y="1250.5" type="line"/>
+      <point x="1889.5" y="1250.5" type="line"/>
+      <point x="1896" y="1221" type="line"/>
     </contour>
     <contour>
-      <point x="731.5" y="1221" type="line"/>
-      <point x="724.5" y="1251" type="line"/>
-      <point x="1813.5" y="1251" type="line"/>
-      <point x="1820.5" y="1221" type="line"/>
+      <point x="710.5" y="1221" type="line"/>
+      <point x="703.5" y="1251" type="line"/>
+      <point x="1792.5" y="1251" type="line"/>
+      <point x="1799.5" y="1221" type="line"/>
     </contour>
     <contour>
-      <point x="1093.5" y="0" type="line"/>
-      <point x="976.877" y="203.47"/>
-      <point x="909.5" y="368.675"/>
-      <point x="909.5" y="550.522" type="curve" smooth="yes"/>
-      <point x="909.5" y="750.015"/>
-      <point x="1008.54" y="862"/>
-      <point x="1244.5" y="862" type="curve" smooth="yes"/>
-      <point x="1642.5" y="862" type="line"/>
-      <point x="1642.5" y="830" type="line"/>
-      <point x="1249.5" y="830" type="line" smooth="yes"/>
-      <point x="1035.56" y="830"/>
-      <point x="946.5" y="731.952"/>
-      <point x="946.5" y="550.201" type="curve" smooth="yes"/>
-      <point x="946.5" y="373.396"/>
-      <point x="1010.36" y="211.952"/>
-      <point x="1134.5" y="0" type="curve"/>
+      <point x="1072.5" y="0" type="line"/>
+      <point x="955.877" y="203.47"/>
+      <point x="888.5" y="368.675"/>
+      <point x="888.5" y="550.522" type="curve" smooth="yes"/>
+      <point x="888.5" y="750.015"/>
+      <point x="987.543" y="862"/>
+      <point x="1223.5" y="862" type="curve" smooth="yes"/>
+      <point x="1621.5" y="862" type="line"/>
+      <point x="1621.5" y="830" type="line"/>
+      <point x="1228.5" y="830" type="line" smooth="yes"/>
+      <point x="1014.56" y="830"/>
+      <point x="925.5" y="731.952"/>
+      <point x="925.5" y="550.201" type="curve" smooth="yes"/>
+      <point x="925.5" y="373.396"/>
+      <point x="989.362" y="211.952"/>
+      <point x="1113.5" y="0" type="curve"/>
     </contour>
     <contour>
       <point x="815" y="1221" type="line"/>
@@ -95,22 +95,12 @@
       <point x="713" y="623" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="285" y="0"/>
-  <guideline angle="90" x="1560" y="0"/>
-  <guideline angle="0" x="0" y="9"/>
-  <guideline angle="90" x="1565" y="0"/>
-  <guideline angle="90" x="1548" y="0"/>
-  <guideline angle="0" x="0" y="1262"/>
-  <guideline angle="90" x="1583" y="0"/>
-  <guideline angle="0" x="0" y="30"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Sa.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraA.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

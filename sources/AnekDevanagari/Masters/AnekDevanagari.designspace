@@ -325,10 +325,12 @@
  </instances>
  <rules>
   <rule>
+   <!-- Latin Lighter Variants -->
    <sub with="question_alt" name="question"/>
    <conditionset>
-    <condition maximum="450" name="weight"/>
+    <condition name="weight" maximum="450" minimum="100"/>
+    <condition name="width" maximum="125" minimum="75"/>
    </conditionset>
   </rule>
- </rules>
+  </rules>
 </designspace>

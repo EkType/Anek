@@ -375,10 +375,37 @@
     <key>public.kern2._Shra</key>
     <integer>40</integer>
   </dict>
+  <key>JaHalant.dv</key>
+  <dict>
+    <key>PhaNukta.dv</key>
+    <integer>-19</integer>
+  </dict>
   <key>KamatraLru.dv</key>
   <dict>
     <key>comma</key>
     <integer>-15</integer>
+  </dict>
+  <key>KhaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>-30</integer>
+  </dict>
+  <key>LaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>-24</integer>
+  </dict>
+  <key>MaHalant.dv</key>
+  <dict>
+    <key>public.kern2._I</key>
+    <integer>-17</integer>
+    <key>public.kern2._Pa</key>
+    <integer>-20</integer>
+  </dict>
+  <key>NaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Tta1</key>
+    <integer>-40</integer>
   </dict>
   <key>Nau.dv</key>
   <dict>
@@ -408,12 +435,37 @@
     <key>public.kern2._Cha2</key>
     <integer>2</integer>
   </dict>
+  <key>NnaHalant.dv</key>
+  <dict>
+    <key>public.kern2._I</key>
+    <integer>-20</integer>
+    <key>public.kern2._Tta1</key>
+    <integer>-20</integer>
+  </dict>
+  <key>NyaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Ca</key>
+    <integer>110</integer>
+    <key>public.kern2._Cha2</key>
+    <integer>70</integer>
+    <key>public.kern2._I</key>
+    <integer>60</integer>
+    <key>public.kern2._Ja</key>
+    <integer>100</integer>
+    <key>public.kern2._Sha.MAR</key>
+    <integer>110</integer>
+  </dict>
   <key>Om.dv</key>
   <dict>
     <key>comma</key>
     <integer>-25</integer>
     <key>public.kern2.R_period</key>
     <integer>-30</integer>
+  </dict>
+  <key>PhaNuktaHalant.dv</key>
+  <dict>
+    <key>public.kern2._La</key>
+    <integer>-40</integer>
   </dict>
   <key>RaNuktaHalant.dv</key>
   <dict>
@@ -507,6 +559,11 @@
     <key>public.kern2._Ya</key>
     <integer>15</integer>
   </dict>
+  <key>SaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>-20</integer>
+  </dict>
   <key>Saat.dv</key>
   <dict>
     <key>Chaar.dv</key>
@@ -571,6 +628,11 @@
     <key>public.kern2._paach</key>
     <integer>-10</integer>
   </dict>
+  <key>ShaHalant.MAR.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>-20</integer>
+  </dict>
   <key>Shunya.dv</key>
   <dict>
     <key>Chaar.dv</key>
@@ -598,6 +660,11 @@
   <dict>
     <key>public.kern2.R_m</key>
     <integer>-73</integer>
+  </dict>
+  <key>TaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Tta1</key>
+    <integer>-20</integer>
   </dict>
   <key>Teen.dv</key>
   <dict>

@@ -4,7 +4,7 @@
   <unicode hex="095C"/>
   <anchor x="626" y="-509" name="bottom"/>
   <anchor x="578" y="-368" name="bottom2"/>
-  <anchor x="1043" y="-8.5" name="bottom3"/>
+  <anchor x="1013" y="-291" name="bottom3"/>
   <anchor x="594" y="10" name="bottom5"/>
   <anchor x="848.5" y="1234.5" name="top"/>
   <outline>
@@ -105,20 +105,12 @@
       <point x="702.5" y="-451.5"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="22"/>
-  <guideline angle="0" x="0" y="545"/>
-  <guideline angle="90" x="275" y="0"/>
-  <guideline angle="90" x="518" y="0"/>
-  <guideline angle="0" x="0" y="43"/>
-  <guideline angle="90" x="729" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Dda.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>Dda.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

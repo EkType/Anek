@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="NaHa.dv" format="2">
-  <advance width="1705"/>
+  <advance width="1706"/>
   <anchor x="1248" y="-96" name="bottom"/>
   <anchor x="1130.5" y="-173.25" name="bottom2"/>
   <anchor x="1585.25" y="-173.25" name="bottom3"/>
@@ -40,8 +40,8 @@
     </contour>
     <contour>
       <point x="1545.75" y="1174.65" type="line"/>
-      <point x="1545.75" y="950.402" type="line"/>
-      <point x="1363.5" y="951.402" type="line"/>
+      <point x="1545.75" y="950.403" type="line"/>
+      <point x="1363.5" y="951.403" type="line"/>
       <point x="1363.5" y="1174.65" type="line"/>
     </contour>
     <contour>
@@ -119,20 +119,12 @@
       <point x="1501" y="-16.5" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="90" x="251" y="0"/>
-  <guideline angle="0" x="0" y="467"/>
-  <guideline angle="0" x="0" y="320"/>
-  <guideline angle="0" x="0" y="-111"/>
-  <guideline angle="0" x="0" y="-90"/>
-  <guideline angle="90" x="1355" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Na.dv</string>
   <key>com.fontlab.metricsRight</key>
   <string>Ha.dv</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

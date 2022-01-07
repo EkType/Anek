@@ -303,10 +303,41 @@
     <key>public.kern2._Ya</key>
     <integer>6</integer>
   </dict>
+  <key>JaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>20</integer>
+  </dict>
   <key>KamatraLru.dv</key>
   <dict>
     <key>comma</key>
     <integer>-0</integer>
+  </dict>
+  <key>KhaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>-50</integer>
+  </dict>
+  <key>LaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>-21</integer>
+  </dict>
+  <key>MaHalant.dv</key>
+  <dict>
+    <key>public.kern2._I</key>
+    <integer>-23</integer>
+    <key>public.kern2._Ka</key>
+    <integer>10</integer>
+    <key>public.kern2._Pa</key>
+    <integer>-50</integer>
+  </dict>
+  <key>NaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>-20</integer>
+    <key>public.kern2._Tta1</key>
+    <integer>-40</integer>
   </dict>
   <key>Nau.dv</key>
   <dict>
@@ -330,12 +361,42 @@
     <key>public.kern2._Cha2</key>
     <integer>15</integer>
   </dict>
+  <key>NnaHalant.dv</key>
+  <dict>
+    <key>public.kern2._I</key>
+    <integer>-20</integer>
+  </dict>
+  <key>NyaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Ca</key>
+    <integer>110</integer>
+    <key>public.kern2._Cha2</key>
+    <integer>50</integer>
+    <key>public.kern2._I</key>
+    <integer>10</integer>
+    <key>public.kern2._Ja</key>
+    <integer>100</integer>
+    <key>public.kern2._Sha</key>
+    <integer>30</integer>
+    <key>public.kern2._Sha.MAR</key>
+    <integer>130</integer>
+  </dict>
   <key>Om.dv</key>
   <dict>
     <key>comma</key>
     <integer>-30</integer>
     <key>public.kern2.R_period</key>
     <integer>-35</integer>
+  </dict>
+  <key>PhaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>30</integer>
+  </dict>
+  <key>PhaNuktaHalant.dv</key>
+  <dict>
+    <key>public.kern2._La</key>
+    <integer>-100</integer>
   </dict>
   <key>RaNuktaHalant.dv</key>
   <dict>
@@ -429,6 +490,11 @@
     <key>public.kern2._Ya</key>
     <integer>27</integer>
   </dict>
+  <key>SaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>-30</integer>
+  </dict>
   <key>Saat.dv</key>
   <dict>
     <key>Chaar.dv</key>
@@ -491,6 +557,11 @@
     <key>public.kern2._paach</key>
     <integer>-6</integer>
   </dict>
+  <key>ShaHalant.MAR.dv</key>
+  <dict>
+    <key>public.kern2._Pa</key>
+    <integer>-30</integer>
+  </dict>
   <key>Shunya.dv</key>
   <dict>
     <key>Chaar.dv</key>
@@ -518,6 +589,11 @@
   <dict>
     <key>public.kern2.R_m</key>
     <integer>-84</integer>
+  </dict>
+  <key>TaHalant.dv</key>
+  <dict>
+    <key>public.kern2._Tta1</key>
+    <integer>-30</integer>
   </dict>
   <key>Teen.dv</key>
   <dict>
@@ -1195,6 +1271,11 @@
     <key>KaSaPaLa.dv</key>
     <integer>-25</integer>
   </dict>
+  <key>matraIBindutwentyone.dv</key>
+  <dict>
+    <key>SsaTta.dv</key>
+    <integer>-12</integer>
+  </dict>
   <key>matraIBindutwentytwo.dv</key>
   <dict>
     <key>BaLa.MAR.dv</key>
@@ -1204,6 +1285,11 @@
   <dict>
     <key>KaSaPaLa.dv</key>
     <integer>-25</integer>
+  </dict>
+  <key>matraIRephBindutwentyone.dv</key>
+  <dict>
+    <key>SsaTta.dv</key>
+    <integer>-12</integer>
   </dict>
   <key>matraIRephBindutwentytwo.dv</key>
   <dict>
@@ -1215,6 +1301,11 @@
     <key>KaSaPaLa.dv</key>
     <integer>-25</integer>
   </dict>
+  <key>matraIRephtwentyone.dv</key>
+  <dict>
+    <key>SsaTta.dv</key>
+    <integer>-12</integer>
+  </dict>
   <key>matraIRephtwentytwo.dv</key>
   <dict>
     <key>BaLa.MAR.dv</key>
@@ -1224,6 +1315,11 @@
   <dict>
     <key>KaSaPaLa.dv</key>
     <integer>-25</integer>
+  </dict>
+  <key>matraItwentyone.dv</key>
+  <dict>
+    <key>SsaTta.dv</key>
+    <integer>-12</integer>
   </dict>
   <key>matraItwentytwo.dv</key>
   <dict>
