@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="PhamatraU.kn" format="2">
   <advance width="2829"/>
+  <anchor x="1045" y="0" name="nukta"/>
   <outline>
     <component base="Pha.kn"/>
     <contour>
@@ -36,16 +37,12 @@
       <point x="2516.55" y="1100"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="-454"/>
-  <guideline angle="90" x="80" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>Pha.kn</string>
   <key>com.fontlab.metricsRight</key>
   <string>matraU.kn</string>
-  <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>
