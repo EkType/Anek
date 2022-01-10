@@ -1,31 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="SignRu_alt1.bn" format="2">
-	<advance width="0"/>
-	<anchor x="-195" y="287" name="_bottom1"/>
-	<outline>
-		<contour>
-			<point x="-375" y="-153" type="curve"/>
-			<point x="-161" y="-236" type="line"/>
-			<point x="-179" y="-74"/>
-			<point x="-195" y="136"/>
-			<point x="-195" y="287" type="curve"/>
-			<point x="-399" y="297" type="line"/>
-			<point x="-399" y="144"/>
-			<point x="-393" y="-14"/>
-		</contour>
-		<contour>
-			<point x="-14" y="-746" type="line"/>
-			<point x="-2" y="-586" type="line"/>
-			<point x="-719" y="-398" type="line"/>
-			<point x="-719" y="-392" type="line"/>
-			<point x="-607" y="-357"/>
-			<point x="-320" y="-276"/>
-			<point x="-161" y="-236" type="curve"/>
-			<point x="-276" y="-97" type="line"/>
-			<point x="-510" y="-156"/>
-			<point x="-827" y="-251"/>
-			<point x="-979" y="-306" type="curve"/>
-			<point x="-979" y="-474" type="line"/>
-		</contour>
-	</outline>
+  <anchor x="1428" y="282" name="_bottom1"/>
+  <outline>
+    <contour>
+      <point x="1248" y="-157" type="curve"/>
+      <point x="1454" y="-236" type="line"/>
+      <point x="1433" y="-33"/>
+      <point x="1428" y="134"/>
+      <point x="1428" y="282" type="curve"/>
+      <point x="1222" y="282" type="line"/>
+      <point x="1222" y="128"/>
+      <point x="1226" y="-11"/>
+    </contour>
+    <contour>
+      <point x="1601" y="-746" type="line"/>
+      <point x="1613" y="-586" type="line"/>
+      <point x="896" y="-398" type="line"/>
+      <point x="896" y="-392" type="line"/>
+      <point x="1008" y="-357"/>
+      <point x="1295" y="-276"/>
+      <point x="1454" y="-236" type="curve"/>
+      <point x="1339" y="-97" type="line"/>
+      <point x="1105" y="-156"/>
+      <point x="788" y="-251"/>
+      <point x="636" y="-306" type="curve"/>
+      <point x="636" y="-474" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1617</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
 </glyph>

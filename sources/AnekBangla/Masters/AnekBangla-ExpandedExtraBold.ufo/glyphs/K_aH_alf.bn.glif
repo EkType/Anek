@@ -1,68 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="KaHalf.bn" format="2">
-	<advance width="2130"/>
-	<anchor x="1307" y="178" name="bottom1"/>
-	<outline>
-		<contour>
-			<point x="-7" y="984" type="line"/>
-			<point x="2188" y="984" type="line"/>
-			<point x="2168" y="1248" type="line"/>
-			<point x="-26" y="1248" type="line"/>
-		</contour>
-		<contour>
-			<point x="988" y="178" type="line"/>
-			<point x="1307" y="178" type="line"/>
-			<point x="1307" y="1016" type="line"/>
-			<point x="945" y="1016" type="line"/>
-			<point x="944" y="851" type="line"/>
-			<point x="944" y="767" type="line"/>
-			<point x="944" y="580" type="line"/>
-			<point x="956" y="383" type="line"/>
-			<point x="976" y="442" type="line"/>
-			<point x="325" y="568" type="line"/>
-			<point x="479" y="353" type="line"/>
-			<point x="479" y="640" type="line"/>
-			<point x="325" y="557" type="line"/>
-			<point x="632" y="614"/>
-			<point x="932" y="647"/>
-			<point x="1213" y="659" type="curve"/>
-			<point x="1204" y="935" type="line"/>
-			<point x="914" y="924"/>
-			<point x="418" y="860"/>
-			<point x="123" y="798" type="curve"/>
-			<point x="123" y="342" type="line"/>
-		</contour>
-		<contour>
-			<point x="1407" y="523" type="curve"/>
-			<point x="1434" y="250" type="line"/>
-			<point x="1468" y="248"/>
-			<point x="1501" y="246"/>
-			<point x="1535" y="246" type="curve" smooth="yes"/>
-			<point x="1878" y="246"/>
-			<point x="1998" y="364"/>
-			<point x="1998" y="562" type="curve" smooth="yes"/>
-			<point x="1998" y="568" type="line" smooth="yes"/>
-			<point x="1998" y="844"/>
-			<point x="1715" y="892"/>
-			<point x="1421" y="918" type="curve" smooth="yes"/>
-			<point x="1179" y="942" type="line"/>
-			<point x="1179" y="671" type="line"/>
-			<point x="1469" y="644" type="line" smooth="yes"/>
-			<point x="1592" y="636"/>
-			<point x="1626" y="618"/>
-			<point x="1626" y="579" type="curve" smooth="yes"/>
-			<point x="1626" y="573" type="line" smooth="yes"/>
-			<point x="1626" y="537"/>
-			<point x="1598" y="519"/>
-			<point x="1535" y="519" type="curve" smooth="yes"/>
-			<point x="1496" y="519"/>
-			<point x="1449" y="520"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>BaHalf.bn</string>
-		</dict>
-	</lib>
+  <advance width="2130"/>
+  <outline>
+    <contour>
+      <point x="-7" y="984" type="line"/>
+      <point x="2188" y="984" type="line"/>
+      <point x="2168" y="1248" type="line"/>
+      <point x="-26" y="1248" type="line"/>
+    </contour>
+    <contour>
+      <point x="988" y="178" type="line"/>
+      <point x="1307" y="178" type="line"/>
+      <point x="1307" y="1016" type="line"/>
+      <point x="945" y="1016" type="line"/>
+      <point x="944" y="851" type="line"/>
+      <point x="944" y="767" type="line"/>
+      <point x="944" y="580" type="line"/>
+      <point x="956" y="383" type="line"/>
+      <point x="976" y="442" type="line"/>
+      <point x="325" y="568" type="line"/>
+      <point x="479" y="353" type="line"/>
+      <point x="479" y="640" type="line"/>
+      <point x="325" y="557" type="line"/>
+      <point x="632" y="614"/>
+      <point x="932" y="647"/>
+      <point x="1213" y="659" type="curve"/>
+      <point x="1204" y="935" type="line"/>
+      <point x="914" y="924"/>
+      <point x="418" y="860"/>
+      <point x="123" y="798" type="curve"/>
+      <point x="123" y="342" type="line"/>
+    </contour>
+    <contour>
+      <point x="1434" y="250" type="line"/>
+      <point x="1468" y="248"/>
+      <point x="1501" y="246"/>
+      <point x="1535" y="246" type="curve" smooth="yes"/>
+      <point x="1878" y="246"/>
+      <point x="1998" y="364"/>
+      <point x="1998" y="562" type="curve" smooth="yes"/>
+      <point x="1998" y="568" type="line" smooth="yes"/>
+      <point x="1998" y="844"/>
+      <point x="1715" y="892"/>
+      <point x="1421" y="918" type="curve" smooth="yes"/>
+      <point x="1179" y="942" type="line"/>
+      <point x="1179" y="671" type="line"/>
+      <point x="1469" y="644" type="line" smooth="yes"/>
+      <point x="1592" y="636"/>
+      <point x="1626" y="618"/>
+      <point x="1626" y="579" type="curve" smooth="yes"/>
+      <point x="1626" y="573" type="line" smooth="yes"/>
+      <point x="1626" y="537"/>
+      <point x="1598" y="519"/>
+      <point x="1535" y="519" type="curve" smooth="yes"/>
+      <point x="1496" y="519"/>
+      <point x="1449" y="520"/>
+      <point x="1407" y="523" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>BaHalf.bn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

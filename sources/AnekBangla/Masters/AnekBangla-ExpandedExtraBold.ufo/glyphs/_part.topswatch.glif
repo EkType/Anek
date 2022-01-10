@@ -1,44 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_part.topswatch" format="2">
-	<advance width="594"/>
-	<guideline x="-69" y="671" angle="90"/>
-	<anchor x="274" y="1500" name="top"/>
-	<anchor x="628" y="1528" name="top2"/>
-	<outline>
-		<contour>
-			<point x="875" y="1331" type="line"/>
-			<point x="875" y="1334"/>
-			<point x="875" y="1336"/>
-			<point x="875" y="1339" type="curve" smooth="yes"/>
-			<point x="875" y="1544"/>
-			<point x="727" y="1667"/>
-			<point x="468" y="1667" type="curve" smooth="yes"/>
-			<point x="241" y="1667" type="line" smooth="yes"/>
-			<point x="131" y="1667"/>
-			<point x="95" y="1689"/>
-			<point x="86" y="1767" type="curve" smooth="yes"/>
-			<point x="83" y="1793" type="line"/>
-			<point x="-244" y="1793" type="line"/>
-			<point x="-244" y="1766" type="line" smooth="yes"/>
-			<point x="-244" y="1509"/>
-			<point x="-93" y="1398"/>
-			<point x="259" y="1398" type="curve" smooth="yes"/>
-			<point x="410" y="1398" type="line" smooth="yes"/>
-			<point x="489" y="1398"/>
-			<point x="521" y="1374"/>
-			<point x="521" y="1317" type="curve" smooth="yes"/>
-			<point x="521" y="1278"/>
-			<point x="506" y="1250"/>
-			<point x="474" y="1232" type="curve"/>
-			<point x="556" y="1223" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-12-24 14:39:29 +0000</string>
-		</dict>
-	</lib>
+  <advance width="594"/>
+  <anchor x="274" y="1500" name="top"/>
+  <anchor x="628" y="1528" name="top2"/>
+  <outline>
+    <contour>
+      <point x="875" y="1331" type="line"/>
+      <point x="875" y="1334"/>
+      <point x="875" y="1336"/>
+      <point x="875" y="1339" type="curve" smooth="yes"/>
+      <point x="875" y="1544"/>
+      <point x="727" y="1667"/>
+      <point x="468" y="1667" type="curve" smooth="yes"/>
+      <point x="241" y="1667" type="line" smooth="yes"/>
+      <point x="131" y="1667"/>
+      <point x="95" y="1689"/>
+      <point x="86" y="1767" type="curve" smooth="yes"/>
+      <point x="83" y="1793" type="line"/>
+      <point x="-244" y="1793" type="line"/>
+      <point x="-244" y="1766" type="line" smooth="yes"/>
+      <point x="-244" y="1509"/>
+      <point x="-93" y="1398"/>
+      <point x="259" y="1398" type="curve" smooth="yes"/>
+      <point x="410" y="1398" type="line" smooth="yes"/>
+      <point x="489" y="1398"/>
+      <point x="521" y="1374"/>
+      <point x="521" y="1317" type="curve" smooth="yes"/>
+      <point x="521" y="1278"/>
+      <point x="506" y="1250"/>
+      <point x="474" y="1232" type="curve"/>
+      <point x="556" y="1223" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>topswatchWidth</key>
+        <integer>1</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>topswatchWidth</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>100</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

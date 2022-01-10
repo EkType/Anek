@@ -1,16 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb.narrow" format="2">
-	<advance width="0"/>
-	<anchor x="-409" y="1374" name="top"/>
-	<anchor x="-270" y="963" name="_top"/>
-	<outline>
-		<contour>
-			<point x="-227" y="1385" type="line"/>
-			<point x="-617" y="1385" type="line"/>
-			<point x="-617" y="1378" type="line"/>
-			<point x="-430" y="1073" type="line"/>
-			<point x="-110" y="1073" type="line"/>
-			<point x="-110" y="1079" type="line"/>
-		</contour>
-	</outline>
+  <anchor x="576" y="963" name="_top"/>
+  <anchor x="437" y="1374" name="top"/>
+  <outline>
+    <contour>
+      <point x="619" y="1385" type="line"/>
+      <point x="229" y="1385" type="line"/>
+      <point x="229" y="1378" type="line"/>
+      <point x="416" y="1073" type="line"/>
+      <point x="736" y="1073" type="line"/>
+      <point x="736" y="1079" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>846</integer>
+    </dict>
+  </lib>
 </glyph>

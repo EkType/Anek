@@ -1,45 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Anuswara.bn" format="2">
-	<advance width="1358"/>
-	<unicode hex="0982"/>
-	<outline>
-		<contour>
-			<point x="1217" y="-84" type="line"/>
-			<point x="1233" y="97" type="line"/>
-			<point x="191" y="452" type="line"/>
-			<point x="175" y="272" type="line"/>
-		</contour>
-		<contour>
-			<point x="658" y="592" type="curve" smooth="yes"/>
-			<point x="980" y="592"/>
-			<point x="1149" y="706"/>
-			<point x="1149" y="917" type="curve" smooth="yes"/>
-			<point x="1149" y="920" type="line" smooth="yes"/>
-			<point x="1149" y="1128"/>
-			<point x="978" y="1248"/>
-			<point x="658" y="1248" type="curve" smooth="yes"/>
-			<point x="333" y="1248"/>
-			<point x="165" y="1128"/>
-			<point x="165" y="920" type="curve" smooth="yes"/>
-			<point x="165" y="917" type="line" smooth="yes"/>
-			<point x="165" y="706"/>
-			<point x="334" y="592"/>
-		</contour>
-		<contour>
-			<point x="658" y="733" type="curve" smooth="yes"/>
-			<point x="452" y="733"/>
-			<point x="350" y="799"/>
-			<point x="350" y="918" type="curve" smooth="yes"/>
-			<point x="350" y="921" type="line" smooth="yes"/>
-			<point x="350" y="1040"/>
-			<point x="452" y="1107"/>
-			<point x="658" y="1107" type="curve" smooth="yes"/>
-			<point x="859" y="1107"/>
-			<point x="964" y="1040"/>
-			<point x="964" y="921" type="curve" smooth="yes"/>
-			<point x="964" y="918" type="line" smooth="yes"/>
-			<point x="964" y="799"/>
-			<point x="859" y="733"/>
-		</contour>
-	</outline>
+  <advance width="1358"/>
+  <unicode hex="0982"/>
+  <outline>
+    <contour>
+      <point x="1217" y="-84" type="line"/>
+      <point x="1233" y="97" type="line"/>
+      <point x="191" y="452" type="line"/>
+      <point x="175" y="272" type="line"/>
+    </contour>
+    <contour>
+      <point x="658" y="592" type="curve" smooth="yes"/>
+      <point x="980" y="592"/>
+      <point x="1149" y="706"/>
+      <point x="1149" y="917" type="curve" smooth="yes"/>
+      <point x="1149" y="920" type="line" smooth="yes"/>
+      <point x="1149" y="1128"/>
+      <point x="978" y="1248"/>
+      <point x="658" y="1248" type="curve" smooth="yes"/>
+      <point x="333" y="1248"/>
+      <point x="165" y="1128"/>
+      <point x="165" y="920" type="curve" smooth="yes"/>
+      <point x="165" y="917" type="line" smooth="yes"/>
+      <point x="165" y="706"/>
+      <point x="334" y="592"/>
+    </contour>
+    <contour>
+      <point x="658" y="733" type="curve" smooth="yes"/>
+      <point x="452" y="733"/>
+      <point x="350" y="799"/>
+      <point x="350" y="918" type="curve" smooth="yes"/>
+      <point x="350" y="921" type="line" smooth="yes"/>
+      <point x="350" y="1040"/>
+      <point x="452" y="1107"/>
+      <point x="658" y="1107" type="curve" smooth="yes"/>
+      <point x="859" y="1107"/>
+      <point x="964" y="1040"/>
+      <point x="964" y="921" type="curve" smooth="yes"/>
+      <point x="964" y="918" type="line" smooth="yes"/>
+      <point x="964" y="799"/>
+      <point x="859" y="733"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

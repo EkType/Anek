@@ -1,51 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Isshar.bn" format="2">
-	<advance width="1478"/>
-	<unicode hex="09FA"/>
-	<outline>
-		<contour>
-			<point x="713" y="600" type="curve" smooth="yes"/>
-			<point x="810" y="600"/>
-			<point x="861" y="652"/>
-			<point x="861" y="729" type="curve" smooth="yes"/>
-			<point x="861" y="734" type="line" smooth="yes"/>
-			<point x="861" y="812"/>
-			<point x="810" y="864"/>
-			<point x="713" y="864" type="curve" smooth="yes"/>
-			<point x="616" y="864"/>
-			<point x="564" y="813"/>
-			<point x="564" y="734" type="curve" smooth="yes"/>
-			<point x="564" y="729" type="line" smooth="yes"/>
-			<point x="564" y="652"/>
-			<point x="616" y="600"/>
-		</contour>
-		<contour>
-			<point x="711" y="392" type="curve" smooth="yes"/>
-			<point x="471" y="392"/>
-			<point x="366" y="493"/>
-			<point x="350" y="651" type="curve" smooth="yes"/>
-			<point x="348" y="668" type="line"/>
-			<point x="165" y="668" type="line"/>
-			<point x="166" y="651" type="line" smooth="yes"/>
-			<point x="173" y="366"/>
-			<point x="371" y="230"/>
-			<point x="719" y="230" type="curve" smooth="yes"/>
-			<point x="1032" y="230"/>
-			<point x="1210" y="349"/>
-			<point x="1297" y="651" type="curve" smooth="yes"/>
-			<point x="1379" y="933" type="line"/>
-			<point x="1181" y="933" type="line"/>
-			<point x="1098" y="664" type="line" smooth="yes"/>
-			<point x="1036" y="463"/>
-			<point x="923" y="392"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>Visarga.bn</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>_CompIsshar.bn</string>
-		</dict>
-	</lib>
+  <advance width="1478"/>
+  <unicode hex="09FA"/>
+  <outline>
+    <contour>
+      <point x="713" y="600" type="curve" smooth="yes"/>
+      <point x="810" y="600"/>
+      <point x="861" y="652"/>
+      <point x="861" y="729" type="curve" smooth="yes"/>
+      <point x="861" y="734" type="line" smooth="yes"/>
+      <point x="861" y="812"/>
+      <point x="810" y="864"/>
+      <point x="713" y="864" type="curve" smooth="yes"/>
+      <point x="616" y="864"/>
+      <point x="564" y="813"/>
+      <point x="564" y="734" type="curve" smooth="yes"/>
+      <point x="564" y="729" type="line" smooth="yes"/>
+      <point x="564" y="652"/>
+      <point x="616" y="600"/>
+    </contour>
+    <contour>
+      <point x="711" y="392" type="curve" smooth="yes"/>
+      <point x="471" y="392"/>
+      <point x="366" y="493"/>
+      <point x="350" y="651" type="curve" smooth="yes"/>
+      <point x="348" y="668" type="line"/>
+      <point x="165" y="668" type="line"/>
+      <point x="166" y="651" type="line" smooth="yes"/>
+      <point x="173" y="366"/>
+      <point x="371" y="230"/>
+      <point x="719" y="230" type="curve" smooth="yes"/>
+      <point x="1032" y="230"/>
+      <point x="1210" y="349"/>
+      <point x="1297" y="651" type="curve" smooth="yes"/>
+      <point x="1379" y="933" type="line"/>
+      <point x="1181" y="933" type="line"/>
+      <point x="1098" y="664" type="line" smooth="yes"/>
+      <point x="1036" y="463"/>
+      <point x="923" y="392"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Visarga.bn</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_CompIsshar.bn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

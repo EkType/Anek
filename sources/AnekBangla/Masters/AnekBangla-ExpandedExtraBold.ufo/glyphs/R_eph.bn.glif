@@ -1,13 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Reph.bn" format="2">
-	<advance width="0"/>
-	<anchor x="-571" y="1398" name="_top"/>
-	<outline>
-		<contour>
-			<point x="-571" y="1398" type="line"/>
-			<point x="-81" y="1398" type="line"/>
-			<point x="388" y="1896" type="line"/>
-			<point x="-6" y="1896" type="line"/>
-		</contour>
-	</outline>
+  <anchor x="-571" y="1398" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-571" y="1398" type="line"/>
+      <point x="-81" y="1398" type="line"/>
+      <point x="388" y="1896" type="line"/>
+      <point x="-6" y="1896" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
 </glyph>

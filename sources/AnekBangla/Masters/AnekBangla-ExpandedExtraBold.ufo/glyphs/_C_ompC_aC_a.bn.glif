@@ -1,55 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_CompCaCa.bn" format="2">
-	<advance width="1542"/>
-	<guideline x="467" y="119" angle="0"/>
-	<anchor x="98" y="1235" name="top"/>
-	<anchor x="135" y="1595" name="top2"/>
-	<outline>
-		<contour>
-			<point x="814" y="173" type="curve" smooth="yes"/>
-			<point x="1035" y="173"/>
-			<point x="1253" y="221"/>
-			<point x="1373" y="335" type="curve" smooth="yes"/>
-			<point x="1430" y="391"/>
-			<point x="1465" y="463"/>
-			<point x="1465" y="553" type="curve" smooth="yes"/>
-			<point x="1465" y="773"/>
-			<point x="1286" y="856"/>
-			<point x="970" y="882" type="curve" smooth="yes"/>
-			<point x="450" y="925" type="line"/>
-			<point x="450" y="670" type="line"/>
-			<point x="962" y="629" type="line" smooth="yes"/>
-			<point x="1048" y="622"/>
-			<point x="1086" y="602"/>
-			<point x="1086" y="557" type="curve" smooth="yes"/>
-			<point x="1086" y="530"/>
-			<point x="1069" y="509"/>
-			<point x="1040" y="493" type="curve" smooth="yes"/>
-			<point x="988" y="465"/>
-			<point x="897" y="454"/>
-			<point x="801" y="454" type="curve" smooth="yes"/>
-			<point x="610" y="454"/>
-			<point x="552" y="514"/>
-			<point x="552" y="609" type="curve" smooth="yes"/>
-			<point x="552" y="1063" type="line"/>
-			<point x="191" y="1063" type="line"/>
-			<point x="191" y="620" type="line" smooth="yes"/>
-			<point x="191" y="321"/>
-			<point x="403" y="173"/>
-		</contour>
-		<contour>
-			<point x="-59" y="984" type="line"/>
-			<point x="1595" y="984" type="line"/>
-			<point x="1575" y="1248" type="line"/>
-			<point x="-79" y="1248" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>Ca.bn</string>
-		</dict>
-	</lib>
+  <advance width="1542"/>
+  <anchor x="98" y="1235" name="top"/>
+  <anchor x="135" y="1595" name="top2"/>
+  <outline>
+    <contour>
+      <point x="814" y="173" type="curve" smooth="yes"/>
+      <point x="1035" y="173"/>
+      <point x="1253" y="221"/>
+      <point x="1373" y="335" type="curve" smooth="yes"/>
+      <point x="1430" y="391"/>
+      <point x="1465" y="463"/>
+      <point x="1465" y="553" type="curve" smooth="yes"/>
+      <point x="1465" y="773"/>
+      <point x="1286" y="856"/>
+      <point x="970" y="882" type="curve" smooth="yes"/>
+      <point x="450" y="925" type="line"/>
+      <point x="450" y="670" type="line"/>
+      <point x="962" y="629" type="line" smooth="yes"/>
+      <point x="1048" y="622"/>
+      <point x="1086" y="602"/>
+      <point x="1086" y="557" type="curve" smooth="yes"/>
+      <point x="1086" y="530"/>
+      <point x="1069" y="509"/>
+      <point x="1040" y="493" type="curve" smooth="yes"/>
+      <point x="988" y="465"/>
+      <point x="897" y="454"/>
+      <point x="801" y="454" type="curve" smooth="yes"/>
+      <point x="610" y="454"/>
+      <point x="552" y="514"/>
+      <point x="552" y="609" type="curve" smooth="yes"/>
+      <point x="552" y="1063" type="line"/>
+      <point x="191" y="1063" type="line"/>
+      <point x="191" y="620" type="line" smooth="yes"/>
+      <point x="191" y="321"/>
+      <point x="403" y="173"/>
+    </contour>
+    <contour>
+      <point x="-59" y="984" type="line"/>
+      <point x="1595" y="984" type="line"/>
+      <point x="1575" y="1248" type="line"/>
+      <point x="-79" y="1248" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ca.bn</string>
+    </dict>
+  </lib>
 </glyph>

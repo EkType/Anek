@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L" format="2">
-	<advance width="1367"/>
-	<unicode hex="004C"/>
-	<anchor x="684" y="639" name="center"/>
-	<anchor x="256" y="1278" name="top"/>
-	<anchor x="972" y="1278" name="topright"/>
-	<anchor x="744" y="0" name="bottom"/>
-	<outline>
-		<contour>
-			<point x="276" y="0" type="line"/>
-			<point x="276" y="1278" type="line"/>
-			<point x="236" y="1278" type="line"/>
-			<point x="236" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="258" y="34" type="line"/>
-			<point x="258" y="0" type="line"/>
-			<point x="1267" y="0" type="line"/>
-			<point x="1267" y="34" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>=H</string>
-		</dict>
-	</lib>
+  <advance width="1367"/>
+  <unicode hex="004C"/>
+  <anchor x="744" y="0" name="bottom"/>
+  <anchor x="684" y="639" name="center"/>
+  <anchor x="256" y="1278" name="top"/>
+  <anchor x="972" y="1278" name="topright"/>
+  <outline>
+    <contour>
+      <point x="276" y="0" type="line"/>
+      <point x="276" y="1278" type="line"/>
+      <point x="236" y="1278" type="line"/>
+      <point x="236" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="34" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="1267" y="0" type="line"/>
+      <point x="1267" y="34" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=H</string>
+    </dict>
+  </lib>
 </glyph>

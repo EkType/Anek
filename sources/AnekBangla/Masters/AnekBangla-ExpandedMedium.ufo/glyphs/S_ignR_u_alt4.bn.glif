@@ -1,27 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="SignRu_alt4.bn" format="2">
-	<advance width="0"/>
-	<anchor x="-143" y="-44" name="_bottom1"/>
-	<outline>
-		<contour>
-			<point x="-339" y="-190" type="line"/>
-			<point x="-143" y="-241" type="line"/>
-			<point x="-143" y="62" type="line"/>
-			<point x="-339" y="62" type="line"/>
-		</contour>
-		<contour>
-			<point x="4" y="-751" type="line"/>
-			<point x="16" y="-591" type="line"/>
-			<point x="-701" y="-403" type="line"/>
-			<point x="-701" y="-397" type="line"/>
-			<point x="-589" y="-362"/>
-			<point x="-302" y="-281"/>
-			<point x="-143" y="-241" type="curve"/>
-			<point x="-258" y="-102" type="line"/>
-			<point x="-492" y="-161"/>
-			<point x="-809" y="-256"/>
-			<point x="-961" y="-311" type="curve"/>
-			<point x="-961" y="-479" type="line"/>
-		</contour>
-	</outline>
+  <anchor x="1485" y="-69" name="_bottom1"/>
+  <outline>
+    <contour>
+      <point x="1289" y="-190" type="line"/>
+      <point x="1485" y="-241" type="line"/>
+      <point x="1485" y="62" type="line"/>
+      <point x="1289" y="62" type="line"/>
+    </contour>
+    <contour>
+      <point x="1632" y="-751" type="line"/>
+      <point x="1644" y="-591" type="line"/>
+      <point x="927" y="-403" type="line"/>
+      <point x="927" y="-397" type="line"/>
+      <point x="1039" y="-362"/>
+      <point x="1326" y="-281"/>
+      <point x="1485" y="-241" type="curve"/>
+      <point x="1370" y="-102" type="line"/>
+      <point x="1136" y="-161"/>
+      <point x="819" y="-256"/>
+      <point x="667" y="-311" type="curve"/>
+      <point x="667" y="-479" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1628</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
 </glyph>

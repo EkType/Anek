@@ -1,29 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="SignUu.side.bn" format="2">
-	<advance width="719"/>
-	<anchor x="-123" y="305" name="_side1"/>
-	<outline>
-		<contour>
-			<point x="428" y="101" type="line"/>
-			<point x="464" y="101" type="line"/>
-			<point x="464" y="800" type="line"/>
-			<point x="426" y="800" type="line"/>
-			<point x="-307" y="640" type="line"/>
-			<point x="-307" y="602" type="line"/>
-			<point x="453" y="773" type="line"/>
-			<point x="428" y="784" type="line"/>
-		</contour>
-		<contour>
-			<point x="-307" y="1177" type="line"/>
-			<point x="781" y="1177" type="line"/>
-			<point x="773" y="1208" type="line"/>
-			<point x="-307" y="1208" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>SignAa.bn</string>
-		</dict>
-	</lib>
+  <advance width="764"/>
+  <outline>
+    <contour>
+      <point x="428" y="101" type="line"/>
+      <point x="464" y="101" type="line"/>
+      <point x="464" y="800" type="line"/>
+      <point x="426" y="800" type="line"/>
+      <point x="-310" y="640" type="line"/>
+      <point x="-310" y="605" type="line"/>
+      <point x="453" y="772" type="line"/>
+      <point x="428" y="784" type="line"/>
+    </contour>
+    <contour>
+      <point x="-307" y="1177" type="line"/>
+      <point x="826" y="1177" type="line"/>
+      <point x="820" y="1208" type="line"/>
+      <point x="-307" y="1208" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>SignAa.bn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

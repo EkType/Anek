@@ -1,82 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="BaDha.bn" format="2">
-	<advance width="2264"/>
-	<anchor x="1289" y="-157" name="bottom1"/>
-	<anchor x="1249" y="1403" name="top"/>
-	<anchor x="893" y="1776" name="top2"/>
-	<outline>
-		<contour>
-			<point x="1258" y="-157" type="line"/>
-			<point x="1289" y="-157" type="line"/>
-			<point x="1289" y="1188" type="line"/>
-			<point x="1253" y="1188" type="line"/>
-			<point x="1253" y="934" type="line"/>
-			<point x="1253" y="926" type="line"/>
-			<point x="1253" y="4" type="line"/>
-			<point x="1255" y="-133" type="line"/>
-			<point x="1262" y="-123" type="line"/>
-			<point x="311" y="80" type="line"/>
-			<point x="325" y="61" type="line"/>
-			<point x="325" y="300" type="line"/>
-			<point x="311" y="284" type="line"/>
-			<point x="791" y="395"/>
-			<point x="1346" y="478"/>
-			<point x="1977" y="537" type="curve"/>
-			<point x="1952" y="566" type="line"/>
-			<point x="1322" y="507"/>
-			<point x="768" y="425"/>
-			<point x="289" y="314" type="curve"/>
-			<point x="289" y="52" type="line"/>
-		</contour>
-		<contour>
-			<point x="1952" y="-42" type="line"/>
-			<point x="1987" y="-42" type="line"/>
-			<point x="1987" y="566" type="line"/>
-			<point x="1952" y="566" type="line"/>
-		</contour>
-		<contour>
-			<point x="-17" y="1177" type="line"/>
-			<point x="2300" y="1177" type="line"/>
-			<point x="2294" y="1208" type="line"/>
-			<point x="-23" y="1208" type="line"/>
-		</contour>
-		<contour>
-			<point x="727" y="371" type="line"/>
-			<point x="792" y="386" type="line"/>
-			<point x="248" y="523" type="line"/>
-			<point x="262" y="503" type="line"/>
-			<point x="262" y="730" type="line"/>
-			<point x="248" y="714" type="line"/>
-			<point x="568" y="808"/>
-			<point x="920" y="870"/>
-			<point x="1289" y="914" type="curve"/>
-			<point x="1264" y="943" type="line"/>
-			<point x="879" y="901"/>
-			<point x="539" y="833"/>
-			<point x="226" y="744" type="curve"/>
-			<point x="226" y="494" type="line"/>
-		</contour>
-		<contour>
-			<point x="1266" y="1199" type="line"/>
-			<point x="1266" y="912" type="line"/>
-			<point x="1289" y="912" type="line"/>
-			<point x="1289" y="1199" type="line"/>
-		</contour>
-		<contour>
-			<point x="1266" y="1177" type="line"/>
-			<point x="1651" y="1177" type="line"/>
-			<point x="1645" y="1208" type="line"/>
-			<point x="1266" y="1208" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-			<string>==GaDha.bn-10</string>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>KaKa.bn</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>=GaDha.bn</string>
-		</dict>
-	</lib>
+  <advance width="2264"/>
+  <anchor x="1289" y="-157" name="bottom1"/>
+  <anchor x="1249" y="1403" name="top"/>
+  <anchor x="893" y="1776" name="top2"/>
+  <outline>
+    <contour>
+      <point x="1258" y="-157" type="line"/>
+      <point x="1289" y="-157" type="line"/>
+      <point x="1289" y="1188" type="line"/>
+      <point x="1253" y="1188" type="line"/>
+      <point x="1253" y="934" type="line"/>
+      <point x="1253" y="926" type="line"/>
+      <point x="1253" y="4" type="line"/>
+      <point x="1255" y="-133" type="line"/>
+      <point x="1262" y="-123" type="line"/>
+      <point x="311" y="80" type="line"/>
+      <point x="325" y="61" type="line"/>
+      <point x="325" y="300" type="line"/>
+      <point x="311" y="284" type="line"/>
+      <point x="791" y="395"/>
+      <point x="1346" y="478"/>
+      <point x="1977" y="537" type="curve"/>
+      <point x="1952" y="566" type="line"/>
+      <point x="1322" y="507"/>
+      <point x="768" y="425"/>
+      <point x="289" y="314" type="curve"/>
+      <point x="289" y="52" type="line"/>
+    </contour>
+    <contour>
+      <point x="1952" y="-42" type="line"/>
+      <point x="1987" y="-42" type="line"/>
+      <point x="1987" y="566" type="line"/>
+      <point x="1952" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="-17" y="1177" type="line"/>
+      <point x="2300" y="1177" type="line"/>
+      <point x="2294" y="1208" type="line"/>
+      <point x="-23" y="1208" type="line"/>
+    </contour>
+    <contour>
+      <point x="727" y="371" type="line"/>
+      <point x="792" y="386" type="line"/>
+      <point x="248" y="523" type="line"/>
+      <point x="262" y="503" type="line"/>
+      <point x="262" y="730" type="line"/>
+      <point x="248" y="714" type="line"/>
+      <point x="568" y="808"/>
+      <point x="920" y="870"/>
+      <point x="1289" y="914" type="curve"/>
+      <point x="1264" y="943" type="line"/>
+      <point x="879" y="901"/>
+      <point x="539" y="833"/>
+      <point x="226" y="744" type="curve"/>
+      <point x="226" y="494" type="line"/>
+    </contour>
+    <contour>
+      <point x="1266" y="1199" type="line"/>
+      <point x="1266" y="912" type="line"/>
+      <point x="1289" y="912" type="line"/>
+      <point x="1289" y="1199" type="line"/>
+    </contour>
+    <contour>
+      <point x="1266" y="1177" type="line"/>
+      <point x="1651" y="1177" type="line"/>
+      <point x="1645" y="1208" type="line"/>
+      <point x="1266" y="1208" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>KaKa.bn</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=GaDha.bn</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=GaDha.bn-10</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

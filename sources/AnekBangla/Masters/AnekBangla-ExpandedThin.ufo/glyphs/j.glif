@@ -1,38 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="j" format="2">
-	<advance width="520"/>
-	<unicode hex="006A"/>
-	<outline>
-		<contour>
-			<point x="276" y="172" type="line"/>
-			<point x="314" y="172" type="line"/>
-			<point x="314" y="952" type="line"/>
-			<point x="276" y="952" type="line"/>
-		</contour>
-		<contour>
-			<point x="294" y="1198" type="curve" smooth="yes"/>
-			<point x="332" y="1198"/>
-			<point x="353" y="1216"/>
-			<point x="353" y="1250" type="curve" smooth="yes"/>
-			<point x="353" y="1253" type="line" smooth="yes"/>
-			<point x="353" y="1285"/>
-			<point x="332" y="1303"/>
-			<point x="294" y="1303" type="curve" smooth="yes"/>
-			<point x="259" y="1303"/>
-			<point x="237" y="1285"/>
-			<point x="237" y="1253" type="curve" smooth="yes"/>
-			<point x="237" y="1250" type="line" smooth="yes"/>
-			<point x="237" y="1216"/>
-			<point x="259" y="1198"/>
-		</contour>
-		<component base="jbottom"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>jbottom</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>i</string>
-		</dict>
-	</lib>
+  <advance width="520"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="276" y="172" type="line"/>
+      <point x="314" y="172" type="line"/>
+      <point x="314" y="952" type="line"/>
+      <point x="276" y="952" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="1198" type="curve" smooth="yes"/>
+      <point x="332" y="1198"/>
+      <point x="353" y="1216"/>
+      <point x="353" y="1250" type="curve" smooth="yes"/>
+      <point x="353" y="1253" type="line" smooth="yes"/>
+      <point x="353" y="1285"/>
+      <point x="332" y="1303"/>
+      <point x="294" y="1303" type="curve" smooth="yes"/>
+      <point x="259" y="1303"/>
+      <point x="237" y="1285"/>
+      <point x="237" y="1253" type="curve" smooth="yes"/>
+      <point x="237" y="1250" type="line" smooth="yes"/>
+      <point x="237" y="1216"/>
+      <point x="259" y="1198"/>
+    </contour>
+    <component base="jbottom"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>jbottom</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
 </glyph>

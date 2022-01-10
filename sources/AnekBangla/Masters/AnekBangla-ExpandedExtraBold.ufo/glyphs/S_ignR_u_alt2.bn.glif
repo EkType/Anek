@@ -1,27 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="SignRu_alt2.bn" format="2">
-	<advance width="0"/>
-	<anchor x="-100" y="0" name="_bottom1"/>
-	<outline>
-		<contour>
-			<point x="-100" y="-290" type="line"/>
-			<point x="-100" y="21" type="line"/>
-			<point x="-470" y="21" type="line"/>
-			<point x="-470" y="-180" type="line"/>
-		</contour>
-		<contour>
-			<point x="24" y="-810" type="line"/>
-			<point x="44" y="-527" type="line"/>
-			<point x="-538" y="-395" type="line"/>
-			<point x="-538" y="-387" type="line"/>
-			<point x="-414" y="-357"/>
-			<point x="-230" y="-317"/>
-			<point x="-100" y="-290" type="curve"/>
-			<point x="-306" y="-41" type="line"/>
-			<point x="-557" y="-96"/>
-			<point x="-843" y="-178"/>
-			<point x="-1007" y="-233" type="curve"/>
-			<point x="-1007" y="-527" type="line"/>
-		</contour>
-	</outline>
+  <anchor x="617" y="0" name="_bottom1"/>
+  <outline>
+    <contour>
+      <point x="617" y="-290" type="line"/>
+      <point x="617" y="21" type="line"/>
+      <point x="247" y="21" type="line"/>
+      <point x="247" y="-180" type="line"/>
+    </contour>
+    <contour>
+      <point x="741" y="-810" type="line"/>
+      <point x="761" y="-527" type="line"/>
+      <point x="179" y="-395" type="line"/>
+      <point x="179" y="-387" type="line"/>
+      <point x="303" y="-357"/>
+      <point x="487" y="-317"/>
+      <point x="617" y="-290" type="curve"/>
+      <point x="411" y="-41" type="line"/>
+      <point x="160" y="-96"/>
+      <point x="-126" y="-178"/>
+      <point x="-290" y="-233" type="curve"/>
+      <point x="-290" y="-527" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>717</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
 </glyph>

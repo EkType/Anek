@@ -1,54 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="RephCandrabindu.bn" format="2">
-	<advance width="0"/>
-	<guideline x="57" y="732" angle="90"/>
-	<anchor x="-779" y="1399" name="_top"/>
-	<outline>
-		<contour>
-			<point x="-492" y="1777" type="curve"/>
-			<point x="-705" y="1777" type="line"/>
-			<point x="-705" y="1766" type="line" smooth="yes"/>
-			<point x="-705" y="1663"/>
-			<point x="-786" y="1613"/>
-			<point x="-952" y="1613" type="curve" smooth="yes"/>
-			<point x="-1116" y="1613"/>
-			<point x="-1198" y="1663"/>
-			<point x="-1198" y="1766" type="curve" smooth="yes"/>
-			<point x="-1198" y="1777" type="line"/>
-			<point x="-1413" y="1777" type="line"/>
-			<point x="-1414" y="1757"/>
-			<point x="-1415" y="1743"/>
-			<point x="-1415" y="1736" type="curve" smooth="yes"/>
-			<point x="-1415" y="1519"/>
-			<point x="-1263" y="1399"/>
-			<point x="-952" y="1399" type="curve" smooth="yes"/>
-			<point x="-642" y="1399"/>
-			<point x="-491" y="1519"/>
-			<point x="-491" y="1736" type="curve" smooth="yes"/>
-			<point x="-491" y="1743"/>
-			<point x="-491" y="1757"/>
-		</contour>
-		<contour>
-			<point x="-951" y="1697" type="curve" smooth="yes"/>
-			<point x="-846" y="1697"/>
-			<point x="-789" y="1746"/>
-			<point x="-789" y="1824" type="curve" smooth="yes"/>
-			<point x="-789" y="1828" type="line" smooth="yes"/>
-			<point x="-789" y="1905"/>
-			<point x="-846" y="1955"/>
-			<point x="-951" y="1955" type="curve" smooth="yes"/>
-			<point x="-1056" y="1955"/>
-			<point x="-1115" y="1906"/>
-			<point x="-1115" y="1828" type="curve" smooth="yes"/>
-			<point x="-1115" y="1824" type="line" smooth="yes"/>
-			<point x="-1115" y="1746"/>
-			<point x="-1056" y="1697"/>
-		</contour>
-		<contour>
-			<point x="-571" y="1398" type="line"/>
-			<point x="-81" y="1398" type="line"/>
-			<point x="388" y="1896" type="line"/>
-			<point x="-6" y="1896" type="line"/>
-		</contour>
-	</outline>
+  <anchor x="-869" y="1791" name="_top2"/>
+  <outline>
+    <contour>
+      <point x="-492" y="1777" type="curve"/>
+      <point x="-705" y="1777" type="line"/>
+      <point x="-705" y="1766" type="line" smooth="yes"/>
+      <point x="-705" y="1663"/>
+      <point x="-786" y="1613"/>
+      <point x="-952" y="1613" type="curve" smooth="yes"/>
+      <point x="-1116" y="1613"/>
+      <point x="-1198" y="1663"/>
+      <point x="-1198" y="1766" type="curve" smooth="yes"/>
+      <point x="-1198" y="1777" type="line"/>
+      <point x="-1413" y="1777" type="line"/>
+      <point x="-1414" y="1757"/>
+      <point x="-1415" y="1743"/>
+      <point x="-1415" y="1736" type="curve" smooth="yes"/>
+      <point x="-1415" y="1519"/>
+      <point x="-1263" y="1399"/>
+      <point x="-952" y="1399" type="curve" smooth="yes"/>
+      <point x="-642" y="1399"/>
+      <point x="-491" y="1519"/>
+      <point x="-491" y="1736" type="curve" smooth="yes"/>
+      <point x="-491" y="1743"/>
+      <point x="-491" y="1757"/>
+    </contour>
+    <contour>
+      <point x="-951" y="1697" type="curve" smooth="yes"/>
+      <point x="-846" y="1697"/>
+      <point x="-789" y="1746"/>
+      <point x="-789" y="1824" type="curve" smooth="yes"/>
+      <point x="-789" y="1828" type="line" smooth="yes"/>
+      <point x="-789" y="1905"/>
+      <point x="-846" y="1955"/>
+      <point x="-951" y="1955" type="curve" smooth="yes"/>
+      <point x="-1056" y="1955"/>
+      <point x="-1115" y="1906"/>
+      <point x="-1115" y="1828" type="curve" smooth="yes"/>
+      <point x="-1115" y="1824" type="line" smooth="yes"/>
+      <point x="-1115" y="1746"/>
+      <point x="-1056" y="1697"/>
+    </contour>
+    <contour>
+      <point x="-571" y="1398" type="line"/>
+      <point x="-81" y="1398" type="line"/>
+      <point x="388" y="1896" type="line"/>
+      <point x="-6" y="1896" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
 </glyph>

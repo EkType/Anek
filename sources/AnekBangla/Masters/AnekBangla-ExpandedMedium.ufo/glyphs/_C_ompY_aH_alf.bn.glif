@@ -1,62 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_CompYaHalf.bn" format="2">
-	<advance width="1506"/>
-	<anchor x="1064" y="1401" name="top"/>
-	<anchor x="755" y="1784" name="top2"/>
-	<outline>
-		<contour>
-			<point x="1116" y="124" type="line"/>
-			<point x="1291" y="124" type="line"/>
-			<point x="1291" y="1171" type="line"/>
-			<point x="1088" y="1171" type="line"/>
-			<point x="1088" y="424" type="line"/>
-			<point x="1098" y="239" type="line"/>
-			<point x="1108" y="290" type="line"/>
-			<point x="205" y="452" type="line"/>
-			<point x="247" y="353" type="line"/>
-			<point x="247" y="586" type="line"/>
-			<point x="205" y="527" type="line"/>
-			<point x="746" y="657" type="line"/>
-			<point x="746" y="829" type="line"/>
-			<point x="496" y="947"/>
-			<point x="286" y="1032"/>
-			<point x="29" y="1136" type="curve"/>
-			<point x="-37" y="1127" type="line"/>
-			<point x="-37" y="973" type="line"/>
-			<point x="138" y="900"/>
-			<point x="358" y="823"/>
-			<point x="613" y="744" type="curve"/>
-			<point x="515" y="803" type="line"/>
-			<point x="515" y="707" type="line"/>
-			<point x="633" y="793" type="line"/>
-			<point x="46" y="654" type="line"/>
-			<point x="46" y="318" type="line"/>
-		</contour>
-		<contour>
-			<point x="-245" y="1066" type="line"/>
-			<point x="1226" y="1066" type="line"/>
-			<point x="1226" y="1228" type="line"/>
-			<point x="-258" y="1228" type="line"/>
-		</contour>
-		<contour>
-			<point x="1217" y="1160" type="line"/>
-			<point x="1217" y="812" type="line"/>
-			<point x="1292" y="812" type="line"/>
-			<point x="1292" y="1160" type="line"/>
-		</contour>
-		<contour>
-			<point x="1217" y="1066" type="line"/>
-			<point x="1565" y="1066" type="line"/>
-			<point x="1552" y="1228" type="line"/>
-			<point x="1217" y="1228" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>SignAa.bn</string>
-		</dict>
-	</lib>
+  <advance width="1506"/>
+  <anchor x="1064" y="1401" name="top"/>
+  <anchor x="755" y="1784" name="top2"/>
+  <outline>
+    <contour>
+      <point x="1116" y="124" type="line"/>
+      <point x="1291" y="124" type="line"/>
+      <point x="1291" y="1171" type="line"/>
+      <point x="1088" y="1171" type="line"/>
+      <point x="1088" y="424" type="line"/>
+      <point x="1098" y="239" type="line"/>
+      <point x="1108" y="290" type="line"/>
+      <point x="205" y="452" type="line"/>
+      <point x="247" y="353" type="line"/>
+      <point x="247" y="586" type="line"/>
+      <point x="205" y="527" type="line"/>
+      <point x="746" y="657" type="line"/>
+      <point x="746" y="829" type="line"/>
+      <point x="496" y="947"/>
+      <point x="286" y="1032"/>
+      <point x="29" y="1136" type="curve"/>
+      <point x="-37" y="1127" type="line"/>
+      <point x="-37" y="973" type="line"/>
+      <point x="138" y="900"/>
+      <point x="358" y="823"/>
+      <point x="613" y="744" type="curve"/>
+      <point x="515" y="803" type="line"/>
+      <point x="515" y="707" type="line"/>
+      <point x="633" y="793" type="line"/>
+      <point x="46" y="654" type="line"/>
+      <point x="46" y="318" type="line"/>
+    </contour>
+    <contour>
+      <point x="-245" y="1066" type="line"/>
+      <point x="1226" y="1066" type="line"/>
+      <point x="1226" y="1228" type="line"/>
+      <point x="-258" y="1228" type="line"/>
+    </contour>
+    <contour>
+      <point x="1217" y="1160" type="line"/>
+      <point x="1217" y="812" type="line"/>
+      <point x="1292" y="812" type="line"/>
+      <point x="1292" y="1160" type="line"/>
+    </contour>
+    <contour>
+      <point x="1217" y="1066" type="line"/>
+      <point x="1565" y="1066" type="line"/>
+      <point x="1552" y="1228" type="line"/>
+      <point x="1217" y="1228" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>SignAa.bn</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,39 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_part.raphala" format="2">
-	<advance width="800"/>
-	<guideline x="-20" y="53" angle="90"/>
-	<outline>
-		<contour>
-			<point x="1120" y="-301" type="curve" smooth="yes"/>
-			<point x="1144" y="-316" type="line"/>
-			<point x="1136" y="-113" type="line"/>
-			<point x="1101" y="-113" type="line"/>
-			<point x="1078" y="-23"/>
-			<point x="981" y="34"/>
-			<point x="858" y="34" type="curve" smooth="yes"/>
-			<point x="451" y="34" type="line" smooth="yes"/>
-			<point x="361" y="34"/>
-			<point x="309" y="68"/>
-			<point x="306" y="139" type="curve" smooth="yes"/>
-			<point x="305" y="168" type="line"/>
-			<point x="-20" y="168" type="line"/>
-			<point x="-20" y="155"/>
-			<point x="-20" y="146"/>
-			<point x="-20" y="134" type="curve" smooth="yes"/>
-			<point x="-20" y="-128"/>
-			<point x="136" y="-258"/>
-			<point x="445" y="-258" type="curve" smooth="yes"/>
-			<point x="900" y="-258" type="line" smooth="yes"/>
-			<point x="1022" y="-258"/>
-			<point x="1075" y="-273"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-12-24 14:39:29 +0000</string>
-		</dict>
-	</lib>
+  <advance width="800"/>
+  <outline>
+    <contour>
+      <point x="1144" y="-316" type="line"/>
+      <point x="1136" y="-113" type="line"/>
+      <point x="1101" y="-113" type="line"/>
+      <point x="1078" y="-23"/>
+      <point x="981" y="34"/>
+      <point x="858" y="34" type="curve" smooth="yes"/>
+      <point x="451" y="34" type="line" smooth="yes"/>
+      <point x="361" y="34"/>
+      <point x="309" y="68"/>
+      <point x="306" y="139" type="curve" smooth="yes"/>
+      <point x="305" y="168" type="line"/>
+      <point x="-20" y="168" type="line"/>
+      <point x="-20" y="155"/>
+      <point x="-20" y="146"/>
+      <point x="-20" y="134" type="curve" smooth="yes"/>
+      <point x="-20" y="-128"/>
+      <point x="136" y="-258"/>
+      <point x="445" y="-258" type="curve" smooth="yes"/>
+      <point x="900" y="-258" type="line" smooth="yes"/>
+      <point x="1022" y="-258"/>
+      <point x="1075" y="-273"/>
+      <point x="1120" y="-301" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>raphalaWidth</key>
+        <integer>1</integer>
+      </dict>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>raphalaWidth</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>100</integer>
+        </dict>
+        <dict>
+          <key>bottomName</key>
+          <string></string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>raphalaHeight</string>
+          <key>topName</key>
+          <string></string>
+          <key>topValue</key>
+          <integer>100</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

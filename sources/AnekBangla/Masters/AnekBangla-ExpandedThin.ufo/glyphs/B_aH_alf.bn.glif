@@ -1,56 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="BaHalf.bn" format="2">
-	<advance width="1503"/>
-	<anchor x="1189" y="182" name="bottom1"/>
-	<anchor x="1198" y="1403" name="top"/>
-	<anchor x="837" y="1776" name="top2"/>
-	<outline>
-		<contour>
-			<point x="-47" y="1177" type="line"/>
-			<point x="1238" y="1177" type="line"/>
-			<point x="1238" y="1208" type="line"/>
-			<point x="-53" y="1208" type="line"/>
-		</contour>
-		<contour>
-			<point x="1208" y="260" type="line"/>
-			<point x="1238" y="260" type="line"/>
-			<point x="1238" y="1188" type="line"/>
-			<point x="1202" y="1188" type="line"/>
-			<point x="1202" y="935" type="line"/>
-			<point x="1202" y="924" type="line"/>
-			<point x="1202" y="420" type="line"/>
-			<point x="1204" y="284" type="line"/>
-			<point x="1211" y="295" type="line"/>
-			<point x="217" y="529" type="line"/>
-			<point x="231" y="503" type="line"/>
-			<point x="231" y="740" type="line"/>
-			<point x="217" y="729" type="line"/>
-			<point x="531" y="814"/>
-			<point x="875" y="873"/>
-			<point x="1239" y="914" type="curve"/>
-			<point x="1213" y="943" type="line"/>
-			<point x="834" y="905"/>
-			<point x="501" y="842"/>
-			<point x="195" y="760" type="curve"/>
-			<point x="195" y="500" type="line"/>
-		</contour>
-		<contour>
-			<point x="1215" y="1199" type="line"/>
-			<point x="1215" y="912" type="line"/>
-			<point x="1238" y="912" type="line"/>
-			<point x="1238" y="1199" type="line"/>
-		</contour>
-		<contour>
-			<point x="1215" y="1177" type="line"/>
-			<point x="1600" y="1177" type="line"/>
-			<point x="1594" y="1208" type="line"/>
-			<point x="1215" y="1208" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>=SignAa.bn-35</string>
-		</dict>
-	</lib>
+  <advance width="1503"/>
+  <anchor x="1198" y="1403" name="top"/>
+  <anchor x="842" y="1776" name="top2"/>
+  <outline>
+    <contour>
+      <point x="-47" y="1177" type="line"/>
+      <point x="1238" y="1177" type="line"/>
+      <point x="1238" y="1208" type="line"/>
+      <point x="-53" y="1208" type="line"/>
+    </contour>
+    <contour>
+      <point x="1208" y="260" type="line"/>
+      <point x="1238" y="260" type="line"/>
+      <point x="1238" y="1188" type="line"/>
+      <point x="1202" y="1188" type="line"/>
+      <point x="1202" y="935" type="line"/>
+      <point x="1202" y="924" type="line"/>
+      <point x="1202" y="420" type="line"/>
+      <point x="1204" y="284" type="line"/>
+      <point x="1211" y="295" type="line"/>
+      <point x="217" y="529" type="line"/>
+      <point x="231" y="503" type="line"/>
+      <point x="231" y="740" type="line"/>
+      <point x="217" y="729" type="line"/>
+      <point x="531" y="814"/>
+      <point x="875" y="873"/>
+      <point x="1239" y="914" type="curve"/>
+      <point x="1213" y="943" type="line"/>
+      <point x="834" y="905"/>
+      <point x="501" y="842"/>
+      <point x="195" y="760" type="curve"/>
+      <point x="195" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="1215" y="1199" type="line"/>
+      <point x="1215" y="912" type="line"/>
+      <point x="1238" y="912" type="line"/>
+      <point x="1238" y="1199" type="line"/>
+    </contour>
+    <contour>
+      <point x="1215" y="1177" type="line"/>
+      <point x="1600" y="1177" type="line"/>
+      <point x="1594" y="1208" type="line"/>
+      <point x="1215" y="1208" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=SignAa.bn-35</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

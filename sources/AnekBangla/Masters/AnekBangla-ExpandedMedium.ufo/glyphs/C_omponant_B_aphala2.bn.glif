@@ -1,28 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Componant_Baphala2.bn" format="2">
-	<advance width="538"/>
-	<anchor x="464" y="-228" name="bottom1"/>
-	<outline>
-		<contour>
-			<point x="289" y="-228" type="line"/>
-			<point x="464" y="-228" type="line"/>
-			<point x="464" y="427" type="line"/>
-			<point x="271" y="387" type="line"/>
-			<point x="271" y="39" type="line"/>
-			<point x="277" y="-113" type="line"/>
-			<point x="284" y="-63" type="line"/>
-			<point x="-346" y="65" type="line"/>
-			<point x="-292" y="16" type="line"/>
-			<point x="-292" y="182" type="line"/>
-			<point x="-346" y="125" type="line"/>
-			<point x="-96" y="192"/>
-			<point x="155" y="245"/>
-			<point x="405" y="276" type="curve"/>
-			<point x="400" y="455" type="line"/>
-			<point x="88" y="405"/>
-			<point x="-207" y="341"/>
-			<point x="-504" y="257" type="curve"/>
-			<point x="-504" y="-60" type="line"/>
-		</contour>
-	</outline>
+  <advance width="538"/>
+  <anchor x="464" y="-228" name="bottom1"/>
+  <outline>
+    <contour>
+      <point x="289" y="-228" type="line"/>
+      <point x="464" y="-228" type="line"/>
+      <point x="464" y="427" type="line"/>
+      <point x="271" y="387" type="line"/>
+      <point x="271" y="39" type="line"/>
+      <point x="277" y="-113" type="line"/>
+      <point x="284" y="-63" type="line"/>
+      <point x="-346" y="65" type="line"/>
+      <point x="-292" y="16" type="line"/>
+      <point x="-292" y="182" type="line"/>
+      <point x="-346" y="125" type="line"/>
+      <point x="-96" y="192"/>
+      <point x="155" y="245"/>
+      <point x="405" y="276" type="curve"/>
+      <point x="400" y="455" type="line"/>
+      <point x="88" y="405"/>
+      <point x="-207" y="341"/>
+      <point x="-504" y="257" type="curve"/>
+      <point x="-504" y="-60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

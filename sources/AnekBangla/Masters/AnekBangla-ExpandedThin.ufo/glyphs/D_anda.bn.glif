@@ -1,13 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Danda.bn" format="2">
-	<advance width="835"/>
-	<unicode hex="0964"/>
-	<outline>
-		<contour>
-			<point x="398" y="1270" type="line"/>
-			<point x="398" y="-60" type="line"/>
-			<point x="434" y="-60" type="line"/>
-			<point x="434" y="1270" type="line"/>
-		</contour>
-	</outline>
+  <advance width="835"/>
+  <unicode hex="0964"/>
+  <outline>
+    <contour>
+      <point x="398" y="1270" type="line"/>
+      <point x="398" y="-60" type="line"/>
+      <point x="434" y="-60" type="line"/>
+      <point x="434" y="1270" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

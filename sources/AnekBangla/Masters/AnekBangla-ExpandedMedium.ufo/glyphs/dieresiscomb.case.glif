@@ -1,24 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb.case" format="2">
-	<advance width="0"/>
-	<anchor x="-412" y="1626" name="top"/>
-	<anchor x="-412" y="1278" name="_top"/>
-	<outline>
-		<component base="dieresiscomb" yOffset="321"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>dieresiscomb</string>
-				</dict>
-			</array>
-		</dict>
-	</lib>
+  <anchor x="413" y="1278" name="_top"/>
+  <anchor x="413" y="1626" name="top"/>
+  <outline>
+    <component base="dieresiscomb" yOffset="321"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dieresiscomb</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>825</integer>
+    </dict>
+  </lib>
 </glyph>

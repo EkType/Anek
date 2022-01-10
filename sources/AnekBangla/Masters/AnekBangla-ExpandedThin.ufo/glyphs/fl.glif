@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fl" format="2">
-	<advance width="1479"/>
-	<unicode hex="FB02"/>
-	<anchor x="739.5" y="0" name="caret_1"/>
-	<outline>
-		<component base="f"/>
-		<component base="l" xOffset="1029"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>f</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>l</string>
-		</dict>
-	</lib>
+  <advance width="1479"/>
+  <unicode hex="FB02"/>
+  <anchor x="739.5" y="0" name="caret_1"/>
+  <anchor x="515" y="0" name="bottom_1"/>
+  <anchor x="1254" y="0" name="bottom_2"/>
+  <anchor x="1254" y="646" name="center"/>
+  <anchor x="515" y="1291" name="top_1"/>
+  <anchor x="1254" y="1324" name="top_2"/>
+  <anchor x="1519" y="1324" name="topright"/>
+  <outline>
+    <component base="f"/>
+    <component base="l" xOffset="1029"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l</string>
+    </dict>
+  </lib>
 </glyph>

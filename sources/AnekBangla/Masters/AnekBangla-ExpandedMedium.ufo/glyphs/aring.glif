@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aring" format="2">
-	<advance width="1323"/>
-	<unicode hex="00E5"/>
-	<outline>
-		<component base="a"/>
-		<component base="ringcomb" xOffset="975"/>
-	</outline>
+  <advance width="1323"/>
+  <unicode hex="00E5"/>
+  <anchor x="650" y="0" name="bottom"/>
+  <anchor x="1227" y="5" name="ogonek"/>
+  <anchor x="650" y="1413" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="ringcomb" xOffset="324"/>
+  </outline>
 </glyph>

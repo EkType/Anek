@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="greater" format="2">
-	<advance width="1362"/>
-	<unicode hex="003E"/>
-	<outline>
-		<contour>
-			<point x="1059" y="614" type="line"/>
-			<point x="1059" y="593" type="line"/>
-			<point x="166" y="373" type="line"/>
-			<point x="166" y="181" type="line"/>
-			<point x="1221" y="458" type="line"/>
-			<point x="1221" y="747" type="line"/>
-			<point x="166" y="1022" type="line"/>
-			<point x="166" y="831" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>minus</string>
-		</dict>
-	</lib>
+  <advance width="1362"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="1059" y="614" type="line"/>
+      <point x="1059" y="593" type="line"/>
+      <point x="166" y="373" type="line"/>
+      <point x="166" y="181" type="line"/>
+      <point x="1221" y="458" type="line"/>
+      <point x="1221" y="747" type="line"/>
+      <point x="166" y="1022" type="line"/>
+      <point x="166" y="831" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>minus</string>
+    </dict>
+  </lib>
 </glyph>

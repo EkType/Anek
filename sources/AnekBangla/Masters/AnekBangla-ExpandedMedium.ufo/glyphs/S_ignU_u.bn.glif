@@ -1,45 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="SignUu.bn" format="2">
-	<advance width="0"/>
-	<unicode hex="09C2"/>
-	<anchor x="271" y="0" name="_bottom1"/>
-	<outline>
-		<contour>
-			<point x="271" y="-307" type="line"/>
-			<point x="271" y="20" type="line"/>
-			<point x="82" y="20" type="line"/>
-			<point x="82" y="-236" type="line"/>
-		</contour>
-		<contour>
-			<point x="747" y="-776" type="line"/>
-			<point x="760" y="-617" type="line"/>
-			<point x="281" y="-422" type="line"/>
-			<point x="170" y="-478"/>
-			<point x="57" y="-515"/>
-			<point x="-106" y="-515" type="curve" smooth="yes"/>
-			<point x="-280" y="-515"/>
-			<point x="-358" y="-482"/>
-			<point x="-358" y="-413" type="curve" smooth="yes"/>
-			<point x="-358" y="-326"/>
-			<point x="-244" y="-296"/>
-			<point x="-89" y="-296" type="curve" smooth="yes"/>
-			<point x="0" y="-296"/>
-			<point x="183" y="-300"/>
-			<point x="271" y="-307" type="curve"/>
-			<point x="184" y="-175" type="line"/>
-			<point x="104" y="-154"/>
-			<point x="-23" y="-143"/>
-			<point x="-112" y="-143" type="curve" smooth="yes"/>
-			<point x="-375" y="-143"/>
-			<point x="-551" y="-225"/>
-			<point x="-551" y="-403" type="curve" smooth="yes"/>
-			<point x="-551" y="-581"/>
-			<point x="-397" y="-671"/>
-			<point x="-103" y="-671" type="curve" smooth="yes"/>
-			<point x="83" y="-671"/>
-			<point x="213" y="-624"/>
-			<point x="339" y="-565" type="curve"/>
-			<point x="201" y="-545" type="line"/>
-		</contour>
-	</outline>
+  <unicode hex="09C2"/>
+  <anchor x="1563" y="0" name="_bottom1"/>
+  <outline>
+    <contour>
+      <point x="1563" y="-307" type="line"/>
+      <point x="1563" y="40" type="line"/>
+      <point x="1374" y="40" type="line"/>
+      <point x="1374" y="-236" type="line"/>
+    </contour>
+    <contour>
+      <point x="2039" y="-776" type="line"/>
+      <point x="2052" y="-617" type="line"/>
+      <point x="1573" y="-422" type="line"/>
+      <point x="1457" y="-478"/>
+      <point x="1339" y="-515"/>
+      <point x="1168" y="-515" type="curve" smooth="yes"/>
+      <point x="1006" y="-515"/>
+      <point x="934" y="-482"/>
+      <point x="934" y="-413" type="curve" smooth="yes"/>
+      <point x="934" y="-326"/>
+      <point x="1048" y="-296"/>
+      <point x="1203" y="-296" type="curve" smooth="yes"/>
+      <point x="1292" y="-296"/>
+      <point x="1475" y="-300"/>
+      <point x="1563" y="-307" type="curve"/>
+      <point x="1476" y="-175" type="line"/>
+      <point x="1396" y="-154"/>
+      <point x="1269" y="-143"/>
+      <point x="1180" y="-143" type="curve" smooth="yes"/>
+      <point x="917" y="-143"/>
+      <point x="741" y="-225"/>
+      <point x="741" y="-403" type="curve" smooth="yes"/>
+      <point x="741" y="-581"/>
+      <point x="889" y="-671"/>
+      <point x="1171" y="-671" type="curve" smooth="yes"/>
+      <point x="1365" y="-671"/>
+      <point x="1500" y="-624"/>
+      <point x="1631" y="-565" type="curve"/>
+      <point x="1493" y="-545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1292</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
 </glyph>

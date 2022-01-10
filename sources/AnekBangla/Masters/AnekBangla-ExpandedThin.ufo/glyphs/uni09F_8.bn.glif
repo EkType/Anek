@@ -1,55 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni09F8.bn" format="2">
-	<advance width="1719"/>
-	<unicode hex="09F8"/>
-	<outline>
-		<contour>
-			<point x="1391" y="302" type="line"/>
-			<point x="1427" y="302" type="line"/>
-			<point x="1427" y="923" type="line"/>
-			<point x="1387" y="923" type="line"/>
-			<point x="984" y="755"/>
-			<point x="632" y="559"/>
-			<point x="315" y="325" type="curve"/>
-			<point x="328" y="323" type="line"/>
-			<point x="328" y="632" type="line"/>
-			<point x="328" y="916" type="line"/>
-			<point x="292" y="916" type="line"/>
-			<point x="292" y="294" type="line"/>
-			<point x="332" y="294" type="line"/>
-			<point x="659" y="531"/>
-			<point x="1009" y="727"/>
-			<point x="1398" y="892" type="curve"/>
-			<point x="1395" y="910" type="line"/>
-			<point x="1391" y="639" type="line"/>
-		</contour>
-		<contour>
-			<point x="292" y="951" type="curve" smooth="yes"/>
-			<point x="292" y="886" type="line"/>
-			<point x="328" y="886" type="line"/>
-			<point x="328" y="951" type="line" smooth="yes"/>
-			<point x="328" y="1113"/>
-			<point x="239" y="1213"/>
-			<point x="80" y="1213" type="curve" smooth="yes"/>
-			<point x="40" y="1213" type="line"/>
-			<point x="46" y="1183" type="line"/>
-			<point x="80" y="1183" type="line" smooth="yes"/>
-			<point x="215" y="1183"/>
-			<point x="292" y="1101"/>
-		</contour>
-		<contour>
-			<point x="1427" y="252" type="curve" smooth="yes"/>
-			<point x="1427" y="317" type="line"/>
-			<point x="1391" y="317" type="line"/>
-			<point x="1391" y="252" type="line" smooth="yes"/>
-			<point x="1391" y="90"/>
-			<point x="1480" y="-10"/>
-			<point x="1639" y="-10" type="curve" smooth="yes"/>
-			<point x="1679" y="-10" type="line"/>
-			<point x="1673" y="20" type="line"/>
-			<point x="1639" y="20" type="line" smooth="yes"/>
-			<point x="1504" y="20"/>
-			<point x="1427" y="102"/>
-		</contour>
-	</outline>
+  <advance width="1719"/>
+  <unicode hex="09F8"/>
+  <outline>
+    <contour>
+      <point x="1391" y="302" type="line"/>
+      <point x="1427" y="302" type="line"/>
+      <point x="1427" y="923" type="line"/>
+      <point x="1387" y="923" type="line"/>
+      <point x="984" y="755"/>
+      <point x="632" y="559"/>
+      <point x="315" y="325" type="curve"/>
+      <point x="328" y="323" type="line"/>
+      <point x="328" y="632" type="line"/>
+      <point x="328" y="916" type="line"/>
+      <point x="292" y="916" type="line"/>
+      <point x="292" y="294" type="line"/>
+      <point x="332" y="294" type="line"/>
+      <point x="659" y="531"/>
+      <point x="1009" y="727"/>
+      <point x="1398" y="892" type="curve"/>
+      <point x="1395" y="910" type="line"/>
+      <point x="1391" y="639" type="line"/>
+    </contour>
+    <contour>
+      <point x="292" y="886" type="line"/>
+      <point x="328" y="886" type="line"/>
+      <point x="328" y="951" type="line" smooth="yes"/>
+      <point x="328" y="1113"/>
+      <point x="239" y="1213"/>
+      <point x="80" y="1213" type="curve" smooth="yes"/>
+      <point x="40" y="1213" type="line"/>
+      <point x="46" y="1183" type="line"/>
+      <point x="80" y="1183" type="line" smooth="yes"/>
+      <point x="215" y="1183"/>
+      <point x="292" y="1101"/>
+      <point x="292" y="951" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1427" y="317" type="line"/>
+      <point x="1391" y="317" type="line"/>
+      <point x="1391" y="252" type="line" smooth="yes"/>
+      <point x="1391" y="90"/>
+      <point x="1480" y="-10"/>
+      <point x="1639" y="-10" type="curve" smooth="yes"/>
+      <point x="1679" y="-10" type="line"/>
+      <point x="1673" y="20" type="line"/>
+      <point x="1639" y="20" type="line" smooth="yes"/>
+      <point x="1504" y="20"/>
+      <point x="1427" y="102"/>
+      <point x="1427" y="252" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>
