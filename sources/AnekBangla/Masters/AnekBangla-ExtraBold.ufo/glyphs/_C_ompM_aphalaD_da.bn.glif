@@ -1,89 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_CompMaphalaDda.bn" format="2">
-	<advance width="1879"/>
-	<anchor x="1876" y="-260" name="bottom1"/>
-	<anchor x="1500" y="1433" name="top"/>
-	<anchor x="1314" y="1777" name="top2"/>
-	<outline>
-		<contour>
-			<point x="1130" y="425" type="curve"/>
-			<point x="865" y="255" type="line"/>
-			<point x="943" y="210"/>
-			<point x="984" y="140"/>
-			<point x="989" y="77" type="curve"/>
-			<point x="1280" y="77" type="line"/>
-			<point x="1274" y="203"/>
-			<point x="1240" y="311"/>
-		</contour>
-		<contour>
-			<point x="1541" y="557" type="line"/>
-			<point x="1874" y="557" type="line"/>
-			<point x="1874" y="1289" type="line"/>
-			<point x="1541" y="1289" type="line"/>
-		</contour>
-		<contour>
-			<point x="1251" y="1289" type="line"/>
-			<point x="1263" y="1035" type="line"/>
-			<point x="1874" y="1035" type="line"/>
-			<point x="1874" y="1289" type="line"/>
-		</contour>
-		<contour>
-			<point x="1739" y="1159" type="line"/>
-			<point x="1739" y="699" type="line"/>
-			<point x="1874" y="699" type="line"/>
-			<point x="1874" y="1159" type="line"/>
-		</contour>
-		<contour>
-			<point x="1739" y="1035" type="line"/>
-			<point x="2032" y="1035" type="line"/>
-			<point x="2014" y="1289" type="line"/>
-			<point x="1739" y="1289" type="line"/>
-		</contour>
-		<contour>
-			<point x="1541" y="-460" type="line"/>
-			<point x="1876" y="-460" type="line"/>
-			<point x="1876" y="1017" type="line"/>
-			<point x="1541" y="1017" type="line"/>
-			<point x="1541" y="250" type="line"/>
-			<point x="1554" y="-23" type="line"/>
-			<point x="1541" y="-83" type="line"/>
-		</contour>
-		<contour>
-			<point x="1233" y="-469" type="curve" smooth="yes"/>
-			<point x="1275" y="-469"/>
-			<point x="1311" y="-467"/>
-			<point x="1357" y="-461" type="curve"/>
-			<point x="1379" y="-200" type="line"/>
-			<point x="1332" y="-205"/>
-			<point x="1302" y="-207"/>
-			<point x="1258" y="-207" type="curve" smooth="yes"/>
-			<point x="1140" y="-207"/>
-			<point x="1088" y="-182"/>
-			<point x="1088" y="-139" type="curve" smooth="yes"/>
-			<point x="1088" y="-137" type="line" smooth="yes"/>
-			<point x="1088" y="-90"/>
-			<point x="1122" y="-63"/>
-			<point x="1238" y="-63" type="curve" smooth="yes"/>
-			<point x="1373" y="-63"/>
-			<point x="1505" y="-110"/>
-			<point x="1552" y="-239" type="curve"/>
-			<point x="1595" y="58" type="line"/>
-			<point x="1536" y="58" type="line"/>
-			<point x="1493" y="141"/>
-			<point x="1371" y="201"/>
-			<point x="1183" y="201" type="curve" smooth="yes"/>
-			<point x="876" y="201"/>
-			<point x="748" y="63"/>
-			<point x="748" y="-127" type="curve" smooth="yes"/>
-			<point x="748" y="-134" type="line" smooth="yes"/>
-			<point x="748" y="-339"/>
-			<point x="878" y="-469"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
+  <advance width="1879"/>
+  <anchor x="1876" y="-260" name="bottom1"/>
+  <anchor x="1500" y="1433" name="top"/>
+  <anchor x="1314" y="1777" name="top2"/>
+  <outline>
+    <contour>
+      <point x="1130" y="425" type="curve"/>
+      <point x="865" y="255" type="line"/>
+      <point x="943" y="210"/>
+      <point x="984" y="140"/>
+      <point x="989" y="77" type="curve"/>
+      <point x="1280" y="77" type="line"/>
+      <point x="1274" y="203"/>
+      <point x="1240" y="311"/>
+    </contour>
+    <contour>
+      <point x="1541" y="557" type="line"/>
+      <point x="1874" y="557" type="line"/>
+      <point x="1874" y="1289" type="line"/>
+      <point x="1541" y="1289" type="line"/>
+    </contour>
+    <contour>
+      <point x="1251" y="1289" type="line"/>
+      <point x="1263" y="1035" type="line"/>
+      <point x="1874" y="1035" type="line"/>
+      <point x="1874" y="1289" type="line"/>
+    </contour>
+    <contour>
+      <point x="1739" y="1159" type="line"/>
+      <point x="1739" y="699" type="line"/>
+      <point x="1874" y="699" type="line"/>
+      <point x="1874" y="1159" type="line"/>
+    </contour>
+    <contour>
+      <point x="1739" y="1035" type="line"/>
+      <point x="2032" y="1035" type="line"/>
+      <point x="2014" y="1289" type="line"/>
+      <point x="1739" y="1289" type="line"/>
+    </contour>
+    <contour>
+      <point x="1540" y="-460" type="line"/>
+      <point x="1876" y="-460" type="line"/>
+      <point x="1876" y="1017" type="line"/>
+      <point x="1541" y="1017" type="line"/>
+      <point x="1541" y="250" type="line"/>
+      <point x="1554" y="-23" type="line"/>
+      <point x="1540" y="-83" type="line"/>
+    </contour>
+    <contour>
+      <point x="1233" y="-469" type="curve" smooth="yes"/>
+      <point x="1275" y="-469"/>
+      <point x="1311" y="-467"/>
+      <point x="1357" y="-461" type="curve"/>
+      <point x="1379" y="-200" type="line"/>
+      <point x="1332" y="-205"/>
+      <point x="1302" y="-207"/>
+      <point x="1258" y="-207" type="curve" smooth="yes"/>
+      <point x="1140" y="-207"/>
+      <point x="1088" y="-182"/>
+      <point x="1088" y="-139" type="curve" smooth="yes"/>
+      <point x="1088" y="-137" type="line" smooth="yes"/>
+      <point x="1088" y="-90"/>
+      <point x="1122" y="-63"/>
+      <point x="1238" y="-63" type="curve" smooth="yes"/>
+      <point x="1373" y="-63"/>
+      <point x="1505" y="-110"/>
+      <point x="1552" y="-239" type="curve"/>
+      <point x="1595" y="58" type="line"/>
+      <point x="1536" y="58" type="line"/>
+      <point x="1493" y="141"/>
+      <point x="1371" y="201"/>
+      <point x="1183" y="201" type="curve" smooth="yes"/>
+      <point x="876" y="201"/>
+      <point x="748" y="63"/>
+      <point x="748" y="-127" type="curve" smooth="yes"/>
+      <point x="748" y="-134" type="line" smooth="yes"/>
+      <point x="748" y="-339"/>
+      <point x="878" y="-469"/>
+    </contour>
+  </outline>
 </glyph>

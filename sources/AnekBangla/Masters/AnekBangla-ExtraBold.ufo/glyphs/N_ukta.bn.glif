@@ -1,23 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nukta.bn" format="2">
-	<advance width="0"/>
-	<unicode hex="09BC"/>
-	<outline>
-		<contour>
-			<point x="-357" y="-389" type="curve" smooth="yes"/>
-			<point x="-240" y="-389"/>
-			<point x="-180" y="-322"/>
-			<point x="-180" y="-216" type="curve" smooth="yes"/>
-			<point x="-180" y="-209" type="line" smooth="yes"/>
-			<point x="-180" y="-103"/>
-			<point x="-239" y="-35"/>
-			<point x="-357" y="-35" type="curve" smooth="yes"/>
-			<point x="-475" y="-35"/>
-			<point x="-536" y="-102"/>
-			<point x="-536" y="-209" type="curve" smooth="yes"/>
-			<point x="-536" y="-216" type="line" smooth="yes"/>
-			<point x="-536" y="-322"/>
-			<point x="-475" y="-389"/>
-		</contour>
-	</outline>
+  <unicode hex="09BC"/>
+  <outline>
+    <contour>
+      <point x="-357" y="-389" type="curve" smooth="yes"/>
+      <point x="-240" y="-389"/>
+      <point x="-180" y="-322"/>
+      <point x="-180" y="-216" type="curve" smooth="yes"/>
+      <point x="-180" y="-209" type="line" smooth="yes"/>
+      <point x="-180" y="-103"/>
+      <point x="-239" y="-35"/>
+      <point x="-357" y="-35" type="curve" smooth="yes"/>
+      <point x="-475" y="-35"/>
+      <point x="-536" y="-102"/>
+      <point x="-536" y="-209" type="curve" smooth="yes"/>
+      <point x="-536" y="-216" type="line" smooth="yes"/>
+      <point x="-536" y="-322"/>
+      <point x="-475" y="-389"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

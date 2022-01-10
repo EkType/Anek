@@ -1,34 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Componant_Dhaphala.bn" format="2">
-	<advance width="1074"/>
-	<anchor x="446" y="-276" name="bottom1"/>
-	<outline>
-		<contour>
-			<point x="157" y="-276" type="line"/>
-			<point x="446" y="-276" type="line"/>
-			<point x="446" y="509" type="line"/>
-			<point x="128" y="469" type="line"/>
-			<point x="128" y="162" type="line"/>
-			<point x="145" y="-58" type="line"/>
-			<point x="162" y="-15" type="line"/>
-			<point x="-231" y="116" type="line"/>
-			<point x="-165" y="32" type="line"/>
-			<point x="-165" y="215" type="line"/>
-			<point x="-228" y="110" type="line"/>
-			<point x="98" y="229"/>
-			<point x="442" y="327"/>
-			<point x="767" y="407" type="curve"/>
-			<point x="654" y="659" type="line"/>
-			<point x="263" y="556"/>
-			<point x="-118" y="434"/>
-			<point x="-488" y="294" type="curve"/>
-			<point x="-488" y="-67" type="line"/>
-		</contour>
-		<contour>
-			<point x="654" y="-88" type="line"/>
-			<point x="964" y="-88" type="line"/>
-			<point x="964" y="659" type="line"/>
-			<point x="654" y="659" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1074"/>
+  <anchor x="446" y="-276" name="bottom1"/>
+  <outline>
+    <contour>
+      <point x="157" y="-276" type="line"/>
+      <point x="446" y="-276" type="line"/>
+      <point x="446" y="509" type="line"/>
+      <point x="128" y="469" type="line"/>
+      <point x="128" y="162" type="line"/>
+      <point x="145" y="-58" type="line"/>
+      <point x="162" y="-15" type="line"/>
+      <point x="-231" y="116" type="line"/>
+      <point x="-165" y="32" type="line"/>
+      <point x="-165" y="215" type="line"/>
+      <point x="-228" y="110" type="line"/>
+      <point x="98" y="229"/>
+      <point x="442" y="327"/>
+      <point x="767" y="407" type="curve"/>
+      <point x="654" y="659" type="line"/>
+      <point x="263" y="556"/>
+      <point x="-118" y="434"/>
+      <point x="-488" y="294" type="curve"/>
+      <point x="-488" y="-67" type="line"/>
+    </contour>
+    <contour>
+      <point x="654" y="-88" type="line"/>
+      <point x="964" y="-88" type="line"/>
+      <point x="964" y="659" type="line"/>
+      <point x="654" y="659" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

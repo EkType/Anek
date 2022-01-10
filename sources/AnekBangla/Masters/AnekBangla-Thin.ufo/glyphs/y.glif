@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="y" format="2">
-	<advance width="939"/>
-	<unicode hex="0079"/>
-	<anchor x="469" y="971" name="top"/>
-	<anchor x="639" y="-5" name="bottom"/>
-	<outline>
-		<contour>
-			<point x="493" y="71" type="line"/>
-			<point x="458" y="71" type="line"/>
-			<point x="110" y="971" type="line"/>
-			<point x="69" y="971" type="line"/>
-			<point x="432" y="38" type="line"/>
-			<point x="483" y="38" type="line"/>
-			<point x="473" y="53" type="line"/>
-			<point x="320" y="-344" type="line"/>
-			<point x="361" y="-344" type="line"/>
-			<point x="870" y="971" type="line"/>
-			<point x="829" y="971" type="line"/>
-			<point x="476" y="62" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>=v</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>=v</string>
-		</dict>
-	</lib>
+  <advance width="939"/>
+  <unicode hex="0079"/>
+  <anchor x="639" y="-5" name="bottom"/>
+  <anchor x="469" y="971" name="top"/>
+  <outline>
+    <contour>
+      <point x="493" y="71" type="line"/>
+      <point x="458" y="71" type="line"/>
+      <point x="110" y="971" type="line"/>
+      <point x="69" y="971" type="line"/>
+      <point x="432" y="38" type="line"/>
+      <point x="483" y="38" type="line"/>
+      <point x="473" y="53" type="line"/>
+      <point x="320" y="-344" type="line"/>
+      <point x="361" y="-344" type="line"/>
+      <point x="870" y="971" type="line"/>
+      <point x="829" y="971" type="line"/>
+      <point x="476" y="62" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=v</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=v</string>
+    </dict>
+  </lib>
 </glyph>

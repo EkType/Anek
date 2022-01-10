@@ -1,95 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="NnaDda.bn" format="2">
-	<advance width="1441"/>
-	<anchor x="859" y="185" name="bottom1"/>
-	<anchor x="681" y="1418" name="top"/>
-	<anchor x="504" y="1719" name="top2"/>
-	<outline>
-		<contour>
-			<point x="742" y="21" type="curve" smooth="yes"/>
-			<point x="1074" y="21"/>
-			<point x="1252" y="132"/>
-			<point x="1252" y="337" type="curve" smooth="yes"/>
-			<point x="1252" y="353" type="line" smooth="yes"/>
-			<point x="1252" y="479"/>
-			<point x="1176" y="570"/>
-			<point x="1041" y="586" type="curve"/>
-			<point x="1041" y="589" type="line"/>
-			<point x="1188" y="608"/>
-			<point x="1262" y="703"/>
-			<point x="1262" y="859" type="curve" smooth="yes"/>
-			<point x="1262" y="973" type="line" smooth="yes"/>
-			<point x="1262" y="1154"/>
-			<point x="1154" y="1239"/>
-			<point x="1013" y="1239" type="curve" smooth="yes"/>
-			<point x="883" y="1239"/>
-			<point x="799" y="1176"/>
-			<point x="775" y="1067" type="curve"/>
-			<point x="773" y="1067" type="line"/>
-			<point x="745" y="1176"/>
-			<point x="652" y="1239"/>
-			<point x="520" y="1239" type="curve" smooth="yes"/>
-			<point x="355" y="1239"/>
-			<point x="254" y="1144"/>
-			<point x="254" y="966" type="curve" smooth="yes"/>
-			<point x="254" y="908" type="line" smooth="yes"/>
-			<point x="254" y="730"/>
-			<point x="344" y="643"/>
-			<point x="530" y="643" type="curve" smooth="yes"/>
-			<point x="556" y="643"/>
-			<point x="584" y="646"/>
-			<point x="609" y="650" type="curve"/>
-			<point x="617" y="683" type="line"/>
-			<point x="589" y="678"/>
-			<point x="561" y="676"/>
-			<point x="533" y="676" type="curve" smooth="yes"/>
-			<point x="368" y="676"/>
-			<point x="290" y="752"/>
-			<point x="290" y="908" type="curve" smooth="yes"/>
-			<point x="290" y="966" type="line" smooth="yes"/>
-			<point x="290" y="1123"/>
-			<point x="378" y="1206"/>
-			<point x="522" y="1206" type="curve" smooth="yes"/>
-			<point x="665" y="1206"/>
-			<point x="755" y="1126"/>
-			<point x="757" y="968" type="curve" smooth="yes"/>
-			<point x="758" y="883" type="line"/>
-			<point x="790" y="883" type="line"/>
-			<point x="791" y="968" type="line" smooth="yes"/>
-			<point x="793" y="1102"/>
-			<point x="849" y="1206"/>
-			<point x="1012" y="1206" type="curve" smooth="yes"/>
-			<point x="1136" y="1206"/>
-			<point x="1226" y="1131"/>
-			<point x="1226" y="973" type="curve" smooth="yes"/>
-			<point x="1226" y="858" type="line" smooth="yes"/>
-			<point x="1226" y="686"/>
-			<point x="1128" y="605"/>
-			<point x="939" y="604" type="curve" smooth="yes"/>
-			<point x="809" y="603" type="line"/>
-			<point x="809" y="572" type="line"/>
-			<point x="939" y="571" type="line" smooth="yes"/>
-			<point x="1120" y="570"/>
-			<point x="1216" y="490"/>
-			<point x="1216" y="353" type="curve" smooth="yes"/>
-			<point x="1216" y="337" type="line" smooth="yes"/>
-			<point x="1216" y="153"/>
-			<point x="1050" y="55"/>
-			<point x="742" y="55" type="curve" smooth="yes"/>
-			<point x="418" y="55"/>
-			<point x="228" y="185"/>
-			<point x="210" y="422" type="curve" smooth="yes"/>
-			<point x="197" y="590" type="line"/>
-			<point x="162" y="590" type="line"/>
-			<point x="176" y="417" type="line" smooth="yes"/>
-			<point x="197" y="163"/>
-			<point x="394" y="21"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>VowelO.bn</string>
-		</dict>
-	</lib>
+  <advance width="1441"/>
+  <anchor x="859" y="185" name="bottom1"/>
+  <anchor x="752" y="1418" name="top"/>
+  <anchor x="515" y="1719" name="top2"/>
+  <outline>
+    <contour>
+      <point x="742" y="21" type="curve" smooth="yes"/>
+      <point x="1074" y="21"/>
+      <point x="1252" y="132"/>
+      <point x="1252" y="337" type="curve" smooth="yes"/>
+      <point x="1252" y="353" type="line" smooth="yes"/>
+      <point x="1252" y="479"/>
+      <point x="1176" y="570"/>
+      <point x="1041" y="586" type="curve"/>
+      <point x="1041" y="589" type="line"/>
+      <point x="1188" y="608"/>
+      <point x="1262" y="703"/>
+      <point x="1262" y="859" type="curve" smooth="yes"/>
+      <point x="1262" y="973" type="line" smooth="yes"/>
+      <point x="1262" y="1154"/>
+      <point x="1154" y="1239"/>
+      <point x="1013" y="1239" type="curve" smooth="yes"/>
+      <point x="883" y="1239"/>
+      <point x="799" y="1176"/>
+      <point x="775" y="1067" type="curve"/>
+      <point x="773" y="1067" type="line"/>
+      <point x="745" y="1176"/>
+      <point x="652" y="1239"/>
+      <point x="520" y="1239" type="curve" smooth="yes"/>
+      <point x="355" y="1239"/>
+      <point x="254" y="1144"/>
+      <point x="254" y="966" type="curve" smooth="yes"/>
+      <point x="254" y="908" type="line" smooth="yes"/>
+      <point x="254" y="730"/>
+      <point x="344" y="643"/>
+      <point x="530" y="643" type="curve" smooth="yes"/>
+      <point x="556" y="643"/>
+      <point x="584" y="646"/>
+      <point x="609" y="650" type="curve"/>
+      <point x="617" y="683" type="line"/>
+      <point x="589" y="678"/>
+      <point x="561" y="676"/>
+      <point x="533" y="676" type="curve" smooth="yes"/>
+      <point x="368" y="676"/>
+      <point x="290" y="752"/>
+      <point x="290" y="908" type="curve" smooth="yes"/>
+      <point x="290" y="966" type="line" smooth="yes"/>
+      <point x="290" y="1123"/>
+      <point x="378" y="1206"/>
+      <point x="522" y="1206" type="curve" smooth="yes"/>
+      <point x="665" y="1206"/>
+      <point x="755" y="1126"/>
+      <point x="757" y="968" type="curve" smooth="yes"/>
+      <point x="758" y="883" type="line"/>
+      <point x="790" y="883" type="line"/>
+      <point x="791" y="968" type="line" smooth="yes"/>
+      <point x="793" y="1102"/>
+      <point x="849" y="1206"/>
+      <point x="1012" y="1206" type="curve" smooth="yes"/>
+      <point x="1136" y="1206"/>
+      <point x="1226" y="1131"/>
+      <point x="1226" y="973" type="curve" smooth="yes"/>
+      <point x="1226" y="858" type="line" smooth="yes"/>
+      <point x="1226" y="686"/>
+      <point x="1128" y="605"/>
+      <point x="939" y="604" type="curve" smooth="yes"/>
+      <point x="809" y="603" type="line"/>
+      <point x="809" y="572" type="line"/>
+      <point x="939" y="571" type="line" smooth="yes"/>
+      <point x="1120" y="570"/>
+      <point x="1216" y="490"/>
+      <point x="1216" y="353" type="curve" smooth="yes"/>
+      <point x="1216" y="337" type="line" smooth="yes"/>
+      <point x="1216" y="153"/>
+      <point x="1050" y="55"/>
+      <point x="742" y="55" type="curve" smooth="yes"/>
+      <point x="418" y="55"/>
+      <point x="228" y="185"/>
+      <point x="210" y="422" type="curve" smooth="yes"/>
+      <point x="197" y="590" type="line"/>
+      <point x="162" y="590" type="line"/>
+      <point x="176" y="417" type="line" smooth="yes"/>
+      <point x="197" y="163"/>
+      <point x="394" y="21"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>VowelO.bn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

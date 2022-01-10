@@ -1,31 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="SignRu_alt1.bn" format="2">
-	<advance width="0"/>
-	<anchor x="-129" y="299" name="_bottom1"/>
-	<outline>
-		<contour>
-			<point x="-159" y="-148" type="curve"/>
-			<point x="-123" y="-151" type="line"/>
-			<point x="-125" y="-17"/>
-			<point x="-129" y="182"/>
-			<point x="-129" y="299" type="curve"/>
-			<point x="-165" y="299" type="line"/>
-			<point x="-165" y="167"/>
-			<point x="-161" y="-27"/>
-		</contour>
-		<contour>
-			<point x="-3" y="-590" type="line"/>
-			<point x="1" y="-554" type="line"/>
-			<point x="-578" y="-338" type="line"/>
-			<point x="-578" y="-335" type="line"/>
-			<point x="-507" y="-298"/>
-			<point x="-254" y="-199"/>
-			<point x="-123" y="-151" type="curve"/>
-			<point x="-145" y="-124" type="line"/>
-			<point x="-297" y="-183"/>
-			<point x="-522" y="-268"/>
-			<point x="-624" y="-320" type="curve"/>
-			<point x="-624" y="-355" type="line"/>
-		</contour>
-	</outline>
+  <anchor x="1007" y="289" name="_bottom1"/>
+  <outline>
+    <contour>
+      <point x="977" y="-142" type="curve"/>
+      <point x="1014" y="-151" type="line"/>
+      <point x="1011" y="-1"/>
+      <point x="1007" y="169"/>
+      <point x="1007" y="289" type="curve"/>
+      <point x="972" y="289" type="line"/>
+      <point x="972" y="147"/>
+      <point x="974" y="-6"/>
+    </contour>
+    <contour>
+      <point x="1134" y="-590" type="line"/>
+      <point x="1138" y="-557" type="line"/>
+      <point x="559" y="-339" type="line"/>
+      <point x="559" y="-335" type="line"/>
+      <point x="630" y="-298"/>
+      <point x="883" y="-199"/>
+      <point x="1014" y="-151" type="curve"/>
+      <point x="992" y="-123" type="line"/>
+      <point x="840" y="-182"/>
+      <point x="615" y="-267"/>
+      <point x="513" y="-319" type="curve"/>
+      <point x="513" y="-355" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1136</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
 </glyph>

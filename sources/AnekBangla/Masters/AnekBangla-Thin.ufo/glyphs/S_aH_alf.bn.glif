@@ -1,57 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="SaHalf.bn" format="2">
-	<advance width="1261"/>
-	<anchor x="610" y="188" name="bottom1"/>
-	<anchor x="561" y="678" name="top"/>
-	<anchor x="437" y="839" name="top2"/>
-	<outline>
-		<contour>
-			<point x="-62" y="1197" type="line"/>
-			<point x="844" y="1197" type="line" smooth="yes"/>
-			<point x="1035" y="1197"/>
-			<point x="1108" y="1074"/>
-			<point x="1108" y="940" type="curve" smooth="yes"/>
-			<point x="1108" y="923" type="line" smooth="yes"/>
-			<point x="1108" y="768"/>
-			<point x="1025" y="666"/>
-			<point x="847" y="666" type="curve" smooth="yes"/>
-			<point x="723" y="666"/>
-			<point x="548" y="727"/>
-			<point x="548" y="967" type="curve" smooth="yes"/>
-			<point x="548" y="1209" type="line"/>
-			<point x="513" y="1209" type="line"/>
-			<point x="513" y="967" type="line" smooth="yes"/>
-			<point x="513" y="731"/>
-			<point x="356" y="661"/>
-			<point x="200" y="661" type="curve" smooth="yes"/>
-			<point x="157" y="661"/>
-			<point x="110" y="665"/>
-			<point x="66" y="675" type="curve"/>
-			<point x="70" y="641" type="line"/>
-			<point x="114" y="632"/>
-			<point x="159" y="628"/>
-			<point x="200" y="628" type="curve" smooth="yes"/>
-			<point x="346" y="628"/>
-			<point x="492" y="681"/>
-			<point x="530" y="855" type="curve"/>
-			<point x="532" y="855" type="line"/>
-			<point x="574" y="686"/>
-			<point x="728" y="632"/>
-			<point x="848" y="632" type="curve" smooth="yes"/>
-			<point x="1045" y="632"/>
-			<point x="1144" y="746"/>
-			<point x="1144" y="923" type="curve" smooth="yes"/>
-			<point x="1144" y="940" type="line" smooth="yes"/>
-			<point x="1144" y="1110"/>
-			<point x="1041" y="1228"/>
-			<point x="844" y="1228" type="curve" smooth="yes"/>
-			<point x="-67" y="1228" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>SaPa.bn</string>
-		</dict>
-	</lib>
+  <advance width="1261"/>
+  <anchor x="610" y="188" name="bottom1"/>
+  <anchor x="561" y="678" name="top"/>
+  <anchor x="437" y="839" name="top2"/>
+  <outline>
+    <contour>
+      <point x="-62" y="1197" type="line"/>
+      <point x="844" y="1197" type="line" smooth="yes"/>
+      <point x="1035" y="1197"/>
+      <point x="1108" y="1074"/>
+      <point x="1108" y="940" type="curve" smooth="yes"/>
+      <point x="1108" y="923" type="line" smooth="yes"/>
+      <point x="1108" y="768"/>
+      <point x="1025" y="666"/>
+      <point x="847" y="666" type="curve" smooth="yes"/>
+      <point x="723" y="666"/>
+      <point x="548" y="727"/>
+      <point x="548" y="967" type="curve" smooth="yes"/>
+      <point x="548" y="1209" type="line"/>
+      <point x="513" y="1209" type="line"/>
+      <point x="513" y="967" type="line" smooth="yes"/>
+      <point x="513" y="731"/>
+      <point x="356" y="661"/>
+      <point x="200" y="661" type="curve" smooth="yes"/>
+      <point x="157" y="661"/>
+      <point x="110" y="665"/>
+      <point x="66" y="675" type="curve"/>
+      <point x="70" y="641" type="line"/>
+      <point x="114" y="632"/>
+      <point x="159" y="628"/>
+      <point x="200" y="628" type="curve" smooth="yes"/>
+      <point x="346" y="628"/>
+      <point x="492" y="681"/>
+      <point x="530" y="855" type="curve"/>
+      <point x="532" y="855" type="line"/>
+      <point x="574" y="686"/>
+      <point x="728" y="632"/>
+      <point x="848" y="632" type="curve" smooth="yes"/>
+      <point x="1045" y="632"/>
+      <point x="1144" y="746"/>
+      <point x="1144" y="923" type="curve" smooth="yes"/>
+      <point x="1144" y="940" type="line" smooth="yes"/>
+      <point x="1144" y="1110"/>
+      <point x="1041" y="1228"/>
+      <point x="844" y="1228" type="curve" smooth="yes"/>
+      <point x="-67" y="1228" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>SaPa.bn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

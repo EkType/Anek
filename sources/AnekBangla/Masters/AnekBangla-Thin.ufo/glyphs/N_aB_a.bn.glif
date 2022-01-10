@@ -1,86 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="NaBa.bn" format="2">
-	<advance width="1166"/>
-	<anchor x="941" y="-130" name="bottom1"/>
-	<anchor x="904" y="1418" name="top"/>
-	<anchor x="655" y="1719" name="top2"/>
-	<outline>
-		<contour>
-			<point x="907" y="491" type="curve"/>
-			<point x="931" y="539" type="line"/>
-			<point x="921" y="540" type="line"/>
-			<point x="857" y="792"/>
-			<point x="657" y="959"/>
-			<point x="445" y="959" type="curve" smooth="yes"/>
-			<point x="249" y="959"/>
-			<point x="142" y="859"/>
-			<point x="142" y="664" type="curve" smooth="yes"/>
-			<point x="142" y="610"/>
-			<point x="147" y="573"/>
-			<point x="153" y="540" type="curve"/>
-			<point x="188" y="540" type="line"/>
-			<point x="182" y="570"/>
-			<point x="178" y="608"/>
-			<point x="178" y="663" type="curve" smooth="yes"/>
-			<point x="178" y="839"/>
-			<point x="272" y="926"/>
-			<point x="451" y="926" type="curve" smooth="yes"/>
-			<point x="638" y="926"/>
-			<point x="834" y="775"/>
-		</contour>
-		<contour>
-			<point x="906" y="488" type="line"/>
-			<point x="941" y="505" type="line"/>
-			<point x="941" y="1217" type="line"/>
-			<point x="906" y="1217" type="line"/>
-			<point x="906" y="748" type="line"/>
-			<point x="910" y="565" type="line"/>
-			<point x="906" y="551" type="line"/>
-		</contour>
-		<contour>
-			<point x="-28" y="1198" type="line"/>
-			<point x="942" y="1198" type="line"/>
-			<point x="942" y="1228" type="line"/>
-			<point x="-33" y="1228" type="line"/>
-		</contour>
-		<contour>
-			<point x="918" y="1220" type="line"/>
-			<point x="918" y="968" type="line"/>
-			<point x="941" y="968" type="line"/>
-			<point x="941" y="1220" type="line"/>
-		</contour>
-		<contour>
-			<point x="918" y="1197" type="line"/>
-			<point x="1230" y="1197" type="line"/>
-			<point x="1225" y="1228" type="line"/>
-			<point x="918" y="1228" type="line"/>
-		</contour>
-		<contour>
-			<point x="911" y="-130" type="line"/>
-			<point x="941" y="-130" type="line"/>
-			<point x="941" y="511" type="line"/>
-			<point x="906" y="511" type="line"/>
-			<point x="906" y="12" type="line"/>
-			<point x="908" y="-105" type="line"/>
-			<point x="917" y="-98" type="line"/>
-			<point x="295" y="129" type="line"/>
-			<point x="306" y="102" type="line"/>
-			<point x="306" y="310" type="line"/>
-			<point x="293" y="278" type="line"/>
-			<point x="490" y="363"/>
-			<point x="699" y="431"/>
-			<point x="918" y="489" type="curve"/>
-			<point x="918" y="523" type="line"/>
-			<point x="691" y="463"/>
-			<point x="475" y="392"/>
-			<point x="271" y="305" type="curve"/>
-			<point x="271" y="104" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>SignAa.bn</string>
-		</dict>
-	</lib>
+  <advance width="1166"/>
+  <anchor x="941" y="-130" name="bottom1"/>
+  <anchor x="904" y="1418" name="top"/>
+  <anchor x="655" y="1719" name="top2"/>
+  <outline>
+    <contour>
+      <point x="907" y="491" type="curve"/>
+      <point x="931" y="539" type="line"/>
+      <point x="921" y="540" type="line"/>
+      <point x="857" y="792"/>
+      <point x="657" y="959"/>
+      <point x="445" y="959" type="curve" smooth="yes"/>
+      <point x="249" y="959"/>
+      <point x="142" y="859"/>
+      <point x="142" y="664" type="curve" smooth="yes"/>
+      <point x="142" y="610"/>
+      <point x="147" y="573"/>
+      <point x="153" y="540" type="curve"/>
+      <point x="188" y="540" type="line"/>
+      <point x="182" y="570"/>
+      <point x="178" y="608"/>
+      <point x="178" y="663" type="curve" smooth="yes"/>
+      <point x="178" y="839"/>
+      <point x="272" y="926"/>
+      <point x="451" y="926" type="curve" smooth="yes"/>
+      <point x="638" y="926"/>
+      <point x="834" y="775"/>
+    </contour>
+    <contour>
+      <point x="906" y="488" type="line"/>
+      <point x="941" y="505" type="line"/>
+      <point x="941" y="1217" type="line"/>
+      <point x="906" y="1217" type="line"/>
+      <point x="906" y="748" type="line"/>
+      <point x="910" y="565" type="line"/>
+      <point x="906" y="551" type="line"/>
+    </contour>
+    <contour>
+      <point x="-28" y="1198" type="line"/>
+      <point x="942" y="1198" type="line"/>
+      <point x="942" y="1228" type="line"/>
+      <point x="-33" y="1228" type="line"/>
+    </contour>
+    <contour>
+      <point x="918" y="1220" type="line"/>
+      <point x="918" y="968" type="line"/>
+      <point x="941" y="968" type="line"/>
+      <point x="941" y="1220" type="line"/>
+    </contour>
+    <contour>
+      <point x="918" y="1197" type="line"/>
+      <point x="1230" y="1197" type="line"/>
+      <point x="1225" y="1228" type="line"/>
+      <point x="918" y="1228" type="line"/>
+    </contour>
+    <contour>
+      <point x="911" y="-130" type="line"/>
+      <point x="941" y="-130" type="line"/>
+      <point x="941" y="511" type="line"/>
+      <point x="906" y="511" type="line"/>
+      <point x="906" y="12" type="line"/>
+      <point x="908" y="-105" type="line"/>
+      <point x="917" y="-98" type="line"/>
+      <point x="295" y="129" type="line"/>
+      <point x="306" y="102" type="line"/>
+      <point x="306" y="310" type="line"/>
+      <point x="293" y="278" type="line"/>
+      <point x="490" y="363"/>
+      <point x="699" y="431"/>
+      <point x="918" y="489" type="curve"/>
+      <point x="918" y="523" type="line"/>
+      <point x="691" y="463"/>
+      <point x="475" y="392"/>
+      <point x="271" y="305" type="curve"/>
+      <point x="271" y="104" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>SignAa.bn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,64 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_CompBaBa.bn" format="2">
-	<advance width="1026"/>
-	<anchor x="890" y="-144" name="bottom1"/>
-	<anchor x="854" y="1418" name="top"/>
-	<anchor x="600" y="1719" name="top2"/>
-	<outline>
-		<contour>
-			<point x="860" y="-144" type="line"/>
-			<point x="890" y="-144" type="line"/>
-			<point x="890" y="1208" type="line"/>
-			<point x="855" y="1208" type="line"/>
-			<point x="855" y="1004" type="line"/>
-			<point x="855" y="995" type="line"/>
-			<point x="855" y="-2" type="line"/>
-			<point x="857" y="-119" type="line"/>
-			<point x="865" y="-110" type="line"/>
-			<point x="235" y="137" type="line"/>
-			<point x="246" y="109" type="line"/>
-			<point x="246" y="330" type="line"/>
-			<point x="234" y="302" type="line"/>
-			<point x="422" y="378"/>
-			<point x="631" y="446"/>
-			<point x="867" y="508" type="curve"/>
-			<point x="867" y="545" type="line"/>
-			<point x="645" y="482"/>
-			<point x="398" y="405"/>
-			<point x="211" y="329" type="curve"/>
-			<point x="211" y="111" type="line"/>
-		</contour>
-		<contour>
-			<point x="497" y="419" type="line"/>
-			<point x="544" y="436" type="line"/>
-			<point x="183" y="584" type="line"/>
-			<point x="196" y="559" type="line"/>
-			<point x="196" y="780" type="line"/>
-			<point x="183" y="752" type="line"/>
-			<point x="380" y="843"/>
-			<point x="629" y="926"/>
-			<point x="884" y="987" type="curve"/>
-			<point x="867" y="1017" type="line"/>
-			<point x="594" y="953"/>
-			<point x="355" y="866"/>
-			<point x="161" y="780" type="curve"/>
-			<point x="161" y="559" type="line"/>
-		</contour>
-		<contour>
-			<point x="-33" y="1197" type="line"/>
-			<point x="890" y="1197" type="line"/>
-			<point x="890" y="1228" type="line"/>
-			<point x="-38" y="1228" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>Ba.bn</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>=SignAa.bn+200</string>
-		</dict>
-	</lib>
+  <advance width="1026"/>
+  <anchor x="890" y="-144" name="bottom1"/>
+  <anchor x="854" y="1418" name="top"/>
+  <anchor x="600" y="1719" name="top2"/>
+  <outline>
+    <contour>
+      <point x="860" y="-144" type="line"/>
+      <point x="890" y="-144" type="line"/>
+      <point x="890" y="1208" type="line"/>
+      <point x="855" y="1208" type="line"/>
+      <point x="855" y="1004" type="line"/>
+      <point x="855" y="995" type="line"/>
+      <point x="855" y="-2" type="line"/>
+      <point x="857" y="-119" type="line"/>
+      <point x="865" y="-110" type="line"/>
+      <point x="235" y="137" type="line"/>
+      <point x="246" y="109" type="line"/>
+      <point x="246" y="330" type="line"/>
+      <point x="234" y="302" type="line"/>
+      <point x="422" y="378"/>
+      <point x="631" y="446"/>
+      <point x="867" y="508" type="curve"/>
+      <point x="867" y="545" type="line"/>
+      <point x="645" y="482"/>
+      <point x="398" y="405"/>
+      <point x="211" y="329" type="curve"/>
+      <point x="211" y="111" type="line"/>
+    </contour>
+    <contour>
+      <point x="497" y="419" type="line"/>
+      <point x="544" y="436" type="line"/>
+      <point x="183" y="584" type="line"/>
+      <point x="196" y="559" type="line"/>
+      <point x="196" y="780" type="line"/>
+      <point x="183" y="752" type="line"/>
+      <point x="380" y="843"/>
+      <point x="629" y="926"/>
+      <point x="884" y="987" type="curve"/>
+      <point x="867" y="1017" type="line"/>
+      <point x="594" y="953"/>
+      <point x="355" y="866"/>
+      <point x="161" y="780" type="curve"/>
+      <point x="161" y="559" type="line"/>
+    </contour>
+    <contour>
+      <point x="-33" y="1197" type="line"/>
+      <point x="890" y="1197" type="line"/>
+      <point x="890" y="1228" type="line"/>
+      <point x="-38" y="1228" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ba.bn</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=SignAa.bn+200</string>
+    </dict>
+  </lib>
 </glyph>

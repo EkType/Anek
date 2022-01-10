@@ -1,61 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="anji.bn" format="2">
-	<advance width="1147"/>
-	<unicode hex="0980"/>
-	<outline>
-		<contour>
-			<point x="558" y="1233" type="curve" smooth="yes"/>
-			<point x="406" y="1233"/>
-			<point x="280" y="1175"/>
-			<point x="211" y="1046" type="curve" smooth="yes"/>
-			<point x="165" y="976"/>
-			<point x="126" y="801"/>
-			<point x="126" y="700" type="curve" smooth="yes"/>
-			<point x="126" y="535"/>
-			<point x="237" y="428"/>
-			<point x="451" y="428" type="curve" smooth="yes"/>
-			<point x="625" y="428" type="line"/>
-			<point x="631" y="461" type="line"/>
-			<point x="451" y="461" type="line" smooth="yes"/>
-			<point x="275" y="461"/>
-			<point x="161" y="548"/>
-			<point x="161" y="700" type="curve" smooth="yes"/>
-			<point x="161" y="791"/>
-			<point x="198" y="955"/>
-			<point x="246" y="1038" type="curve" smooth="yes"/>
-			<point x="310" y="1145"/>
-			<point x="422" y="1201"/>
-			<point x="558" y="1201" type="curve" smooth="yes"/>
-			<point x="770" y="1201"/>
-			<point x="880" y="1102"/>
-			<point x="880" y="899" type="curve" smooth="yes"/>
-			<point x="880" y="241" type="line"/>
-			<point x="915" y="241" type="line"/>
-			<point x="915" y="895" type="line" smooth="yes"/>
-			<point x="915" y="1119"/>
-			<point x="794" y="1233"/>
-		</contour>
-		<contour>
-			<point x="914" y="176" type="curve" smooth="yes"/>
-			<point x="914" y="323" type="line"/>
-			<point x="879" y="323" type="line"/>
-			<point x="879" y="176" type="line" smooth="yes"/>
-			<point x="879" y="48"/>
-			<point x="946" y="-30"/>
-			<point x="1064" y="-30" type="curve" smooth="yes"/>
-			<point x="1092" y="-30" type="line"/>
-			<point x="1087" y="1" type="line"/>
-			<point x="1064" y="1" type="line" smooth="yes"/>
-			<point x="968" y="1"/>
-			<point x="914" y="64"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>Seven.bn</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>Seven.bn</string>
-		</dict>
-	</lib>
+  <advance width="1147"/>
+  <unicode hex="0980"/>
+  <outline>
+    <contour>
+      <point x="558" y="1233" type="curve" smooth="yes"/>
+      <point x="406" y="1233"/>
+      <point x="280" y="1175"/>
+      <point x="211" y="1046" type="curve" smooth="yes"/>
+      <point x="165" y="976"/>
+      <point x="126" y="801"/>
+      <point x="126" y="700" type="curve" smooth="yes"/>
+      <point x="126" y="535"/>
+      <point x="237" y="428"/>
+      <point x="451" y="428" type="curve" smooth="yes"/>
+      <point x="625" y="428" type="line"/>
+      <point x="631" y="461" type="line"/>
+      <point x="451" y="461" type="line" smooth="yes"/>
+      <point x="275" y="461"/>
+      <point x="161" y="548"/>
+      <point x="161" y="700" type="curve" smooth="yes"/>
+      <point x="161" y="791"/>
+      <point x="198" y="955"/>
+      <point x="246" y="1038" type="curve" smooth="yes"/>
+      <point x="310" y="1145"/>
+      <point x="422" y="1201"/>
+      <point x="558" y="1201" type="curve" smooth="yes"/>
+      <point x="770" y="1201"/>
+      <point x="880" y="1102"/>
+      <point x="880" y="899" type="curve" smooth="yes"/>
+      <point x="880" y="241" type="line"/>
+      <point x="915" y="241" type="line"/>
+      <point x="915" y="895" type="line" smooth="yes"/>
+      <point x="915" y="1119"/>
+      <point x="794" y="1233"/>
+    </contour>
+    <contour>
+      <point x="914" y="323" type="line"/>
+      <point x="879" y="323" type="line"/>
+      <point x="879" y="176" type="line" smooth="yes"/>
+      <point x="879" y="48"/>
+      <point x="946" y="-30"/>
+      <point x="1064" y="-30" type="curve" smooth="yes"/>
+      <point x="1092" y="-30" type="line"/>
+      <point x="1087" y="1" type="line"/>
+      <point x="1064" y="1" type="line" smooth="yes"/>
+      <point x="968" y="1"/>
+      <point x="914" y="64"/>
+      <point x="914" y="176" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Seven.bn</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Seven.bn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

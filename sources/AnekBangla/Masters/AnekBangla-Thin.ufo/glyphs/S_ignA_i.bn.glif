@@ -1,68 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="SignAi.bn" format="2">
-	<advance width="617"/>
-	<unicode hex="09C8"/>
-	<anchor x="332" y="1529" name="top"/>
-	<anchor x="378" y="1631" name="top2"/>
-	<outline>
-		<contour>
-			<point x="549" y="1201" type="curve"/>
-			<point x="531" y="1221" type="line"/>
-			<point x="300" y="1133"/>
-			<point x="177" y="937"/>
-			<point x="177" y="625" type="curve" smooth="yes"/>
-			<point x="177" y="486" type="line" smooth="yes"/>
-			<point x="177" y="162"/>
-			<point x="317" y="6"/>
-			<point x="516" y="-21" type="curve" smooth="yes"/>
-			<point x="545" y="-25" type="line"/>
-			<point x="549" y="7" type="line"/>
-			<point x="519" y="11" type="line" smooth="yes"/>
-			<point x="341" y="35"/>
-			<point x="213" y="178"/>
-			<point x="213" y="485" type="curve" smooth="yes"/>
-			<point x="213" y="624" type="line" smooth="yes"/>
-			<point x="213" y="925"/>
-			<point x="331" y="1112"/>
-		</contour>
-		<contour>
-			<point x="-57" y="1197" type="line"/>
-			<point x="832" y="1197" type="line"/>
-			<point x="827" y="1228" type="line"/>
-			<point x="-62" y="1228" type="line"/>
-		</contour>
-		<contour>
-			<point x="562" y="1225" type="line"/>
-			<point x="576" y="1261"/>
-			<point x="582" y="1297"/>
-			<point x="582" y="1337" type="curve" smooth="yes"/>
-			<point x="582" y="1475"/>
-			<point x="496" y="1542"/>
-			<point x="331" y="1542" type="curve" smooth="yes"/>
-			<point x="217" y="1542" type="line" smooth="yes"/>
-			<point x="81" y="1542"/>
-			<point x="16" y="1595"/>
-			<point x="16" y="1705" type="curve" smooth="yes"/>
-			<point x="16" y="1728" type="line"/>
-			<point x="-14" y="1728" type="line"/>
-			<point x="-14" y="1705" type="line" smooth="yes"/>
-			<point x="-14" y="1576"/>
-			<point x="63" y="1511"/>
-			<point x="217" y="1511" type="curve" smooth="yes"/>
-			<point x="331" y="1511" type="line" smooth="yes"/>
-			<point x="481" y="1511"/>
-			<point x="550" y="1458"/>
-			<point x="550" y="1336" type="curve" smooth="yes"/>
-			<point x="550" y="1290"/>
-			<point x="543" y="1250"/>
-			<point x="528" y="1213" type="curve"/>
-			<point x="553" y="1210" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>SignE.bn</string>
-		</dict>
-	</lib>
+  <advance width="617"/>
+  <unicode hex="09C8"/>
+  <anchor x="332" y="1529" name="top"/>
+  <anchor x="378" y="1631" name="top2"/>
+  <outline>
+    <contour>
+      <point x="549" y="1201" type="curve"/>
+      <point x="531" y="1221" type="line"/>
+      <point x="300" y="1133"/>
+      <point x="177" y="937"/>
+      <point x="177" y="625" type="curve" smooth="yes"/>
+      <point x="177" y="486" type="line" smooth="yes"/>
+      <point x="177" y="162"/>
+      <point x="317" y="6"/>
+      <point x="516" y="-21" type="curve" smooth="yes"/>
+      <point x="545" y="-25" type="line"/>
+      <point x="549" y="7" type="line"/>
+      <point x="519" y="11" type="line" smooth="yes"/>
+      <point x="341" y="35"/>
+      <point x="213" y="178"/>
+      <point x="213" y="485" type="curve" smooth="yes"/>
+      <point x="213" y="624" type="line" smooth="yes"/>
+      <point x="213" y="925"/>
+      <point x="331" y="1112"/>
+    </contour>
+    <contour>
+      <point x="-57" y="1197" type="line"/>
+      <point x="772" y="1197" type="line"/>
+      <point x="767" y="1228" type="line"/>
+      <point x="-62" y="1228" type="line"/>
+    </contour>
+    <contour>
+      <point x="562" y="1225" type="line"/>
+      <point x="576" y="1261"/>
+      <point x="582" y="1297"/>
+      <point x="582" y="1337" type="curve" smooth="yes"/>
+      <point x="582" y="1475"/>
+      <point x="496" y="1542"/>
+      <point x="331" y="1542" type="curve" smooth="yes"/>
+      <point x="217" y="1542" type="line" smooth="yes"/>
+      <point x="81" y="1542"/>
+      <point x="16" y="1595"/>
+      <point x="16" y="1705" type="curve" smooth="yes"/>
+      <point x="16" y="1728" type="line"/>
+      <point x="-14" y="1728" type="line"/>
+      <point x="-14" y="1705" type="line" smooth="yes"/>
+      <point x="-14" y="1576"/>
+      <point x="63" y="1511"/>
+      <point x="217" y="1511" type="curve" smooth="yes"/>
+      <point x="331" y="1511" type="line" smooth="yes"/>
+      <point x="481" y="1511"/>
+      <point x="550" y="1458"/>
+      <point x="550" y="1336" type="curve" smooth="yes"/>
+      <point x="550" y="1290"/>
+      <point x="543" y="1250"/>
+      <point x="528" y="1213" type="curve"/>
+      <point x="553" y="1210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>SignE.bn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

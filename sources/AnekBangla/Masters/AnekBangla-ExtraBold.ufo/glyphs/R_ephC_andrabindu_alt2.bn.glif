@@ -1,53 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="RephCandrabindu_alt2.bn" format="2">
-	<advance width="0"/>
-	<anchor x="549" y="1544" name="_top2"/>
-	<outline>
-		<contour>
-			<point x="549" y="2164" type="curve"/>
-			<point x="369" y="2164" type="line"/>
-			<point x="369" y="2155" type="line" smooth="yes"/>
-			<point x="369" y="2047"/>
-			<point x="304" y="1998"/>
-			<point x="172" y="1998" type="curve" smooth="yes"/>
-			<point x="42" y="1998"/>
-			<point x="-24" y="2047"/>
-			<point x="-24" y="2155" type="curve" smooth="yes"/>
-			<point x="-24" y="2164" type="line"/>
-			<point x="-205" y="2164" type="line"/>
-			<point x="-205" y="2147"/>
-			<point x="-206" y="2135"/>
-			<point x="-206" y="2127" type="curve" smooth="yes"/>
-			<point x="-206" y="1918"/>
-			<point x="-76" y="1802"/>
-			<point x="173" y="1802" type="curve" smooth="yes"/>
-			<point x="421" y="1802"/>
-			<point x="550" y="1918"/>
-			<point x="550" y="2127" type="curve" smooth="yes"/>
-			<point x="550" y="2134"/>
-			<point x="549" y="2146"/>
-		</contour>
-		<contour>
-			<point x="174" y="2080" type="curve" smooth="yes"/>
-			<point x="261" y="2080"/>
-			<point x="304" y="2127"/>
-			<point x="304" y="2201" type="curve" smooth="yes"/>
-			<point x="304" y="2204" type="line" smooth="yes"/>
-			<point x="304" y="2278"/>
-			<point x="261" y="2325"/>
-			<point x="174" y="2325" type="curve" smooth="yes"/>
-			<point x="87" y="2325"/>
-			<point x="42" y="2279"/>
-			<point x="42" y="2204" type="curve" smooth="yes"/>
-			<point x="42" y="2201" type="line" smooth="yes"/>
-			<point x="42" y="2127"/>
-			<point x="87" y="2080"/>
-		</contour>
-		<contour>
-			<point x="292" y="1555" type="line"/>
-			<point x="713" y="1555" type="line"/>
-			<point x="1098" y="2020" type="line"/>
-			<point x="760" y="2020" type="line"/>
-		</contour>
-	</outline>
+  <anchor x="-556" y="1533" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-112" y="2283" type="curve"/>
+      <point x="-292" y="2283" type="line"/>
+      <point x="-292" y="2274" type="line" smooth="yes"/>
+      <point x="-292" y="2166"/>
+      <point x="-357" y="2117"/>
+      <point x="-489" y="2117" type="curve" smooth="yes"/>
+      <point x="-619" y="2117"/>
+      <point x="-685" y="2166"/>
+      <point x="-685" y="2274" type="curve" smooth="yes"/>
+      <point x="-685" y="2283" type="line"/>
+      <point x="-866" y="2283" type="line"/>
+      <point x="-866" y="2266"/>
+      <point x="-867" y="2254"/>
+      <point x="-867" y="2246" type="curve" smooth="yes"/>
+      <point x="-867" y="2037"/>
+      <point x="-737" y="1921"/>
+      <point x="-488" y="1921" type="curve" smooth="yes"/>
+      <point x="-240" y="1921"/>
+      <point x="-111" y="2037"/>
+      <point x="-111" y="2246" type="curve" smooth="yes"/>
+      <point x="-111" y="2253"/>
+      <point x="-112" y="2265"/>
+    </contour>
+    <contour>
+      <point x="-487" y="2199" type="curve" smooth="yes"/>
+      <point x="-400" y="2199"/>
+      <point x="-357" y="2246"/>
+      <point x="-357" y="2320" type="curve" smooth="yes"/>
+      <point x="-357" y="2323" type="line" smooth="yes"/>
+      <point x="-357" y="2397"/>
+      <point x="-400" y="2444"/>
+      <point x="-487" y="2444" type="curve" smooth="yes"/>
+      <point x="-574" y="2444"/>
+      <point x="-619" y="2398"/>
+      <point x="-619" y="2323" type="curve" smooth="yes"/>
+      <point x="-619" y="2320" type="line" smooth="yes"/>
+      <point x="-619" y="2246"/>
+      <point x="-574" y="2199"/>
+    </contour>
+    <contour>
+      <point x="-480" y="1533" type="line"/>
+      <point x="-93" y="1533" type="line"/>
+      <point x="269" y="1973" type="line"/>
+      <point x="-69" y="1973" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
 </glyph>

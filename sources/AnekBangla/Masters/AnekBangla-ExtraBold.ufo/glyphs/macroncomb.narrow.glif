@@ -1,14 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macroncomb.narrow" format="2">
-	<advance width="0"/>
-	<anchor x="-418" y="1318" name="top"/>
-	<anchor x="-419" y="985" name="_top"/>
-	<outline>
-		<contour>
-			<point x="-682" y="1094" type="line"/>
-			<point x="-155" y="1094" type="line"/>
-			<point x="-155" y="1303" type="line"/>
-			<point x="-682" y="1303" type="line"/>
-		</contour>
-	</outline>
+  <anchor x="418" y="985" name="_top"/>
+  <anchor x="419" y="1318" name="top"/>
+  <outline>
+    <contour>
+      <point x="155" y="1094" type="line"/>
+      <point x="682" y="1094" type="line"/>
+      <point x="682" y="1303" type="line"/>
+      <point x="155" y="1303" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>837</integer>
+    </dict>
+  </lib>
 </glyph>

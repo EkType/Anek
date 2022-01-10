@@ -1,90 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_CompLaHalfAlt.bn" format="2">
-	<advance width="1459"/>
-	<anchor x="1082" y="1426" name="top"/>
-	<anchor x="863" y="1749" name="top2"/>
-	<outline>
-		<contour>
-			<point x="1107" y="421" type="line"/>
-			<point x="1287" y="421" type="line"/>
-			<point x="1287" y="1162" type="line"/>
-			<point x="1110" y="1162" type="line"/>
-			<point x="1110" y="953" type="line"/>
-			<point x="1114" y="794" type="line"/>
-			<point x="1107" y="768" type="line"/>
-		</contour>
-		<contour>
-			<point x="467" y="257" type="curve" smooth="yes"/>
-			<point x="502" y="257"/>
-			<point x="528" y="259"/>
-			<point x="563" y="263" type="curve"/>
-			<point x="578" y="424" type="line"/>
-			<point x="546" y="419"/>
-			<point x="520" y="417"/>
-			<point x="487" y="417" type="curve" smooth="yes"/>
-			<point x="356" y="417"/>
-			<point x="299" y="480"/>
-			<point x="299" y="582" type="curve" smooth="yes"/>
-			<point x="299" y="630" type="line" smooth="yes"/>
-			<point x="299" y="737"/>
-			<point x="359" y="804"/>
-			<point x="479" y="804" type="curve" smooth="yes"/>
-			<point x="582" y="804"/>
-			<point x="658" y="748"/>
-			<point x="660" y="633" type="curve" smooth="yes"/>
-			<point x="662" y="528" type="line"/>
-			<point x="822" y="528" type="line"/>
-			<point x="825" y="635" type="line" smooth="yes"/>
-			<point x="828" y="730"/>
-			<point x="857" y="804"/>
-			<point x="977" y="804" type="curve" smooth="yes"/>
-			<point x="1041" y="804"/>
-			<point x="1096" y="776"/>
-			<point x="1111" y="716" type="curve"/>
-			<point x="1171" y="846" type="line"/>
-			<point x="1134" y="859" type="line"/>
-			<point x="1110" y="926"/>
-			<point x="1044" y="965"/>
-			<point x="955" y="965" type="curve" smooth="yes"/>
-			<point x="840" y="965"/>
-			<point x="764" y="908"/>
-			<point x="740" y="802" type="curve"/>
-			<point x="730" y="802" type="line"/>
-			<point x="696" y="908"/>
-			<point x="588" y="966"/>
-			<point x="447" y="966" type="curve" smooth="yes"/>
-			<point x="236" y="966"/>
-			<point x="116" y="847"/>
-			<point x="116" y="635" type="curve" smooth="yes"/>
-			<point x="116" y="586" type="line" smooth="yes"/>
-			<point x="116" y="362"/>
-			<point x="241" y="257"/>
-		</contour>
-		<contour>
-			<point x="-25" y="1104" type="line"/>
-			<point x="1269" y="1104" type="line"/>
-			<point x="1269" y="1259" type="line"/>
-			<point x="-36" y="1259" type="line"/>
-		</contour>
-		<contour>
-			<point x="1208" y="1190" type="line"/>
-			<point x="1208" y="834" type="line"/>
-			<point x="1287" y="834" type="line"/>
-			<point x="1287" y="1190" type="line"/>
-		</contour>
-		<contour>
-			<point x="1208" y="1104" type="line"/>
-			<point x="1510" y="1104" type="line"/>
-			<point x="1499" y="1259" type="line"/>
-			<point x="1208" y="1259" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>SignAa.bn</string>
-		</dict>
-	</lib>
+  <advance width="1459"/>
+  <anchor x="1082" y="1426" name="top"/>
+  <anchor x="863" y="1749" name="top2"/>
+  <outline>
+    <contour>
+      <point x="1107" y="421" type="line"/>
+      <point x="1287" y="421" type="line"/>
+      <point x="1287" y="1162" type="line"/>
+      <point x="1110" y="1162" type="line"/>
+      <point x="1110" y="953" type="line"/>
+      <point x="1114" y="794" type="line"/>
+      <point x="1107" y="768" type="line"/>
+    </contour>
+    <contour>
+      <point x="467" y="256" type="curve" smooth="yes"/>
+      <point x="502" y="256"/>
+      <point x="528" y="258"/>
+      <point x="563" y="262" type="curve"/>
+      <point x="578" y="424" type="line"/>
+      <point x="546" y="419"/>
+      <point x="520" y="417"/>
+      <point x="487" y="417" type="curve" smooth="yes"/>
+      <point x="356" y="417"/>
+      <point x="299" y="480"/>
+      <point x="299" y="582" type="curve" smooth="yes"/>
+      <point x="299" y="630" type="line" smooth="yes"/>
+      <point x="299" y="736"/>
+      <point x="359" y="802"/>
+      <point x="479" y="802" type="curve" smooth="yes"/>
+      <point x="582" y="802"/>
+      <point x="658" y="747"/>
+      <point x="660" y="633" type="curve" smooth="yes"/>
+      <point x="662" y="528" type="line"/>
+      <point x="822" y="528" type="line"/>
+      <point x="825" y="635" type="line" smooth="yes"/>
+      <point x="828" y="729"/>
+      <point x="857" y="802"/>
+      <point x="977" y="802" type="curve" smooth="yes"/>
+      <point x="1041" y="802"/>
+      <point x="1096" y="775"/>
+      <point x="1111" y="716" type="curve"/>
+      <point x="1171" y="846" type="line"/>
+      <point x="1134" y="859" type="line"/>
+      <point x="1110" y="926"/>
+      <point x="1044" y="965"/>
+      <point x="955" y="965" type="curve" smooth="yes"/>
+      <point x="840" y="965"/>
+      <point x="764" y="908"/>
+      <point x="740" y="802" type="curve"/>
+      <point x="730" y="802" type="line"/>
+      <point x="696" y="908"/>
+      <point x="588" y="966"/>
+      <point x="447" y="966" type="curve" smooth="yes"/>
+      <point x="234" y="966"/>
+      <point x="113" y="847"/>
+      <point x="113" y="635" type="curve" smooth="yes"/>
+      <point x="113" y="586" type="line" smooth="yes"/>
+      <point x="113" y="362"/>
+      <point x="240" y="256"/>
+    </contour>
+    <contour>
+      <point x="-25" y="1104" type="line"/>
+      <point x="1269" y="1104" type="line"/>
+      <point x="1269" y="1259" type="line"/>
+      <point x="-36" y="1259" type="line"/>
+    </contour>
+    <contour>
+      <point x="1208" y="1190" type="line"/>
+      <point x="1208" y="834" type="line"/>
+      <point x="1287" y="834" type="line"/>
+      <point x="1287" y="1190" type="line"/>
+    </contour>
+    <contour>
+      <point x="1208" y="1104" type="line"/>
+      <point x="1510" y="1104" type="line"/>
+      <point x="1499" y="1259" type="line"/>
+      <point x="1208" y="1259" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>SignAa.bn</string>
+    </dict>
+  </lib>
 </glyph>

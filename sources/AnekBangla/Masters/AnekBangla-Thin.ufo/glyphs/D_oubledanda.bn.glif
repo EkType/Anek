@@ -1,27 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Doubledanda.bn" format="2">
-	<advance width="1302"/>
-	<unicode hex="0965"/>
-	<outline>
-		<contour>
-			<point x="318" y="1309" type="line"/>
-			<point x="318" y="-60" type="line"/>
-			<point x="353" y="-60" type="line"/>
-			<point x="353" y="1309" type="line"/>
-		</contour>
-		<contour>
-			<point x="948" y="1309" type="line"/>
-			<point x="948" y="-60" type="line"/>
-			<point x="983" y="-60" type="line"/>
-			<point x="983" y="1309" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>Danda.bn</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>Danda.bn</string>
-		</dict>
-	</lib>
+  <advance width="1302"/>
+  <unicode hex="0965"/>
+  <outline>
+    <contour>
+      <point x="318" y="1309" type="line"/>
+      <point x="318" y="-60" type="line"/>
+      <point x="353" y="-60" type="line"/>
+      <point x="353" y="1309" type="line"/>
+    </contour>
+    <contour>
+      <point x="948" y="1309" type="line"/>
+      <point x="948" y="-60" type="line"/>
+      <point x="983" y="-60" type="line"/>
+      <point x="983" y="1309" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Danda.bn</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Danda.bn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

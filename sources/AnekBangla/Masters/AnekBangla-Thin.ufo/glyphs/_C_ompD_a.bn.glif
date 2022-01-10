@@ -1,41 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_CompDa.bn" format="2">
-	<advance width="1213"/>
-	<anchor x="1018" y="0" name="bottom1"/>
-	<anchor x="223" y="1418" name="top"/>
-	<anchor x="371" y="1719" name="top2"/>
-	<outline>
-		<contour>
-			<point x="-89" y="1197" type="line"/>
-			<point x="1264" y="1197" type="line"/>
-			<point x="1258" y="1228" type="line"/>
-			<point x="-95" y="1228" type="line"/>
-		</contour>
-		<contour>
-			<point x="983" y="-39" type="line"/>
-			<point x="1018" y="-39" type="line"/>
-			<point x="1018" y="914" type="line"/>
-			<point x="978" y="914" type="line"/>
-			<point x="692" y="732"/>
-			<point x="448" y="532"/>
-			<point x="244" y="312" type="curve"/>
-			<point x="258" y="315" type="line"/>
-			<point x="259" y="579" type="line"/>
-			<point x="259" y="1217" type="line"/>
-			<point x="224" y="1217" type="line"/>
-			<point x="224" y="281" type="line"/>
-			<point x="260" y="281" type="line"/>
-			<point x="469" y="500"/>
-			<point x="709" y="699"/>
-			<point x="992" y="884" type="curve"/>
-			<point x="985" y="897" type="line"/>
-			<point x="983" y="664" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
+  <advance width="1213"/>
+  <anchor x="1018" y="0" name="bottom1"/>
+  <anchor x="223" y="1418" name="top"/>
+  <anchor x="371" y="1719" name="top2"/>
+  <outline>
+    <contour>
+      <point x="-89" y="1197" type="line"/>
+      <point x="1264" y="1197" type="line"/>
+      <point x="1258" y="1228" type="line"/>
+      <point x="-95" y="1228" type="line"/>
+    </contour>
+    <contour>
+      <point x="983" y="-39" type="line"/>
+      <point x="1018" y="-39" type="line"/>
+      <point x="1018" y="914" type="line"/>
+      <point x="978" y="914" type="line"/>
+      <point x="692" y="732"/>
+      <point x="448" y="532"/>
+      <point x="244" y="312" type="curve"/>
+      <point x="258" y="315" type="line"/>
+      <point x="259" y="579" type="line"/>
+      <point x="259" y="1217" type="line"/>
+      <point x="224" y="1217" type="line"/>
+      <point x="224" y="281" type="line"/>
+      <point x="260" y="281" type="line"/>
+      <point x="469" y="500"/>
+      <point x="709" y="699"/>
+      <point x="992" y="884" type="curve"/>
+      <point x="985" y="897" type="line"/>
+      <point x="983" y="664" type="line"/>
+    </contour>
+  </outline>
 </glyph>

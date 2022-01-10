@@ -1,27 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="SignRu_alt2.bn" format="2">
-	<advance width="0"/>
-	<anchor x="147" y="0" name="_bottom1"/>
-	<outline>
-		<contour>
-			<point x="147" y="-249" type="line"/>
-			<point x="147" y="51" type="line"/>
-			<point x="-188" y="51" type="line"/>
-			<point x="-188" y="-163" type="line"/>
-		</contour>
-		<contour>
-			<point x="241" y="-756" type="line"/>
-			<point x="263" y="-495" type="line"/>
-			<point x="-192" y="-362" type="line"/>
-			<point x="-192" y="-353" type="line"/>
-			<point x="-94" y="-320"/>
-			<point x="48" y="-277"/>
-			<point x="147" y="-249" type="curve"/>
-			<point x="34" y="5" type="line"/>
-			<point x="-183" y="-66"/>
-			<point x="-435" y="-157"/>
-			<point x="-578" y="-220" type="curve"/>
-			<point x="-578" y="-483" type="line"/>
-		</contour>
-	</outline>
+  <anchor x="505" y="0" name="_bottom1"/>
+  <outline>
+    <contour>
+      <point x="505" y="-249" type="line"/>
+      <point x="505" y="46" type="line"/>
+      <point x="169" y="46" type="line"/>
+      <point x="169" y="-163" type="line"/>
+    </contour>
+    <contour>
+      <point x="599" y="-756" type="line"/>
+      <point x="621" y="-495" type="line"/>
+      <point x="166" y="-362" type="line"/>
+      <point x="166" y="-353" type="line"/>
+      <point x="264" y="-320"/>
+      <point x="406" y="-277"/>
+      <point x="505" y="-249" type="curve"/>
+      <point x="392" y="5" type="line"/>
+      <point x="175" y="-66"/>
+      <point x="-77" y="-157"/>
+      <point x="-220" y="-220" type="curve"/>
+      <point x="-220" y="-483" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>358</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
 </glyph>
