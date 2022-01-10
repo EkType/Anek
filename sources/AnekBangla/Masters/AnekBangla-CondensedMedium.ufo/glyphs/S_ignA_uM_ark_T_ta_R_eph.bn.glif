@@ -1,73 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="SignAuMark_Tta_Reph.bn" format="2">
-	<advance width="418"/>
-	<anchor x="-6.94" y="1520" name="top"/>
-	<anchor x="52" y="855" name="top2"/>
-	<outline>
-		<contour>
-			<point x="121" y="0" type="line"/>
-			<point x="289" y="0" type="line"/>
-			<point x="289" y="1211" type="line"/>
-			<point x="121" y="1211" type="line"/>
-		</contour>
-		<contour>
-			<point x="-43" y="1142" type="line"/>
-			<point x="282" y="1142" type="line"/>
-			<point x="282" y="1289" type="line"/>
-			<point x="-53" y="1289" type="line"/>
-		</contour>
-		<contour>
-			<point x="206" y="1219" type="line"/>
-			<point x="206" y="855" type="line"/>
-			<point x="289" y="855" type="line"/>
-			<point x="289" y="1219" type="line"/>
-		</contour>
-		<contour>
-			<point x="206" y="1142" type="line"/>
-			<point x="462" y="1142" type="line"/>
-			<point x="452" y="1289" type="line"/>
-			<point x="206" y="1289" type="line"/>
-		</contour>
-		<contour>
-			<point x="310" y="1321" type="line"/>
-			<point x="315" y="1344"/>
-			<point x="317" y="1365"/>
-			<point x="317" y="1385" type="curve" smooth="yes"/>
-			<point x="317" y="1556"/>
-			<point x="211" y="1615"/>
-			<point x="19" y="1615" type="curve" smooth="yes"/>
-			<point x="16" y="1615" type="line" smooth="yes"/>
-			<point x="-77" y="1615"/>
-			<point x="-123" y="1649"/>
-			<point x="-126" y="1722" type="curve" smooth="yes"/>
-			<point x="-127" y="1749" type="line"/>
-			<point x="-276" y="1749" type="line"/>
-			<point x="-276" y="1713" type="line" smooth="yes"/>
-			<point x="-276" y="1547"/>
-			<point x="-177" y="1462"/>
-			<point x="15" y="1462" type="curve" smooth="yes"/>
-			<point x="22" y="1462" type="line" smooth="yes"/>
-			<point x="116" y="1462"/>
-			<point x="157" y="1434"/>
-			<point x="157" y="1360" type="curve" smooth="yes"/>
-			<point x="157" y="1321"/>
-			<point x="150" y="1286"/>
-			<point x="138" y="1258" type="curve"/>
-			<point x="181" y="1271" type="line"/>
-		</contour>
-		<contour>
-			<point x="110" y="1451" type="line"/>
-			<point x="307" y="1451" type="line"/>
-			<point x="580" y="1868" type="line"/>
-			<point x="421" y="1868" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>SignAuMark_Reph.bn</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>SignAuMark_Reph.bn</string>
-		</dict>
-	</lib>
+  <advance width="418"/>
+  <anchor x="-6.94" y="1520" name="top"/>
+  <anchor x="-17" y="1846" name="top2"/>
+  <outline>
+    <contour>
+      <point x="121" y="0" type="line"/>
+      <point x="289" y="0" type="line"/>
+      <point x="289" y="1211" type="line"/>
+      <point x="121" y="1211" type="line"/>
+    </contour>
+    <contour>
+      <point x="-43" y="1142" type="line"/>
+      <point x="282" y="1142" type="line"/>
+      <point x="282" y="1289" type="line"/>
+      <point x="-53" y="1289" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="1219" type="line"/>
+      <point x="206" y="855" type="line"/>
+      <point x="289" y="855" type="line"/>
+      <point x="289" y="1219" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="1142" type="line"/>
+      <point x="462" y="1142" type="line"/>
+      <point x="452" y="1289" type="line"/>
+      <point x="206" y="1289" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="1321" type="line"/>
+      <point x="315" y="1344"/>
+      <point x="317" y="1365"/>
+      <point x="317" y="1385" type="curve" smooth="yes"/>
+      <point x="317" y="1556"/>
+      <point x="211" y="1615"/>
+      <point x="19" y="1615" type="curve" smooth="yes"/>
+      <point x="16" y="1615" type="line" smooth="yes"/>
+      <point x="-77" y="1615"/>
+      <point x="-123" y="1649"/>
+      <point x="-126" y="1722" type="curve" smooth="yes"/>
+      <point x="-127" y="1749" type="line"/>
+      <point x="-276" y="1749" type="line"/>
+      <point x="-276" y="1713" type="line" smooth="yes"/>
+      <point x="-276" y="1547"/>
+      <point x="-177" y="1462"/>
+      <point x="15" y="1462" type="curve" smooth="yes"/>
+      <point x="22" y="1462" type="line" smooth="yes"/>
+      <point x="116" y="1462"/>
+      <point x="157" y="1434"/>
+      <point x="157" y="1360" type="curve" smooth="yes"/>
+      <point x="157" y="1321"/>
+      <point x="150" y="1286"/>
+      <point x="138" y="1258" type="curve"/>
+      <point x="181" y="1271" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="1451" type="line"/>
+      <point x="307" y="1451" type="line"/>
+      <point x="580" y="1868" type="line"/>
+      <point x="421" y="1868" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>SignAuMark_Reph.bn</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>SignAuMark_Reph.bn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

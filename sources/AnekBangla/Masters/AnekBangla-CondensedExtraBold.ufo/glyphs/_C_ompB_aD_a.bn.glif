@@ -1,38 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_CompBaDa.bn" format="2">
-	<advance width="738"/>
-	<guideline x="393" y="121" angle="0"/>
-	<anchor x="822" y="189" name="bottom1"/>
-	<outline>
-		<contour>
-			<point x="-17" y="1085" type="line"/>
-			<point x="802" y="1085" type="line"/>
-			<point x="802" y="1329" type="line"/>
-			<point x="-32" y="1329" type="line"/>
-		</contour>
-		<contour>
-			<point x="510" y="224" type="line"/>
-			<point x="592" y="440" type="line"/>
-			<point x="252" y="660" type="line"/>
-			<point x="349" y="454" type="line"/>
-			<point x="349" y="782" type="line"/>
-			<point x="258" y="631" type="line"/>
-			<point x="375" y="718"/>
-			<point x="505" y="786"/>
-			<point x="644" y="844" type="curve"/>
-			<point x="561" y="1077" type="line"/>
-			<point x="413" y="1022"/>
-			<point x="229" y="937"/>
-			<point x="67" y="831" type="curve"/>
-			<point x="67" y="489" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>Da.bn</string>
-		</dict>
-	</lib>
+  <advance width="738"/>
+  <anchor x="822" y="189" name="bottom1"/>
+  <outline>
+    <contour>
+      <point x="-17" y="1085" type="line"/>
+      <point x="802" y="1085" type="line"/>
+      <point x="802" y="1329" type="line"/>
+      <point x="-32" y="1329" type="line"/>
+    </contour>
+    <contour>
+      <point x="510" y="224" type="line"/>
+      <point x="592" y="440" type="line"/>
+      <point x="252" y="660" type="line"/>
+      <point x="349" y="454" type="line"/>
+      <point x="349" y="782" type="line"/>
+      <point x="258" y="631" type="line"/>
+      <point x="375" y="718"/>
+      <point x="505" y="786"/>
+      <point x="644" y="844" type="curve"/>
+      <point x="561" y="1077" type="line"/>
+      <point x="413" y="1022"/>
+      <point x="229" y="937"/>
+      <point x="67" y="831" type="curve"/>
+      <point x="67" y="489" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Da.bn</string>
+    </dict>
+  </lib>
 </glyph>

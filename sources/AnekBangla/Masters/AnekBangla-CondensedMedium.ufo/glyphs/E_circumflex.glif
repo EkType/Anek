@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ecircumflex" format="2">
-	<advance width="637"/>
-	<unicode hex="00CA"/>
-	<outline>
-		<component base="E"/>
-		<component base="circumflexcomb.case" xOffset="681"/>
-	</outline>
+  <advance width="637"/>
+  <unicode hex="00CA"/>
+  <anchor x="339" y="0" name="bottom"/>
+  <anchor x="610" y="0" name="ogonek"/>
+  <anchor x="339" y="1557" name="top"/>
+  <anchor x="20" y="1278" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexcomb.case" xOffset="-3"/>
+  </outline>
 </glyph>

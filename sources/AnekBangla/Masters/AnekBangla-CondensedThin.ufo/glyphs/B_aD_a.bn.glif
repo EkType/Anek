@@ -1,63 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="BaDa.bn" format="2">
-	<advance width="1078"/>
-	<anchor x="926" y="0" name="bottom1"/>
-	<anchor x="475" y="1433" name="top"/>
-	<anchor x="562" y="1662" name="top2"/>
-	<outline>
-		<contour>
-			<point x="-42" y="1218" type="line"/>
-			<point x="508" y="1218" type="line"/>
-			<point x="508" y="1248" type="line"/>
-			<point x="-46" y="1248" type="line"/>
-		</contour>
-		<contour>
-			<point x="474" y="293" type="line"/>
-			<point x="488" y="323" type="line"/>
-			<point x="129" y="645" type="line"/>
-			<point x="138" y="614" type="line"/>
-			<point x="138" y="813" type="line"/>
-			<point x="128" y="795" type="line"/>
-			<point x="212" y="888"/>
-			<point x="363" y="993"/>
-			<point x="497" y="1061" type="curve"/>
-			<point x="487" y="1091" type="line"/>
-			<point x="340" y="1019"/>
-			<point x="187" y="907"/>
-			<point x="104" y="817" type="curve"/>
-			<point x="104" y="626" type="line"/>
-		</contour>
-		<contour>
-			<point x="241" y="1218" type="line"/>
-			<point x="1091" y="1218" type="line"/>
-			<point x="1087" y="1248" type="line"/>
-			<point x="237" y="1248" type="line"/>
-		</contour>
-		<contour>
-			<point x="892" y="-39" type="line"/>
-			<point x="926" y="-39" type="line"/>
-			<point x="926" y="927" type="line"/>
-			<point x="887" y="927" type="line"/>
-			<point x="717" y="736"/>
-			<point x="582" y="540"/>
-			<point x="491" y="340" type="curve"/>
-			<point x="506" y="333" type="line"/>
-			<point x="508" y="551" type="line"/>
-			<point x="508" y="1237" type="line"/>
-			<point x="474" y="1237" type="line"/>
-			<point x="474" y="293" type="line"/>
-			<point x="505" y="293" type="line"/>
-			<point x="597" y="495"/>
-			<point x="727" y="695"/>
-			<point x="904" y="899" type="curve"/>
-			<point x="895" y="909" type="line"/>
-			<point x="892" y="714" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>Da.bn</string>
-		</dict>
-	</lib>
+  <advance width="1078"/>
+  <anchor x="926" y="0" name="bottom1"/>
+  <anchor x="475" y="1433" name="top"/>
+  <anchor x="562" y="1662" name="top2"/>
+  <outline>
+    <contour>
+      <point x="-42" y="1218" type="line"/>
+      <point x="508" y="1218" type="line"/>
+      <point x="508" y="1248" type="line"/>
+      <point x="-46" y="1248" type="line"/>
+    </contour>
+    <contour>
+      <point x="474" y="293" type="line"/>
+      <point x="488" y="323" type="line"/>
+      <point x="129" y="645" type="line"/>
+      <point x="138" y="614" type="line"/>
+      <point x="138" y="813" type="line"/>
+      <point x="128" y="795" type="line"/>
+      <point x="212" y="888"/>
+      <point x="363" y="993"/>
+      <point x="497" y="1061" type="curve"/>
+      <point x="487" y="1091" type="line"/>
+      <point x="340" y="1019"/>
+      <point x="187" y="907"/>
+      <point x="104" y="817" type="curve"/>
+      <point x="104" y="626" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="1218" type="line"/>
+      <point x="1091" y="1218" type="line"/>
+      <point x="1087" y="1248" type="line"/>
+      <point x="237" y="1248" type="line"/>
+    </contour>
+    <contour>
+      <point x="892" y="-39" type="line"/>
+      <point x="926" y="-39" type="line"/>
+      <point x="926" y="927" type="line"/>
+      <point x="887" y="927" type="line"/>
+      <point x="717" y="736"/>
+      <point x="582" y="540"/>
+      <point x="491" y="340" type="curve"/>
+      <point x="506" y="333" type="line"/>
+      <point x="508" y="551" type="line"/>
+      <point x="508" y="1237" type="line"/>
+      <point x="474" y="1237" type="line"/>
+      <point x="474" y="293" type="line"/>
+      <point x="505" y="293" type="line"/>
+      <point x="597" y="495"/>
+      <point x="727" y="695"/>
+      <point x="904" y="899" type="curve"/>
+      <point x="895" y="909" type="line"/>
+      <point x="892" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Da.bn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

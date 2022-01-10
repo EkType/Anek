@@ -1,55 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni09F8.bn" format="2">
-	<advance width="909"/>
-	<unicode hex="09F8"/>
-	<outline>
-		<contour>
-			<point x="610" y="357" type="line"/>
-			<point x="777" y="357" type="line"/>
-			<point x="777" y="970" type="line"/>
-			<point x="595" y="970" type="line"/>
-			<point x="428" y="794"/>
-			<point x="298" y="606"/>
-			<point x="211" y="431" type="curve"/>
-			<point x="286" y="401" type="line"/>
-			<point x="299" y="710" type="line"/>
-			<point x="299" y="935" type="line"/>
-			<point x="132" y="935" type="line"/>
-			<point x="132" y="310" type="line"/>
-			<point x="293" y="310" type="line"/>
-			<point x="392" y="492"/>
-			<point x="529" y="679"/>
-			<point x="709" y="860" type="curve"/>
-			<point x="629" y="928" type="line"/>
-			<point x="610" y="618" type="line"/>
-		</contour>
-		<contour>
-			<point x="132" y="1065" type="curve" smooth="yes"/>
-			<point x="132" y="874" type="line"/>
-			<point x="299" y="874" type="line"/>
-			<point x="299" y="1065" type="line" smooth="yes"/>
-			<point x="299" y="1220"/>
-			<point x="224" y="1295"/>
-			<point x="63" y="1295" type="curve" smooth="yes"/>
-			<point x="24" y="1295" type="line"/>
-			<point x="33" y="1154" type="line"/>
-			<point x="63" y="1154" type="line" smooth="yes"/>
-			<point x="108" y="1154"/>
-			<point x="132" y="1123"/>
-		</contour>
-		<contour>
-			<point x="777" y="221" type="curve" smooth="yes"/>
-			<point x="777" y="412" type="line"/>
-			<point x="610" y="412" type="line"/>
-			<point x="610" y="221" type="line" smooth="yes"/>
-			<point x="610" y="66"/>
-			<point x="685" y="-9"/>
-			<point x="846" y="-9" type="curve" smooth="yes"/>
-			<point x="885" y="-9" type="line"/>
-			<point x="876" y="132" type="line"/>
-			<point x="846" y="132" type="line" smooth="yes"/>
-			<point x="801" y="132"/>
-			<point x="777" y="163"/>
-		</contour>
-	</outline>
+  <advance width="909"/>
+  <unicode hex="09F8"/>
+  <outline>
+    <contour>
+      <point x="610" y="357" type="line"/>
+      <point x="777" y="357" type="line"/>
+      <point x="777" y="970" type="line"/>
+      <point x="595" y="970" type="line"/>
+      <point x="428" y="794"/>
+      <point x="298" y="606"/>
+      <point x="211" y="431" type="curve"/>
+      <point x="286" y="401" type="line"/>
+      <point x="299" y="710" type="line"/>
+      <point x="299" y="935" type="line"/>
+      <point x="132" y="935" type="line"/>
+      <point x="132" y="310" type="line"/>
+      <point x="293" y="310" type="line"/>
+      <point x="392" y="492"/>
+      <point x="529" y="679"/>
+      <point x="709" y="860" type="curve"/>
+      <point x="629" y="928" type="line"/>
+      <point x="610" y="618" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="874" type="line"/>
+      <point x="299" y="874" type="line"/>
+      <point x="299" y="1065" type="line" smooth="yes"/>
+      <point x="299" y="1220"/>
+      <point x="224" y="1295"/>
+      <point x="63" y="1295" type="curve" smooth="yes"/>
+      <point x="24" y="1295" type="line"/>
+      <point x="33" y="1154" type="line"/>
+      <point x="63" y="1154" type="line" smooth="yes"/>
+      <point x="108" y="1154"/>
+      <point x="132" y="1123"/>
+      <point x="132" y="1065" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="777" y="412" type="line"/>
+      <point x="610" y="412" type="line"/>
+      <point x="610" y="221" type="line" smooth="yes"/>
+      <point x="610" y="66"/>
+      <point x="685" y="-9"/>
+      <point x="846" y="-9" type="curve" smooth="yes"/>
+      <point x="885" y="-9" type="line"/>
+      <point x="876" y="132" type="line"/>
+      <point x="846" y="132" type="line" smooth="yes"/>
+      <point x="801" y="132"/>
+      <point x="777" y="163"/>
+      <point x="777" y="221" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

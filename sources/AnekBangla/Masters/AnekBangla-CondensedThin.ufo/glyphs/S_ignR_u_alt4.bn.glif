@@ -1,27 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="SignRu_alt4.bn" format="2">
-	<advance width="0"/>
-	<anchor x="-74" y="-49" name="_bottom1"/>
-	<outline>
-		<contour>
-			<point x="-105" y="-119" type="line"/>
-			<point x="-74" y="-128" type="line"/>
-			<point x="-74" y="22" type="line"/>
-			<point x="-105" y="22" type="line"/>
-		</contour>
-		<contour>
-			<point x="-4" y="-507" type="line"/>
-			<point x="0" y="-471" type="line"/>
-			<point x="-305" y="-283" type="line"/>
-			<point x="-305" y="-281" type="line"/>
-			<point x="-262" y="-248"/>
-			<point x="-148" y="-172"/>
-			<point x="-74" y="-128" type="curve"/>
-			<point x="-94" y="-103" type="line"/>
-			<point x="-181" y="-157"/>
-			<point x="-283" y="-221"/>
-			<point x="-346" y="-270" type="curve"/>
-			<point x="-346" y="-297" type="line"/>
-		</contour>
-	</outline>
+  <anchor x="674" y="-49" name="_bottom1"/>
+  <outline>
+    <contour>
+      <point x="644" y="-119" type="line"/>
+      <point x="674" y="-129" type="line"/>
+      <point x="674" y="22" type="line"/>
+      <point x="644" y="22" type="line"/>
+    </contour>
+    <contour>
+      <point x="744" y="-506" type="line"/>
+      <point x="748" y="-473" type="line"/>
+      <point x="443" y="-285" type="line"/>
+      <point x="443" y="-282" type="line"/>
+      <point x="486" y="-249"/>
+      <point x="600" y="-173"/>
+      <point x="674" y="-129" type="curve"/>
+      <point x="654" y="-104" type="line"/>
+      <point x="567" y="-158"/>
+      <point x="465" y="-223"/>
+      <point x="402" y="-272" type="curve"/>
+      <point x="402" y="-296" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>748</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
 </glyph>

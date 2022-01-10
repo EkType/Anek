@@ -1,65 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_CompTaMaPart.bn" format="2">
-	<advance width="763"/>
-	<outline>
-		<contour>
-			<point x="-16" y="1218" type="line"/>
-			<point x="805" y="1218" type="line"/>
-			<point x="801" y="1248" type="line"/>
-			<point x="-20" y="1248" type="line"/>
-		</contour>
-		<contour>
-			<point x="180" y="572" type="curve" smooth="yes"/>
-			<point x="153" y="991" type="line"/>
-			<point x="120" y="991" type="line"/>
-			<point x="147" y="568" type="line" smooth="yes"/>
-			<point x="158" y="401"/>
-			<point x="241" y="298"/>
-			<point x="402" y="298" type="curve" smooth="yes"/>
-			<point x="555" y="298"/>
-			<point x="640" y="390"/>
-			<point x="640" y="568" type="curve" smooth="yes"/>
-			<point x="640" y="919" type="line" smooth="yes"/>
-			<point x="640" y="1031"/>
-			<point x="593" y="1090"/>
-			<point x="496" y="1090" type="curve" smooth="yes"/>
-			<point x="404" y="1090"/>
-			<point x="356" y="1033"/>
-			<point x="356" y="923" type="curve" smooth="yes"/>
-			<point x="356" y="853"/>
-			<point x="356" y="773"/>
-			<point x="356" y="669" type="curve"/>
-			<point x="388" y="669" type="line"/>
-			<point x="388" y="773"/>
-			<point x="388" y="853"/>
-			<point x="388" y="923" type="curve" smooth="yes"/>
-			<point x="388" y="1011"/>
-			<point x="423" y="1060"/>
-			<point x="498" y="1060" type="curve" smooth="yes"/>
-			<point x="583" y="1060"/>
-			<point x="607" y="1001"/>
-			<point x="607" y="919" type="curve" smooth="yes"/>
-			<point x="607" y="568" type="line" smooth="yes"/>
-			<point x="607" y="409"/>
-			<point x="535" y="329"/>
-			<point x="402" y="329" type="curve" smooth="yes"/>
-			<point x="268" y="329"/>
-			<point x="190" y="412"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>RMXScaler</key>
-			<dict>
-				<key>height</key>
-				<integer>80</integer>
-				<key>weight</key>
-				<integer>-1</integer>
-				<key>width</key>
-				<integer>88</integer>
-			</dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
+  <advance width="763"/>
+  <outline>
+    <contour>
+      <point x="-16" y="1218" type="line"/>
+      <point x="805" y="1218" type="line"/>
+      <point x="801" y="1248" type="line"/>
+      <point x="-20" y="1248" type="line"/>
+    </contour>
+    <contour>
+      <point x="153" y="991" type="line"/>
+      <point x="120" y="991" type="line"/>
+      <point x="147" y="568" type="line" smooth="yes"/>
+      <point x="158" y="401"/>
+      <point x="241" y="298"/>
+      <point x="402" y="298" type="curve" smooth="yes"/>
+      <point x="555" y="298"/>
+      <point x="640" y="390"/>
+      <point x="640" y="568" type="curve" smooth="yes"/>
+      <point x="640" y="919" type="line" smooth="yes"/>
+      <point x="640" y="1031"/>
+      <point x="593" y="1090"/>
+      <point x="496" y="1090" type="curve" smooth="yes"/>
+      <point x="404" y="1090"/>
+      <point x="356" y="1033"/>
+      <point x="356" y="923" type="curve" smooth="yes"/>
+      <point x="356" y="853"/>
+      <point x="356" y="773"/>
+      <point x="356" y="669" type="curve"/>
+      <point x="388" y="669" type="line"/>
+      <point x="388" y="773"/>
+      <point x="388" y="853"/>
+      <point x="388" y="923" type="curve" smooth="yes"/>
+      <point x="388" y="1011"/>
+      <point x="423" y="1060"/>
+      <point x="498" y="1060" type="curve" smooth="yes"/>
+      <point x="583" y="1060"/>
+      <point x="607" y="1001"/>
+      <point x="607" y="919" type="curve" smooth="yes"/>
+      <point x="607" y="568" type="line" smooth="yes"/>
+      <point x="607" y="409"/>
+      <point x="535" y="329"/>
+      <point x="402" y="329" type="curve" smooth="yes"/>
+      <point x="268" y="329"/>
+      <point x="190" y="412"/>
+      <point x="180" y="572" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>weight</key>
+        <integer>-1</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

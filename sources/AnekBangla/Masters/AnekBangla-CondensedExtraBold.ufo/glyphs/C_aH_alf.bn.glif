@@ -1,54 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="CaHalf.bn" format="2">
-	<advance width="749"/>
-	<anchor x="265" y="41" name="_bottom1"/>
-	<anchor x="649" y="189" name="bottom1"/>
-	<anchor x="84" y="1247" name="top"/>
-	<anchor x="116" y="1544" name="top2"/>
-	<outline>
-		<contour>
-			<point x="371" y="259" type="curve" smooth="yes"/>
-			<point x="575" y="259"/>
-			<point x="674" y="375"/>
-			<point x="708" y="521" type="curve" smooth="yes"/>
-			<point x="718" y="571"/>
-			<point x="729" y="642"/>
-			<point x="729" y="689" type="curve" smooth="yes"/>
-			<point x="729" y="868"/>
-			<point x="639" y="947"/>
-			<point x="477" y="977" type="curve" smooth="yes"/>
-			<point x="186" y="1039" type="line"/>
-			<point x="186" y="796" type="line"/>
-			<point x="386" y="750" type="line" smooth="yes"/>
-			<point x="428" y="740"/>
-			<point x="446" y="717"/>
-			<point x="446" y="674" type="curve" smooth="yes"/>
-			<point x="446" y="651"/>
-			<point x="441" y="614"/>
-			<point x="437" y="587" type="curve" smooth="yes"/>
-			<point x="430" y="547"/>
-			<point x="414" y="510"/>
-			<point x="372" y="510" type="curve" smooth="yes"/>
-			<point x="330" y="510"/>
-			<point x="310" y="537"/>
-			<point x="310" y="592" type="curve" smooth="yes"/>
-			<point x="310" y="1240" type="line"/>
-			<point x="25" y="1240" type="line"/>
-			<point x="25" y="604" type="line" smooth="yes"/>
-			<point x="25" y="364"/>
-			<point x="133" y="259"/>
-		</contour>
-		<contour>
-			<point x="-91" y="1085" type="line"/>
-			<point x="819" y="1085" type="line"/>
-			<point x="803" y="1329" type="line"/>
-			<point x="-106" y="1329" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>DdhaHalf.bn</string>
-		</dict>
-	</lib>
+  <advance width="749"/>
+  <outline>
+    <contour>
+      <point x="371" y="259" type="curve" smooth="yes"/>
+      <point x="575" y="259"/>
+      <point x="674" y="375"/>
+      <point x="708" y="521" type="curve" smooth="yes"/>
+      <point x="718" y="571"/>
+      <point x="729" y="642"/>
+      <point x="729" y="689" type="curve" smooth="yes"/>
+      <point x="729" y="868"/>
+      <point x="639" y="947"/>
+      <point x="477" y="977" type="curve" smooth="yes"/>
+      <point x="186" y="1039" type="line"/>
+      <point x="186" y="796" type="line"/>
+      <point x="386" y="750" type="line" smooth="yes"/>
+      <point x="428" y="740"/>
+      <point x="446" y="717"/>
+      <point x="446" y="674" type="curve" smooth="yes"/>
+      <point x="446" y="651"/>
+      <point x="441" y="614"/>
+      <point x="437" y="587" type="curve" smooth="yes"/>
+      <point x="430" y="547"/>
+      <point x="414" y="510"/>
+      <point x="372" y="510" type="curve" smooth="yes"/>
+      <point x="330" y="510"/>
+      <point x="310" y="537"/>
+      <point x="310" y="592" type="curve" smooth="yes"/>
+      <point x="310" y="1240" type="line"/>
+      <point x="25" y="1240" type="line"/>
+      <point x="25" y="604" type="line" smooth="yes"/>
+      <point x="25" y="364"/>
+      <point x="133" y="259"/>
+    </contour>
+    <contour>
+      <point x="-91" y="1085" type="line"/>
+      <point x="819" y="1085" type="line"/>
+      <point x="803" y="1329" type="line"/>
+      <point x="-106" y="1329" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>DdhaHalf.bn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

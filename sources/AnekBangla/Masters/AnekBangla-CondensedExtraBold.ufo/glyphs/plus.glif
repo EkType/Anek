@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="plus" format="2">
-	<advance width="733"/>
-	<unicode hex="002B"/>
-	<outline>
-		<contour>
-			<point x="500" y="299" type="line"/>
-			<point x="500" y="974" type="line"/>
-			<point x="234" y="974" type="line"/>
-			<point x="234" y="299" type="line"/>
-		</contour>
-		<contour>
-			<point x="53" y="508" type="line"/>
-			<point x="680" y="508" type="line"/>
-			<point x="680" y="765" type="line"/>
-			<point x="53" y="765" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>minus</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>minus</string>
-		</dict>
-	</lib>
+  <advance width="733"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="500" y="299" type="line"/>
+      <point x="500" y="974" type="line"/>
+      <point x="234" y="974" type="line"/>
+      <point x="234" y="299" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="508" type="line"/>
+      <point x="680" y="508" type="line"/>
+      <point x="680" y="765" type="line"/>
+      <point x="53" y="765" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>minus</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>minus</string>
+    </dict>
+  </lib>
 </glyph>

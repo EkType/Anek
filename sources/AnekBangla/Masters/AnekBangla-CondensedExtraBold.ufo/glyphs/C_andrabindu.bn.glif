@@ -1,49 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Candrabindu.bn" format="2">
-	<advance width="0"/>
-	<unicode hex="0981"/>
-	<guideline x="545" y="681" angle="0"/>
-	<anchor x="-141" y="1723" name="_top2"/>
-	<outline>
-		<contour>
-			<point x="523" y="1795" type="curve"/>
-			<point x="348" y="1795" type="line"/>
-			<point x="348" y="1788" type="line" smooth="yes"/>
-			<point x="348" y="1655"/>
-			<point x="290" y="1600"/>
-			<point x="173" y="1600" type="curve" smooth="yes"/>
-			<point x="57" y="1600"/>
-			<point x="-1" y="1655"/>
-			<point x="-1" y="1788" type="curve" smooth="yes"/>
-			<point x="-1" y="1795" type="line"/>
-			<point x="-176" y="1795" type="line"/>
-			<point x="-176" y="1779"/>
-			<point x="-176" y="1768"/>
-			<point x="-176" y="1757" type="curve" smooth="yes"/>
-			<point x="-176" y="1522"/>
-			<point x="-47" y="1389"/>
-			<point x="175" y="1389" type="curve" smooth="yes"/>
-			<point x="396" y="1389"/>
-			<point x="523" y="1522"/>
-			<point x="523" y="1757" type="curve" smooth="yes"/>
-			<point x="523" y="1766"/>
-			<point x="523" y="1777"/>
-		</contour>
-		<contour>
-			<point x="175" y="1693" type="curve" smooth="yes"/>
-			<point x="257" y="1693"/>
-			<point x="294" y="1745"/>
-			<point x="294" y="1828" type="curve" smooth="yes"/>
-			<point x="294" y="1832" type="line" smooth="yes"/>
-			<point x="294" y="1915"/>
-			<point x="257" y="1967"/>
-			<point x="175" y="1967" type="curve" smooth="yes"/>
-			<point x="93" y="1967"/>
-			<point x="56" y="1915"/>
-			<point x="56" y="1832" type="curve" smooth="yes"/>
-			<point x="56" y="1828" type="line" smooth="yes"/>
-			<point x="56" y="1745"/>
-			<point x="93" y="1693"/>
-		</contour>
-	</outline>
+  <unicode hex="0981"/>
+  <anchor x="-141" y="1723" name="_top2"/>
+  <outline>
+    <contour>
+      <point x="523" y="1795" type="curve"/>
+      <point x="348" y="1795" type="line"/>
+      <point x="348" y="1788" type="line" smooth="yes"/>
+      <point x="348" y="1655"/>
+      <point x="290" y="1600"/>
+      <point x="173" y="1600" type="curve" smooth="yes"/>
+      <point x="57" y="1600"/>
+      <point x="-1" y="1655"/>
+      <point x="-1" y="1788" type="curve" smooth="yes"/>
+      <point x="-1" y="1795" type="line"/>
+      <point x="-176" y="1795" type="line"/>
+      <point x="-176" y="1779"/>
+      <point x="-176" y="1768"/>
+      <point x="-176" y="1757" type="curve" smooth="yes"/>
+      <point x="-176" y="1522"/>
+      <point x="-47" y="1389"/>
+      <point x="175" y="1389" type="curve" smooth="yes"/>
+      <point x="396" y="1389"/>
+      <point x="523" y="1522"/>
+      <point x="523" y="1757" type="curve" smooth="yes"/>
+      <point x="523" y="1766"/>
+      <point x="523" y="1777"/>
+    </contour>
+    <contour>
+      <point x="175" y="1693" type="curve" smooth="yes"/>
+      <point x="257" y="1693"/>
+      <point x="294" y="1745"/>
+      <point x="294" y="1828" type="curve" smooth="yes"/>
+      <point x="294" y="1832" type="line" smooth="yes"/>
+      <point x="294" y="1915"/>
+      <point x="257" y="1967"/>
+      <point x="175" y="1967" type="curve" smooth="yes"/>
+      <point x="93" y="1967"/>
+      <point x="56" y="1915"/>
+      <point x="56" y="1832" type="curve" smooth="yes"/>
+      <point x="56" y="1828" type="line" smooth="yes"/>
+      <point x="56" y="1745"/>
+      <point x="93" y="1693"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
 </glyph>

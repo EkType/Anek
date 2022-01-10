@@ -1,45 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Three.bn" format="2">
-	<advance width="1057"/>
-	<unicode hex="09E9"/>
-	<outline>
-		<contour>
-			<point x="546" y="10" type="curve" smooth="yes"/>
-			<point x="807" y="10"/>
-			<point x="949" y="148"/>
-			<point x="949" y="404" type="curve" smooth="yes"/>
-			<point x="949" y="1003" type="line" smooth="yes"/>
-			<point x="949" y="1193"/>
-			<point x="858" y="1295"/>
-			<point x="683" y="1295" type="curve" smooth="yes"/>
-			<point x="515" y="1295"/>
-			<point x="427" y="1195"/>
-			<point x="427" y="1006" type="curve" smooth="yes"/>
-			<point x="427" y="901"/>
-			<point x="427" y="767"/>
-			<point x="427" y="654" type="curve"/>
-			<point x="595" y="654" type="line"/>
-			<point x="595" y="671"/>
-			<point x="595" y="883"/>
-			<point x="595" y="1014" type="curve" smooth="yes"/>
-			<point x="595" y="1096"/>
-			<point x="626" y="1140"/>
-			<point x="685" y="1140" type="curve" smooth="yes"/>
-			<point x="752" y="1140"/>
-			<point x="779" y="1095"/>
-			<point x="779" y="1011" type="curve" smooth="yes"/>
-			<point x="779" y="417" type="line" smooth="yes"/>
-			<point x="779" y="250"/>
-			<point x="696" y="163"/>
-			<point x="546" y="163" type="curve" smooth="yes"/>
-			<point x="382" y="163"/>
-			<point x="284" y="265"/>
-			<point x="276" y="452" type="curve" smooth="yes"/>
-			<point x="248" y="1114" type="line"/>
-			<point x="86" y="1114" type="line"/>
-			<point x="114" y="427" type="line" smooth="yes"/>
-			<point x="125" y="163"/>
-			<point x="278" y="10"/>
-		</contour>
-	</outline>
+  <advance width="1057"/>
+  <unicode hex="09E9"/>
+  <outline>
+    <contour>
+      <point x="546" y="10" type="curve" smooth="yes"/>
+      <point x="807" y="10"/>
+      <point x="949" y="148"/>
+      <point x="949" y="404" type="curve" smooth="yes"/>
+      <point x="949" y="1003" type="line" smooth="yes"/>
+      <point x="949" y="1193"/>
+      <point x="858" y="1295"/>
+      <point x="683" y="1295" type="curve" smooth="yes"/>
+      <point x="515" y="1295"/>
+      <point x="427" y="1195"/>
+      <point x="427" y="1006" type="curve" smooth="yes"/>
+      <point x="427" y="901"/>
+      <point x="427" y="767"/>
+      <point x="427" y="654" type="curve"/>
+      <point x="595" y="654" type="line"/>
+      <point x="595" y="671"/>
+      <point x="595" y="883"/>
+      <point x="595" y="1014" type="curve" smooth="yes"/>
+      <point x="595" y="1096"/>
+      <point x="626" y="1140"/>
+      <point x="685" y="1140" type="curve" smooth="yes"/>
+      <point x="752" y="1140"/>
+      <point x="779" y="1095"/>
+      <point x="779" y="1011" type="curve" smooth="yes"/>
+      <point x="779" y="417" type="line" smooth="yes"/>
+      <point x="779" y="250"/>
+      <point x="696" y="163"/>
+      <point x="546" y="163" type="curve" smooth="yes"/>
+      <point x="382" y="163"/>
+      <point x="284" y="265"/>
+      <point x="276" y="452" type="curve" smooth="yes"/>
+      <point x="248" y="1114" type="line"/>
+      <point x="86" y="1114" type="line"/>
+      <point x="114" y="427" type="line" smooth="yes"/>
+      <point x="125" y="163"/>
+      <point x="278" y="10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,16 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb.narrow" format="2">
-	<advance width="0"/>
-	<anchor x="-238" y="1268" name="top"/>
-	<anchor x="-248" y="990" name="_top"/>
-	<outline>
-		<contour>
-			<point x="-194" y="1331" type="line"/>
-			<point x="-262" y="1108" type="line"/>
-			<point x="-262" y="1108" type="line"/>
-			<point x="-232" y="1108" type="line"/>
-			<point x="-155" y="1331" type="line"/>
-			<point x="-155" y="1331" type="line"/>
-		</contour>
-	</outline>
+  <anchor x="116" y="990" name="_top"/>
+  <anchor x="126" y="1268" name="top"/>
+  <outline>
+    <contour>
+      <point x="170" y="1331" type="line"/>
+      <point x="102" y="1108" type="line"/>
+      <point x="102" y="1108" type="line"/>
+      <point x="132" y="1108" type="line"/>
+      <point x="209" y="1331" type="line"/>
+      <point x="209" y="1331" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>364</integer>
+    </dict>
+  </lib>
 </glyph>

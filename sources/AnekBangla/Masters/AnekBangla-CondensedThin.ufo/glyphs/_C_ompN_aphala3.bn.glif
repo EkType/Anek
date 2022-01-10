@@ -1,45 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_CompNaphala3.bn" format="2">
-	<advance width="73"/>
-	<anchor x="69" y="0" name="bottom1"/>
-	<outline>
-		<contour>
-			<point x="-344" y="68" type="curve"/>
-			<point x="-312" y="68" type="line"/>
-			<point x="-312" y="104"/>
-			<point x="-312" y="125"/>
-			<point x="-312" y="153" type="curve" smooth="yes"/>
-			<point x="-312" y="266"/>
-			<point x="-261" y="323"/>
-			<point x="-179" y="323" type="curve" smooth="yes"/>
-			<point x="-80" y="323"/>
-			<point x="-28" y="213"/>
-			<point x="39" y="0" type="curve"/>
-			<point x="54" y="62" type="line"/>
-			<point x="45" y="62" type="line"/>
-			<point x="-13" y="259"/>
-			<point x="-82" y="354"/>
-			<point x="-182" y="354" type="curve" smooth="yes"/>
-			<point x="-282" y="354"/>
-			<point x="-344" y="286"/>
-			<point x="-344" y="153" type="curve" smooth="yes"/>
-			<point x="-344" y="125"/>
-			<point x="-344" y="104"/>
-		</contour>
-		<contour>
-			<point x="39" y="0" type="line"/>
-			<point x="69" y="0" type="line"/>
-			<point x="69" y="675" type="line"/>
-			<point x="39" y="654" type="line"/>
-			<point x="39" y="247" type="line"/>
-			<point x="40" y="39" type="line"/>
-			<point x="39" y="35" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
+  <advance width="73"/>
+  <anchor x="69" y="0" name="bottom1"/>
+  <outline>
+    <contour>
+      <point x="-344" y="68" type="curve"/>
+      <point x="-312" y="68" type="line"/>
+      <point x="-312" y="104"/>
+      <point x="-312" y="125"/>
+      <point x="-312" y="153" type="curve" smooth="yes"/>
+      <point x="-312" y="266"/>
+      <point x="-261" y="323"/>
+      <point x="-179" y="323" type="curve" smooth="yes"/>
+      <point x="-80" y="323"/>
+      <point x="-28" y="213"/>
+      <point x="39" y="0" type="curve"/>
+      <point x="54" y="62" type="line"/>
+      <point x="45" y="62" type="line"/>
+      <point x="-13" y="259"/>
+      <point x="-82" y="354"/>
+      <point x="-182" y="354" type="curve" smooth="yes"/>
+      <point x="-282" y="354"/>
+      <point x="-344" y="286"/>
+      <point x="-344" y="153" type="curve" smooth="yes"/>
+      <point x="-344" y="125"/>
+      <point x="-344" y="104"/>
+    </contour>
+    <contour>
+      <point x="39" y="0" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="69" y="675" type="line"/>
+      <point x="39" y="654" type="line"/>
+      <point x="39" y="247" type="line"/>
+      <point x="40" y="39" type="line"/>
+      <point x="39" y="35" type="line"/>
+    </contour>
+  </outline>
 </glyph>

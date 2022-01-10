@@ -1,27 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="SignRu_alt2.bn" format="2">
-	<advance width="0"/>
-	<anchor x="392" y="0" name="_bottom1"/>
-	<outline>
-		<contour>
-			<point x="393" y="-208" type="line"/>
-			<point x="393" y="81" type="line"/>
-			<point x="92" y="81" type="line"/>
-			<point x="92" y="-145" type="line"/>
-		</contour>
-		<contour>
-			<point x="457" y="-701" type="line"/>
-			<point x="480" y="-462" type="line"/>
-			<point x="152" y="-328" type="line"/>
-			<point x="152" y="-318" type="line"/>
-			<point x="225" y="-283"/>
-			<point x="324" y="-237"/>
-			<point x="393" y="-208" type="curve"/>
-			<point x="373" y="50" type="line"/>
-			<point x="189" y="-36"/>
-			<point x="-27" y="-136"/>
-			<point x="-150" y="-207" type="curve"/>
-			<point x="-150" y="-439" type="line"/>
-		</contour>
-	</outline>
+  <anchor x="392" y="0" name="_bottom1"/>
+  <outline>
+    <contour>
+      <point x="393" y="-208" type="line"/>
+      <point x="393" y="71" type="line"/>
+      <point x="92" y="71" type="line"/>
+      <point x="92" y="-145" type="line"/>
+    </contour>
+    <contour>
+      <point x="457" y="-701" type="line"/>
+      <point x="480" y="-462" type="line"/>
+      <point x="152" y="-328" type="line"/>
+      <point x="152" y="-318" type="line"/>
+      <point x="225" y="-283"/>
+      <point x="324" y="-237"/>
+      <point x="393" y="-208" type="curve"/>
+      <point x="373" y="50" type="line"/>
+      <point x="189" y="-36"/>
+      <point x="-27" y="-136"/>
+      <point x="-150" y="-207" type="curve"/>
+      <point x="-150" y="-439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
 </glyph>

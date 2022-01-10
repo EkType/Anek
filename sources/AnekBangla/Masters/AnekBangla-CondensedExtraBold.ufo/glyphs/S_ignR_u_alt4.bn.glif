@@ -1,27 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="SignRu_alt4.bn" format="2">
-	<advance width="0"/>
-	<anchor x="-87" y="-20" name="_bottom1"/>
-	<outline>
-		<contour>
-			<point x="-345" y="-148" type="line"/>
-			<point x="-87" y="-208" type="line"/>
-			<point x="-87" y="80" type="line"/>
-			<point x="-345" y="80" type="line"/>
-		</contour>
-		<contour>
-			<point x="-23" y="-701" type="line"/>
-			<point x="0" y="-462" type="line"/>
-			<point x="-328" y="-328" type="line"/>
-			<point x="-328" y="-318" type="line"/>
-			<point x="-255" y="-283"/>
-			<point x="-156" y="-237"/>
-			<point x="-87" y="-208" type="curve"/>
-			<point x="-107" y="50" type="line"/>
-			<point x="-291" y="-36"/>
-			<point x="-507" y="-136"/>
-			<point x="-630" y="-207" type="curve"/>
-			<point x="-630" y="-439" type="line"/>
-		</contour>
-	</outline>
+  <anchor x="934" y="-63" name="_bottom1"/>
+  <outline>
+    <contour>
+      <point x="676" y="-148" type="line"/>
+      <point x="934" y="-208" type="line"/>
+      <point x="934" y="80" type="line"/>
+      <point x="676" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="998" y="-701" type="line"/>
+      <point x="1021" y="-462" type="line"/>
+      <point x="693" y="-328" type="line"/>
+      <point x="693" y="-318" type="line"/>
+      <point x="766" y="-283"/>
+      <point x="865" y="-237"/>
+      <point x="934" y="-208" type="curve"/>
+      <point x="914" y="50" type="line"/>
+      <point x="730" y="-36"/>
+      <point x="514" y="-136"/>
+      <point x="391" y="-207" type="curve"/>
+      <point x="391" y="-439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1021</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,50 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_CompDaRa.bn" format="2">
-	<advance width="938"/>
-	<anchor x="871" y="48" name="bottom1"/>
-	<anchor x="32" y="1468" name="top"/>
-	<anchor x="170" y="1763" name="top2"/>
-	<outline>
-		<contour>
-			<point x="871" y="401" type="line"/>
-			<point x="569" y="401" type="line"/>
-			<point x="569" y="230" type="line"/>
-			<point x="765" y="-179" type="line"/>
-			<point x="871" y="-179" type="line"/>
-		</contour>
-		<contour>
-			<point x="-97" y="1085" type="line"/>
-			<point x="1002" y="1085" type="line"/>
-			<point x="987" y="1329" type="line"/>
-			<point x="-112" y="1329" type="line"/>
-		</contour>
-		<contour>
-			<point x="569" y="320" type="line"/>
-			<point x="871" y="320" type="line"/>
-			<point x="871" y="967" type="line"/>
-			<point x="563" y="967" type="line"/>
-			<point x="395" y="832"/>
-			<point x="267" y="684"/>
-			<point x="182" y="559" type="curve"/>
-			<point x="315" y="506" type="line"/>
-			<point x="343" y="875" type="line"/>
-			<point x="343" y="1270" type="line"/>
-			<point x="41" y="1270" type="line"/>
-			<point x="41" y="404" type="line"/>
-			<point x="332" y="404" type="line"/>
-			<point x="436" y="539"/>
-			<point x="579" y="683"/>
-			<point x="754" y="816" type="curve"/>
-			<point x="603" y="901" type="line"/>
-			<point x="569" y="418" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>Da.bn</string>
-		</dict>
-	</lib>
+  <advance width="938"/>
+  <anchor x="871" y="48" name="bottom1"/>
+  <anchor x="32" y="1468" name="top"/>
+  <anchor x="170" y="1763" name="top2"/>
+  <outline>
+    <contour>
+      <point x="871" y="401" type="line"/>
+      <point x="569" y="401" type="line"/>
+      <point x="569" y="230" type="line"/>
+      <point x="765" y="-179" type="line"/>
+      <point x="871" y="-179" type="line"/>
+    </contour>
+    <contour>
+      <point x="-97" y="1085" type="line"/>
+      <point x="1002" y="1085" type="line"/>
+      <point x="987" y="1329" type="line"/>
+      <point x="-112" y="1329" type="line"/>
+    </contour>
+    <contour>
+      <point x="569" y="320" type="line"/>
+      <point x="871" y="320" type="line"/>
+      <point x="871" y="967" type="line"/>
+      <point x="563" y="967" type="line"/>
+      <point x="395" y="832"/>
+      <point x="267" y="684"/>
+      <point x="182" y="559" type="curve"/>
+      <point x="315" y="506" type="line"/>
+      <point x="343" y="875" type="line"/>
+      <point x="343" y="1270" type="line"/>
+      <point x="41" y="1270" type="line"/>
+      <point x="41" y="404" type="line"/>
+      <point x="332" y="404" type="line"/>
+      <point x="436" y="539"/>
+      <point x="579" y="683"/>
+      <point x="754" y="816" type="curve"/>
+      <point x="603" y="901" type="line"/>
+      <point x="569" y="418" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Da.bn</string>
+    </dict>
+  </lib>
 </glyph>

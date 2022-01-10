@@ -1,39 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Raphala.bn" format="2">
-	<advance width="948"/>
-	<anchor x="848" y="-258" name="bottom1"/>
-	<outline>
-		<contour>
-			<point x="622" y="-258" type="line"/>
-			<point x="848" y="-258" type="line"/>
-			<point x="848" y="319" type="line"/>
-			<point x="584" y="319" type="line"/>
-			<point x="584" y="102" type="line"/>
-			<point x="601" y="-104" type="line"/>
-		</contour>
-		<contour>
-			<point x="597" y="-234" type="curve" smooth="yes"/>
-			<point x="622" y="-259" type="line"/>
-			<point x="611" y="-41" type="line"/>
-			<point x="586" y="-41" type="line"/>
-			<point x="560" y="33"/>
-			<point x="496" y="69"/>
-			<point x="397" y="69" type="curve" smooth="yes"/>
-			<point x="354" y="69" type="line" smooth="yes"/>
-			<point x="289" y="69"/>
-			<point x="261" y="92"/>
-			<point x="257" y="141" type="curve" smooth="yes"/>
-			<point x="255" y="164" type="line"/>
-			<point x="-11" y="164" type="line"/>
-			<point x="-11" y="153"/>
-			<point x="-11" y="140"/>
-			<point x="-11" y="131" type="curve" smooth="yes"/>
-			<point x="-11" y="-87"/>
-			<point x="112" y="-195"/>
-			<point x="369" y="-195" type="curve" smooth="yes"/>
-			<point x="450" y="-195" type="line" smooth="yes"/>
-			<point x="539" y="-195"/>
-			<point x="574" y="-211"/>
-		</contour>
-	</outline>
+  <advance width="948"/>
+  <anchor x="848" y="-258" name="bottom1"/>
+  <outline>
+    <contour>
+      <point x="622" y="-258" type="line"/>
+      <point x="848" y="-258" type="line"/>
+      <point x="848" y="319" type="line"/>
+      <point x="584" y="319" type="line"/>
+      <point x="584" y="102" type="line"/>
+      <point x="601" y="-104" type="line"/>
+    </contour>
+    <contour>
+      <point x="622" y="-258" type="line"/>
+      <point x="611" y="-40" type="line"/>
+      <point x="586" y="-40" type="line"/>
+      <point x="560" y="34"/>
+      <point x="496" y="70"/>
+      <point x="397" y="70" type="curve" smooth="yes"/>
+      <point x="354" y="70" type="line" smooth="yes"/>
+      <point x="289" y="70"/>
+      <point x="261" y="93"/>
+      <point x="257" y="142" type="curve" smooth="yes"/>
+      <point x="255" y="165" type="line"/>
+      <point x="-11" y="165" type="line"/>
+      <point x="-11" y="154"/>
+      <point x="-11" y="141"/>
+      <point x="-11" y="132" type="curve" smooth="yes"/>
+      <point x="-11" y="-86"/>
+      <point x="112" y="-194"/>
+      <point x="369" y="-194" type="curve" smooth="yes"/>
+      <point x="450" y="-194" type="line" smooth="yes"/>
+      <point x="539" y="-194"/>
+      <point x="574" y="-210"/>
+      <point x="597" y="-233" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
 </glyph>

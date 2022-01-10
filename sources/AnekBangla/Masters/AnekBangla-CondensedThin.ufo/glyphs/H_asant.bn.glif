@@ -1,14 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hasant.bn" format="2">
-	<advance width="0"/>
-	<unicode hex="09CD"/>
-	<anchor x="-67" y="21" name="_bottom1"/>
-	<outline>
-		<contour>
-			<point x="293" y="-358" type="line"/>
-			<point x="5" y="-45" type="line"/>
-			<point x="0" y="-83" type="line"/>
-			<point x="288" y="-396" type="line"/>
-		</contour>
-	</outline>
+  <unicode hex="09CD"/>
+  <anchor x="-67" y="21" name="_bottom1"/>
+  <outline>
+    <contour>
+      <point x="293" y="-358" type="line"/>
+      <point x="5" y="-45" type="line"/>
+      <point x="0" y="-83" type="line"/>
+      <point x="288" y="-396" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>bengali</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
 </glyph>

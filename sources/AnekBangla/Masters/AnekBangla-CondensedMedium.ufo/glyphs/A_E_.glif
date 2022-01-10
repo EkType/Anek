@@ -1,53 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="AE" format="2">
-	<advance width="1041"/>
-	<unicode hex="00C6"/>
-	<anchor x="521" y="1278" name="top"/>
-	<anchor x="521" y="0" name="bottom"/>
-	<outline>
-		<contour>
-			<point x="36" y="0" type="line"/>
-			<point x="211" y="0" type="line"/>
-			<point x="460" y="1149" type="line"/>
-			<point x="523" y="1149" type="line"/>
-			<point x="523" y="1278" type="line"/>
-			<point x="328" y="1278" type="line"/>
-		</contour>
-		<contour>
-			<point x="221" y="343" type="line"/>
-			<point x="546" y="343" type="line"/>
-			<point x="546" y="494" type="line"/>
-			<point x="221" y="494" type="line"/>
-		</contour>
-		<contour>
-			<point x="609" y="0" type="line"/>
-			<point x="982" y="0" type="line"/>
-			<point x="982" y="158" type="line"/>
-			<point x="609" y="158" type="line"/>
-		</contour>
-		<contour>
-			<point x="502" y="0" type="line"/>
-			<point x="676" y="0" type="line"/>
-			<point x="676" y="1278" type="line"/>
-			<point x="502" y="1278" type="line"/>
-		</contour>
-		<contour>
-			<point x="616" y="574" type="line"/>
-			<point x="974" y="574" type="line"/>
-			<point x="974" y="731" type="line"/>
-			<point x="616" y="731" type="line"/>
-		</contour>
-		<contour>
-			<point x="607" y="1120" type="line"/>
-			<point x="982" y="1120" type="line"/>
-			<point x="982" y="1278" type="line"/>
-			<point x="607" y="1278" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>E</string>
-		</dict>
-	</lib>
+  <advance width="1041"/>
+  <unicode hex="00C6"/>
+  <anchor x="521" y="0" name="bottom"/>
+  <anchor x="521" y="1278" name="top"/>
+  <outline>
+    <contour>
+      <point x="36" y="0" type="line"/>
+      <point x="211" y="0" type="line"/>
+      <point x="460" y="1149" type="line"/>
+      <point x="523" y="1149" type="line"/>
+      <point x="523" y="1278" type="line"/>
+      <point x="328" y="1278" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="343" type="line"/>
+      <point x="546" y="343" type="line"/>
+      <point x="546" y="494" type="line"/>
+      <point x="221" y="494" type="line"/>
+    </contour>
+    <contour>
+      <point x="609" y="0" type="line"/>
+      <point x="982" y="0" type="line"/>
+      <point x="982" y="158" type="line"/>
+      <point x="609" y="158" type="line"/>
+    </contour>
+    <contour>
+      <point x="502" y="0" type="line"/>
+      <point x="676" y="0" type="line"/>
+      <point x="676" y="1278" type="line"/>
+      <point x="502" y="1278" type="line"/>
+    </contour>
+    <contour>
+      <point x="616" y="574" type="line"/>
+      <point x="974" y="574" type="line"/>
+      <point x="974" y="731" type="line"/>
+      <point x="616" y="731" type="line"/>
+    </contour>
+    <contour>
+      <point x="607" y="1120" type="line"/>
+      <point x="982" y="1120" type="line"/>
+      <point x="982" y="1278" type="line"/>
+      <point x="607" y="1278" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
 </glyph>

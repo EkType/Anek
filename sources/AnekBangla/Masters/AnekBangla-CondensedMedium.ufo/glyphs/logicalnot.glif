@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="logicalnot" format="2">
-	<advance width="688"/>
-	<unicode hex="00AC"/>
-	<outline>
-		<contour>
-			<point x="614" y="309" type="line"/>
-			<point x="614" y="648" type="line"/>
-			<point x="463" y="648" type="line"/>
-			<point x="463" y="309" type="line"/>
-		</contour>
-		<contour>
-			<point x="57" y="564" type="line"/>
-			<point x="614" y="564" type="line"/>
-			<point x="614" y="709" type="line"/>
-			<point x="57" y="709" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>minus</string>
-		</dict>
-	</lib>
+  <advance width="688"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="614" y="309" type="line"/>
+      <point x="614" y="648" type="line"/>
+      <point x="463" y="648" type="line"/>
+      <point x="463" y="309" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="564" type="line"/>
+      <point x="614" y="564" type="line"/>
+      <point x="614" y="709" type="line"/>
+      <point x="57" y="709" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>minus</string>
+    </dict>
+  </lib>
 </glyph>
