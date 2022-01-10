@@ -20,11 +20,19 @@ Anek is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/O
 
 The font files can be downloaded from the [releases page.](https://github.com/EkType/Anek/releases)
 
+### Building the font from source
+Seven scripts have been designed in Glyphs and three scripts have been designed in Fontlab 7. Since there are two types of source files, we use UFO's and a unified build script to build our fonts. This build script (`build.sh`) is provided in the `sources` folder. Download the sources, and use this script to build the fonts.  
+> `fontmake` and `gftools` are required for building the fonts from UFO's. 
+
+If you need to re-generate the UFO's or study the source files; the Glyphs and Fontlab source files are available in the sources folder under the respective script directories.
+
+> Characters change shape according to weight/width axis. The code for this has been written in the `designspace` file for each script. If you regenerate the UFO's, please include the designspace code when you build your fonts.
+
 ### Getting Involved
 
 Would you like to contribute to the development of this font family? Here is how you can help:
 
-1. Tell us about any bugs you find, or enhancements you would like to see.
+1. Tell us about any bugs you find, or enhancements you would like to see. Write to `info@ektype.in` if you require any assistance in contributing to the family.
 
 2. Contribute directly to the fonts. In this repository, we provide the complete set of source files that we use ourselves to develop the fonts. If you wish to contribute directly, please see below how we build the fonts and follow our build process so that we can easily include your contribution, and follow the GitHub pull request process to send your contribution.
 
