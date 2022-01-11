@@ -2,25 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>com.github.googlei18n.ufo2ft.filters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>eraseOpenCorners</string>
+        <key>namespace</key>
+        <string>glyphsLib.filters</string>
+        <key>pre</key>
+        <true/>
+      </dict>
+    </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3108</string>
     <key>com.schriftgestaltung.customName</key>
     <string>Medium</string>
-    <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
-    <array>
-      <dict>
-        <key>Name</key>
-        <string>Weight</string>
-        <key>Tag</key>
-        <string>wght</string>
-      </dict>
-      <dict>
-        <key>Name</key>
-        <string>Width</string>
-        <key>Tag</key>
-        <string>wdth</string>
-      </dict>
-    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Enforce Compatibility Check</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Use Extension Kerning</key>
