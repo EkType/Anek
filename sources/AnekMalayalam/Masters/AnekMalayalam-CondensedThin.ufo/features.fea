@@ -1,147 +1,3 @@
-#> classes
-#/> kernclasses
-@L_A = [A];
-@L_B = [B];
-@L_C = [C];
-@L_D = [D];
-@L_E = [E];
-@L_F = [F];
-@L_G = [G];
-@L_H = [H N];
-@L_I = [I];
-@L_J = [J];
-@L_K = [K];
-@L_L = [L];
-@L_M = [M];
-@L_O = [O];
-@L_P = [P];
-@L_Q = [Q];
-@L_R = [R];
-@L_S = [S dollar];
-@L_T = [T];
-@L_U = [U];
-@L_V = [V];
-@L_W = [W];
-@L_X = [X];
-@L_Y = [Y];
-@L_Z = [Z];
-@L_a = [a];
-@L_b = [b p];
-@L_c = [c];
-@L_d = [d];
-@L_e = [e];
-@L_f = [f];
-@L_g = [g];
-@L_hyphen = [emdash endash hyphen minus];
-@L_i = [i];
-@L_j = [j];
-@L_k = [k];
-@L_l = [l];
-@L_n = [h m n];
-@L_o = [o];
-@L_parenleft = [braceleft bracketleft parenleft];
-@L_parenright = [braceright bracketright parenright];
-@L_period = [ellipsis period];
-@L_q = [q];
-@L_question = [question question_alt];
-@L_quoteleft = [quotedblleft quoteleft];
-@L_quoteright = [quotedblright quoteright];
-@L_quotesingle = [quotedbl quotesingle];
-@L_r = [r];
-@L_s = [s];
-@L_t = [t];
-@L_u = [u];
-@L_v = [v y];
-@L_w = [w];
-@L_x = [x];
-@L_z = [z];
-@L_zero = [zero];
-@R_A = [A];
-@R_H = [B D E F H K L N P R];
-@R_I = [I];
-@R_J = [J];
-@R_M = [M];
-@R_O = [C G O Q];
-@R_S = [S dollar];
-@R_T = [T];
-@R_U = [U];
-@R_V = [V];
-@R_W = [W];
-@R_X = [X];
-@R_Y = [Y];
-@R_Z = [Z];
-@R_a = [a];
-@R_d = [d q];
-@R_f = [f];
-@R_g = [g];
-@R_h = [b h k];
-@R_hyphen = [emdash endash hyphen minus];
-@R_i = [i];
-@R_j = [j];
-@R_l = [l];
-@R_m = [m n p r];
-@R_o = [c e o];
-@R_parenleft = [braceleft bracketleft parenleft];
-@R_parenright = [braceright bracketright parenright];
-@R_period = [ellipsis period];
-@R_question = [question question_alt];
-@R_quoteleft = [quotedblleft quoteleft];
-@R_quoteright = [quotedblright quoteright];
-@R_quotesingle = [quotedbl quotesingle];
-@R_s = [s];
-@R_t = [t];
-@R_u = [u];
-@R_v = [v y];
-@R_w = [w];
-@R_x = [x];
-@R_z = [z];
-@R_zero = [zero];
-@_Bha_Right = [Bha.mlm NnaTta.mlm TaBha.mlm];
-@_Ca_Left = [Ca.mlm CaCa.mlm CaCha.mlm Cha.mlm];
-@_Da_Left = [Bha.mlm Da.mlm DaDa.mlm DaDha.mlm];
-@_Da_Right = [Da.mlm DaDa.mlm GaDa.mlm NaDa.mlm Nga.mlm NgaNga.mlm vowelshortO.mlm];
-@_Danda_Left = [Tha.mlm Ttta.mlm onetwentieth.mlm];
-@_Danda_Right = [Ba.mlm BaBa.mlm BaDa.mlm BaDha.mlm BaLa.mlm Ca.mlm CaCa.mlm CaCha.mlm Gha.mlm KaSsa.mlm Kha.mlm La.mlm LaLa.mlm MaPa.mlm NyaCa.mlm Pa.mlm PaLa.mlm PaPa.mlm PaPa_Alt.mlm Pa_Alt.mlm ShaCa.mlm Ssa.mlm SsaTta.mlm SsaTta_Alt.mlm Va.mlm VaVa.mlm ViramaVa.mlm ViramaVa1.mlm ViramaVa2.mlm eight.mlm matraI.mlm matraI.mlm.2 matraI1.mlm matraI_Alt.mlm matraIi.mlm matraIi.mlm.1];
-@_Ddha_Right = [Ddha.mlm NnaDdha.mlm];
-@_Dha_Left = [Dha.mlm Ga.mlm GaDa.mlm GaDaDha.mlm GaGa.mlm GaLa.mlm GaMa.mlm GaNa.mlm Sha.mlm ShaCa.mlm ShaCha.mlm ShaLa.mlm ShaSha.mlm chilluLl.mlm oneonehundredandsixtieth.mlm];
-@_Dha_Right = [DaDha.mlm Dda.mlm DdaDda.mlm Dha.mlm GaDaDha.mlm Jha.mlm NaDha.mlm NnaDda.mlm Sa.mlm SaLa.mlm SaRraRra.mlm SaSa.mlm TaSa.mlm oneonehundredandsixtieth.mlm onetenth.mlm onetwentieth.mlm ten.mlm threetwentieths.mlm];
-@_Ja_Left = [Ja.mlm JaJa.mlm JaJa_Alt.mlm JaNya.mlm JaNya_Alt.mlm Ja_Alt.mlm];
-@_Ja_Right = [Ja.mlm JaJa.mlm JaJa_Alt.mlm Ja_Alt.mlm NyaJa.mlm NyaJa_Alt.mlm];
-@_Ka_Left = [Ka.mlm KaKa.mlm KaLa.mlm KaSsa.mlm KaTa.mlm KaTta.mlm KaTta_Alt.mlm NgaKa.mlm chilluK.mlm];
-@_Ka_Right = [Anuswara.mlm Ka.mlm KaLa.mlm KaTta.mlm KaTta_Alt.mlm NgaKa.mlm chilluK.mlm];
-@_La_left = [La.mlm LaLa.mlm];
-@_Lla_Right = [Lla.mlm LlaLla.mlm LlaLla_Alt.mlm Lla_Alt.mlm];
-@_Loop_Left = [Ba.mlm BaBa.mlm BaDa.mlm BaDha.mlm BaLa.mlm Kha.mlm Nga.mlm NgaNga.mlm Nna.mlm NnaDda.mlm NnaDdha.mlm NnaMa.mlm NnaNna.mlm NnaTta.mlm Nnna.mlm Nya.mlm NyaCa.mlm NyaCha.mlm NyaJa.mlm NyaJa_Alt.mlm NyaNya.mlm chilluNn.mlm matraAi.mlm matraAu.mlm matrashortE.mlm matrashortO.mlm onehalf.mlm onequarter.mlm seven.mlm threequarters.mlm vowelAi.mlm vowelLru.mlm vowelLruu.mlm];
-@_Ma_Left = [Ma.mlm MaLa.mlm MaMa.mlm chilluM.mlm];
-@_Ma_Right = [GaMa.mlm HaMa.mlm Ma.mlm MaLa.mlm MaMa.mlm NaMa.mlm NnaMa.mlm TaMa.mlm chilluM.mlm onesixteenth.mlm threeeightieths.mlm threesixteenths.mlm];
-@_Na_Left = [Dda.mlm DdaDda.mlm Ddha.mlm MaPa.mlm Na.mlm NaDa.mlm NaDha.mlm NaMa.mlm NaNa.mlm NaRra.mlm NaRraVirama.mlm NaTa.mlm NaTha.mlm Rra.mlm RraRra.mlm Sa.mlm SaLa.mlm SaRraRra.mlm SaSa.mlm SaTha.mlm Va.mlm VaVa.mlm chilluN.mlm date.mlm eight.mlm nine.mlm onehundred.mlm onetenth.mlm onethousand.mlm six.mlm three.mlm threeeightieths.mlm two.mlm];
-@_Na_Right = [Ga.mlm GaGa.mlm GaLa.mlm GaNa.mlm Ha.mlm HaNa.mlm Na.mlm NaNa.mlm Nna.mlm NnaNna.mlm Nnna.mlm Rra.mlm RraRra.mlm TaNa.mlm onehundred.mlm parasign.mlm six.mlm];
-@_Pa_Left = [Anuswara.mlm Ha.mlm HaMa.mlm HaNa.mlm Pa.mlm PaLa.mlm PaPa.mlm PaPa_Alt.mlm Pa_Alt.mlm Pha.mlm PhaLa.mlm Ssa.mlm SsaTta.mlm SsaTta_Alt.mlm oneeighth.mlm onesixteenth.mlm vowelE.mlm vowelshortE.mlm];
-@_Ra_Right = [Cha.mlm NaRra.mlm NaRraVirama.mlm NyaCha.mlm Ra.mlm Sha.mlm ShaCha.mlm ShaLa.mlm ShaSha.mlm chilluL.mlm chilluLl.mlm chilluN.mlm chilluNn.mlm chilluRr.mlm four.mlm nine.mlm onehalf.mlm threequarters.mlm vowelA.mlm vowelLru.mlm];
-@_Ta_Left = [Jha.mlm Ra.mlm Ta.mlm TaBha.mlm TaMa.mlm TaNa.mlm TaSa.mlm TaTa.mlm TaTha.mlm chilluL.mlm chilluRr.mlm four.mlm onefifth.mlm onefortieth.mlm vowelA.mlm vowelAa.mlm];
-@_Ta_Right = [JaNya.mlm JaNya_Alt.mlm KaKa.mlm KaTa.mlm NaTa.mlm Nya.mlm NyaNya.mlm Ta.mlm TaTa.mlm five.mlm matraAi.mlm matrashortE.mlm seven.mlm];
-@_Tha_Right = [NaTha.mlm Pha.mlm PhaLa.mlm SaTha.mlm TaTha.mlm Tha.mlm one.mlm];
-@_Tta2_Both = [TtaTta_Alt.mlm Tta_Alt.mlm];
-@_Tta_Both = [Tta.mlm TtaTta.mlm];
-@_Ttha_Right = [Ttha.mlm matraA_Alt.mlm vowelO_Alt.mlm];
-@_ViramaYa1_Right = [ViramaYa1.mlm matraRu1.mlm];
-@_ViramaYa2_Right = [ViramaYa2.mlm matraRu2.mlm];
-@_ViramaYa_Right = [ViramaYa.mlm matraRu.mlm];
-@_Ya_Both = [Ya.mlm YaYa.mlm chilluY.mlm];
-@_Zha_Both = [Zha.mlm chilluZh.mlm];
-@_lengthAu_Right = [lengthAu.mlm matraAu.mlm vowelAu.mlm vowelIi.mlm vowelIi_Alt.mlm vowelUu.mlm vowelUu_Alt.mlm];
-@_matraAa_Right = [matraA.mlm matraO.mlm matrashortO.mlm vowelO.mlm];
-@_matraEAlt_Both = [matraE1_Alt.mlm matraE2_Alt.mlm];
-@_matraU_Right = [matraU.mlm matraU1.mlm matraU2.mlm matraUu.mlm matraUu1.mlm matraUu1_Alt.mlm matraUu2.mlm matraUu2_Alt.mlm matraUu_Alt.mlm];
-@_vowelAa_Right = [vowelAa.mlm vowelLruu.mlm];
-@_vowelI_Left = [Lla.mlm LlaLla.mlm LlaLla_Alt.mlm Lla_Alt.mlm vowelI.mlm vowelI_Alt.mlm vowelIi.mlm vowelIi_Alt.mlm vowelU.mlm vowelU_Alt.mlm vowelUu.mlm vowelUu_Alt.mlm];
-@_vowelO_Left = [vowelAu.mlm vowelO.mlm vowelO_Alt.mlm vowelshortO.mlm];
-@_vowelRu_Both = [vowelRu.mlm vowelRuu.mlm];
-@_vowelU_Right = [vowelI.mlm vowelI_Alt.mlm vowelU.mlm vowelU_Alt.mlm];
-@_vowelshortE_Right = [vowelAi.mlm vowelshortE.mlm];
-#/< kernclasses
-#< classes
-
 @Uppercase = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z OE Agrave Aacute Acircumflex Atilde Aring Adieresis AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Germandbls];
 @figures = [zero one two three four five six seven eight nine];
 @figures_denominator = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
@@ -535,7 +391,7 @@ feature haln {
   sub NaRra.mlm Virama.mlm by NaRraVirama.mlm;
 } haln;
 feature pref { # Pre-base Forms- Rakar
-  sub Virama.mlm' Ra.mlm' by ViramaRa.mlm;
+  sub Virama.mlm Ra.mlm by ViramaRa.mlm;
 } pref;
 feature pstf { # Post-base Forms - Ya Va conjunct forms, Rakar
 
@@ -544,15 +400,15 @@ script mlm2;
 language dflt ;
 
 lookup pstf3 {
-  sub Virama.mlm' Ra.mlm' by ViramaRa.mlm;
+  sub Virama.mlm Ra.mlm by ViramaRa.mlm;
 }pstf3;
 
 lookup pstf2 {
-    sub Virama.mlm' Va.mlm' by ViramaVa.mlm;
+    sub Virama.mlm Va.mlm by ViramaVa.mlm;
 }pstf2;
 	
 lookup pstf1 {
-    sub Virama.mlm' Ya.mlm' by ViramaYa.mlm;
+    sub Virama.mlm Ya.mlm by ViramaYa.mlm;
 }pstf1;
 
 lookup matraI {
@@ -563,15 +419,15 @@ script mlym; # Malayalam
 language dflt;
 
 lookup pstf6 {
-  sub Ra.mlm' Virama.mlm' by ViramaRa.mlm;
+  sub Ra.mlm Virama.mlm by ViramaRa.mlm;
 }pstf6;
 
 lookup pstf5 {
-    sub Va.mlm' Virama.mlm' by ViramaVa.mlm;
+    sub Va.mlm Virama.mlm by ViramaVa.mlm;
 }pstf5;
 
 lookup pstf4 {
-    sub Ya.mlm' Virama.mlm' by ViramaYa.mlm;
+    sub Ya.mlm Virama.mlm by ViramaYa.mlm;
 }pstf4;
 
 lookup matraI;
