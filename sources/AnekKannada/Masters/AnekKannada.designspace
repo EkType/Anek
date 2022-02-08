@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis minimum="100" tag="wght" default="500" name="weight" maximum="800">
+  <axis maximum="800" minimum="100" default="500" name="weight" tag="wght">
    <labelname xml:lang="en">Weight</labelname>
    <map output="100" input="100"/>
    <map output="206" input="200"/>
@@ -12,7 +12,7 @@
    <map output="709" input="700"/>
    <map output="800" input="800"/>
   </axis>
-  <axis minimum="75" tag="wdth" default="100" name="width" maximum="125">
+  <axis maximum="125" minimum="75" default="100" name="width" tag="wdth">
    <labelname xml:lang="en">Width</labelname>
    <map output="75" input="75"/>
    <map output="87.5" input="87.5"/>
@@ -22,49 +22,49 @@
   </axis>
  </axes>
  <sources>
-  <source filename="AnekKannada-CondensedExtraBold.ufo" name="CondensedExtraBold" stylename="Extra Bold Condensed" familyname="Anek Kannada">
+  <source filename="AnekKannada-CondensedExtraBold.ufo" stylename="Extra Bold Condensed" familyname="Anek Kannada" name="CondensedExtraBold">
    <location>
     <dimension xvalue="800" name="weight"/>
     <dimension xvalue="75" name="width"/>
    </location>
   </source>
-  <source filename="AnekKannada-CondensedMedium.ufo" name="CondensedMedium" stylename="Medium Condensed" familyname="Anek Kannada">
+  <source filename="AnekKannada-CondensedMedium.ufo" stylename="Medium Condensed" familyname="Anek Kannada" name="CondensedMedium">
    <location>
     <dimension xvalue="500" name="weight"/>
     <dimension xvalue="75" name="width"/>
    </location>
   </source>
-  <source filename="AnekKannada-CondensedThin.ufo" name="CondensedThin" stylename="Thin Condensed" familyname="Anek Kannada">
+  <source filename="AnekKannada-CondensedThin.ufo" stylename="Thin Condensed" familyname="Anek Kannada" name="CondensedThin">
    <location>
     <dimension xvalue="100" name="weight"/>
     <dimension xvalue="75" name="width"/>
    </location>
   </source>
-  <source filename="AnekKannada-ExpandedExtraBold.ufo" name="ExpandedExtraBold" stylename="Extra Bold Expanded" familyname="Anek Kannada">
+  <source filename="AnekKannada-ExpandedExtraBold.ufo" stylename="Extra Bold Expanded" familyname="Anek Kannada" name="ExpandedExtraBold">
    <location>
     <dimension xvalue="800" name="weight"/>
     <dimension xvalue="125" name="width"/>
    </location>
   </source>
-  <source filename="AnekKannada-ExpandedMedium.ufo" name="ExpandedMedium" stylename="Medium Expanded" familyname="Anek Kannada">
+  <source filename="AnekKannada-ExpandedMedium.ufo" stylename="Medium Expanded" familyname="Anek Kannada" name="ExpandedMedium">
    <location>
     <dimension xvalue="500" name="weight"/>
     <dimension xvalue="125" name="width"/>
    </location>
   </source>
-  <source filename="AnekKannada-ExpandedThin.ufo" name="ExpandedThin" stylename="Thin Expanded" familyname="Anek Kannada">
+  <source filename="AnekKannada-ExpandedThin.ufo" stylename="Thin Expanded" familyname="Anek Kannada" name="ExpandedThin">
    <location>
     <dimension xvalue="100" name="weight"/>
     <dimension xvalue="125" name="width"/>
    </location>
   </source>
-  <source filename="AnekKannada-ExtraBold.ufo" name="ExtraBold" stylename="ExtraBold" familyname="Anek Kannada">
+  <source filename="AnekKannada-ExtraBold.ufo" stylename="ExtraBold" familyname="Anek Kannada" name="ExtraBold">
    <location>
     <dimension xvalue="800" name="weight"/>
     <dimension xvalue="100" name="width"/>
    </location>
   </source>
-  <source filename="AnekKannada-Medium.ufo" name="Medium" stylename="Medium" familyname="Anek Kannada">
+  <source filename="AnekKannada-Medium.ufo" stylename="Medium" familyname="Anek Kannada" name="Medium">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -74,7 +74,7 @@
     <dimension xvalue="100" name="width"/>
    </location>
   </source>
-  <source filename="AnekKannada-Thin.ufo" name="Thin" stylename="Thin" familyname="Anek Kannada">
+  <source filename="AnekKannada-Thin.ufo" stylename="Thin" familyname="Anek Kannada" name="Thin">
    <location>
     <dimension xvalue="100" name="weight"/>
     <dimension xvalue="100" name="width"/>
@@ -2233,241 +2233,241 @@
   </dict>
  </lib>
  <instances>
-  <instance filename="instances/AnekKannada-CondensedThin.ufo" name="Condensed Thin" stylename="Condensed Thin" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-CondensedThin.ufo" stylename="Condensed Thin" familyname="Anek Kannada" name="Condensed Thin">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-CondensedExtraLight.ufo" name="Condensed ExtraLight" stylename="Condensed ExtraLight" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-CondensedExtraLight.ufo" stylename="Condensed ExtraLight" familyname="Anek Kannada" name="Condensed ExtraLight">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-CondensedLight.ufo" name="Condensed Light" stylename="Condensed Light" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-CondensedLight.ufo" stylename="Condensed Light" familyname="Anek Kannada" name="Condensed Light">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-Condensed.ufo" name="Condensed" stylename="Condensed" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-Condensed.ufo" stylename="Condensed" familyname="Anek Kannada" name="Condensed">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-CondensedMedium.ufo" name="Condensed Medium" stylename="Condensed Medium" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-CondensedMedium.ufo" stylename="Condensed Medium" familyname="Anek Kannada" name="Condensed Medium">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-CondensedSemiBold.ufo" name="Condensed SemiBold" stylename="Condensed SemiBold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-CondensedSemiBold.ufo" stylename="Condensed SemiBold" familyname="Anek Kannada" name="Condensed SemiBold">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-CondensedBold.ufo" name="Condensed Bold" stylename="Condensed Bold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-CondensedBold.ufo" stylename="Condensed Bold" familyname="Anek Kannada" name="Condensed Bold">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-CondensedExtraBold.ufo" name="Condensed ExtraBold" stylename="Condensed ExtraBold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-CondensedExtraBold.ufo" stylename="Condensed ExtraBold" familyname="Anek Kannada" name="Condensed ExtraBold">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiCondensedThin.ufo" name="SemiCondensed Thin" stylename="SemiCondensed Thin" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiCondensedThin.ufo" stylename="SemiCondensed Thin" familyname="Anek Kannada" name="SemiCondensed Thin">
    <location>
     <dimension xvalue="87.5" name="width"/>
     <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiCondensedExtraLight.ufo" name="SemiCondensed ExtraLight" stylename="SemiCondensed ExtraLight" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiCondensedExtraLight.ufo" stylename="SemiCondensed ExtraLight" familyname="Anek Kannada" name="SemiCondensed ExtraLight">
    <location>
     <dimension xvalue="87.5" name="width"/>
     <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiCondensedLight.ufo" name="SemiCondensed Light" stylename="SemiCondensed Light" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiCondensedLight.ufo" stylename="SemiCondensed Light" familyname="Anek Kannada" name="SemiCondensed Light">
    <location>
     <dimension xvalue="87.5" name="width"/>
     <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiCondensed.ufo" name="SemiCondensed" stylename="SemiCondensed" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiCondensed.ufo" stylename="SemiCondensed" familyname="Anek Kannada" name="SemiCondensed">
    <location>
     <dimension xvalue="87.5" name="width"/>
     <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiCondensedMedium.ufo" name="SemiCondensed Medium" stylename="SemiCondensed Medium" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiCondensedMedium.ufo" stylename="SemiCondensed Medium" familyname="Anek Kannada" name="SemiCondensed Medium">
    <location>
     <dimension xvalue="87.5" name="width"/>
     <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiCondensedSemiBold.ufo" name="SemiCondensed SemiBold" stylename="SemiCondensed SemiBold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiCondensedSemiBold.ufo" stylename="SemiCondensed SemiBold" familyname="Anek Kannada" name="SemiCondensed SemiBold">
    <location>
     <dimension xvalue="87.5" name="width"/>
     <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiCondensedBold.ufo" name="SemiCondensed Bold" stylename="SemiCondensed Bold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiCondensedBold.ufo" stylename="SemiCondensed Bold" familyname="Anek Kannada" name="SemiCondensed Bold">
    <location>
     <dimension xvalue="87.5" name="width"/>
     <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiCondensedExtraBold.ufo" name="SemiCondensed ExtraBold" stylename="SemiCondensed ExtraBold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiCondensedExtraBold.ufo" stylename="SemiCondensed ExtraBold" familyname="Anek Kannada" name="SemiCondensed ExtraBold">
    <location>
     <dimension xvalue="87.5" name="width"/>
     <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-Thin.ufo" name="Thin" stylename="Thin" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-Thin.ufo" stylename="Thin" familyname="Anek Kannada" name="Thin">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-ExtraLight.ufo" name="ExtraLight" stylename="ExtraLight" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-ExtraLight.ufo" stylename="ExtraLight" familyname="Anek Kannada" name="ExtraLight">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-Light.ufo" name="Light" stylename="Light" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-Light.ufo" stylename="Light" familyname="Anek Kannada" name="Light">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-Regular.ufo" name="Regular" stylename="Regular" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-Regular.ufo" stylename="Regular" familyname="Anek Kannada" name="Regular">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-Medium.ufo" name="Medium" stylename="Medium" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-Medium.ufo" stylename="Medium" familyname="Anek Kannada" name="Medium">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiBold.ufo" name="SemiBold" stylename="SemiBold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiBold.ufo" stylename="SemiBold" familyname="Anek Kannada" name="SemiBold">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-Bold.ufo" name="Bold" stylename="Bold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-Bold.ufo" stylename="Bold" familyname="Anek Kannada" name="Bold">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-ExtraBold.ufo" name="ExtraBold" stylename="ExtraBold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-ExtraBold.ufo" stylename="ExtraBold" familyname="Anek Kannada" name="ExtraBold">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiExpandedThin.ufo" name="SemiExpanded Thin" stylename="SemiExpanded Thin" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiExpandedThin.ufo" stylename="SemiExpanded Thin" familyname="Anek Kannada" name="SemiExpanded Thin">
    <location>
     <dimension xvalue="112.5" name="width"/>
     <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiExpandedExtraLight.ufo" name="SemiExpanded ExtraLight" stylename="SemiExpanded ExtraLight" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiExpandedExtraLight.ufo" stylename="SemiExpanded ExtraLight" familyname="Anek Kannada" name="SemiExpanded ExtraLight">
    <location>
     <dimension xvalue="112.5" name="width"/>
     <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiExpandedLight.ufo" name="SemiExpanded Light" stylename="SemiExpanded Light" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiExpandedLight.ufo" stylename="SemiExpanded Light" familyname="Anek Kannada" name="SemiExpanded Light">
    <location>
     <dimension xvalue="112.5" name="width"/>
     <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiExpanded.ufo" name="SemiExpanded" stylename="SemiExpanded" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiExpanded.ufo" stylename="SemiExpanded" familyname="Anek Kannada" name="SemiExpanded">
    <location>
     <dimension xvalue="112.5" name="width"/>
     <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiExpandedMedium.ufo" name="SemiExpanded Medium" stylename="SemiExpanded Medium" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiExpandedMedium.ufo" stylename="SemiExpanded Medium" familyname="Anek Kannada" name="SemiExpanded Medium">
    <location>
     <dimension xvalue="112.5" name="width"/>
     <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiExpandedSemiBold.ufo" name="SemiExpanded SemiBold" stylename="SemiExpanded SemiBold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiExpandedSemiBold.ufo" stylename="SemiExpanded SemiBold" familyname="Anek Kannada" name="SemiExpanded SemiBold">
    <location>
     <dimension xvalue="112.5" name="width"/>
     <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiExpandedBold.ufo" name="SemiExpanded Bold" stylename="SemiExpanded Bold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiExpandedBold.ufo" stylename="SemiExpanded Bold" familyname="Anek Kannada" name="SemiExpanded Bold">
    <location>
     <dimension xvalue="112.5" name="width"/>
     <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-SemiExpandedExtraBold.ufo" name="SemiExpanded ExtraBold" stylename="SemiExpanded ExtraBold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-SemiExpandedExtraBold.ufo" stylename="SemiExpanded ExtraBold" familyname="Anek Kannada" name="SemiExpanded ExtraBold">
    <location>
     <dimension xvalue="112.5" name="width"/>
     <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-ExpandedThin.ufo" name="Expanded Thin" stylename="Expanded Thin" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-ExpandedThin.ufo" stylename="Expanded Thin" familyname="Anek Kannada" name="Expanded Thin">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-ExpandedExtraLight.ufo" name="Expanded ExtraLight" stylename="Expanded ExtraLight" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-ExpandedExtraLight.ufo" stylename="Expanded ExtraLight" familyname="Anek Kannada" name="Expanded ExtraLight">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-ExpandedLight.ufo" name="Expanded Light" stylename="Expanded Light" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-ExpandedLight.ufo" stylename="Expanded Light" familyname="Anek Kannada" name="Expanded Light">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-Expanded.ufo" name="Expanded" stylename="Expanded" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-Expanded.ufo" stylename="Expanded" familyname="Anek Kannada" name="Expanded">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-ExpandedMedium.ufo" name="Expanded Medium" stylename="Expanded Medium" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-ExpandedMedium.ufo" stylename="Expanded Medium" familyname="Anek Kannada" name="Expanded Medium">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-ExpandedSemiBold.ufo" name="Expanded SemiBold" stylename="Expanded SemiBold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-ExpandedSemiBold.ufo" stylename="Expanded SemiBold" familyname="Anek Kannada" name="Expanded SemiBold">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-ExpandedBold.ufo" name="Expanded Bold" stylename="Expanded Bold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-ExpandedBold.ufo" stylename="Expanded Bold" familyname="Anek Kannada" name="Expanded Bold">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/AnekKannada-ExpandedExtraBold.ufo" name="Expanded ExtraBold" stylename="Expanded ExtraBold" familyname="Anek Kannada">
+  <instance filename="instances/AnekKannada-ExpandedExtraBold.ufo" stylename="Expanded ExtraBold" familyname="Anek Kannada" name="Expanded ExtraBold">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="800" name="weight"/>
