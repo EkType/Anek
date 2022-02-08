@@ -28,31 +28,11 @@
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
-    <string>Base_Overshoot</string>
+    <string>Upper_Matra_Line</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>64</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>Lower_Matra_Line</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>-470</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>Mid_Line</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>630</integer>
+    <integer>1774</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -68,21 +48,41 @@
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
-    <string>Upper_Matra_Line</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1774</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
     <string>Va_Counter_Space</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
     <integer>931</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>Mid_Line</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>630</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>Base_Overshoot</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>64</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>Lower_Matra_Line</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>-470</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -131,7 +131,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Thin Expanded</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.002</string>
+  <string>Version 1.003</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -232,7 +232,7 @@
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>2</integer>
+  <integer>3</integer>
   <key>xHeight</key>
   <integer>952</integer>
 </dict>

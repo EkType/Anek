@@ -1,94 +1,137 @@
 # automatic
-@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z OE Agrave Aacute Acircumflex Atilde Aring Adieresis AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Germandbls ];
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z OE Agrave Aacute Acircumflex Atilde Aring Adieresis AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Germandbls
+];
 
-@figures = [ zero one two three four five six seven eight nine ];
+@figures = [ zero one two three four five six seven eight nine
+];
 
-@figures_denominator = [ zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom ];
+@figures_denominator = [ zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom
+];
 
-@figures_numerator = [ zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr ];
+@figures_numerator = [ zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
+];
 
-@COMBINING_MARKS = [ MatraUu.gj MatraAi.gj Reph.gj Chandrabindu2.gj Bindu2.gj ];
+@COMBINING_MARKS = [ MatraUu.gj MatraAi.gj Reph.gj Chandrabindu2.gj Bindu2.gj
+];
 
-@Vertical_Conjuncts = [ NgaKa.gj NgaGa.gj NgaMa.gj NgaYa.gj ChaVa.gj TtaTta.gj TtaTtha.gj TtaVa.gj TthaTtha.gj DdaGa.gj DdaDda.gj DdaDdha.gj DdaNa.gj DdaVa.gj DdhaDdha.gj DaGa.gj DaGha.gj DaDa.gj DaDha.gj DaNa.gj DaBa.gj DaBha.gj DaVa.gj HaNna.gj HaNa.gj HaLa.gj HaVa.gj ];
+@Vertical_Conjuncts = [ NgaKa.gj NgaGa.gj NgaMa.gj NgaYa.gj ChaVa.gj TtaTta.gj TtaTtha.gj TtaVa.gj TthaTtha.gj DdaGa.gj DdaDda.gj DdaDdha.gj DdaNa.gj DdaVa.gj DdhaDdha.gj DaGa.gj DaGha.gj DaDa.gj DaDha.gj DaNa.gj DaBa.gj DaBha.gj DaVa.gj HaNna.gj HaNa.gj HaLa.gj HaVa.gj
+];
 
-@matraIidefault = [ MatraIi.gj MatraIiReph.gj MatraIiRephBindu.gj MatraIiBindu.gj MatraIiChandrabindu.gj MatraIiRephChandrabindu.gj ];
+@matraIidefault = [ MatraIi.gj MatraIiReph.gj MatraIiRephBindu.gj MatraIiBindu.gj MatraIiChandrabindu.gj MatraIiRephChandrabindu.gj
+];
 
-@matraIione = [ MatraIi1.gj MatraIiReph1.gj MatraIiRephBindu1.gj MatraIiBindu1.gj MatraIiChandrabindu1.gj MatraIiRephChandrabindu1.gj ];
+@matraIione = [ MatraIi1.gj MatraIiReph1.gj MatraIiRephBindu1.gj MatraIiBindu1.gj MatraIiChandrabindu1.gj MatraIiRephChandrabindu1.gj
+];
 
-@matraIitwo = [ MatraIi2.gj MatraIiReph2.gj MatraIiRephBindu2.gj MatraIiBindu2.gj MatraIiChandrabindu2.gj MatraIiRephChandrabindu2.gj ];
+@matraIitwo = [ MatraIi2.gj MatraIiReph2.gj MatraIiRephBindu2.gj MatraIiBindu2.gj MatraIiChandrabindu2.gj MatraIiRephChandrabindu2.gj
+];
 
-@matraIithree = [ MatraIi3.gj MatraIiReph3.gj MatraIiRephBindu3.gj MatraIiBindu3.gj MatraIiChandrabindu3.gj MatraIiRephChandrabindu3.gj ];
+@matraIithree = [ MatraIi3.gj MatraIiReph3.gj MatraIiRephBindu3.gj MatraIiBindu3.gj MatraIiChandrabindu3.gj MatraIiRephChandrabindu3.gj
+];
 
-@Width_matraIione = [ Cha.gj KaCha.gj CaCha.gj NyaCha.gj NaCha.gj PaCha.gj ShaCha.gj ChaVa.gj CaChaVa.gj Da.gj KaDa.gj GaDa.gj NaDa.gj BaDa.gj MaDa.gj LaDa.gj SaDa.gj LaVaDa.gj Ra.gj ];
+@Width_matraIione = [ Cha.gj KaCha.gj CaCha.gj NyaCha.gj NaCha.gj PaCha.gj ShaCha.gj ChaVa.gj CaChaVa.gj Da.gj KaDa.gj GaDa.gj NaDa.gj BaDa.gj MaDa.gj LaDa.gj SaDa.gj LaVaDa.gj Ra.gj
+];
 
-@Width_matraIitwo = [ Ka.gj KaRa.gj KaKa.gj TaKa.gj NaKa.gj PaKa.gj MaKa.gj LaKa.gj ShaKa.gj SsaKa.gj SaKa.gj KaKaRa.gj TaKaRa.gj NaKaRa.gj NaSaKa.gj BaSaKa.gj SsaKaRa.gj SaKaRa.gj NaSaKaRa.gj Tta.gj KaTta.gj JaTta.gj TtaTta.gj TtaTtha.gj TtaVa.gj NnaTta.gj NaTta.gj PaTta.gj PhaTta.gj LaTta.gj ShaTta.gj SsaTta.gj SaTta.gj KaSsaTta.gj KaSaTta.gj NaSaTta.gj BaSaTta.gj Ttha.gj KaTtha.gj TtaTtha.gj TthaTtha.gj NnaTtha.gj LaTtha.gj SsaTtha.gj Dda.gj KaDda.gj GaDda.gj JaDda.gj DdaGa.gj DdaDda.gj DdaDdha.gj DdaNa.gj DdaVa.gj NnaDda.gj NaDda.gj PaDda.gj BaDda.gj LaDda.gj VaDda.gj ShaDda.gj SaDda.gj KaSaDda.gj Ddha.gj DdaDdha.gj DdhaDdha.gj NnaDdha.gj Pha.gj PhaRa.gj KaPha.gj TaPha.gj NaPha.gj PaPha.gj PhaPha.gj MaPha.gj LaPha.gj ShaPha.gj SsaPha.gj SaPha.gj NaPhaRa.gj LaPhaRa.gj Ha.gj HaRa.gj NaHa.gj BaHa.gj MaHa.gj LaHa.gj VaHa.gj ShaHa.gj HaNna.gj HaNa.gj HaLa.gj HaVa.gj DaDa.gj ];
+@Width_matraIitwo = [ Ka.gj KaRa.gj KaKa.gj TaKa.gj NaKa.gj PaKa.gj MaKa.gj LaKa.gj ShaKa.gj SsaKa.gj SaKa.gj KaKaRa.gj TaKaRa.gj NaKaRa.gj NaSaKa.gj BaSaKa.gj SsaKaRa.gj SaKaRa.gj NaSaKaRa.gj Tta.gj KaTta.gj JaTta.gj TtaTta.gj TtaTtha.gj TtaVa.gj NnaTta.gj NaTta.gj PaTta.gj PhaTta.gj LaTta.gj ShaTta.gj SsaTta.gj SaTta.gj KaSsaTta.gj KaSaTta.gj NaSaTta.gj BaSaTta.gj Ttha.gj KaTtha.gj TtaTtha.gj TthaTtha.gj NnaTtha.gj LaTtha.gj SsaTtha.gj Dda.gj KaDda.gj GaDda.gj JaDda.gj DdaGa.gj DdaDda.gj DdaDdha.gj DdaNa.gj DdaVa.gj NnaDda.gj NaDda.gj PaDda.gj BaDda.gj LaDda.gj VaDda.gj ShaDda.gj SaDda.gj KaSaDda.gj Ddha.gj DdaDdha.gj DdhaDdha.gj NnaDdha.gj Pha.gj PhaRa.gj KaPha.gj TaPha.gj NaPha.gj PaPha.gj PhaPha.gj MaPha.gj LaPha.gj ShaPha.gj SsaPha.gj SaPha.gj NaPhaRa.gj LaPhaRa.gj Ha.gj HaRa.gj NaHa.gj BaHa.gj MaHa.gj LaHa.gj VaHa.gj ShaHa.gj HaNna.gj HaNa.gj HaLa.gj HaVa.gj DaDa.gj
+];
 
-@Width_matraIithree = [ Nga.gj NgaKa.gj NgaGa.gj NgaMa.gj NgaYa.gj ];
+@Width_matraIithree = [ Nga.gj NgaKa.gj NgaGa.gj NgaMa.gj NgaYa.gj
+];
 
-@MatraI = [ MatraI.gj MatraI1.gj MatraI2.gj MatraI3.gj MatraI4.gj MatraI5.gj MatraI6.gj MatraI7.gj MatraI8.gj MatraI9.gj MatraI10.gj MatraI11.gj MatraI12.gj MatraI13.gj MatraI14.gj MatraI15.gj MatraI16.gj MatraI17.gj MatraI18.gj MatraI19.gj MatraI20.gj MatraI21.gj MatraI22.gj MatraI23.gj MatraI24.gj ];
+@MatraI = [ MatraI.gj MatraI1.gj MatraI2.gj MatraI3.gj MatraI4.gj MatraI5.gj MatraI6.gj MatraI7.gj MatraI8.gj MatraI9.gj MatraI10.gj MatraI11.gj MatraI12.gj MatraI13.gj MatraI14.gj MatraI15.gj MatraI16.gj MatraI17.gj MatraI18.gj MatraI19.gj MatraI20.gj MatraI21.gj MatraI22.gj MatraI23.gj MatraI24.gj
+];
 
-@MatraIReph = [ MatraIDefaultReph.gj MatraI1Reph.gj MatraI2Reph.gj MatraI3Reph.gj MatraI4Reph.gj MatraI5Reph.gj MatraI6Reph.gj MatraI7Reph.gj MatraI8Reph.gj MatraI9Reph.gj MatraI10Reph.gj MatraI11Reph.gj MatraI12Reph.gj MatraI13Reph.gj MatraI14Reph.gj MatraI15Reph.gj MatraI16Reph.gj MatraI17Reph.gj MatraI18Reph.gj MatraI19Reph.gj MatraI20Reph.gj MatraI21Reph.gj MatraI22Reph.gj MatraI23Reph.gj MatraI24Reph.gj ];
+@MatraIReph = [ MatraIDefaultReph.gj MatraI1Reph.gj MatraI2Reph.gj MatraI3Reph.gj MatraI4Reph.gj MatraI5Reph.gj MatraI6Reph.gj MatraI7Reph.gj MatraI8Reph.gj MatraI9Reph.gj MatraI10Reph.gj MatraI11Reph.gj MatraI12Reph.gj MatraI13Reph.gj MatraI14Reph.gj MatraI15Reph.gj MatraI16Reph.gj MatraI17Reph.gj MatraI18Reph.gj MatraI19Reph.gj MatraI20Reph.gj MatraI21Reph.gj MatraI22Reph.gj MatraI23Reph.gj MatraI24Reph.gj
+];
 
-@MatraIRephBindu = [ MatraIDefaultRephBindu.gj MatraI1RephBindu.gj MatraI2RephBindu.gj MatraI3RephBindu.gj MatraI4RephBindu.gj MatraI5RephBindu.gj MatraI6RephBindu.gj MatraI7RephBindu.gj MatraI8RephBindu.gj MatraI9RephBindu.gj MatraI10RephBindu.gj MatraI11RephBindu.gj MatraI12RephBindu.gj MatraI13RephBindu.gj MatraI14RephBindu.gj MatraI15RephBindu.gj MatraI16RephBindu.gj MatraI17RephBindu.gj MatraI18RephBindu.gj MatraI19RephBindu.gj MatraI20RephBindu.gj MatraI21RephBindu.gj MatraI22RephBindu.gj MatraI23RephBindu.gj MatraI24RephBindu.gj ];
+@MatraIRephBindu = [ MatraIDefaultRephBindu.gj MatraI1RephBindu.gj MatraI2RephBindu.gj MatraI3RephBindu.gj MatraI4RephBindu.gj MatraI5RephBindu.gj MatraI6RephBindu.gj MatraI7RephBindu.gj MatraI8RephBindu.gj MatraI9RephBindu.gj MatraI10RephBindu.gj MatraI11RephBindu.gj MatraI12RephBindu.gj MatraI13RephBindu.gj MatraI14RephBindu.gj MatraI15RephBindu.gj MatraI16RephBindu.gj MatraI17RephBindu.gj MatraI18RephBindu.gj MatraI19RephBindu.gj MatraI20RephBindu.gj MatraI21RephBindu.gj MatraI22RephBindu.gj MatraI23RephBindu.gj MatraI24RephBindu.gj
+];
 
-@MatraIBindu = [ MatraIDefaultBindu.gj MatraI1Bindu.gj MatraI2Bindu.gj MatraI3Bindu.gj MatraI4Bindu.gj MatraI5Bindu.gj MatraI6Bindu.gj MatraI7Bindu.gj MatraI8Bindu.gj MatraI9Bindu.gj MatraI10Bindu.gj MatraI11Bindu.gj MatraI12Bindu.gj MatraI13Bindu.gj MatraI14Bindu.gj MatraI15Bindu.gj MatraI16Bindu.gj MatraI17Bindu.gj MatraI18Bindu.gj MatraI19Bindu.gj MatraI20Bindu.gj MatraI21Bindu.gj MatraI22Bindu.gj MatraI23Bindu.gj MatraI24Bindu.gj ];
+@MatraIBindu = [ MatraIDefaultBindu.gj MatraI1Bindu.gj MatraI2Bindu.gj MatraI3Bindu.gj MatraI4Bindu.gj MatraI5Bindu.gj MatraI6Bindu.gj MatraI7Bindu.gj MatraI8Bindu.gj MatraI9Bindu.gj MatraI10Bindu.gj MatraI11Bindu.gj MatraI12Bindu.gj MatraI13Bindu.gj MatraI14Bindu.gj MatraI15Bindu.gj MatraI16Bindu.gj MatraI17Bindu.gj MatraI18Bindu.gj MatraI19Bindu.gj MatraI20Bindu.gj MatraI21Bindu.gj MatraI22Bindu.gj MatraI23Bindu.gj MatraI24Bindu.gj
+];
 
-@matraIdefault = [ Pa.gj PaRa.gj PaNa.gj Ta.gj TaRa.gj Va.gj VaRa.gj Ssa.gj SsaRa.gj ChaVa.gj Ma.gj MaRa.gj MaNa.gj ];
+@matraIdefault = [ Pa.gj PaRa.gj PaNa.gj Ta.gj TaRa.gj Va.gj VaRa.gj Ssa.gj SsaRa.gj ChaVa.gj Ma.gj MaRa.gj MaNa.gj
+];
 
-@matraI1 = [ Ra.gj Da.gj Dda.gj DdaGa.gj DdaNa.gj DdaVa.gj DdaDdha.gj DdaDda.gj Nga.gj NgaKa.gj NgaGa.gj NgaMa.gj NgaYa.gj Ka.gj KaRa.gj Pha.gj PhaRa.gj Tta.gj TtaTta.gj TtaTtha.gj TtaVa.gj Ttha.gj TthaTtha.gj Ddha.gj DdhaDdha.gj DaDa.gj Ha.gj HaVa.gj HaRa.gj HaNa.gj HaLa.gj HaNna.gj ];
+@matraI1 = [ Ra.gj Da.gj Dda.gj DdaGa.gj DdaNa.gj DdaVa.gj DdaDdha.gj DdaDda.gj Nga.gj NgaKa.gj NgaGa.gj NgaMa.gj NgaYa.gj Ka.gj KaRa.gj Pha.gj PhaRa.gj Tta.gj TtaTta.gj TtaTtha.gj TtaVa.gj Ttha.gj TthaTtha.gj Ddha.gj DdhaDdha.gj DaDa.gj Ha.gj HaVa.gj HaRa.gj HaNa.gj HaLa.gj HaNna.gj
+];
 
-@matraI2 = [ Na.gj NaRa.gj NaNa.gj DaRa.gj DaGa.gj DaNa.gj DaBa.gj DaVa.gj ];
+@matraI2 = [ Na.gj NaRa.gj NaNa.gj DaRa.gj DaGa.gj DaNa.gj DaBa.gj DaVa.gj
+];
 
-@matraI3 = [ Ga.gj GaNa.gj GaRa.gj Gha.gj GhaNa.gj GhaRa.gj Ca.gj CaRa.gj CaNa.gj Cha.gj Tha.gj ThaRa.gj Dha.gj DhaRa.gj DhaNa.gj Ya.gj YaRa.gj Lla.gj LlaRa.gj DaYa.gj TaNa.gj TaTa.gj ];
+@matraI3 = [ Ga.gj GaNa.gj GaRa.gj Gha.gj GhaNa.gj GhaRa.gj Ca.gj CaRa.gj CaNa.gj Cha.gj Tha.gj ThaRa.gj Dha.gj DhaRa.gj DhaNa.gj Ya.gj YaRa.gj Lla.gj LlaRa.gj DaYa.gj TaNa.gj TaTa.gj
+];
 
 @matraI4 = [ Jha.gj JhaRa.gj La.gj LaRa.gj Sha.gj SsaKa.gj SsaKaRa.gj SsaPha.gj TaKa.gj TaKaRa.gj TaPha.gj Nya.gj NyaRa.gj Sa.gj SaRa.gj NaKa.gj NaKaRa.gj NaDda.gj NaTta.gj NaPha.gj NaPhaRa.gj SsaTta.gj JaNya.gj PaDda.gj PaKa.gj PaPha.gj MaPha.gj MaKa.gj NaHa.gj DaMa.gj VaDda.gj NaDa.gj ThaNa.gj
- ];
+
+];
 
 @matraI5 = [ Kha.gj KhaRa.gj KhaNa.gj HaYa.gj SsaTtha.gj VaHa.gj Ba.gj BaRa.gj BaNa.gj Ja.gj MaDa.gj GaDda.gj MaHa.gj DaGha.gj DaDha.gj ShaRa.gj ShaNa.gj ShaVa.gj SaDda.gj SaKa.gj SaKaRa.gj SaPha.gj SaDa.gj KaSsa.gj PaTta.gj
- ];
 
-@matraI6 = [ Nna.gj NnaRa.gj HaMa.gj GaDa.gj Bha.gj BhaRa.gj BhaNa.gj ShaDda.gj LaKa.gj LaPha.gj LaPhaRa.gj SaTta.gj LaTta.gj LaDda.gj LaDa.gj ];
+];
 
-@matraI7 = [ BaDa.gj ShaPha.gj ShaKa.gj BaDda.gj LaHa.gj KaSsaTta.gj LaTtha.gj TaPa.gj TaPaRa.gj PaPa.gj KaKaRa.gj KaKa.gj KaPha.gj PhaPha.gj NaPaRa.gj NaPa.gj NaVa.gj TaMa.gj NaMa.gj TaVa.gj NaDaVa.gj ShaHa.gj KaDa.gj KaDda.gj SsaPaRa.gj SsaPa.gj ShaTta.gj NaDaRa.gj PaMa.gj SsaMa.gj PaTa.gj MaTa.gj MaMa.gj DaBha.gj MaPa.gj MaPaRa.gj NaTa.gj ];
+@matraI6 = [ Nna.gj NnaRa.gj HaMa.gj GaDa.gj Bha.gj BhaRa.gj BhaNa.gj ShaDda.gj LaKa.gj LaPha.gj LaPhaRa.gj SaTta.gj LaTta.gj LaDda.gj LaDa.gj
+];
 
-@matraI8 = [ SsaVa.gj BaHa.gj SsaSsa.gj DhaVa.gj GhaVa.gj PaYa.gj NaCha.gj YaVa.gj CaVa.gj NaCa.gj NaYa.gj TaYa.gj PaVa.gj MaVa.gj KaTta.gj PhaTta.gj LaDaRa.gj NnaTta.gj KaTtha.gj PaCa.gj NaDha.gj NaDhaRa.gj TaTaVa.gj NaTaRa.gj GhaMa.gj DhaMa.gj VaVa.gj ];
+@matraI7 = [ BaDa.gj ShaPha.gj ShaKa.gj BaDda.gj LaHa.gj KaSsaTta.gj LaTtha.gj TaPa.gj TaPaRa.gj PaPa.gj KaKaRa.gj KaKa.gj KaPha.gj PhaPha.gj NaPaRa.gj NaPa.gj NaVa.gj TaMa.gj NaMa.gj TaVa.gj NaDaVa.gj ShaHa.gj KaDa.gj KaDda.gj SsaPaRa.gj SsaPa.gj ShaTta.gj NaDaRa.gj PaMa.gj SsaMa.gj PaTa.gj MaTa.gj MaMa.gj DaBha.gj MaPa.gj MaPaRa.gj NaTa.gj
+];
 
-@matraI9 = [ PaCha.gj NnaDda.gj NnaHa.gj NnaDdha.gj NnaTtha.gj VaYa.gj PaTha.gj SsaYa.gj ThaVa.gj NaTha.gj MaYa.gj CaChaVa.gj DhaYa.gj JaDda.gj GaVa.gj TaRaYa.gj TaLa.gj SaTa.gj SaVa.gj PaSa.gj LaTa.gj CaCa.gj NaSa.gj CaMa.gj NaGa.gj LaMa.gj GaMa.gj SaMa.gj SaPa.gj SaPaRa.gj LaPa.gj SaNa.gj DhaNaYa.gj TaTha.gj LaVa.gj VaLa.gj TaTha.gj CaYa.gj ];
+@matraI8 = [ SsaVa.gj BaHa.gj SsaSsa.gj DhaVa.gj GhaVa.gj PaYa.gj NaCha.gj YaVa.gj CaVa.gj NaCa.gj NaYa.gj TaYa.gj PaVa.gj MaVa.gj KaTta.gj PhaTta.gj LaDaRa.gj NnaTta.gj KaTtha.gj PaCa.gj NaDha.gj NaDhaRa.gj TaTaVa.gj NaTaRa.gj GhaMa.gj DhaMa.gj VaVa.gj
+];
 
-@matraI10 = [ YaYa.gj TaSa.gj ShaTa.gj DhaDha.gj GhaGha.gj GhaYa.gj CaCha.gj PaLa.gj GaYa.gj ThaYa.gj GaDha.gj GaGha.gj GaMa.gj NaJha.gj NaSha.gj GaRaYa.gj MaSa.gj KaNa.gj NyaYa.gj GaGa.gj MaLa.gj ShaMa.gj VaJha.gj TaTaYa.gj JaTta.gj ShaPa.gj PaSha.gj LaCa.gj SaCa.gj 
- ];
+@matraI9 = [ PaCha.gj NnaDda.gj NnaHa.gj NnaDdha.gj NnaTtha.gj VaYa.gj PaTha.gj SsaYa.gj ThaVa.gj NaTha.gj MaYa.gj CaChaVa.gj DhaYa.gj JaDda.gj GaVa.gj TaRaYa.gj TaLa.gj SaTa.gj SaVa.gj PaSa.gj LaTa.gj CaCa.gj NaSa.gj CaMa.gj NaGa.gj LaMa.gj GaMa.gj SaMa.gj SaPa.gj SaPaRa.gj LaPa.gj SaNa.gj DhaNaYa.gj TaTha.gj LaVa.gj VaLa.gj TaTha.gj CaYa.gj
+];
+
+@matraI10 = [ YaYa.gj TaSa.gj ShaTa.gj DhaDha.gj GhaGha.gj GhaYa.gj CaCha.gj PaLa.gj GaYa.gj ThaYa.gj GaDha.gj GaGha.gj GaMa.gj NaJha.gj NaSha.gj GaRaYa.gj MaSa.gj KaNa.gj NyaYa.gj GaGa.gj MaLa.gj ShaMa.gj VaJha.gj TaTaYa.gj JaTta.gj ShaPa.gj PaSha.gj LaCa.gj SaCa.gj
+
+];
 
 @matraI11 = [ SaTaRa.gj ThaTha.gj PaKha.gj KaSsaVa.gj NyaCha.gj BaTa.gj KhaTa.gj BaVa.gj KaTaRa.gj KhaVa.gj KaVa.gj LaTha.gj ShaYa.gj LaYa.gj KaTa.gj SaYa.gj ShaCha.gj SaTha.gj GaJha.gj NyaCa.gj MaSha.gj MaBa.gj MaBaRa.gj TaKha.gj TaKhaNa.gj TaKhaRa.gj KhaMa.gj GaLa.gj GaSa.gj SaSa.gj BaDha.gj SsaKha.gj KaPa.gj KaPaRa.gj YaJha.gj PhaTa.gj NaBha.gj LaSa.gj KaMa.gj LaGa.gj KaSsaMa.gj DaDaYa.gj ShaCa.gj SaLa.gj TaKaSsa.gj
- ];
 
-@matraI12 = [ BaYa.gj LlaYa.gj ShaRaYa.gj NnaVa.gj KhaYa.gj KaSsaYa.gj NyaJha.gj BhaVa.gj KaTha.gj PhaTha.gj DdaDdaYa.gj DdaYa.gj DaRaYa.gj DaVaYa.gj KaCha.gj TtaYa.gj TtaRaYa.gj TtaTtaYa.gj KaCa.gj NnaNa.gj SsaNna.gj KaTha.gj PhaTha.gj VaBha.gj ShaLa.gj TthaTthaYa.gj TthaYa.gj NnaMa.gj MaBha.gj NaSaKaRa.gj NaSaKa.gj NyaSha.gj LaLa.gj MaNna.gj NaSaTta.gj LaSha.gj LaVaDa.gj KaLa.gj PhaLa.gj KaYa.gj PhaYa.gj ];
+];
 
-@matraI13 = [ JaVa.gj BaJha.gj BhaYa.gj BhaRaYa.gj DdhaYa.gj GaBa.gj ShaSha.gj NnaYa.gj KhaJha.gj BaLa.gj KhaSa.gj BaSa.gj LaBa.gj KaJha.gj GaBha.gj KaSa.gj PhaSa.gj KhaSha.gj SaKha.gj JaTa.gj GaNna.gj JaMa.gj SaBa.gj KaSha.gj PhaSha.gj LaKha.gj JaNa.gj HaMaYa.gj TaNaYa.gj ];
+@matraI12 = [ BaYa.gj LlaYa.gj ShaRaYa.gj NnaVa.gj KhaYa.gj KaSsaYa.gj NyaJha.gj BhaVa.gj KaTha.gj PhaTha.gj DdaDdaYa.gj DdaYa.gj DaRaYa.gj DaVaYa.gj KaCha.gj TtaYa.gj TtaRaYa.gj TtaTtaYa.gj KaCa.gj NnaNa.gj SsaNna.gj KaTha.gj PhaTha.gj VaBha.gj ShaLa.gj TthaTthaYa.gj TthaYa.gj NnaMa.gj MaBha.gj NaSaKaRa.gj NaSaKa.gj NyaSha.gj LaLa.gj MaNna.gj NaSaTta.gj LaSha.gj LaVaDa.gj KaLa.gj PhaLa.gj KaYa.gj PhaYa.gj
+];
 
-@matraI14 = [ ShaKha.gj BaSha.gj TaMaYa.gj NaTaYa.gj ShaBha.gj BhaLa.gj LaBha.gj NaNaYa.gj ];
+@matraI13 = [ JaVa.gj BaJha.gj BhaYa.gj BhaRaYa.gj DdhaYa.gj GaBa.gj ShaSha.gj NnaYa.gj KhaJha.gj BaLa.gj KhaSa.gj BaSa.gj LaBa.gj KaJha.gj GaBha.gj KaSa.gj PhaSa.gj KhaSha.gj SaKha.gj JaTa.gj GaNna.gj JaMa.gj SaBa.gj KaSha.gj PhaSha.gj LaKha.gj JaNa.gj HaMaYa.gj TaNaYa.gj
+];
 
-@matraI15 = [ JaYa.gj NaDhaYa.gj KaKha.gj KhaKha.gj KaSsaNna.gj NaDhaVa.gj SsaMaYa.gj NaMaYa.gj BaBa.gj TaPaLa.gj BaBha.gj KaSaDda.gj KaNna.gj JhaYa.gj NaThaVa.gj PaTaYa.gj ];
+@matraI14 = [ ShaKha.gj BaSha.gj TaMaYa.gj NaTaYa.gj ShaBha.gj BhaLa.gj LaBha.gj NaNaYa.gj
+];
 
-@matraI16 = [ NaTaSa.gj ChaYa.gj ChaRaYa.gj BaSaKa.gj TaKaVa.gj MaPaYa.gj NaSaTa.gj JaJha.gj BaSaTta.gj KaSaTta.gj BhaBha.gj TaSaMa.gj NaTaRaYa.gj TaSaNa.gj NnaNna.gj JaBa.gj GaDhaVa.gj SaTaYa.gj ];
+@matraI15 = [ JaYa.gj NaDhaYa.gj KaKha.gj KhaKha.gj KaSsaNna.gj NaDhaVa.gj SsaMaYa.gj NaMaYa.gj BaBa.gj TaPaLa.gj BaBha.gj KaSaDda.gj KaNna.gj JhaYa.gj NaThaVa.gj PaTaYa.gj
+];
 
-@matraI17 = [ KaTaVa.gj NaSaYa.gj GaDhaYa.gj TaSaYa.gj TaSaVa.gj NaThaYa.gj LaPaYa.gj ];
+@matraI16 = [ NaTaSa.gj ChaYa.gj ChaRaYa.gj BaSaKa.gj TaKaVa.gj MaPaYa.gj NaSaTa.gj JaJha.gj BaSaTta.gj KaSaTta.gj BhaBha.gj TaSaMa.gj NaTaRaYa.gj TaSaNa.gj NnaNna.gj JaBa.gj GaDhaVa.gj SaTaYa.gj
+];
+
+@matraI17 = [ KaTaVa.gj NaSaYa.gj GaDhaYa.gj TaSaYa.gj TaSaVa.gj NaThaYa.gj LaPaYa.gj
+];
 
 @matraI18 = [ KaTaYa.gj DaBhaYa.gj BaDhaVa.gj NaBhaVa.gj TaKaYa.gj MaPhaLa.gj
- ];
 
-@matraI19 = [ SsaTtaYa.gj SaKaVa.gj KaVaYa.gj SaThaYa.gj NaKaSa.gj NaBhaYa.gj MaBaYa.gj TaKaLa.gj SsaTthaYa.gj KaSaPaRa.gj LaLaYa.gj KaSaTa.gj ];
+];
 
-@matraI20 = [ SsaNnaYa.gj BaLaYa.gj KaLaYa.gj LaKaYa.gj ];
+@matraI19 = [ SsaTtaYa.gj SaKaVa.gj KaVaYa.gj SaThaYa.gj NaKaSa.gj NaBhaYa.gj MaBaYa.gj TaKaLa.gj SsaTthaYa.gj KaSaPaRa.gj LaLaYa.gj KaSaTa.gj
+];
 
-@matraI21 = [ NaSaMaYa.gj ];
+@matraI20 = [ SsaNnaYa.gj BaLaYa.gj KaLaYa.gj LaKaYa.gj
+];
 
-@matraI22 = [ BaJaYa.gj ];
+@matraI21 = [ NaSaMaYa.gj
+];
 
-@matraI23 = [ JaJaVa.gj JaJaYa.gj ];
+@matraI22 = [ BaJaYa.gj
+];
 
-@matraI24 = [ NaPhaLaYa.gj KaSaPaLa.gj ];
+@matraI23 = [ JaJaVa.gj JaJaYa.gj
+];
 
-@matraAboveBasealt = [ Ka.gj Nga.gj Tta.gj Ttha.gj Dda.gj Ddha.gj Da.gj Pha.gj Ra.gj Ha.gj KaRa.gj PhaRa.gj HaRa.gj NgaKa.gj NgaGa.gj NgaMa.gj NgaYa.gj TtaTta.gj TtaTtha.gj TtaVa.gj TthaTtha.gj DdaGa.gj DdaDda.gj DdaDdha.gj DdaNa.gj DdaVa.gj DdhaDdha.gj HaNna.gj HaNa.gj HaLa.gj HaVa.gj ];
+@matraI24 = [ NaPhaLaYa.gj KaSaPaLa.gj
+];
+
+@matraAboveBasealt = [ Ka.gj Nga.gj Tta.gj Ttha.gj Dda.gj Ddha.gj Da.gj Pha.gj Ra.gj Ha.gj KaRa.gj PhaRa.gj HaRa.gj NgaKa.gj NgaGa.gj NgaMa.gj NgaYa.gj TtaTta.gj TtaTtha.gj TtaVa.gj TthaTtha.gj DdaGa.gj DdaDda.gj DdaDdha.gj DdaNa.gj DdaVa.gj DdhaDdha.gj HaNna.gj HaNa.gj HaLa.gj HaVa.gj
+];
 
 # Prefix: Languagesystems
 languagesystem DFLT dflt;

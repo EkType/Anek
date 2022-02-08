@@ -1,11 +1,15 @@
 # automatic
-@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z OE Agrave Aacute Acircumflex Atilde Aring Adieresis AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Germandbls ];
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z OE Agrave Aacute Acircumflex Atilde Aring Adieresis AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Germandbls
+];
 
-@figures = [ zero one two three four five six seven eight nine ];
+@figures = [ zero one two three four five six seven eight nine
+];
 
-@figures_denominator = [ zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom ];
+@figures_denominator = [ zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom
+];
 
-@figures_numerator = [ zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr ];
+@figures_numerator = [ zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
+];
 
 # Prefix: Languagesystems
 languagesystem DFLT dflt;
@@ -525,8 +529,9 @@ feature haln {
 } haln;
 
 feature ss01 {
-# notes:
-# Name: Name:
+featureNames {
+  name "Name:";
+};
 #Traditional Aa and Ai Forms
 featureNames { name "Traditional Forms"; };
 
@@ -548,8 +553,9 @@ featureNames { name "Traditional Forms"; };
 } ss01;
 
 feature ss02 {
-# notes:
-# Name: Name:
+featureNames {
+  name "Name:";
+};
 #MatraI Fly forms
 featureNames { name "Fly MatraI"; };
 

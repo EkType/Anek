@@ -2,10 +2,6 @@
 <glyph name="VowelU.gj" format="2">
   <advance width="1748"/>
   <unicode hex="0A89"/>
-  <guideline x="-14" y="2167" angle="270"/>
-  <guideline x="1046" y="1867" angle="90"/>
-  <guideline x="1402" y="1722" angle="0"/>
-  <guideline x="1233" y="1770" angle="0"/>
   <anchor x="1046" y="1767" name="Top2"/>
   <outline>
     <contour>
@@ -85,22 +81,6 @@
       <string>gujarati</string>
       <key>com.schriftgestaltung.Glyphs.subCategory</key>
       <string>Other</string>
-      <key>com.schriftgestaltung.annotations</key>
-      <array>
-        <dict>
-          <key>position</key>
-          <array>
-            <integer>164</integer>
-            <integer>1061</integer>
-          </array>
-          <key>text</key>
-          <string>Not Very happy with this</string>
-          <key>type</key>
-          <string>Text</string>
-          <key>width</key>
-          <integer>78</integer>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

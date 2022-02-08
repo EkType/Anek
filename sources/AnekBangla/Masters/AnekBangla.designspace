@@ -1,7 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.1">
   <axes>
-    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="500"/>
+    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="500">
+      <map input="100" output="100"/>
+      <map input="200" output="206"/>
+      <map input="300" output="312"/>
+      <map input="400" output="414"/>
+      <map input="500" output="500"/>
+      <map input="600" output="615"/>
+      <map input="700" output="709"/>
+      <map input="800" output="800"/>
+    </axis>
     <axis tag="wdth" name="Width" minimum="75" maximum="125" default="100"/>
   </axes>
   <sources>
@@ -73,9 +82,49 @@
       <kerning/>
       <info/>
     </instance>
+    <instance name="Anek Bangla Condensed ExtraLight" familyname="Anek Bangla" stylename="Condensed ExtraLight" filename="../instance_ufo/AnekBangla-CondensedExtraLight.ufo" stylemapfamilyname="Anek Bangla Condensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Condensed Light" familyname="Anek Bangla" stylename="Condensed Light" filename="../instance_ufo/AnekBangla-CondensedLight.ufo" stylemapfamilyname="Anek Bangla Condensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Condensed" familyname="Anek Bangla" stylename="Condensed" filename="../instance_ufo/AnekBangla-Condensed.ufo" stylemapfamilyname="Anek Bangla Condensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
     <instance name="Anek Bangla Condensed Medium" familyname="Anek Bangla" stylename="Condensed Medium" filename="../instance_ufo/AnekBangla-CondensedMedium.ufo" stylemapfamilyname="Anek Bangla Condensed Medium" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Condensed SemiBold" familyname="Anek Bangla" stylename="Condensed SemiBold" filename="../instance_ufo/AnekBangla-CondensedSemiBold.ufo" stylemapfamilyname="Anek Bangla Condensed SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="75"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Condensed Bold" familyname="Anek Bangla" stylename="Condensed Bold" filename="../instance_ufo/AnekBangla-CondensedBold.ufo" stylemapfamilyname="Anek Bangla Condensed Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
         <dimension name="Width" xvalue="75"/>
       </location>
       <kerning/>
@@ -89,9 +138,97 @@
       <kerning/>
       <info/>
     </instance>
+    <instance name="Anek Bangla SemiCondensed Thin" familyname="Anek Bangla" stylename="SemiCondensed Thin" filename="../instance_ufo/AnekBangla-SemiCondensedThin.ufo" stylemapfamilyname="Anek Bangla SemiCondensed Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed ExtraLight" familyname="Anek Bangla" stylename="SemiCondensed ExtraLight" filename="../instance_ufo/AnekBangla-SemiCondensedExtraLight.ufo" stylemapfamilyname="Anek Bangla SemiCondensed ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed Light" familyname="Anek Bangla" stylename="SemiCondensed Light" filename="../instance_ufo/AnekBangla-SemiCondensedLight.ufo" stylemapfamilyname="Anek Bangla SemiCondensed Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed" familyname="Anek Bangla" stylename="SemiCondensed" filename="../instance_ufo/AnekBangla-SemiCondensed.ufo" stylemapfamilyname="Anek Bangla SemiCondensed" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed Medium" familyname="Anek Bangla" stylename="SemiCondensed Medium" filename="../instance_ufo/AnekBangla-SemiCondensedMedium.ufo" stylemapfamilyname="Anek Bangla SemiCondensed Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed SemiBold" familyname="Anek Bangla" stylename="SemiCondensed SemiBold" filename="../instance_ufo/AnekBangla-SemiCondensedSemiBold.ufo" stylemapfamilyname="Anek Bangla SemiCondensed Regular" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed Bold" familyname="Anek Bangla" stylename="SemiCondensed Bold" filename="../instance_ufo/AnekBangla-SemiCondensedBold.ufo" stylemapfamilyname="Anek Bangla SemiCondensed Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiCondensed ExtraBold" familyname="Anek Bangla" stylename="SemiCondensed ExtraBold" filename="../instance_ufo/AnekBangla-SemiCondensedExtraBold.ufo" stylemapfamilyname="Anek Bangla SemiCondensed ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="87.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
     <instance name="Anek Bangla Thin" familyname="Anek Bangla" stylename="Thin" filename="../instance_ufo/AnekBangla-Thin.ufo" stylemapfamilyname="Anek Bangla Thin" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla ExtraLight" familyname="Anek Bangla" stylename="ExtraLight" filename="../instance_ufo/AnekBangla-ExtraLight.ufo" stylemapfamilyname="Anek Bangla ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Light" familyname="Anek Bangla" stylename="Light" filename="../instance_ufo/AnekBangla-Light.ufo" stylemapfamilyname="Anek Bangla Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Regular" familyname="Anek Bangla" stylename="Regular" filename="../instance_ufo/AnekBangla-Regular.ufo" stylemapfamilyname="Anek Bangla" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
         <dimension name="Width" xvalue="100"/>
       </location>
       <kerning/>
@@ -105,10 +242,90 @@
       <kerning/>
       <info/>
     </instance>
+    <instance name="Anek Bangla SemiBold" familyname="Anek Bangla" stylename="SemiBold" filename="../instance_ufo/AnekBangla-SemiBold.ufo" stylemapfamilyname="Anek Bangla SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Bold" familyname="Anek Bangla" stylename="Bold" filename="../instance_ufo/AnekBangla-Bold.ufo" stylemapfamilyname="Anek Bangla" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
     <instance name="Anek Bangla ExtraBold" familyname="Anek Bangla" stylename="ExtraBold" filename="../instance_ufo/AnekBangla-ExtraBold.ufo" stylemapfamilyname="Anek Bangla ExtraBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="800"/>
         <dimension name="Width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded Thin" familyname="Anek Bangla" stylename="SemiExpanded Thin" filename="../instance_ufo/AnekBangla-SemiExpandedThin.ufo" stylemapfamilyname="Anek Bangla SemiExpanded Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded ExtraLight" familyname="Anek Bangla" stylename="SemiExpanded ExtraLight" filename="../instance_ufo/AnekBangla-SemiExpandedExtraLight.ufo" stylemapfamilyname="Anek Bangla SemiExpanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded Light" familyname="Anek Bangla" stylename="SemiExpanded Light" filename="../instance_ufo/AnekBangla-SemiExpandedLight.ufo" stylemapfamilyname="Anek Bangla SemiExpanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded" familyname="Anek Bangla" stylename="SemiExpanded" filename="../instance_ufo/AnekBangla-SemiExpanded.ufo" stylemapfamilyname="Anek Bangla SemiExpanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded Medium" familyname="Anek Bangla" stylename="SemiExpanded Medium" filename="../instance_ufo/AnekBangla-SemiExpandedMedium.ufo" stylemapfamilyname="Anek Bangla SemiExpanded Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded SemiBold" familyname="Anek Bangla" stylename="SemiExpanded SemiBold" filename="../instance_ufo/AnekBangla-SemiExpandedSemiBold.ufo" stylemapfamilyname="Anek Bangla SemiExpanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded Bold" familyname="Anek Bangla" stylename="SemiExpanded Bold" filename="../instance_ufo/AnekBangla-SemiExpandedBold.ufo" stylemapfamilyname="Anek Bangla SemiExpanded Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
+        <dimension name="Width" xvalue="112.500000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla SemiExpanded ExtraBold" familyname="Anek Bangla" stylename="SemiExpanded ExtraBold" filename="../instance_ufo/AnekBangla-SemiExpandedExtraBold.ufo" stylemapfamilyname="Anek Bangla SemiExpanded ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Width" xvalue="112.500000"/>
       </location>
       <kerning/>
       <info/>
@@ -121,9 +338,49 @@
       <kerning/>
       <info/>
     </instance>
+    <instance name="Anek Bangla Expanded ExtraLight" familyname="Anek Bangla" stylename="Expanded ExtraLight" filename="../instance_ufo/AnekBangla-ExpandedExtraLight.ufo" stylemapfamilyname="Anek Bangla Expanded ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Expanded Light" familyname="Anek Bangla" stylename="Expanded Light" filename="../instance_ufo/AnekBangla-ExpandedLight.ufo" stylemapfamilyname="Anek Bangla Expanded Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="312"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Expanded" familyname="Anek Bangla" stylename="Expanded" filename="../instance_ufo/AnekBangla-Expanded.ufo" stylemapfamilyname="Anek Bangla Expanded" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="414"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
     <instance name="Anek Bangla Expanded Medium" familyname="Anek Bangla" stylename="Expanded Medium" filename="../instance_ufo/AnekBangla-ExpandedMedium.ufo" stylemapfamilyname="Anek Bangla Expanded Medium" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="500"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Expanded SemiBold" familyname="Anek Bangla" stylename="Expanded SemiBold" filename="../instance_ufo/AnekBangla-ExpandedSemiBold.ufo" stylemapfamilyname="Anek Bangla Expanded SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="615"/>
+        <dimension name="Width" xvalue="125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Anek Bangla Expanded Bold" familyname="Anek Bangla" stylename="Expanded Bold" filename="../instance_ufo/AnekBangla-ExpandedBold.ufo" stylemapfamilyname="Anek Bangla Expanded Regular" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="709"/>
         <dimension name="Width" xvalue="125"/>
       </location>
       <kerning/>
@@ -364,27 +621,4 @@
       </array>
     </dict>
   </lib>
-  <rules>
-  <rule>
-   <!-- Bangla Width Variation -->
-   <sub with="VowelLru_Alt.bn" name="VowelLru.bn"/>
-   <sub with="VowelLruu_Alt.bn" name="VowelLruu.bn"/>
-   <sub with="SignLru_Alt.bn" name="SignLru.bn"/>
-   <sub with="SignLruu_Alt.bn" name="SignLruu.bn"/>
-   <sub with="Nine_Alt.bn" name="Nine.bn"/>
-   <conditionset>
-     <condition name="Weight" maximum="800" minimum="100"/>
-     <condition name="Width" maximum="125" minimum="100"/>
-   </conditionset>
-  </rule>
-  <rule>
-   <!-- Latin Lighter Variants -->
-   <sub with="question_alt" name="question"/>
-   <conditionset>
-    <condition name="Weight" maximum="450" minimum="100"/>
-    <condition name="Width" maximum="125" minimum="75"/>
-   </conditionset>
-  </rule>
-  </rules>
 </designspace>
- 

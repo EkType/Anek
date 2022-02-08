@@ -2,25 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>com.schriftgestaltung.appVersion</key>
-    <string>3091</string>
-    <key>com.schriftgestaltung.customName</key>
-    <string>Expanded Thin</string>
-    <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
+    <key>com.github.googlei18n.ufo2ft.filters</key>
     <array>
       <dict>
-        <key>Name</key>
-        <string>Weight</string>
-        <key>Tag</key>
-        <string>wght</string>
-      </dict>
-      <dict>
-        <key>Name</key>
-        <string>Width</string>
-        <key>Tag</key>
-        <string>wdth</string>
+        <key>name</key>
+        <string>eraseOpenCorners</string>
+        <key>namespace</key>
+        <string>glyphsLib.filters</string>
+        <key>pre</key>
+        <true/>
       </dict>
     </array>
+    <key>com.schriftgestaltung.appVersion</key>
+    <string>1352</string>
+    <key>com.schriftgestaltung.customName</key>
+    <string>Expanded Thin</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Enforce Compatibility Check</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Feature for Feature Variations</key>

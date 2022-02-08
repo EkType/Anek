@@ -2,11 +2,6 @@
 <glyph name="Dda.gj" format="2">
   <advance width="717"/>
   <unicode hex="0AA1"/>
-  <guideline x="33" y="1630" angle="90"/>
-  <guideline x="2340" y="3457" angle="90"/>
-  <guideline x="2558" y="3457" angle="90"/>
-  <guideline x="2115" y="3650" angle="94.0856"/>
-  <guideline x="367" y="149" angle="90"/>
   <anchor x="367" y="-59" name="Bottom"/>
   <anchor x="437" y="1290" name="Top"/>
   <anchor x="351" y="1290" name="Top2"/>
@@ -66,22 +61,6 @@
       <string>gujarati</string>
       <key>com.schriftgestaltung.Glyphs.subCategory</key>
       <string>Other</string>
-      <key>com.schriftgestaltung.annotations</key>
-      <array>
-        <dict>
-          <key>position</key>
-          <array>
-            <real>330.463</real>
-            <real>1451.963</real>
-          </array>
-          <key>text</key>
-          <string>Check bearings in this weight</string>
-          <key>type</key>
-          <string>Text</string>
-          <key>width</key>
-          <integer>100</integer>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>
