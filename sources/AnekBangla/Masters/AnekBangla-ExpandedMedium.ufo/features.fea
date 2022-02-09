@@ -11,7 +11,7 @@
 @figures_numerator = [ zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
 ];
 
-@RAKAR_U_UU = [ Ra.bn Ra.as JaRa.bn SaRa.bn ShaRa.bn BhaRa.bn BaRa.bn PaRa.bn DhaRa.bn DaRa.bn ThaRa.bn TaRa.bn GaRa.bn NaDaRa.bn MaPaRa.bn DaDaRa.bn BaDaRa.bn SaPaRa.bn GaLa.bn PaLa.bn BaLa.bn ShaLa.bn SaLa.bn SaPaLa.bn SsaPaRa.bn WaRa.as 
+@RAKAR_U_UU = [ Ra.bn Ra.as JaRa.bn SaRa.bn ShaRa.bn BhaRa.bn BaRa.bn PaRa.bn DhaRa.bn DaRa.bn ThaRa.bn TaRa.bn GaRa.bn NaDaRa.bn MaPaRa.bn DaDaRa.bn BaDaRa.bn SaPaRa.bn GaLa.bn PaLa.bn BaLa.bn ShaLa.bn SaLa.bn SaPaLa.bn SsaPaRa.bn WaRa.as
 KhaRa.bn GhaRa.bn MaRa.bn
 ];
 
@@ -36,7 +36,7 @@ KhaRa.bn GhaRa.bn MaRa.bn
 @BELOWBASE_alt2 = [ Da.bn GaDa.bn DaDa.bn NaDa.bn BaDa.bn MaDa.bn LaDa.bn NgaGa.bn 
 ];
 
-@BELOWBASE_alt3 = [ Dda.bn Nga.bn Ca.bn Cha.bn Tta.bn Ttha.bn Ddha.bn Ta.bn Bha.bn 
+@BELOWBASE_alt3 = [ Dda.bn Nga.bn Ca.bn Cha.bn Tta.bn Ttha.bn Ddha.bn Ta.bn Bha.bn
 DdaDda.bn NnaDda.bn NaDda.bn BaDda.bn LaDda.bn 
 JaNya.bn 
 CaCa.bn ShaCa.bn CaCha.bn NyaCha.bn ShaCha.bn 
@@ -50,13 +50,13 @@ Rra_for_ukar.bn Rha_for_ukar.bn MaTa.bn DaBha.bn BaBha.bn MaBha.bn
 
 ];
 
-@BELOWBASE_alt4 = [ KaLa.bn TaLa.bn PhaLa.bn BaLa.bn BhaLa.bn MaLa.bn SaLa.bn HaLa.bn 
+@BELOWBASE_alt4 = [ KaLa.bn TaLa.bn PhaLa.bn BaLa.bn BhaLa.bn MaLa.bn SaLa.bn HaLa.bn
 KaNa.bn GhaNa.bn TaNa.bn DhaNa.bn MaNa.bn SaNa.bn KaSsaNna.bn CaNa.bn DaNa.bn  
 GaNa.bn NnaNa.bn PaNa.bn ShaNa.bn HaNna.bn
 
 ];
 
-@BELOWBASE_alt5 = [ Ga.bn Nna.bn Na.bn Pa.bn Ma.bn La.bn Sha.bn Sa.bn 
+@BELOWBASE_alt5 = [ Ga.bn Nna.bn Na.bn Pa.bn Ma.bn La.bn Sha.bn Sa.bn
 GaGa.bn GaNna.bn 
 DdaGa.bn 
 DaGa.bn LaGa.bn RraGa.bn NnaNna.bn NaNa.bn 
@@ -71,7 +71,7 @@ KaMa.bn KaSsaMa.bn GaMa.bn NgaMa.bn DdaMa.bn TtaMa.bn NnaMa.bn TaMa.bn DaMa.bn D
 @All_I = [ Ka.bn Kha.bn Ga.bn Gha.bn Nga.bn Ca.bn Cha.bn Ja.bn Jha.bn Nya.bn Dda.bn Ddha.bn Nna.bn Ta.bn Tha.bn Da.bn Dha.bn Na.bn Pa.bn Pha.bn Ba.bn Bha.bn Ma.bn Ya.bn Ra.bn La.bn Sha.bn Ssa.bn Sa.bn Ha.bn Rra.bn Rha.bn Yya.bn Ra.as Wa.as KaKa.bn KaTa.bn KaTaRa.bn KaTaBa.bn KaNa.bn KaMa.bn KaRa.bn KaLa.bn KaBa.bn KaSsa.bn KaSsaNna.bn KaSsaMa.bn KaSsaRa.bn KaSsaBa.bn KaSa.bn KhaRa.bn KhaBa.bn GaGa.bn GaNna.bn GaDa.bn GaDha.bn GaDhaBa.bn GaDhaRa.bn GaNa.bn GaMa.bn GaRa.bn GaLa.bn GaBa.bn GhaNa.bn GhaRa.bn GhaBa.bn NgaKa.bn NgaKaRa.bn NgaKaSsa.bn NgaKaSsaRa.bn NgaKha.bn NgaGa.bn NgaGha.bn NgaGhaRa.bn NgaMa.bn NgaRa.bn CaCa.bn CaCha.bn CaChaRa.bn CaChaBa.bn CaNya.bn CaNa.bn CaRa.bn CaBa.bn ChaRa.bn ChaBa.bn JaJa.bn JaJaBa.bn JaJha.bn JaNya.bn JaRa.bn JaBa.bn JhaRa.bn NyaCa.bn NyaCaBa.bn NyaCha.bn NyaJa.bn NyaJha.bn DdaGa.bn DdaDda.bn DdaMa.bn DdaRa.bn DdaBa.bn DdhaRa.bn NnaDda.bn NnaDdaRa.bn NnaDdha.bn NnaDdhaRa.bn NnaNna.bn NnaNa.bn NnaMa.bn NnaRa.bn NnaBa.bn TaTa.bn TaTaRa.bn TaTaBa.bn TaTha.bn TaNa.bn TaMa.bn TaRa.bn TaLa.bn TaBa.bn ThaRa.bn ThaBa.bn DaGa.bn DaGha.bn DaDa.bn DaDaRa.bn DaDaBa.bn DaDha.bn DaDhaBa.bn DaNa.bn DaBha.bn DaBhaRa.bn DaMa.bn DaRa.bn DaBa.bn DhaNa.bn DhaMa.bn DhaRa.bn DhaBa.bn NaDda.bn NaDdaRa.bn NaTa.bn NaTaRa.bn NaTaBa.bn NaTha.bn NaThaRa.bn NaDa.bn NaDaRa.bn NaDaBa.bn NaDha.bn NaDhaBa.bn NaDhaRa.bn NaNa.bn NaMa.bn NaRa.bn NaBa.bn NaSa.bn PaTa.bn PaTaRa.bn PaNa.bn PaPa.bn PaMa.bn PaRa.bn PaLa.bn PaSa.bn PhaRa.bn PhaLa.bn BaJa.bn BaJha.bn BaDda.bn BaDdha.bn BaDa.bn BaDaRa.bn BaDha.bn BaBa.bn BaBha.bn BaRa.bn BaLa.bn BhaRa.bn BhaLa.bn MaTa.bn MaDa.bn MaNa.bn MaPa.bn MaPaRa.bn MaPha.bn MaPhaRa.bn MaBa.bn MaBaRa.bn MaBha.bn MaBhaRa.bn MaMa.bn MaRa.bn MaLa.bn YaRa.bn LaKa.bn LaGa.bn LaGha.bn LaDda.bn LaDdaRa.bn LaDdha.bn LaDa.bn LaDha.bn LaPa.bn LaPha.bn LaPhaRa.bn LaBa.bn LaMa.bn LaRa.bn LaLa.bn ShaCa.bn ShaCha.bn ShaTa.bn ShaNa.bn ShaMa.bn ShaBa.bn ShaRa.bn ShaLa.bn SsaKa.bn SsaKaRa.bn SsaNna.bn SsaPa.bn SsaPaRa.bn SsaPha.bn SsaRa.bn SsaBa.bn SsaMa.bn SaKa.bn SaKaRa.bn SaKha.bn SaTa.bn SaTaRa.bn SaTaBa.bn SaTha.bn SaNa.bn SaPa.bn SaPaRa.bn SaPaLa.bn SaPha.bn SaBa.bn SaMa.bn SaRa.bn SaLa.bn HaNna.bn HaNa.bn HaBa.bn HaMa.bn HaRa.bn HaLa.bn RraGa.bn RraRa.bn RhaRa.bn YyaRa.bn WaRa.as TthaRa.bn
 ];
 
-@CANDRABINDU_ALT_1 = [ VowelI.bn VowelIi.bn VowelU.bn VowelUu.bn VowelAi.bn VowelAu.bn Ttha.bn 
+@CANDRABINDU_ALT_1 = [ VowelI.bn VowelIi.bn VowelU.bn VowelUu.bn VowelAi.bn VowelAu.bn Ttha.bn
 SignAuMark.bn SignIi.bn 
 TtaSignIReph.bn TthaSignIReph.bn 
 SignI_reph.bn SignI_Tta_Ttha1_reph.bn SignI_Tta_Ttha2_reph.bn 

@@ -2,8 +2,6 @@
 <glyph name="Ga.gj" format="2">
   <advance width="1762"/>
   <unicode hex="0A97"/>
-  <guideline x="2909" y="1179" angle="90"/>
-  <guideline x="1407" y="1286" angle="0"/>
   <anchor x="1394" y="-69" name="Bottom"/>
   <anchor x="1374" y="1264" name="Top"/>
   <anchor x="1438" y="1264" name="Top2"/>
@@ -63,22 +61,6 @@
       <string>gujarati</string>
       <key>com.schriftgestaltung.Glyphs.subCategory</key>
       <string>Other</string>
-      <key>com.schriftgestaltung.annotations</key>
-      <array>
-        <dict>
-          <key>position</key>
-          <array>
-            <integer>188</integer>
-            <integer>802</integer>
-          </array>
-          <key>text</key>
-          <string>Not able to control regular/inbetween masters</string>
-          <key>type</key>
-          <string>Text</string>
-          <key>width</key>
-          <integer>100</integer>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,5 +1,8 @@
 {
-.appVersion = "3091";
+.appVersion = "1352";
+DisplayStrings = (
+"/numero"
+);
 classes = (
 {
 automatic = 1;
@@ -144488,7 +144491,7 @@ unicode = 2113;
 },
 {
 glyphname = numero;
-lastChange = "2021-12-01 12:49:26 +0000";
+lastChange = "2022-02-08 12:58:19 +0000";
 layers = (
 {
 components = (
@@ -144610,7 +144613,6 @@ width = 1509;
 components = (
 {
 name = N;
-transform = "{1.00032, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "825A4CEE-7199-41F6-ACE2-F406C7380F94";
@@ -144787,7 +144789,6 @@ components = (
 {
 alignment = -1;
 name = N;
-transform = "{1.00016, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "13EBB120-61C6-43BE-BE80-275AFBEF3308";
@@ -144847,7 +144848,6 @@ components = (
 {
 alignment = -1;
 name = N;
-transform = "{1.00016, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C57162E4-21E6-4CBA-854D-82A45BE477A0";
@@ -204757,5 +204757,5 @@ manufacturer = "Ek Type";
 manufacturerURL = www.ektype.in;
 unitsPerEm = 2000;
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }

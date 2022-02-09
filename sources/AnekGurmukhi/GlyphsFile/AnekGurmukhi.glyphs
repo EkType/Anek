@@ -1,5 +1,5 @@
 {
-.appVersion = "3108";
+.appVersion = "1352";
 DisplayStrings = (
 "/one.gm/two.gm/three.gm/four.gm/five.gm/six.gm/seven.gm/eight.gm/nine.gm"
 );
@@ -905,7 +905,7 @@ script gur2;
 name = akhn;
 },
 {
-code = "#Pairin forms of Ga, Ca, Tta, Ttha, Ta, Da, Na and Tha occur in rare cases in old manuscript texts. 
+code = "#Pairin forms of Ga, Ca, Tta, Ttha, Ta, Da, Na and Tha occur in rare cases in old manuscript texts.
 
 
 script gur2;
@@ -1020,7 +1020,7 @@ lookup blws1;
 name = blws;
 },
 {
-code = "script guru; 
+code = "script guru;
 lookup haln1 {
   sub Ka.gm Virama.gm by KaVirama.gm;
   sub Kha.gm Virama.gm by KhaVirama.gm;
@@ -199799,5 +199799,5 @@ oV = "38";
 };
 };
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }

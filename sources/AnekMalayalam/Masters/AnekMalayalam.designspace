@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis maximum="800" tag="wght" name="weight" minimum="100" default="500">
+  <axis maximum="800" minimum="100" default="500" name="weight" tag="wght">
    <labelname xml:lang="en">Weight</labelname>
    <map output="100" input="100"/>
    <map output="206" input="200"/>
@@ -12,7 +12,7 @@
    <map output="709" input="700"/>
    <map output="800" input="800"/>
   </axis>
-  <axis maximum="125" tag="wdth" name="width" minimum="75" default="100">
+  <axis maximum="125" minimum="75" default="100" name="width" tag="wdth">
    <labelname xml:lang="en">Width</labelname>
    <map output="75" input="75"/>
    <map output="87.5" input="87.5"/>
@@ -22,304 +22,304 @@
   </axis>
  </axes>
  <sources>
-  <source stylename="Extra Bold Condensed" name="CondensedExtraBold" familyname="Anek Malayalam" filename="AnekMalayalam-CondensedExtraBold.ufo">
+  <source filename="AnekMalayalam-CondensedExtraBold.ufo" stylename="Extra Bold Condensed" familyname="Anek Malayalam" name="CondensedExtraBold">
    <location>
-    <dimension name="weight" xvalue="800"/>
-    <dimension name="width" xvalue="75"/>
+    <dimension xvalue="800" name="weight"/>
+    <dimension xvalue="75" name="width"/>
    </location>
   </source>
-  <source stylename="Medium Condensed" name="CondensedMedium" familyname="Anek Malayalam" filename="AnekMalayalam-CondensedMedium.ufo">
+  <source filename="AnekMalayalam-CondensedMedium.ufo" stylename="Medium Condensed" familyname="Anek Malayalam" name="CondensedMedium">
    <location>
-    <dimension name="weight" xvalue="500"/>
-    <dimension name="width" xvalue="75"/>
+    <dimension xvalue="500" name="weight"/>
+    <dimension xvalue="75" name="width"/>
    </location>
   </source>
-  <source stylename="Thin Condensed" name="CondensedThin" familyname="Anek Malayalam" filename="AnekMalayalam-CondensedThin.ufo">
+  <source filename="AnekMalayalam-CondensedThin.ufo" stylename="Thin Condensed" familyname="Anek Malayalam" name="CondensedThin">
    <location>
-    <dimension name="weight" xvalue="100"/>
-    <dimension name="width" xvalue="75"/>
+    <dimension xvalue="100" name="weight"/>
+    <dimension xvalue="75" name="width"/>
    </location>
   </source>
-  <source stylename="Extra Bold Expanded" name="ExpandedExtraBold" familyname="Anek Malayalam" filename="AnekMalayalam-ExpandedExtraBold.ufo">
+  <source filename="AnekMalayalam-ExpandedExtraBold.ufo" stylename="Extra Bold Expanded" familyname="Anek Malayalam" name="ExpandedExtraBold">
    <location>
-    <dimension name="weight" xvalue="800"/>
-    <dimension name="width" xvalue="125"/>
+    <dimension xvalue="800" name="weight"/>
+    <dimension xvalue="125" name="width"/>
    </location>
   </source>
-  <source stylename="Medium Expanded" name="ExpandedMedium" familyname="Anek Malayalam" filename="AnekMalayalam-ExpandedMedium.ufo">
+  <source filename="AnekMalayalam-ExpandedMedium.ufo" stylename="Medium Expanded" familyname="Anek Malayalam" name="ExpandedMedium">
    <location>
-    <dimension name="weight" xvalue="500"/>
-    <dimension name="width" xvalue="125"/>
+    <dimension xvalue="500" name="weight"/>
+    <dimension xvalue="125" name="width"/>
    </location>
   </source>
-  <source stylename="Thin Expanded" name="ExpandedThin" familyname="Anek Malayalam" filename="AnekMalayalam-ExpandedThin.ufo">
+  <source filename="AnekMalayalam-ExpandedThin.ufo" stylename="Thin Expanded" familyname="Anek Malayalam" name="ExpandedThin">
    <location>
-    <dimension name="weight" xvalue="100"/>
-    <dimension name="width" xvalue="125"/>
+    <dimension xvalue="100" name="weight"/>
+    <dimension xvalue="125" name="width"/>
    </location>
   </source>
-  <source stylename="Extra Bold" name="ExtraBold" familyname="Anek Malayalam" filename="AnekMalayalam-ExtraBold.ufo">
+  <source filename="AnekMalayalam-ExtraBold.ufo" stylename="Extra Bold" familyname="Anek Malayalam" name="ExtraBold">
    <location>
-    <dimension name="weight" xvalue="800"/>
-    <dimension name="width" xvalue="100"/>
+    <dimension xvalue="800" name="weight"/>
+    <dimension xvalue="100" name="width"/>
    </location>
   </source>
-  <source stylename="Medium" name="Medium" familyname="Anek Malayalam" filename="AnekMalayalam-Medium.ufo">
+  <source filename="AnekMalayalam-Medium.ufo" stylename="Medium" familyname="Anek Malayalam" name="Medium">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension name="weight" xvalue="500"/>
-    <dimension name="width" xvalue="100"/>
+    <dimension xvalue="500" name="weight"/>
+    <dimension xvalue="100" name="width"/>
    </location>
   </source>
-  <source stylename="Thin" name="Thin" familyname="Anek Malayalam" filename="AnekMalayalam-Thin.ufo">
+  <source filename="AnekMalayalam-Thin.ufo" stylename="Thin" familyname="Anek Malayalam" name="Thin">
    <location>
-    <dimension name="weight" xvalue="100"/>
-    <dimension name="width" xvalue="100"/>
+    <dimension xvalue="100" name="weight"/>
+    <dimension xvalue="100" name="width"/>
    </location>
   </source>
  </sources>
  <instances>
-  <instance stylename="Condensed Thin" name="Condensed Thin" familyname="Anek Malayalam" filename="instances/AnekMalayalam-CondensedThin.ufo">
+  <instance filename="instances/AnekMalayalam-CondensedThin.ufo" stylename="Condensed Thin" familyname="Anek Malayalam" name="Condensed Thin">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Condensed ExtraLight" name="Condensed ExtraLight" familyname="Anek Malayalam" filename="instances/AnekMalayalam-CondensedExtraLight.ufo">
+  <instance filename="instances/AnekMalayalam-CondensedExtraLight.ufo" stylename="Condensed ExtraLight" familyname="Anek Malayalam" name="Condensed ExtraLight">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="206"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Condensed Light" name="Condensed Light" familyname="Anek Malayalam" filename="instances/AnekMalayalam-CondensedLight.ufo">
+  <instance filename="instances/AnekMalayalam-CondensedLight.ufo" stylename="Condensed Light" familyname="Anek Malayalam" name="Condensed Light">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="312"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Condensed" name="Condensed" familyname="Anek Malayalam" filename="instances/AnekMalayalam-Condensed.ufo">
+  <instance filename="instances/AnekMalayalam-Condensed.ufo" stylename="Condensed" familyname="Anek Malayalam" name="Condensed">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="414"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Condensed Medium" name="Condensed Medium" familyname="Anek Malayalam" filename="instances/AnekMalayalam-CondensedMedium.ufo">
+  <instance filename="instances/AnekMalayalam-CondensedMedium.ufo" stylename="Condensed Medium" familyname="Anek Malayalam" name="Condensed Medium">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Condensed SemiBold" name="Condensed SemiBold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-CondensedSemiBold.ufo">
+  <instance filename="instances/AnekMalayalam-CondensedSemiBold.ufo" stylename="Condensed SemiBold" familyname="Anek Malayalam" name="Condensed SemiBold">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="615"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Condensed Bold" name="Condensed Bold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-CondensedBold.ufo">
+  <instance filename="instances/AnekMalayalam-CondensedBold.ufo" stylename="Condensed Bold" familyname="Anek Malayalam" name="Condensed Bold">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="709"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Condensed ExtraBold" name="Condensed ExtraBold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-CondensedExtraBold.ufo">
+  <instance filename="instances/AnekMalayalam-CondensedExtraBold.ufo" stylename="Condensed ExtraBold" familyname="Anek Malayalam" name="Condensed ExtraBold">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="800"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiCondensed Thin" name="SemiCondensed Thin" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiCondensedThin.ufo">
+  <instance filename="instances/AnekMalayalam-SemiCondensedThin.ufo" stylename="SemiCondensed Thin" familyname="Anek Malayalam" name="SemiCondensed Thin">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiCondensed ExtraLight" name="SemiCondensed ExtraLight" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiCondensedExtraLight.ufo">
+  <instance filename="instances/AnekMalayalam-SemiCondensedExtraLight.ufo" stylename="SemiCondensed ExtraLight" familyname="Anek Malayalam" name="SemiCondensed ExtraLight">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="206"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiCondensed Light" name="SemiCondensed Light" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiCondensedLight.ufo">
+  <instance filename="instances/AnekMalayalam-SemiCondensedLight.ufo" stylename="SemiCondensed Light" familyname="Anek Malayalam" name="SemiCondensed Light">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="312"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiCondensed" name="SemiCondensed" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiCondensed.ufo">
+  <instance filename="instances/AnekMalayalam-SemiCondensed.ufo" stylename="SemiCondensed" familyname="Anek Malayalam" name="SemiCondensed">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="414"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiCondensed Medium" name="SemiCondensed Medium" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiCondensedMedium.ufo">
+  <instance filename="instances/AnekMalayalam-SemiCondensedMedium.ufo" stylename="SemiCondensed Medium" familyname="Anek Malayalam" name="SemiCondensed Medium">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiCondensed SemiBold" name="SemiCondensed SemiBold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiCondensedSemiBold.ufo">
+  <instance filename="instances/AnekMalayalam-SemiCondensedSemiBold.ufo" stylename="SemiCondensed SemiBold" familyname="Anek Malayalam" name="SemiCondensed SemiBold">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="615"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiCondensed Bold" name="SemiCondensed Bold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiCondensedBold.ufo">
+  <instance filename="instances/AnekMalayalam-SemiCondensedBold.ufo" stylename="SemiCondensed Bold" familyname="Anek Malayalam" name="SemiCondensed Bold">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="709"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiCondensed ExtraBold" name="SemiCondensed ExtraBold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiCondensedExtraBold.ufo">
+  <instance filename="instances/AnekMalayalam-SemiCondensedExtraBold.ufo" stylename="SemiCondensed ExtraBold" familyname="Anek Malayalam" name="SemiCondensed ExtraBold">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="800"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Thin" name="Thin" familyname="Anek Malayalam" filename="instances/AnekMalayalam-Thin.ufo">
+  <instance filename="instances/AnekMalayalam-Thin.ufo" stylename="Thin" familyname="Anek Malayalam" name="Thin">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance stylename="ExtraLight" name="ExtraLight" familyname="Anek Malayalam" filename="instances/AnekMalayalam-ExtraLight.ufo">
+  <instance filename="instances/AnekMalayalam-ExtraLight.ufo" stylename="ExtraLight" familyname="Anek Malayalam" name="ExtraLight">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="206"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Light" name="Light" familyname="Anek Malayalam" filename="instances/AnekMalayalam-Light.ufo">
+  <instance filename="instances/AnekMalayalam-Light.ufo" stylename="Light" familyname="Anek Malayalam" name="Light">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="312"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Regular" name="Regular" familyname="Anek Malayalam" filename="instances/AnekMalayalam-Regular.ufo">
+  <instance filename="instances/AnekMalayalam-Regular.ufo" stylename="Regular" familyname="Anek Malayalam" name="Regular">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="414"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Medium" name="Medium" familyname="Anek Malayalam" filename="instances/AnekMalayalam-Medium.ufo">
+  <instance filename="instances/AnekMalayalam-Medium.ufo" stylename="Medium" familyname="Anek Malayalam" name="Medium">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiBold" name="SemiBold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiBold.ufo">
+  <instance filename="instances/AnekMalayalam-SemiBold.ufo" stylename="SemiBold" familyname="Anek Malayalam" name="SemiBold">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="615"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Bold" name="Bold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-Bold.ufo">
+  <instance filename="instances/AnekMalayalam-Bold.ufo" stylename="Bold" familyname="Anek Malayalam" name="Bold">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="709"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance stylename="ExtraBold" name="ExtraBold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-ExtraBold.ufo">
+  <instance filename="instances/AnekMalayalam-ExtraBold.ufo" stylename="ExtraBold" familyname="Anek Malayalam" name="ExtraBold">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="800"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiExpanded Thin" name="SemiExpanded Thin" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiExpandedThin.ufo">
+  <instance filename="instances/AnekMalayalam-SemiExpandedThin.ufo" stylename="SemiExpanded Thin" familyname="Anek Malayalam" name="SemiExpanded Thin">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiExpanded ExtraLight" name="SemiExpanded ExtraLight" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiExpandedExtraLight.ufo">
+  <instance filename="instances/AnekMalayalam-SemiExpandedExtraLight.ufo" stylename="SemiExpanded ExtraLight" familyname="Anek Malayalam" name="SemiExpanded ExtraLight">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="206"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiExpanded Light" name="SemiExpanded Light" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiExpandedLight.ufo">
+  <instance filename="instances/AnekMalayalam-SemiExpandedLight.ufo" stylename="SemiExpanded Light" familyname="Anek Malayalam" name="SemiExpanded Light">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="312"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiExpanded" name="SemiExpanded" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiExpanded.ufo">
+  <instance filename="instances/AnekMalayalam-SemiExpanded.ufo" stylename="SemiExpanded" familyname="Anek Malayalam" name="SemiExpanded">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="414"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiExpanded Medium" name="SemiExpanded Medium" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiExpandedMedium.ufo">
+  <instance filename="instances/AnekMalayalam-SemiExpandedMedium.ufo" stylename="SemiExpanded Medium" familyname="Anek Malayalam" name="SemiExpanded Medium">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiExpanded SemiBold" name="SemiExpanded SemiBold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiExpandedSemiBold.ufo">
+  <instance filename="instances/AnekMalayalam-SemiExpandedSemiBold.ufo" stylename="SemiExpanded SemiBold" familyname="Anek Malayalam" name="SemiExpanded SemiBold">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="615"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiExpanded Bold" name="SemiExpanded Bold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiExpandedBold.ufo">
+  <instance filename="instances/AnekMalayalam-SemiExpandedBold.ufo" stylename="SemiExpanded Bold" familyname="Anek Malayalam" name="SemiExpanded Bold">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="709"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiExpanded ExtraBold" name="SemiExpanded ExtraBold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-SemiExpandedExtraBold.ufo">
+  <instance filename="instances/AnekMalayalam-SemiExpandedExtraBold.ufo" stylename="SemiExpanded ExtraBold" familyname="Anek Malayalam" name="SemiExpanded ExtraBold">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="800"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Expanded Thin" name="Expanded Thin" familyname="Anek Malayalam" filename="instances/AnekMalayalam-ExpandedThin.ufo">
+  <instance filename="instances/AnekMalayalam-ExpandedThin.ufo" stylename="Expanded Thin" familyname="Anek Malayalam" name="Expanded Thin">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Expanded ExtraLight" name="Expanded ExtraLight" familyname="Anek Malayalam" filename="instances/AnekMalayalam-ExpandedExtraLight.ufo">
+  <instance filename="instances/AnekMalayalam-ExpandedExtraLight.ufo" stylename="Expanded ExtraLight" familyname="Anek Malayalam" name="Expanded ExtraLight">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="206"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Expanded Light" name="Expanded Light" familyname="Anek Malayalam" filename="instances/AnekMalayalam-ExpandedLight.ufo">
+  <instance filename="instances/AnekMalayalam-ExpandedLight.ufo" stylename="Expanded Light" familyname="Anek Malayalam" name="Expanded Light">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="312"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Expanded" name="Expanded" familyname="Anek Malayalam" filename="instances/AnekMalayalam-Expanded.ufo">
+  <instance filename="instances/AnekMalayalam-Expanded.ufo" stylename="Expanded" familyname="Anek Malayalam" name="Expanded">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="414"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Expanded Medium" name="Expanded Medium" familyname="Anek Malayalam" filename="instances/AnekMalayalam-ExpandedMedium.ufo">
+  <instance filename="instances/AnekMalayalam-ExpandedMedium.ufo" stylename="Expanded Medium" familyname="Anek Malayalam" name="Expanded Medium">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Expanded SemiBold" name="Expanded SemiBold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-ExpandedSemiBold.ufo">
+  <instance filename="instances/AnekMalayalam-ExpandedSemiBold.ufo" stylename="Expanded SemiBold" familyname="Anek Malayalam" name="Expanded SemiBold">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="615"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Expanded Bold" name="Expanded Bold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-ExpandedBold.ufo">
+  <instance filename="instances/AnekMalayalam-ExpandedBold.ufo" stylename="Expanded Bold" familyname="Anek Malayalam" name="Expanded Bold">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="709"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Expanded ExtraBold" name="Expanded ExtraBold" familyname="Anek Malayalam" filename="instances/AnekMalayalam-ExpandedExtraBold.ufo">
+  <instance filename="instances/AnekMalayalam-ExpandedExtraBold.ufo" stylename="Expanded ExtraBold" familyname="Anek Malayalam" name="Expanded ExtraBold">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="800"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
  </instances>
@@ -327,15 +327,15 @@
   <rule>
    <sub with="matraE1_Alt.mlm" name="matraE.mlm"/>
    <conditionset>
-    <condition name="weight" minimum="488"/>
-    <condition name="width" minimum="87"/>
+    <condition minimum="488" name="weight"/>
+    <condition minimum="87" name="width"/>
    </conditionset>
   </rule>
   <rule>
    <sub with="matraE2_Alt.mlm" name="matraE.mlm"/>
    <conditionset>
     <condition maximum="488" name="weight"/>
-    <condition name="width" minimum="87"/>
+    <condition minimum="87" name="width"/>
    </conditionset>
   </rule>
   <rule>
@@ -360,15 +360,14 @@
    <sub with="vowelU_Alt.mlm" name="vowelU.mlm"/>
    <sub with="vowelUu_Alt.mlm" name="vowelUu.mlm"/>
    <conditionset>
-    <condition name="weight" minimum="645"/>
+    <condition minimum="645" name="weight"/>
    </conditionset>
   </rule>
   <rule>
-   <!-- Latin Lighter Variants -->
    <sub with="question_alt" name="question"/>
    <conditionset>
-    <condition name="weight" maximum="450" minimum="100"/>
-    <condition name="width" maximum="125" minimum="75"/>
+    <condition maximum="410" name="weight"/>
+    <condition minimum="101" name="width"/>
    </conditionset>
   </rule>
  </rules>

@@ -2,8 +2,8 @@
 <glyph name="numero" format="2">
   <advance width="1836"/>
   <unicode hex="2116"/>
-  <anchor x="595.0952" y="0" name="bottom"/>
-  <anchor x="595.0952" y="1278" name="top"/>
+  <anchor x="595" y="0" name="bottom"/>
+  <anchor x="595" y="1278" name="top"/>
   <outline>
     <contour>
       <point x="1253" y="415" type="line"/>
@@ -43,7 +43,7 @@
       <point x="1708" y="744"/>
       <point x="1633" y="659"/>
     </contour>
-    <component base="N" xScale="1.00016"/>
+    <component base="N"/>
   </outline>
   <lib>
     <dict>

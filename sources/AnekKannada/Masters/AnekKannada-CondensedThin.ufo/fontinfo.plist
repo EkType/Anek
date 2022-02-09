@@ -28,36 +28,6 @@
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
-    <string>f.2</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1171</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>t1</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>966</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>t.1</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>763</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
     <string>b</string>
     <key>x</key>
     <integer>0</integer>
@@ -76,6 +46,26 @@
   </dict>
   <dict>
     <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f</string>
+    <key>x</key>
+    <integer>90</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>f.2</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1171</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
     <integer>0</integer>
     <key>name</key>
     <string>f2</string>
@@ -86,17 +76,27 @@
   </dict>
   <dict>
     <key>angle</key>
-    <integer>90</integer>
-    <key>name</key>
-    <string>f</string>
-    <key>x</key>
-    <integer>90</integer>
-    <key>y</key>
     <integer>0</integer>
+    <key>name</key>
+    <string>t.1</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>763</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>t1</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>966</integer>
   </dict>
   </array>
   <key>italicAngle</key>
-  <integer>0</integer>
+  <integer>-0</integer>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -129,7 +129,7 @@
   <key>openTypeNameDesignerURL</key>
   <string>www.ektype.in</string>
   <key>openTypeNameLicense</key>
-  <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL&quot;</string>
+  <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
   <key>openTypeNameLicenseURL</key>
   <string>https://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
@@ -141,7 +141,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Thin Condensed</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.002</string>
+  <string>Version 1.003</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -247,7 +247,7 @@
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>2</integer>
+  <integer>3</integer>
   <key>xHeight</key>
   <integer>990</integer>
 </dict>

@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_LaComponent.gj" format="2">
   <advance width="749"/>
-  <guideline x="1549" y="3887" angle="0"/>
-  <guideline x="988" y="1947" angle="90"/>
-  <guideline x="611" y="1339" angle="90"/>
-  <guideline x="120" y="1227" angle="90"/>
   <anchor x="585" y="-66" name="Bottom"/>
   <anchor x="574" y="1273" name="Top"/>
   <anchor x="592" y="1273" name="Top2"/>
@@ -58,24 +54,4 @@
       <point x="299" y="567" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.annotations</key>
-      <array>
-        <dict>
-          <key>position</key>
-          <array>
-            <real>57.859</real>
-            <real>822.857</real>
-          </array>
-          <key>text</key>
-          <string>Try horizonatal stem.</string>
-          <key>type</key>
-          <string>Text</string>
-          <key>width</key>
-          <integer>100</integer>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

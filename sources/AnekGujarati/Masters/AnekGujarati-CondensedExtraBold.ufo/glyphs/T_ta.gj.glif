@@ -2,16 +2,6 @@
 <glyph name="Tta.gj" format="2">
   <advance width="715"/>
   <unicode hex="0A9F"/>
-  <guideline x="3942" y="2056" angle="0"/>
-  <guideline x="4309" y="2361" angle="90"/>
-  <guideline x="3948" y="2641" angle="0"/>
-  <guideline x="3543" y="2317" angle="90"/>
-  <guideline x="1325" y="2000" angle="0"/>
-  <guideline x="2341" y="2305" angle="90"/>
-  <guideline x="1331" y="2585" angle="0"/>
-  <guideline x="2615" y="2753" angle="90"/>
-  <guideline x="2565" y="1508" angle="90"/>
-  <guideline x="444" y="149" angle="90"/>
   <anchor x="444" y="-59" name="Bottom"/>
   <anchor x="453" y="1290" name="Top"/>
   <anchor x="393" y="1290" name="Top2"/>
@@ -71,22 +61,6 @@
       <string>gujarati</string>
       <key>com.schriftgestaltung.Glyphs.subCategory</key>
       <string>Other</string>
-      <key>com.schriftgestaltung.annotations</key>
-      <array>
-        <dict>
-          <key>position</key>
-          <array>
-            <integer>313</integer>
-            <integer>1509</integer>
-          </array>
-          <key>text</key>
-          <string>Check bearings for this weight</string>
-          <key>type</key>
-          <string>Text</string>
-          <key>width</key>
-          <integer>100</integer>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

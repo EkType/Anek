@@ -1,336 +1,334 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis maximum="800" tag="wght" minimum="100" default="500" name="weight">
+  <axis minimum="100" tag="wght" default="500" name="weight" maximum="800">
    <labelname xml:lang="en">Weight</labelname>
-   <map input="100" output="100"/>
-   <map input="200" output="206"/>
-   <map input="300" output="312"/>
-   <map input="400" output="414"/>
-   <map input="500" output="500"/>
-   <map input="600" output="615"/>
-   <map input="700" output="709"/>
-   <map input="800" output="800"/>
+   <map output="100" input="100"/>
+   <map output="206" input="200"/>
+   <map output="312" input="300"/>
+   <map output="414" input="400"/>
+   <map output="500" input="500"/>
+   <map output="615" input="600"/>
+   <map output="709" input="700"/>
+   <map output="800" input="800"/>
   </axis>
-  <axis maximum="125" tag="wdth" minimum="75" default="100" name="width">
+  <axis minimum="75" tag="wdth" default="100" name="width" maximum="125">
    <labelname xml:lang="en">Width</labelname>
-   <map input="75" output="75"/>
-   <map input="87.5" output="87.5"/>
-   <map input="100" output="100"/>
-   <map input="112.5" output="112.5"/>
-   <map input="125" output="125"/>
+   <map output="75" input="75"/>
+   <map output="87.5" input="87.5"/>
+   <map output="100" input="100"/>
+   <map output="112.5" input="112.5"/>
+   <map output="125" input="125"/>
   </axis>
  </axes>
  <sources>
-  <source familyname="Anek Devanagari" name="CondensedExtraBold" filename="AnekDevanagari-CondensedExtraBold.ufo" stylename="Extra Bold Condensed">
+  <source filename="AnekDevanagari-CondensedExtraBold.ufo" name="CondensedExtraBold" stylename="Extra Bold Condensed" familyname="Anek Devanagari">
    <location>
-    <dimension name="weight" xvalue="800"/>
-    <dimension name="width" xvalue="75"/>
+    <dimension xvalue="800" name="weight"/>
+    <dimension xvalue="75" name="width"/>
    </location>
   </source>
-  <source familyname="Anek Devanagari" name="CondensedMedium" filename="AnekDevanagari-CondensedMedium.ufo" stylename="Medium Condensed">
+  <source filename="AnekDevanagari-CondensedMedium.ufo" name="CondensedMedium" stylename="Medium Condensed" familyname="Anek Devanagari">
    <location>
-    <dimension name="weight" xvalue="500"/>
-    <dimension name="width" xvalue="75"/>
+    <dimension xvalue="500" name="weight"/>
+    <dimension xvalue="75" name="width"/>
    </location>
   </source>
-  <source familyname="Anek Devanagari" name="CondensedThin" filename="AnekDevanagari-CondensedThin.ufo" stylename="Thin Condensed">
+  <source filename="AnekDevanagari-CondensedThin.ufo" name="CondensedThin" stylename="Thin Condensed" familyname="Anek Devanagari">
    <location>
-    <dimension name="weight" xvalue="100"/>
-    <dimension name="width" xvalue="75"/>
+    <dimension xvalue="100" name="weight"/>
+    <dimension xvalue="75" name="width"/>
    </location>
   </source>
-  <source familyname="Anek Devanagari" name="ExpandedExtraBold" filename="AnekDevanagari-ExpandedExtraBold.ufo" stylename="Extra Bold Expanded">
+  <source filename="AnekDevanagari-ExpandedExtraBold.ufo" name="ExpandedExtraBold" stylename="Extra Bold Expanded" familyname="Anek Devanagari">
    <location>
-    <dimension name="weight" xvalue="800"/>
-    <dimension name="width" xvalue="125"/>
+    <dimension xvalue="800" name="weight"/>
+    <dimension xvalue="125" name="width"/>
    </location>
   </source>
-  <source familyname="Anek Devanagari" name="ExpandedMedium" filename="AnekDevanagari-ExpandedMedium.ufo" stylename="Medium Expanded">
+  <source filename="AnekDevanagari-ExpandedMedium.ufo" name="ExpandedMedium" stylename="Medium Expanded" familyname="Anek Devanagari">
    <location>
-    <dimension name="weight" xvalue="500"/>
-    <dimension name="width" xvalue="125"/>
+    <dimension xvalue="500" name="weight"/>
+    <dimension xvalue="125" name="width"/>
    </location>
   </source>
-  <source familyname="Anek Devanagari" name="ExpandedThin" filename="AnekDevanagari-ExpandedThin.ufo" stylename="Thin Expanded">
+  <source filename="AnekDevanagari-ExpandedThin.ufo" name="ExpandedThin" stylename="Thin Expanded" familyname="Anek Devanagari">
    <location>
-    <dimension name="weight" xvalue="100"/>
-    <dimension name="width" xvalue="125"/>
+    <dimension xvalue="100" name="weight"/>
+    <dimension xvalue="125" name="width"/>
    </location>
   </source>
-  <source familyname="Anek Devanagari" name="ExtraBold" filename="AnekDevanagari-ExtraBold.ufo" stylename="Extra Bold">
+  <source filename="AnekDevanagari-ExtraBold.ufo" name="ExtraBold" stylename="Extra Bold" familyname="Anek Devanagari">
    <location>
-    <dimension name="weight" xvalue="800"/>
-    <dimension name="width" xvalue="100"/>
+    <dimension xvalue="800" name="weight"/>
+    <dimension xvalue="100" name="width"/>
    </location>
   </source>
-  <source familyname="Anek Devanagari" name="Medium" filename="AnekDevanagari-Medium.ufo" stylename="Medium">
+  <source filename="AnekDevanagari-Medium.ufo" name="Medium" stylename="Medium" familyname="Anek Devanagari">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension name="weight" xvalue="500"/>
-    <dimension name="width" xvalue="100"/>
+    <dimension xvalue="500" name="weight"/>
+    <dimension xvalue="100" name="width"/>
    </location>
   </source>
-  <source familyname="Anek Devanagari" name="Thin" filename="AnekDevanagari-Thin.ufo" stylename="Thin">
+  <source filename="AnekDevanagari-Thin.ufo" name="Thin" stylename="Thin" familyname="Anek Devanagari">
    <location>
-    <dimension name="weight" xvalue="100"/>
-    <dimension name="width" xvalue="100"/>
+    <dimension xvalue="100" name="weight"/>
+    <dimension xvalue="100" name="width"/>
    </location>
   </source>
  </sources>
  <instances>
-  <instance familyname="Anek Devanagari" name="Condensed Thin" filename="instances/AnekDevanagari-CondensedThin.ufo" stylename="Condensed Thin">
+  <instance filename="instances/AnekDevanagari-CondensedThin.ufo" name="Condensed Thin" stylename="Condensed Thin" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Condensed ExtraLight" filename="instances/AnekDevanagari-CondensedExtraLight.ufo" stylename="Condensed ExtraLight">
+  <instance filename="instances/AnekDevanagari-CondensedExtraLight.ufo" name="Condensed ExtraLight" stylename="Condensed ExtraLight" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="206"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Condensed Light" filename="instances/AnekDevanagari-CondensedLight.ufo" stylename="Condensed Light">
+  <instance filename="instances/AnekDevanagari-CondensedLight.ufo" name="Condensed Light" stylename="Condensed Light" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="312"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Condensed" filename="instances/AnekDevanagari-Condensed.ufo" stylename="Condensed">
+  <instance filename="instances/AnekDevanagari-Condensed.ufo" name="Condensed" stylename="Condensed" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="414"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Condensed Medium" filename="instances/AnekDevanagari-CondensedMedium.ufo" stylename="Condensed Medium">
+  <instance filename="instances/AnekDevanagari-CondensedMedium.ufo" name="Condensed Medium" stylename="Condensed Medium" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Condensed SemiBold" filename="instances/AnekDevanagari-CondensedSemiBold.ufo" stylename="Condensed SemiBold">
+  <instance filename="instances/AnekDevanagari-CondensedSemiBold.ufo" name="Condensed SemiBold" stylename="Condensed SemiBold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="615"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Condensed Bold" filename="instances/AnekDevanagari-CondensedBold.ufo" stylename="Condensed Bold">
+  <instance filename="instances/AnekDevanagari-CondensedBold.ufo" name="Condensed Bold" stylename="Condensed Bold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="709"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Condensed ExtraBold" filename="instances/AnekDevanagari-CondensedExtraBold.ufo" stylename="Condensed ExtraBold">
+  <instance filename="instances/AnekDevanagari-CondensedExtraBold.ufo" name="Condensed ExtraBold" stylename="Condensed ExtraBold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="75"/>
-    <dimension name="weight" xvalue="800"/>
+    <dimension xvalue="75" name="width"/>
+    <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiCondensed Thin" filename="instances/AnekDevanagari-SemiCondensedThin.ufo" stylename="SemiCondensed Thin">
+  <instance filename="instances/AnekDevanagari-SemiCondensedThin.ufo" name="SemiCondensed Thin" stylename="SemiCondensed Thin" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiCondensed ExtraLight" filename="instances/AnekDevanagari-SemiCondensedExtraLight.ufo" stylename="SemiCondensed ExtraLight">
+  <instance filename="instances/AnekDevanagari-SemiCondensedExtraLight.ufo" name="SemiCondensed ExtraLight" stylename="SemiCondensed ExtraLight" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="206"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiCondensed Light" filename="instances/AnekDevanagari-SemiCondensedLight.ufo" stylename="SemiCondensed Light">
+  <instance filename="instances/AnekDevanagari-SemiCondensedLight.ufo" name="SemiCondensed Light" stylename="SemiCondensed Light" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="312"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiCondensed" filename="instances/AnekDevanagari-SemiCondensed.ufo" stylename="SemiCondensed">
+  <instance filename="instances/AnekDevanagari-SemiCondensed.ufo" name="SemiCondensed" stylename="SemiCondensed" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="414"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiCondensed Medium" filename="instances/AnekDevanagari-SemiCondensedMedium.ufo" stylename="SemiCondensed Medium">
+  <instance filename="instances/AnekDevanagari-SemiCondensedMedium.ufo" name="SemiCondensed Medium" stylename="SemiCondensed Medium" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiCondensed SemiBold" filename="instances/AnekDevanagari-SemiCondensedSemiBold.ufo" stylename="SemiCondensed SemiBold">
+  <instance filename="instances/AnekDevanagari-SemiCondensedSemiBold.ufo" name="SemiCondensed SemiBold" stylename="SemiCondensed SemiBold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="615"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiCondensed Bold" filename="instances/AnekDevanagari-SemiCondensedBold.ufo" stylename="SemiCondensed Bold">
+  <instance filename="instances/AnekDevanagari-SemiCondensedBold.ufo" name="SemiCondensed Bold" stylename="SemiCondensed Bold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="709"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiCondensed ExtraBold" filename="instances/AnekDevanagari-SemiCondensedExtraBold.ufo" stylename="SemiCondensed ExtraBold">
+  <instance filename="instances/AnekDevanagari-SemiCondensedExtraBold.ufo" name="SemiCondensed ExtraBold" stylename="SemiCondensed ExtraBold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="87.5"/>
-    <dimension name="weight" xvalue="800"/>
+    <dimension xvalue="87.5" name="width"/>
+    <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Thin" filename="instances/AnekDevanagari-Thin.ufo" stylename="Thin">
+  <instance filename="instances/AnekDevanagari-Thin.ufo" name="Thin" stylename="Thin" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="ExtraLight" filename="instances/AnekDevanagari-ExtraLight.ufo" stylename="ExtraLight">
+  <instance filename="instances/AnekDevanagari-ExtraLight.ufo" name="ExtraLight" stylename="ExtraLight" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="206"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Light" filename="instances/AnekDevanagari-Light.ufo" stylename="Light">
+  <instance filename="instances/AnekDevanagari-Light.ufo" name="Light" stylename="Light" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="312"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Regular" filename="instances/AnekDevanagari-Regular.ufo" stylename="Regular">
+  <instance filename="instances/AnekDevanagari-Regular.ufo" name="Regular" stylename="Regular" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="414"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Medium" filename="instances/AnekDevanagari-Medium.ufo" stylename="Medium">
+  <instance filename="instances/AnekDevanagari-Medium.ufo" name="Medium" stylename="Medium" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiBold" filename="instances/AnekDevanagari-SemiBold.ufo" stylename="SemiBold">
+  <instance filename="instances/AnekDevanagari-SemiBold.ufo" name="SemiBold" stylename="SemiBold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="615"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Bold" filename="instances/AnekDevanagari-Bold.ufo" stylename="Bold">
+  <instance filename="instances/AnekDevanagari-Bold.ufo" name="Bold" stylename="Bold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="709"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="ExtraBold" filename="instances/AnekDevanagari-ExtraBold.ufo" stylename="ExtraBold">
+  <instance filename="instances/AnekDevanagari-ExtraBold.ufo" name="ExtraBold" stylename="ExtraBold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="100"/>
-    <dimension name="weight" xvalue="800"/>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiExpanded Thin" filename="instances/AnekDevanagari-SemiExpandedThin.ufo" stylename="SemiExpanded Thin">
+  <instance filename="instances/AnekDevanagari-SemiExpandedThin.ufo" name="SemiExpanded Thin" stylename="SemiExpanded Thin" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiExpanded ExtraLight" filename="instances/AnekDevanagari-SemiExpandedExtraLight.ufo" stylename="SemiExpanded ExtraLight">
+  <instance filename="instances/AnekDevanagari-SemiExpandedExtraLight.ufo" name="SemiExpanded ExtraLight" stylename="SemiExpanded ExtraLight" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="206"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiExpanded Light" filename="instances/AnekDevanagari-SemiExpandedLight.ufo" stylename="SemiExpanded Light">
+  <instance filename="instances/AnekDevanagari-SemiExpandedLight.ufo" name="SemiExpanded Light" stylename="SemiExpanded Light" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="312"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiExpanded" filename="instances/AnekDevanagari-SemiExpanded.ufo" stylename="SemiExpanded">
+  <instance filename="instances/AnekDevanagari-SemiExpanded.ufo" name="SemiExpanded" stylename="SemiExpanded" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="414"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiExpanded Medium" filename="instances/AnekDevanagari-SemiExpandedMedium.ufo" stylename="SemiExpanded Medium">
+  <instance filename="instances/AnekDevanagari-SemiExpandedMedium.ufo" name="SemiExpanded Medium" stylename="SemiExpanded Medium" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiExpanded SemiBold" filename="instances/AnekDevanagari-SemiExpandedSemiBold.ufo" stylename="SemiExpanded SemiBold">
+  <instance filename="instances/AnekDevanagari-SemiExpandedSemiBold.ufo" name="SemiExpanded SemiBold" stylename="SemiExpanded SemiBold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="615"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiExpanded Bold" filename="instances/AnekDevanagari-SemiExpandedBold.ufo" stylename="SemiExpanded Bold">
+  <instance filename="instances/AnekDevanagari-SemiExpandedBold.ufo" name="SemiExpanded Bold" stylename="SemiExpanded Bold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="709"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="SemiExpanded ExtraBold" filename="instances/AnekDevanagari-SemiExpandedExtraBold.ufo" stylename="SemiExpanded ExtraBold">
+  <instance filename="instances/AnekDevanagari-SemiExpandedExtraBold.ufo" name="SemiExpanded ExtraBold" stylename="SemiExpanded ExtraBold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="112.5"/>
-    <dimension name="weight" xvalue="800"/>
+    <dimension xvalue="112.5" name="width"/>
+    <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Expanded Thin" filename="instances/AnekDevanagari-ExpandedThin.ufo" stylename="Expanded Thin">
+  <instance filename="instances/AnekDevanagari-ExpandedThin.ufo" name="Expanded Thin" stylename="Expanded Thin" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Expanded ExtraLight" filename="instances/AnekDevanagari-ExpandedExtraLight.ufo" stylename="Expanded ExtraLight">
+  <instance filename="instances/AnekDevanagari-ExpandedExtraLight.ufo" name="Expanded ExtraLight" stylename="Expanded ExtraLight" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="206"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="206" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Expanded Light" filename="instances/AnekDevanagari-ExpandedLight.ufo" stylename="Expanded Light">
+  <instance filename="instances/AnekDevanagari-ExpandedLight.ufo" name="Expanded Light" stylename="Expanded Light" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="312"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="312" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Expanded" filename="instances/AnekDevanagari-Expanded.ufo" stylename="Expanded">
+  <instance filename="instances/AnekDevanagari-Expanded.ufo" name="Expanded" stylename="Expanded" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="414"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="414" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Expanded Medium" filename="instances/AnekDevanagari-ExpandedMedium.ufo" stylename="Expanded Medium">
+  <instance filename="instances/AnekDevanagari-ExpandedMedium.ufo" name="Expanded Medium" stylename="Expanded Medium" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Expanded SemiBold" filename="instances/AnekDevanagari-ExpandedSemiBold.ufo" stylename="Expanded SemiBold">
+  <instance filename="instances/AnekDevanagari-ExpandedSemiBold.ufo" name="Expanded SemiBold" stylename="Expanded SemiBold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="615"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="615" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Expanded Bold" filename="instances/AnekDevanagari-ExpandedBold.ufo" stylename="Expanded Bold">
+  <instance filename="instances/AnekDevanagari-ExpandedBold.ufo" name="Expanded Bold" stylename="Expanded Bold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="709"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="709" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Anek Devanagari" name="Expanded ExtraBold" filename="instances/AnekDevanagari-ExpandedExtraBold.ufo" stylename="Expanded ExtraBold">
+  <instance filename="instances/AnekDevanagari-ExpandedExtraBold.ufo" name="Expanded ExtraBold" stylename="Expanded ExtraBold" familyname="Anek Devanagari">
    <location>
-    <dimension name="width" xvalue="125"/>
-    <dimension name="weight" xvalue="800"/>
+    <dimension xvalue="125" name="width"/>
+    <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
  </instances>
  <rules>
   <rule>
-   <!-- Latin Lighter Variants -->
    <sub with="question_alt" name="question"/>
    <conditionset>
-    <condition name="weight" maximum="450" minimum="100"/>
-    <condition name="width" maximum="125" minimum="75"/>
+    <condition maximum="450" name="weight"/>
    </conditionset>
   </rule>
-  </rules>
+ </rules>
 </designspace>
