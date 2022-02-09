@@ -21,7 +21,7 @@ Anek is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/O
 The font files can be downloaded from the [releases page.](https://github.com/EkType/Anek/releases)
 
 ### Building the font from source
-Seven scripts have been designed in Glyphs and three scripts have been designed in Fontlab 7. Since there are two types of source files, we use UFO's and a unified build script to build our fonts. This build script (`build.sh`) is provided in the `sources` folder. Download the sources, and use this script to build the fonts.  
+Seven scripts have been designed in Glyphs and three scripts have been designed in Fontlab 7. Since there are two types of source files, we use UFO's and a unified build script to build our fonts. This build script (`build.sh`) is provided in the `sources` folder. Download the sources, and use this script to build the fonts from within the repo’s root folder.  
 > `fontmake` and `gftools` are required for building the fonts from UFO's. 
 
 If you need to re-generate the UFO's or study the source files; the Glyphs and Fontlab source files are available in the sources folder under the respective script directories.
