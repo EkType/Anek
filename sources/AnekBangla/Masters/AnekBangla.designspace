@@ -621,4 +621,27 @@
       </array>
     </dict>
   </lib>
+  <rules>
+  <rule>
+   <!-- Bangla Width Variation -->
+   <sub with="VowelLru_Alt.bn" name="VowelLru.bn"/>
+   <sub with="VowelLruu_Alt.bn" name="VowelLruu.bn"/>
+   <sub with="SignLru_Alt.bn" name="SignLru.bn"/>
+   <sub with="SignLruu_Alt.bn" name="SignLruu.bn"/>
+   <sub with="Nine_Alt.bn" name="Nine.bn"/>
+   <conditionset>
+     <condition name="Weight" maximum="800" minimum="100"/>
+     <condition name="Width" maximum="125" minimum="100"/>
+   </conditionset>
+  </rule>
+  <rule>
+   <!-- Latin Lighter Variants -->
+   <sub with="question_alt" name="question"/>
+   <conditionset>
+    <condition name="Weight" maximum="450" minimum="100"/>
+    <condition name="Width" maximum="125" minimum="75"/>
+   </conditionset>
+  </rule>
+  </rules>
 </designspace>
+ 
