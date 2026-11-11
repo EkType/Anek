@@ -13,14 +13,6 @@
     </axis>
     <axis tag="wdth" name="Width" minimum="75" maximum="125" default="100"/>
   </axes>
-  <rules>
-    <rule name="BRACKET.700.800">
-      <conditionset>
-        <condition name="Weight" minimum="700" maximum="800"/>
-      </conditionset>
-      <sub name="One.tm" with="One.tm.BRACKET.700"/>
-    </rule>
-  </rules>
   <sources>
     <source filename="AnekTamil-CondensedThin.ufo" name="Anek Tamil Condensed Thin" familyname="Anek Tamil" stylename="Condensed Thin">
       <location>
@@ -494,6 +486,12 @@
     </dict>
   </lib>
   <rules>
+  <rule name="BRACKET.700.800">
+   <conditionset>
+    <condition name="Weight" minimum="700" maximum="800"/>
+   </conditionset>
+   <sub name="One.tm" with="One.tm.BRACKET.700"/>
+  </rule>
   <rule>
    <sub with="MatraIDflt_dummy.tm" name="MatraIDflt.tm"/>
    <sub with="MatraIiDflt_SimpleIi.tm" name="MatraIiDflt.tm"/>
